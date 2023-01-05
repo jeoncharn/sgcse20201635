@@ -1,0 +1,1352 @@
+CREATE TABLE `project`.`customer` (
+  `customer_id` CHAR(5) NOT NULL,
+  `name` VARCHAR(18) NULL,
+  `age` INT NULL,
+  `address` VARCHAR(18) NULL,
+  `number` VARCHAR(18) NULL,
+  `card_number` VARCHAR(18) NULL,
+  PRIMARY KEY (`customer_id`));
+
+CREATE TABLE `project`.`purchase` (
+  `sales_id` CHAR(5) NOT NULL,
+  `customer_id` CHAR(5) NULL,
+  PRIMARY KEY (`sales_id`));
+
+CREATE TABLE `project`.`sales` (
+  `sales_id` CHAR(5) NOT NULL,
+  `date_year` CHAR(4) NULL,
+  `date_month` CHAR(2) NULL,
+  `date_day` CHAR(2) NULL,
+  `date_time` CHAR(5) NULL,
+  `total_cost` FLOAT NULL,
+  PRIMARY KEY (`sales_id`));
+
+CREATE TABLE `project`.`product` (
+  `product_id` CHAR(5) NOT NULL,
+  `name` VARCHAR(18) NULL,
+  `type` VARCHAR(18) NULL,
+  `manufacturer` VARCHAR(18) NULL,
+  `price` FLOAT NULL,
+  PRIMARY KEY (`product_id`));
+
+CREATE TABLE `project`.`package` (
+  `product_id` CHAR(5) NOT NULL,
+  `contain_product_id` CHAR(5) NOT NULL,
+  `quantity` INT NULL,
+  PRIMARY KEY (`product_id`, `contain_product_id`));
+
+CREATE TABLE `project`.`contract_customer` (
+  `customer_id` CHAR(5) NOT NULL,
+  `account_number` VARCHAR(18) NULL,
+  `cost_sum` FLOAT NULL,
+  PRIMARY KEY (`customer_id`));
+CREATE TABLE `project`.`shipping` (
+  `shipping_id` CHAR(5) NOT NULL,
+  `shipper_id` CHAR(5) NULL,
+  `sales_id` CHAR(5) NULL,
+  `destination` VARCHAR(18) NULL,
+  `location` VARCHAR(18) NULL,
+  `promised_time` VARCHAR(18) NULL,
+  PRIMARY KEY (`shipping_id`));
+
+CREATE TABLE `project`.`shipper` (
+  `shipper_id` CHAR(5) NOT NULL,
+  `company_name` VARCHAR(18) NULL,
+  `address` VARCHAR(18) NULL,
+  PRIMARY KEY (`shipper_id`));
+
+CREATE TABLE `project`.`sales_product` (
+  `sales_id` CHAR(5) NOT NULL,
+  `product_id` CHAR(5) NOT NULL,
+  `qunatity` INT NULL,
+  PRIMARY KEY (`sales_id`, `product_id`));
+
+CREATE TABLE `project`.`manufacturer` (
+  `manufacturer_name` VARCHAR(18) NOT NULL,
+  `address` VARCHAR(18) NULL,
+  PRIMARY KEY (`manufacturer_name`));
+
+CREATE TABLE `project`.`warehouse_product` (
+  `warehouse_id` CHAR(5) NOT NULL,
+  `product_id` CHAR(5) NULL,
+  `quantity` INT NULL,
+  PRIMARY KEY (`warehouse_id`));
+
+CREATE TABLE `project`.`store` (
+  `store_id` CHAR(5) NOT NULL,
+  `address` VARCHAR(18) NULL,
+  PRIMARY KEY (`store_id`));
+
+CREATE TABLE `project`.`warehouse` (
+  `warehouse_id` CHAR(5) NOT NULL,
+  `address` VARCHAR(18) NULL,
+  PRIMARY KEY (`warehouse_id`));
+
+CREATE TABLE `project`.`store_product` (
+  `store_id` CHAR(5) NOT NULL,
+  `product_id` CHAR(5) NOT NULL,
+  `quantity` INT NULL,
+  PRIMARY KEY (`store_id`, `product_id`));
+
+CREATE TABLE `project`.`offline_sales` (
+  `sales_id` CHAR(5) NOT NULL,
+  `store_id` CHAR(5) NULL,
+  PRIMARY KEY (`sales_id`));
+
+INSERT INTO customer VALUES ('10001', 'James', 15, 'Cali 253', '010-4635-5318', '15321');
+
+INSERT INTO customer VALUES ('10002', 'Mary', 21, 'Cali 222', '010-7754-2529', '14362');
+
+INSERT INTO customer VALUES ('10003', 'John', 35, 'Cali 245', '010-7116-5928', '');
+
+INSERT INTO customer VALUES ('10004', 'Linda', 40, 'Texas 387', '', '33510');
+
+INSERT INTO customer VALUES ('10005', 'Robert', 18, 'Texas 234', '', '');
+
+INSERT INTO customer VALUES ('10006', 'Susan', 61, 'Texas 337', '', '');
+
+INSERT INTO customer VALUES ('10007', 'David', 30, 'NY 503', '010-7153-3497', '35215');
+
+INSERT INTO customer VALUES ('10008', 'Sarah', 35, 'NY 433', '010-4435-8752', '44570');
+
+INSERT INTO customer VALUES ('10009', 'James', 21, 'NY 302', '', '');
+
+INSERT INTO customer VALUES ('10010', 'Mary', 23, 'NY 42', '', '');
+
+INSERT INTO customer VALUES ('10011', 'John', 40, 'OH 3', '010-5453-6821', '21352');
+
+INSERT INTO customer VALUES ('10012', 'Linda', 53, 'OH 125', '010-2761-3591', '73579');
+
+INSERT INTO customer VALUES ('10013', 'Robert', 65, 'OH 304', '010-3909-3590', '');
+
+INSERT INTO customer VALUES ('10014', 'Susan', 22, 'Seoul 1', '', '49590');
+
+INSERT INTO customer VALUES ('10015', 'David', 23, 'Seoul 15', '', '');
+
+INSERT INTO product VALUES ('10001', 'iphone13','phone', 'apple', 999.99);
+
+INSERT INTO product VALUES ('10002', 'iphone12', 'phone', 'apple', 899.99);
+
+INSERT INTO product VALUES ('10003', 'iphone11', 'phone', 'apple', 799.99);
+
+INSERT INTO product VALUES ('10004', 'galaxy13', 'phone', 'samsung', 959.99);
+
+INSERT INTO product VALUES ('10005', 'galaxy12', 'phone', 'samsung', 859.99);
+
+INSERT INTO product VALUES ('10006', 'galaxy11', 'phone', 'samsung', 800.99);
+
+INSERT INTO product VALUES ('10007', 'rtx2060', 'GPU', 'nvidia', 300);
+
+INSERT INTO product VALUES ('10008', 'rtx2070', 'GPU', 'nvidia', 360);
+
+INSERT INTO product VALUES ('10009', 'rtx2080', 'GPU', 'nvidia', 400);
+
+INSERT INTO product VALUES ('10010', 'i5', 'CPU', 'intel', 300);
+
+INSERT INTO product VALUES ('10011', 'i7', 'CPU', 'intel', 400.4);
+
+INSERT INTO product VALUES ('10012', 'i9', 'CPU', 'intel', 500.5);
+
+INSERT INTO product VALUES ('10013', 'gooseneck mike', 'mike', 'pillar', 45.5);
+
+INSERT INTO product VALUES ('10014', 'red board', 'keyboard', 'LG', 30.9);
+
+INSERT INTO product VALUES ('10015', 'blue board', 'keyboard', 'LG', 35.8);
+
+INSERT INTO product VALUES ('10016', 'camping lamp', 'lamp', 'starbucks', 15.5);
+
+INSERT INTO product VALUES ('10017', '24monitor', 'monitor', 'LG', 250.99);
+
+INSERT INTO product VALUES ('10018', '27monitor', 'monitor', 'LG', 300.99);
+
+INSERT INTO product VALUES ('10019', '32monitor', 'monitor', 'LG', 400);
+
+INSERT INTO product VALUES ('10020', 'ipad', 'tablet', 'apple', 832.99);
+
+INSERT INTO sales VALUES ('10001', '2022', '05', '13', '11:59', 32652.58);
+
+INSERT INTO sales VALUES ('10002', '2019', '08', '19', '12:13', 43285.2);
+
+INSERT INTO sales VALUES ('10003', '2019', '07', '24', '16:30', 33380.77);
+
+INSERT INTO sales VALUES ('10004', '2020', '01', '04, '09:50', 37082.78);
+
+INSERT INTO sales VALUES ('10005', '2020', '06', '23', '10:31', 32278.84);
+
+INSERT INTO sales VALUES ('10006', '2020', '05', '17', '15:16', 40460.37);
+
+INSERT INTO sales VALUES ('10007', '2022', '11', '06', '09:59', 28633.93);
+
+INSERT INTO sales VALUES ('10008', '2021', '05', '03', '16:13', 34025.85);
+
+INSERT INTO sales VALUES ('10009', '2020', '09', '06', '17:11', 33695.38);
+
+INSERT INTO sales VALUES ('10010', '2022', '09', '27', '18:30', 31190.92);
+
+INSERT INTO sales VALUES ('10011', '2021', '07', '18', '19:20', 40307.64);
+
+INSERT INTO sales VALUES ('10012', '2020', '03', '25', '11:30', 27325.76);
+
+INSERT INTO sales VALUES ('10013', '2020', '05', '07', '12:45', 33898.12);
+
+INSERT INTO sales VALUES ('10014', '2022', '12', '21', '13:12', 27903.21);
+
+INSERT INTO sales VALUES ('10015', '2020', '02', '16', '14:41', 38418.3);
+
+INSERT INTO sales VALUES ('10016', '2019', '07', '30', '13:31', 33760.69);
+
+INSERT INTO sales VALUES ('10017', '2022', '10', '13', '14:41', 40660.3);
+
+INSERT INTO sales VALUES ('10018', '2021', '05', '05', '15:55', 30356.85);
+
+INSERT INTO sales VALUES ('10019', '2022', '10', '25', '16:31', 39713.84);
+
+INSERT INTO sales VALUES ('10020', '2022', '03', '15', '17:13', 39067.94);
+
+INSERT INTO sales_product VALUES ('10001', '10002', 2);
+
+INSERT INTO sales_product VALUES ('10001', '10004', 1);
+
+INSERT INTO sales_product VALUES ('10001', '10005', 1);
+
+INSERT INTO sales_product VALUES ('10001', '10006', 2);
+
+INSERT INTO sales_product VALUES ('10001', '10008', 2);
+
+INSERT INTO sales_product VALUES ('10001', '10010', 1);
+
+INSERT INTO sales_product VALUES ('10001', '10013', 1);
+
+INSERT INTO sales_product VALUES ('10001', '10015', 2);
+
+INSERT INTO sales_product VALUES ('10001', '10016', 1);
+
+INSERT INTO sales_product VALUES ('10001', '10017', 2);
+
+INSERT INTO sales_product VALUES ('10001', '10018', 1);
+
+INSERT INTO sales_product VALUES ('10001', '10020', 1);
+
+INSERT INTO sales_product VALUES ('10002', '10001', 1);
+
+INSERT INTO sales_product VALUES ('10002', '10002', 2);
+
+INSERT INTO sales_product VALUES ('10002', '10003', 2);
+
+INSERT INTO sales_product VALUES ('10002', '10004', 2);
+
+INSERT INTO sales_product VALUES ('10002', '10005', 2);
+
+INSERT INTO sales_product VALUES ('10002', '10006', 2);
+
+INSERT INTO sales_product VALUES ('10002', '10008', 2);
+
+INSERT INTO sales_product VALUES ('10002', '10009', 2);
+
+INSERT INTO sales_product VALUES ('10002', '10010', 2);
+
+INSERT INTO sales_product VALUES ('10002', '10012', 2);
+
+INSERT INTO sales_product VALUES ('10002', '10014', 1);
+
+INSERT INTO sales_product VALUES ('10002', '10015', 1);
+
+INSERT INTO sales_product VALUES ('10002', '10016', 2);
+
+INSERT INTO sales_product VALUES ('10002', '10017', 1);
+
+INSERT INTO sales_product VALUES ('10002', '10018', 2);
+
+INSERT INTO sales_product VALUES ('10002', '10020', 2);
+
+INSERT INTO sales_product VALUES ('10003', '10002', 2);
+
+INSERT INTO sales_product VALUES ('10003', '10003', 2);
+
+INSERT INTO sales_product VALUES ('10003', '10004', 2);
+
+INSERT INTO sales_product VALUES ('10003', '10006', 2);
+
+INSERT INTO sales_product VALUES ('10003', '10007', 1);
+
+INSERT INTO sales_product VALUES ('10003', '10008', 2);
+
+INSERT INTO sales_product VALUES ('10003', '10010', 2);
+
+INSERT INTO sales_product VALUES ('10003', '10012', 1);
+
+INSERT INTO sales_product VALUES ('10003', '10014', 1);
+
+INSERT INTO sales_product VALUES ('10003', '10015', 2);
+
+INSERT INTO sales_product VALUES ('10003', '10016', 1);
+
+INSERT INTO sales_product VALUES ('10003', '10017', 2);
+
+INSERT INTO sales_product VALUES ('10003', '10018', 2);
+
+INSERT INTO sales_product VALUES ('10003', '10019', 1);
+
+INSERT INTO sales_product VALUES ('10003', '10020', 1);
+
+INSERT INTO sales_product VALUES ('10004', '10001', 1);
+
+INSERT INTO sales_product VALUES ('10004', '10002', 2);
+
+INSERT INTO sales_product VALUES ('10004', '10004', 2);
+
+INSERT INTO sales_product VALUES ('10004', '10007', 1);
+
+INSERT INTO sales_product VALUES ('10004', '10008', 1);
+
+INSERT INTO sales_product VALUES ('10004', '10009', 2);
+
+INSERT INTO sales_product VALUES ('10004', '10010', 2);
+
+INSERT INTO sales_product VALUES ('10004', '10011', 1);
+
+INSERT INTO sales_product VALUES ('10004', '10013', 2);
+
+INSERT INTO sales_product VALUES ('10004', '10015', 2);
+
+INSERT INTO sales_product VALUES ('10004', '10017', 2);
+
+INSERT INTO sales_product VALUES ('10004', '10018', 2);
+
+INSERT INTO sales_product VALUES ('10004', '10019', 1);
+
+INSERT INTO sales_product VALUES ('10004', '10020', 1);
+
+INSERT INTO sales_product VALUES ('10005', '10002', 1);
+
+INSERT INTO sales_product VALUES ('10005', '10003', 1);
+
+INSERT INTO sales_product VALUES ('10005', '10004', 1);
+
+INSERT INTO sales_product VALUES ('10005', '10005', 1);
+
+INSERT INTO sales_product VALUES ('10005', '10007', 1);
+
+INSERT INTO sales_product VALUES ('10005', '10008', 2);
+
+INSERT INTO sales_product VALUES ('10005', '10010', 1);
+
+INSERT INTO sales_product VALUES ('10005', '10012', 2);
+
+INSERT INTO sales_product VALUES ('10005', '10013', 1);
+
+INSERT INTO sales_product VALUES ('10005', '10014', 1);
+
+INSERT INTO sales_product VALUES ('10005', '10016', 1);
+
+INSERT INTO sales_product VALUES ('10005', '10017', 1);
+
+INSERT INTO sales_product VALUES ('10005', '10020', 2);
+
+INSERT INTO sales_product VALUES ('10006', '10002', 2);
+
+INSERT INTO sales_product VALUES ('10006', '10004', 1);
+
+INSERT INTO sales_product VALUES ('10006', '10007', 1);
+
+INSERT INTO sales_product VALUES ('10006', '10008', 2);
+
+INSERT INTO sales_product VALUES ('10006', '10009', 2);
+
+INSERT INTO sales_product VALUES ('10006', '10010', 1);
+
+INSERT INTO sales_product VALUES ('10006', '10011', 1);
+
+INSERT INTO sales_product VALUES ('10006', '10012', 2);
+
+INSERT INTO sales_product VALUES ('10006', '10013', 1);
+
+INSERT INTO sales_product VALUES ('10006', '10014', 2);
+
+INSERT INTO sales_product VALUES ('10006', '10015', 2);
+
+INSERT INTO sales_product VALUES ('10006', '10017', 2);
+
+INSERT INTO sales_product VALUES ('10006', '10018', 1);
+
+INSERT INTO sales_product VALUES ('10006', '10020', 1);
+
+INSERT INTO sales_product VALUES ('10007', '10001', 1);
+
+INSERT INTO sales_product VALUES ('10007', '10004', 1);
+
+INSERT INTO sales_product VALUES ('10007', '10005', 2);
+
+INSERT INTO sales_product VALUES ('10007', '10006', 2);
+
+INSERT INTO sales_product VALUES ('10007', '10007', 1);
+
+INSERT INTO sales_product VALUES ('10007', '10008', 2);
+
+INSERT INTO sales_product VALUES ('10007', '10009', 2);
+
+INSERT INTO sales_product VALUES ('10007', '10012', 2);
+
+INSERT INTO sales_product VALUES ('10007', '10015', 2);
+
+INSERT INTO sales_product VALUES ('10007', '10016', 1);
+
+INSERT INTO sales_product VALUES ('10007', '10017', 2);
+
+INSERT INTO sales_product VALUES ('10007', '10018', 1);
+
+INSERT INTO sales_product VALUES ('10007', '10019', 2);
+
+INSERT INTO sales_product VALUES ('10007', '10020', 1);
+
+INSERT INTO sales_product VALUES ('10008', '10001', 2);
+
+INSERT INTO sales_product VALUES ('10008', '10002', 1);
+
+INSERT INTO sales_product VALUES ('10008', '10003', 1);
+
+INSERT INTO sales_product VALUES ('10008', '10004', 1);
+
+INSERT INTO sales_product VALUES ('10008', '10005', 2);
+
+INSERT INTO sales_product VALUES ('10008', '10006', 1);
+
+INSERT INTO sales_product VALUES ('10008', '10007', 1);
+
+INSERT INTO sales_product VALUES ('10008', '10008', 1);
+
+INSERT INTO sales_product VALUES ('10008', '10009', 1);
+
+INSERT INTO sales_product VALUES ('10008', '10010', 2);
+
+INSERT INTO sales_product VALUES ('10008', '10011', 2);
+
+INSERT INTO sales_product VALUES ('10008', '10012', 1);
+
+INSERT INTO sales_product VALUES ('10008', '10014', 1);
+
+INSERT INTO sales_product VALUES ('10008', '10016', 1);
+
+INSERT INTO sales_product VALUES ('10008', '10017', 2);
+
+INSERT INTO sales_product VALUES ('10008', '10018', 2);
+
+INSERT INTO sales_product VALUES ('10008', '10019', 1);
+
+INSERT INTO sales_product VALUES ('10008', '10020', 1);
+
+INSERT INTO sales_product VALUES ('10009', '10003', 2);
+
+INSERT INTO sales_product VALUES ('10009', '10004', 1);
+
+INSERT INTO sales_product VALUES ('10009', '10005', 1);
+
+INSERT INTO sales_product VALUES ('10009', '10006', 1);
+
+INSERT INTO sales_product VALUES ('10009', '10008', 2);
+
+INSERT INTO sales_product VALUES ('10009', '10009', 2);
+
+INSERT INTO sales_product VALUES ('10009', '10010', 2);
+
+INSERT INTO sales_product VALUES ('10009', '10011', 1);
+
+INSERT INTO sales_product VALUES ('10009', '10012', 2);
+
+INSERT INTO sales_product VALUES ('10009', '10014', 1);
+
+INSERT INTO sales_product VALUES ('10009', '10017', 2);
+
+INSERT INTO sales_product VALUES ('10009', '10018', 1);
+
+INSERT INTO sales_product VALUES ('10009', '10020', 1);
+
+INSERT INTO sales_product VALUES ('10010', '10001', 1);
+
+INSERT INTO sales_product VALUES ('10010', '10002', 2);
+
+INSERT INTO sales_product VALUES ('10010', '10004', 1);
+
+INSERT INTO sales_product VALUES ('10010', '10005', 1);
+
+INSERT INTO sales_product VALUES ('10010', '10007', 1);
+
+INSERT INTO sales_product VALUES ('10010', '10009', 2);
+
+INSERT INTO sales_product VALUES ('10010', '10010', 2);
+
+INSERT INTO sales_product VALUES ('10010', '10013', 1);
+
+INSERT INTO sales_product VALUES ('10010', '10014', 2);
+
+INSERT INTO sales_product VALUES ('10010', '10015', 2);
+
+INSERT INTO sales_product VALUES ('10010', '10017', 2);
+
+INSERT INTO sales_product VALUES ('10010', '10020', 1);
+
+INSERT INTO sales_product VALUES ('10011', '10001', 1);
+
+INSERT INTO sales_product VALUES ('10011', '10002', 2);
+
+INSERT INTO sales_product VALUES ('10011', '10004', 1);
+
+INSERT INTO sales_product VALUES ('10011', '10005', 2);
+
+INSERT INTO sales_product VALUES ('10011', '10006', 2);
+
+INSERT INTO sales_product VALUES ('10011', '10008', 1);
+
+INSERT INTO sales_product VALUES ('10011', '10009', 2);
+
+INSERT INTO sales_product VALUES ('10011', '10010', 2);
+
+INSERT INTO sales_product VALUES ('10011', '10011', 1);
+
+INSERT INTO sales_product VALUES ('10011', '10012', 2);
+
+INSERT INTO sales_product VALUES ('10011', '10013', 1);
+
+INSERT INTO sales_product VALUES ('10011', '10015', 1);
+
+INSERT INTO sales_product VALUES ('10011', '10018', 1);
+
+INSERT INTO sales_product VALUES ('10011', '10019', 2);
+
+INSERT INTO sales_product VALUES ('10012', '10001', 2);
+
+INSERT INTO sales_product VALUES ('10012', '10002', 2);
+
+INSERT INTO sales_product VALUES ('10012', '10004', 1);
+
+INSERT INTO sales_product VALUES ('10012', '10006', 2);
+
+INSERT INTO sales_product VALUES ('10012', '10007', 1);
+
+INSERT INTO sales_product VALUES ('10012', '10010', 2);
+
+INSERT INTO sales_product VALUES ('10012', '10011', 1);
+
+INSERT INTO sales_product VALUES ('10012', '10013', 1);
+
+INSERT INTO sales_product VALUES ('10012', '10014', 2);
+
+INSERT INTO sales_product VALUES ('10012', '10015', 2);
+
+INSERT INTO sales_product VALUES ('10012', '10016', 1);
+
+INSERT INTO sales_product VALUES ('10012', '10019', 2);
+
+INSERT INTO sales_product VALUES ('10013', '10002', 2);
+
+INSERT INTO sales_product VALUES ('10013', '10003', 1);
+
+INSERT INTO sales_product VALUES ('10013', '10005', 1);
+
+INSERT INTO sales_product VALUES ('10013', '10008', 1);
+
+INSERT INTO sales_product VALUES ('10013', '10009', 2);
+
+INSERT INTO sales_product VALUES ('10013', '10010', 2);
+
+INSERT INTO sales_product VALUES ('10013', '10011', 2);
+
+INSERT INTO sales_product VALUES ('10013', '10012', 1);
+
+INSERT INTO sales_product VALUES ('10013', '10014', 2);
+
+INSERT INTO sales_product VALUES ('10013', '10017', 1);
+
+INSERT INTO sales_product VALUES ('10013', '10019', 1);
+
+INSERT INTO sales_product VALUES ('10013', '10020', 2);
+
+INSERT INTO sales_product VALUES ('10014', '10002', 1);
+
+INSERT INTO sales_product VALUES ('10014', '10004', 1);
+
+INSERT INTO sales_product VALUES ('10014', '10005', 2);
+
+INSERT INTO sales_product VALUES ('10014', '10007', 1);
+
+INSERT INTO sales_product VALUES ('10014', '10010', 1);
+
+INSERT INTO sales_product VALUES ('10014', '10011', 2);
+
+INSERT INTO sales_product VALUES ('10014', '10014', 1);
+
+INSERT INTO sales_product VALUES ('10014', '10015', 2);
+
+INSERT INTO sales_product VALUES ('10014', '10016', 2);
+
+INSERT INTO sales_product VALUES ('10014', '10017', 2);
+
+INSERT INTO sales_product VALUES ('10014', '10018', 2);
+
+INSERT INTO sales_product VALUES ('10015', '10001', 2);
+
+INSERT INTO sales_product VALUES ('10015', '10002', 1);
+
+INSERT INTO sales_product VALUES ('10015', '10003', 1);
+
+INSERT INTO sales_product VALUES ('10015', '10004', 1);
+
+INSERT INTO sales_product VALUES ('10015', '10005', 1);
+
+INSERT INTO sales_product VALUES ('10015', '10008', 1);
+
+INSERT INTO sales_product VALUES ('10015', '10009', 2);
+
+INSERT INTO sales_product VALUES ('10015', '10010', 1);
+
+INSERT INTO sales_product VALUES ('10015', '10012', 1);
+
+INSERT INTO sales_product VALUES ('10015', '10013', 1);
+
+INSERT INTO sales_product VALUES ('10015', '10014', 1);
+
+INSERT INTO sales_product VALUES ('10015', '10015', 2);
+
+INSERT INTO sales_product VALUES ('10015', '10016', 1);
+
+INSERT INTO sales_product VALUES ('10015', '10017', 2);
+
+INSERT INTO sales_product VALUES ('10015', '10019', 1);
+
+INSERT INTO sales_product VALUES ('10015', '10020', 2);
+
+INSERT INTO sales_product VALUES ('10016', '10002', 1);
+
+INSERT INTO sales_product VALUES ('10016', '10004', 2);
+
+INSERT INTO sales_product VALUES ('10016', '10005', 1);
+
+INSERT INTO sales_product VALUES ('10016', '10008', 1);
+
+INSERT INTO sales_product VALUES ('10016', '10009', 2);
+
+INSERT INTO sales_product VALUES ('10016', '10012', 1);
+
+INSERT INTO sales_product VALUES ('10016', '10013', 2);
+
+INSERT INTO sales_product VALUES ('10016', '10014', 1);
+
+INSERT INTO sales_product VALUES ('10016', '10017', 2);
+
+INSERT INTO sales_product VALUES ('10016', '10018', 1);
+
+INSERT INTO sales_product VALUES ('10016', '10019', 2);
+
+INSERT INTO sales_product VALUES ('10016', '10020', 1);
+
+INSERT INTO sales_product VALUES ('10017', '10002', 2);
+
+INSERT INTO sales_product VALUES ('10017', '10003', 1);
+
+INSERT INTO sales_product VALUES ('10017', '10004', 1);
+
+INSERT INTO sales_product VALUES ('10017', '10005', 2);
+
+INSERT INTO sales_product VALUES ('10017', '10006', 1);
+
+INSERT INTO sales_product VALUES ('10017', '10007', 1);
+
+INSERT INTO sales_product VALUES ('10017', '10008', 1);
+
+INSERT INTO sales_product VALUES ('10017', '10009', 1);
+
+INSERT INTO sales_product VALUES ('10017', '10010', 1);
+
+INSERT INTO sales_product VALUES ('10017', '10011', 1);
+
+INSERT INTO sales_product VALUES ('10017', '10012', 1);
+
+INSERT INTO sales_product VALUES ('10017', '10013', 1);
+
+INSERT INTO sales_product VALUES ('10017', '10014', 2);
+
+INSERT INTO sales_product VALUES ('10017', '10015', 2);
+
+INSERT INTO sales_product VALUES ('10017', '10016', 2);
+
+INSERT INTO sales_product VALUES ('10017', '10017', 1);
+
+INSERT INTO sales_product VALUES ('10017', '10018', 1);
+
+INSERT INTO sales_product VALUES ('10017', '10019', 2);
+
+INSERT INTO sales_product VALUES ('10018', '10001', 1);
+
+INSERT INTO sales_product VALUES ('10018', '10003', 1);
+
+INSERT INTO sales_product VALUES ('10018', '10005', 1);
+
+INSERT INTO sales_product VALUES ('10018', '10007', 2);
+
+INSERT INTO sales_product VALUES ('10018', '10010', 2);
+
+INSERT INTO sales_product VALUES ('10018', '10011', 2);
+
+INSERT INTO sales_product VALUES ('10018', '10012', 2);
+
+INSERT INTO sales_product VALUES ('10018', '10015', 1);
+
+INSERT INTO sales_product VALUES ('10018', '10018', 1);
+
+INSERT INTO sales_product VALUES ('10018', '10019', 1);
+
+INSERT INTO sales_product VALUES ('10018', '10020', 1);
+
+INSERT INTO sales_product VALUES ('10019', '10001', 2);
+
+INSERT INTO sales_product VALUES ('10019', '10002', 2);
+
+INSERT INTO sales_product VALUES ('10019', '10003', 1);
+
+INSERT INTO sales_product VALUES ('10019', '10004', 2);
+
+INSERT INTO sales_product VALUES ('10019', '10005', 1);
+
+INSERT INTO sales_product VALUES ('10019', '10007', 2);
+
+INSERT INTO sales_product VALUES ('10019', '10008', 1);
+
+INSERT INTO sales_product VALUES ('10019', '10009', 1);
+
+INSERT INTO sales_product VALUES ('10019', '10010', 2);
+
+INSERT INTO sales_product VALUES ('10019', '10011', 2);
+
+INSERT INTO sales_product VALUES ('10019', '10014', 2);
+
+INSERT INTO sales_product VALUES ('10019', '10015', 1);
+
+INSERT INTO sales_product VALUES ('10019', '10019', 1);
+
+INSERT INTO sales_product VALUES ('10019', '10020', 2);
+
+INSERT INTO sales_product VALUES ('10020', '10002', 2);
+
+INSERT INTO sales_product VALUES ('10020', '10003', 1);
+
+INSERT INTO sales_product VALUES ('10020', '10005', 2);
+
+INSERT INTO sales_product VALUES ('10020', '10006', 1);
+
+INSERT INTO sales_product VALUES ('10020', '10008', 1);
+
+INSERT INTO sales_product VALUES ('10020', '10009', 2);
+
+INSERT INTO sales_product VALUES ('10020', '10011', 2);
+
+INSERT INTO sales_product VALUES ('10020', '10012', 2);
+
+INSERT INTO sales_product VALUES ('10020', '10013', 2);
+
+INSERT INTO sales_product VALUES ('10020', '10015', 2);
+
+INSERT INTO sales_product VALUES ('10020', '10016', 1);
+
+INSERT INTO sales_product VALUES ('10020', '10017', 1);
+
+INSERT INTO sales_product VALUES ('10020', '10018', 2);
+
+INSERT INTO sales_product VALUES ('10020', '10019', 2);
+
+INSERT INTO sales_product VALUES ('10020', '10020', 2);
+
+INSERT INTO purchase VALUES ('10001', '10003');
+
+INSERT INTO purchase VALUES ('10002', '10004');
+
+INSERT INTO purchase VALUES ('10003', '10007');
+
+INSERT INTO purchase VALUES ('10004', '10015');
+
+INSERT INTO purchase VALUES ('10005', '10002');
+
+INSERT INTO purchase VALUES ('10006', '10003');
+
+INSERT INTO purchase VALUES ('10007', '10001');
+
+INSERT INTO purchase VALUES ('10008', '10005');
+
+INSERT INTO purchase VALUES ('10009', '10006');
+
+INSERT INTO purchase VALUES ('10010', '10008');
+
+INSERT INTO offline_sales VALUES ('10011', '10009');
+
+INSERT INTO offline_sales VALUES ('10012', '10010');
+
+INSERT INTO offline_sales VALUES ('10013', '10011');
+
+INSERT INTO offline_sales VALUES ('10014', '10013');
+
+INSERT INTO offline_sales VALUES ('10015', '10012');
+
+INSERT INTO offline_sales VALUES ('10016', '10014');
+
+INSERT INTO offline_sales VALUES ('10017', '10005');
+
+INSERT INTO offline_sales VALUES ('10018', '10002');
+
+INSERT INTO offline_sales VALUES ('10019', '10001');
+
+INSERT INTO offline_sales VALUES ('10020', '10011');
+
+INSERT INTO store VALUES ('10001', 'Cali 1');
+
+INSERT INTO store VALUES ('10002', 'Cali 2');
+
+INSERT INTO store VALUES ('10003', 'NY 1');
+
+INSERT INTO store VALUES ('10004', 'NY 2');
+
+INSERT INTO store VALUES ('10005', 'OH');
+
+INSERT INTO store VALUES ('10006', 'Seoul');
+
+INSERT INTO warehouse VALUES ('10001', 'Cali');
+
+INSERT INTO warehouse VALUES ('10002', 'NY');
+
+INSERT INTO warehouse VALUES ('10003', 'OH');
+
+INSERT INTO warehouse VALUES ('10004', 'Seoul');
+
+INSERT INTO store_product VALUES ('10001', '10001', 54);
+
+INSERT INTO store_product VALUES ('10001', '10002', 50);
+
+INSERT INTO store_product VALUES ('10001', '10003', 95);
+
+INSERT INTO store_product VALUES ('10001', '10004', 53);
+
+INSERT INTO store_product VALUES ('10001', '10005', 77);
+
+INSERT INTO store_product VALUES ('10001', '10006', 63);
+
+INSERT INTO store_product VALUES ('10001', '10007', 30);
+
+INSERT INTO store_product VALUES ('10001', '10008', 72);
+
+INSERT INTO store_product VALUES ('10001', '10009', 44);
+
+INSERT INTO store_product VALUES ('10001', '10010', 15);
+
+INSERT INTO store_product VALUES ('10001', '10011', 68);
+
+INSERT INTO store_product VALUES ('10001', '10012', 89);
+
+INSERT INTO store_product VALUES ('10001', '10013', 15);
+
+INSERT INTO store_product VALUES ('10001', '10014', 19);
+
+INSERT INTO store_product VALUES ('10001', '10015', 32);
+
+INSERT INTO store_product VALUES ('10001', '10016', 66);
+
+INSERT INTO store_product VALUES ('10001', '10017', 64);
+
+INSERT INTO store_product VALUES ('10001', '10018', 21);
+
+INSERT INTO store_product VALUES ('10001', '10019', 78);
+
+INSERT INTO store_product VALUES ('10001', '10020', 41);
+
+INSERT INTO store_product VALUES ('10002', '10001', 30);
+
+INSERT INTO store_product VALUES ('10002', '10002', 95);
+
+INSERT INTO store_product VALUES ('10002', '10003', 59);
+
+INSERT INTO store_product VALUES ('10002', '10004', 93);
+
+INSERT INTO store_product VALUES ('10002', '10005', 13);
+
+INSERT INTO store_product VALUES ('10002', '10006', 53);
+
+INSERT INTO store_product VALUES ('10002', '10007', 17);
+
+INSERT INTO store_product VALUES ('10002', '10008', 21);
+
+INSERT INTO store_product VALUES ('10002', '10009', 49);
+
+INSERT INTO store_product VALUES ('10002', '10010', 86);
+
+INSERT INTO store_product VALUES ('10002', '10011', 41);
+
+INSERT INTO store_product VALUES ('10002', '10012', 15);
+
+INSERT INTO store_product VALUES ('10002', '10013', 14);
+
+INSERT INTO store_product VALUES ('10002', '10014', 11);
+
+INSERT INTO store_product VALUES ('10002', '10015', 65);
+
+INSERT INTO store_product VALUES ('10002', '10016', 73);
+
+INSERT INTO store_product VALUES ('10002', '10017', 71);
+
+INSERT INTO store_product VALUES ('10002', '10018', 17);
+
+INSERT INTO store_product VALUES ('10002', '10019', 38);
+
+INSERT INTO store_product VALUES ('10002', '10020', 69);
+
+INSERT INTO store_product VALUES ('10003', '10001', 20);
+
+INSERT INTO store_product VALUES ('10003', '10002', 57);
+
+INSERT INTO store_product VALUES ('10003', '10003', 57);
+
+INSERT INTO store_product VALUES ('10003', '10004', 91);
+
+INSERT INTO store_product VALUES ('10003', '10005', 39);
+
+INSERT INTO store_product VALUES ('10003', '10006', 65);
+
+INSERT INTO store_product VALUES ('10003', '10007', 34);
+
+INSERT INTO store_product VALUES ('10003', '10008', 19);
+
+INSERT INTO store_product VALUES ('10003', '10009', 23);
+
+INSERT INTO store_product VALUES ('10003', '10010', 97);
+
+INSERT INTO store_product VALUES ('10003', '10011', 33);
+
+INSERT INTO store_product VALUES ('10003', '10012', 90);
+
+INSERT INTO store_product VALUES ('10003', '10013', 36);
+
+INSERT INTO store_product VALUES ('10003', '10014', 39);
+
+INSERT INTO store_product VALUES ('10003', '10015', 44);
+
+INSERT INTO store_product VALUES ('10003', '10016', 62);
+
+INSERT INTO store_product VALUES ('10003', '10017', 100);
+
+INSERT INTO store_product VALUES ('10003', '10018', 16);
+
+INSERT INTO store_product VALUES ('10003', '10019', 57);
+
+INSERT INTO store_product VALUES ('10003', '10020', 61);
+
+INSERT INTO store_product VALUES ('10004', '10001', 15);
+
+INSERT INTO store_product VALUES ('10004', '10002', 84);
+
+INSERT INTO store_product VALUES ('10004', '10003', 62);
+
+INSERT INTO store_product VALUES ('10004', '10004', 30);
+
+INSERT INTO store_product VALUES ('10004', '10005', 48);
+
+INSERT INTO store_product VALUES ('10004', '10006', 32);
+
+INSERT INTO store_product VALUES ('10004', '10007', 11);
+
+INSERT INTO store_product VALUES ('10004', '10008', 61);
+
+INSERT INTO store_product VALUES ('10004', '10009', 37);
+
+INSERT INTO store_product VALUES ('10004', '10010', 43);
+
+INSERT INTO store_product VALUES ('10004', '10011', 63);
+
+INSERT INTO store_product VALUES ('10004', '10012', 30);
+
+INSERT INTO store_product VALUES ('10004', '10013', 72);
+
+INSERT INTO store_product VALUES ('10004', '10014', 44);
+
+INSERT INTO store_product VALUES ('10004', '10015', 63);
+
+INSERT INTO store_product VALUES ('10004', '10016', 64);
+
+INSERT INTO store_product VALUES ('10004', '10017', 62);
+
+INSERT INTO store_product VALUES ('10004', '10018', 63);
+
+INSERT INTO store_product VALUES ('10004', '10019', 32);
+
+INSERT INTO store_product VALUES ('10004', '10020', 46);
+
+INSERT INTO store_product VALUES ('10005', '10001', 41);
+
+INSERT INTO store_product VALUES ('10005', '10002', 32);
+
+INSERT INTO store_product VALUES ('10005', '10003', 52);
+
+INSERT INTO store_product VALUES ('10005', '10004', 40);
+
+INSERT INTO store_product VALUES ('10005', '10005', 23);
+
+INSERT INTO store_product VALUES ('10005', '10006', 66);
+
+INSERT INTO store_product VALUES ('10005', '10007', 56);
+
+INSERT INTO store_product VALUES ('10005', '10008', 81);
+
+INSERT INTO store_product VALUES ('10005', '10009', 11);
+
+INSERT INTO store_product VALUES ('10005', '10010', 13);
+
+INSERT INTO store_product VALUES ('10005', '10011', 37);
+
+INSERT INTO store_product VALUES ('10005', '10012', 31);
+
+INSERT INTO store_product VALUES ('10005', '10013', 35);
+
+INSERT INTO store_product VALUES ('10005', '10014', 77);
+
+INSERT INTO store_product VALUES ('10005', '10015', 81);
+
+INSERT INTO store_product VALUES ('10005', '10016', 94);
+
+INSERT INTO store_product VALUES ('10005', '10017', 59);
+
+INSERT INTO store_product VALUES ('10005', '10018', 94);
+
+INSERT INTO store_product VALUES ('10005', '10019', 54);
+
+INSERT INTO store_product VALUES ('10005', '10020', 43);
+
+INSERT INTO store_product VALUES ('10006', '10001', 25);
+
+INSERT INTO store_product VALUES ('10006', '10002', 33);
+
+INSERT INTO store_product VALUES ('10006', '10003', 70);
+
+INSERT INTO store_product VALUES ('10006', '10004', 48);
+
+INSERT INTO store_product VALUES ('10006', '10005', 17);
+
+INSERT INTO store_product VALUES ('10006', '10006', 40);
+
+INSERT INTO store_product VALUES ('10006', '10007', 44);
+
+INSERT INTO store_product VALUES ('10006', '10008', 91);
+
+INSERT INTO store_product VALUES ('10006', '10009', 88);
+
+INSERT INTO store_product VALUES ('10006', '10010', 34);
+
+INSERT INTO store_product VALUES ('10006', '10011', 24);
+
+INSERT INTO store_product VALUES ('10006', '10012', 38);
+
+INSERT INTO store_product VALUES ('10006', '10013', 41);
+
+INSERT INTO store_product VALUES ('10006', '10014', 20);
+
+INSERT INTO store_product VALUES ('10006', '10015', 88);
+
+INSERT INTO store_product VALUES ('10006', '10016', 52);
+
+INSERT INTO store_product VALUES ('10006', '10017', 77);
+
+INSERT INTO store_product VALUES ('10006', '10018', 70);
+
+INSERT INTO store_product VALUES ('10006', '10019', 18);
+
+INSERT INTO store_product VALUES ('10006', '10020', 100);
+
+INSERT INTO warehouse_product VALUES ('10001', '10001', 271);
+
+INSERT INTO warehouse_product VALUES ('10001', '10002', 938);
+
+INSERT INTO warehouse_product VALUES ('10001', '10003', 326);
+
+INSERT INTO warehouse_product VALUES ('10001', '10004', 784);
+
+INSERT INTO warehouse_product VALUES ('10001', '10005', 726);
+
+INSERT INTO warehouse_product VALUES ('10001', '10006', 547);
+
+INSERT INTO warehouse_product VALUES ('10001', '10007', 535);
+
+INSERT INTO warehouse_product VALUES ('10001', '10008', 798);
+
+INSERT INTO warehouse_product VALUES ('10001', '10009', 754);
+
+INSERT INTO warehouse_product VALUES ('10001', '10010', 842);
+
+INSERT INTO warehouse_product VALUES ('10001', '10011', 446);
+
+INSERT INTO warehouse_product VALUES ('10001', '10012', 225);
+
+INSERT INTO warehouse_product VALUES ('10001', '10013', 463);
+
+INSERT INTO warehouse_product VALUES ('10001', '10014', 285);
+
+INSERT INTO warehouse_product VALUES ('10001', '10015', 915);
+
+INSERT INTO warehouse_product VALUES ('10001', '10016', 273);
+
+INSERT INTO warehouse_product VALUES ('10001', '10017', 445);
+
+INSERT INTO warehouse_product VALUES ('10001', '10018', 517);
+
+INSERT INTO warehouse_product VALUES ('10001', '10019', 693);
+
+INSERT INTO warehouse_product VALUES ('10001', '10020', 701);
+
+INSERT INTO warehouse_product VALUES ('10002', '10001', 467);
+
+INSERT INTO warehouse_product VALUES ('10002', '10002', 998);
+
+INSERT INTO warehouse_product VALUES ('10002', '10003', 176);
+
+INSERT INTO warehouse_product VALUES ('10002', '10004', 415);
+
+INSERT INTO warehouse_product VALUES ('10002', '10005', 887);
+
+INSERT INTO warehouse_product VALUES ('10002', '10006', 446);
+
+INSERT INTO warehouse_product VALUES ('10002', '10007', 369);
+
+INSERT INTO warehouse_product VALUES ('10002', '10008', 443);
+
+INSERT INTO warehouse_product VALUES ('10002', '10009', 224);
+
+INSERT INTO warehouse_product VALUES ('10002', '10010', 520);
+
+INSERT INTO warehouse_product VALUES ('10002', '10011', 962);
+
+INSERT INTO warehouse_product VALUES ('10002', '10012', 719);
+
+INSERT INTO warehouse_product VALUES ('10002', '10013', 385);
+
+INSERT INTO warehouse_product VALUES ('10002', '10014', 985);
+
+INSERT INTO warehouse_product VALUES ('10002', '10015', 229);
+
+INSERT INTO warehouse_product VALUES ('10002', '10016', 685);
+
+INSERT INTO warehouse_product VALUES ('10002', '10017', 781);
+
+INSERT INTO warehouse_product VALUES ('10002', '10018', 917);
+
+INSERT INTO warehouse_product VALUES ('10002', '10019', 896);
+
+INSERT INTO warehouse_product VALUES ('10002', '10020', 288);
+
+INSERT INTO warehouse_product VALUES ('10003', '10001', 244);
+
+INSERT INTO warehouse_product VALUES ('10003', '10002', 725);
+
+INSERT INTO warehouse_product VALUES ('10003', '10003', 549);
+
+INSERT INTO warehouse_product VALUES ('10003', '10004', 447);
+
+INSERT INTO warehouse_product VALUES ('10003', '10005', 410);
+
+INSERT INTO warehouse_product VALUES ('10003', '10006', 211);
+
+INSERT INTO warehouse_product VALUES ('10003', '10007', 216);
+
+INSERT INTO warehouse_product VALUES ('10003', '10008', 450);
+
+INSERT INTO warehouse_product VALUES ('10003', '10009', 446);
+
+INSERT INTO warehouse_product VALUES ('10003', '10010', 576);
+
+INSERT INTO warehouse_product VALUES ('10003', '10011', 985);
+
+INSERT INTO warehouse_product VALUES ('10003', '10012', 503);
+
+INSERT INTO warehouse_product VALUES ('10003', '10013', 416);
+
+INSERT INTO warehouse_product VALUES ('10003', '10014', 890);
+
+INSERT INTO warehouse_product VALUES ('10003', '10015', 665);
+
+INSERT INTO warehouse_product VALUES ('10003', '10016', 432);
+
+INSERT INTO warehouse_product VALUES ('10003', '10017', 986);
+
+INSERT INTO warehouse_product VALUES ('10003', '10018', 174);
+
+INSERT INTO warehouse_product VALUES ('10003', '10019', 457);
+
+INSERT INTO warehouse_product VALUES ('10003', '10020', 763);
+
+INSERT INTO warehouse_product VALUES ('10004', '10001', 788);
+
+INSERT INTO warehouse_product VALUES ('10004', '10002', 534);
+
+INSERT INTO warehouse_product VALUES ('10004', '10003', 516);
+
+INSERT INTO warehouse_product VALUES ('10004', '10004', 700);
+
+INSERT INTO warehouse_product VALUES ('10004', '10005', 965);
+
+INSERT INTO warehouse_product VALUES ('10004', '10006', 604);
+
+INSERT INTO warehouse_product VALUES ('10004', '10007', 369);
+
+INSERT INTO warehouse_product VALUES ('10004', '10008', 991);
+
+INSERT INTO warehouse_product VALUES ('10004', '10009', 542);
+
+INSERT INTO warehouse_product VALUES ('10004', '10010', 490);
+
+INSERT INTO warehouse_product VALUES ('10004', '10011', 997);
+
+INSERT INTO warehouse_product VALUES ('10004', '10012', 312);
+
+INSERT INTO warehouse_product VALUES ('10004', '10013', 796);
+
+INSERT INTO warehouse_product VALUES ('10004', '10014', 839);
+
+INSERT INTO warehouse_product VALUES ('10004', '10015', 342);
+
+INSERT INTO warehouse_product VALUES ('10004', '10016', 125);
+
+INSERT INTO warehouse_product VALUES ('10004', '10017', 428);
+
+INSERT INTO warehouse_product VALUES ('10004', '10018', 822);
+
+INSERT INTO warehouse_product VALUES ('10004', '10019', 951);
+
+INSERT INTO warehouse_product VALUES ('10004', '10020', 237);
+
+INSERT INTO warehouse_product VALUES ('10005', '10001', 606);
+
+INSERT INTO warehouse_product VALUES ('10005', '10002', 211);
+
+INSERT INTO warehouse_product VALUES ('10005', '10003', 845);
+
+INSERT INTO warehouse_product VALUES ('10005', '10004', 193);
+
+INSERT INTO warehouse_product VALUES ('10005', '10005', 777);
+
+INSERT INTO warehouse_product VALUES ('10005', '10006', 198);
+
+INSERT INTO warehouse_product VALUES ('10005', '10007', 125);
+
+INSERT INTO warehouse_product VALUES ('10005', '10008', 519);
+
+INSERT INTO warehouse_product VALUES ('10005', '10009', 184);
+
+INSERT INTO warehouse_product VALUES ('10005', '10010', 501);
+
+INSERT INTO warehouse_product VALUES ('10005', '10011', 434);
+
+INSERT INTO warehouse_product VALUES ('10005', '10012', 940);
+
+INSERT INTO warehouse_product VALUES ('10005', '10013', 763);
+
+INSERT INTO warehouse_product VALUES ('10005', '10014', 252);
+
+INSERT INTO warehouse_product VALUES ('10005', '10015', 835);
+
+INSERT INTO warehouse_product VALUES ('10005', '10016', 586);
+
+INSERT INTO warehouse_product VALUES ('10005', '10017', 226);
+
+INSERT INTO warehouse_product VALUES ('10005', '10018', 449);
+
+INSERT INTO warehouse_product VALUES ('10005', '10019', 597);
+
+INSERT INTO warehouse_product VALUES ('10005', '10020', 735);
+
+INSERT INTO warehouse_product VALUES ('10006', '10001', 969);
+
+INSERT INTO warehouse_product VALUES ('10006', '10002', 971);
+
+INSERT INTO warehouse_product VALUES ('10006', '10003', 759);
+
+INSERT INTO warehouse_product VALUES ('10006', '10004', 306);
+
+INSERT INTO warehouse_product VALUES ('10006', '10005', 599);
+
+INSERT INTO warehouse_product VALUES ('10006', '10006', 667);
+
+INSERT INTO warehouse_product VALUES ('10006', '10007', 645);
+
+INSERT INTO warehouse_product VALUES ('10006', '10008', 704);
+
+INSERT INTO warehouse_product VALUES ('10006', '10009', 739);
+
+INSERT INTO warehouse_product VALUES ('10006', '10010', 130);
+
+INSERT INTO warehouse_product VALUES ('10006', '10011', 665);
+
+INSERT INTO warehouse_product VALUES ('10006', '10012', 975);
+
+INSERT INTO warehouse_product VALUES ('10006', '10013', 179);
+
+INSERT INTO warehouse_product VALUES ('10006', '10014', 223);
+
+INSERT INTO warehouse_product VALUES ('10006', '10015', 893);
+
+INSERT INTO warehouse_product VALUES ('10006', '10016', 671);
+
+INSERT INTO warehouse_product VALUES ('10006', '10017', 490);
+
+INSERT INTO warehouse_product VALUES ('10006', '10018', 849);
+
+INSERT INTO warehouse_product VALUES ('10006', '10019', 285);
+
+INSERT INTO warehouse_product VALUES ('10006', '10020', 765);
+
+DELETE FROM customer;
+
+DELETE FROM purchase;
+
+DELETE FROM sales;
+
+DELETE FROM product;
+
+DELETE FROM package;
+
+DELETE FROM contract_customer;
+
+DELETE FROM shipper;
+
+DELETE FROM sales_product;
+
+DELETE FROM manufacturer;
+
+DELETE FROM warehouse_product;
+
+DROP TABLE store;
+
+DROP TABLE warehouse;
+
+DROP TABLE store_product;
+
+DROP TABLE offline_sales;
+
+DROP TABLE customer;
+
+DROP TABLE purchase;
+
+DROP TABLE sales;
+
+DROP TABLE product;
+
+DROP TABLE package;
+
+DROP TABLE contract_customer;
+
+DROP TABLE shipper;
+
+DROP TABLE sales_product;
+
+DROP TABLE manufacturer;
+
+DROP TABLE warehouse_product;
+
+DROP TABLE store;
+
+DROP TABLE warehouse;
+
+DROP TABLE store_product;
+
+DROP TABLE offline_sales;

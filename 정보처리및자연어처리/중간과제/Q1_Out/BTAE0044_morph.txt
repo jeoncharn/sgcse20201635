@@ -1,0 +1,8682 @@
+1991/SN + //SP + 01/SN + //SP + 15/SN
+03/SN
+예상/NNG + 되/XSV + 는/ETM
+충격/NNG + 과/JC
+파장/NNG
+//SP
+페만/NNP
+위기/NNG + :/SP + 3/SN
+반/XPN + 이라크/NNP
+전선/NNG
+향방/NNG
+따르/VV + 아/EC
+세계/NNG
+질서/NNG
+변동/NNG
+//SP
+미국/NNP + -/SS + 시리아/NNP + ·/SP + 이라크/NNP + -/SS + 이란/NNP
+새롭/VA + ㄴ/ETM
+친구/NNG + 로/JKB
+//SP
+미/NNP + ,/SP
+후세인/NNP
+지도력/NNG
+흠집/NNG + 내/VV + ㄹ/ETM
+중동/NNP
+안보/NNG
+기구/NNG
+추진/NNG
+가능/NNG + 성/XSN
+전쟁/NNG
+위기/NNG + 로/JKB
+치닫/VV + 고/EC
+있/VX + 는/ETM
+이라크/NNP + 와/JC
+미국/NNP + 의/JKG
+대립/NNG + 은/JX
+광범/XR + 하/XSA + ㄴ/ETM
+중동/NNP
+질서/NNG + 의/JKG
+재편/NNG + 을/JKO
+가지/VV + 어/EC
+오/VV + 고/EC
+있/VX + 다/EF + ./SF
+이라크/NNP + 의/JKG
+쿠웨이트/NNP
+침공/NNG + 은/JX
+중동/NNP
+지역/NNG + 에/JKB
+내재/NNG + 되/XSV + 어/EC
+있/VX + 던/ETM
+모든/MM
+모순/NNG + 과/JC
+갈등/NNG + ·/SP + 대립/NNG + 의/JKG
+요소/NNG + 를/JKO
+일거/NNG + 에/JKB
+분출/NNG + 시키/XSV + 었/EP + 다/EF + ./SF
+이라크/NNP + 의/JKG
+쿠웨이트/NNP
+침공/NNG + 에/JKB
+직접/NNG
+도화선/NNG + 이/JKC
+되/VV + ㄴ/ETM
+국경선/NNG
+문제/NNG + 를/JKO
+둘러싸/VV + ㄴ/ETM
+대립/NNG + 만/JX
+하/VX + 아도/EC
+분쟁/NNG
+역사/NNG + 는/JX
+30/SN + 여/XSN + 년/NNB
+전/NNG + 으로/JKB
+거스르/VV + 어/EC
+올라가/VV + ㄹ/ETM
+만큼/NNB
+뿌리/NNG + 가/JKS
+깊/VA + 다/EF + ./SF
+지나/VV + ㄴ/ETM
+61/SN + 년/NNB + 에/JKB + 도/JX
+이라크/NNP + 는/JX
+쿠웨이트/NNP + 가/JKS
+영국/NNP
+보호령/NNG + 에서/JKB
+독립/NNG + 하/XSV + 자/EC
+쿠웨이트/NNP + 가/JKS
+과거/NNG
+오스만/NNP
+터키/NNP
+지배/NNG
+아래/NNG
+있/VV + 던/ETM
+이라크/NNP + 의/JKG
+일부/NNG + 이/VCP + 었/EP + 음/ETN + 을/JKO
+들/VV + 어/EC
+양국/NNG
+합병/NNG + 을/JKO
+선언/NNG + 하/XSV + 았/EP + 으나/EC + ,/SP
+이라크/NNP + 의/JKG
+식민지/NNG
+종주국/NNG + 이/VCP + 었/EP + 던/ETM
+영국군/NNG + 의/JKG
+개입/NNG + 을/JKO
+부르/VV + 어/EC
+일으키/VV + 었/EP + 다/EF + ./SF
+그/MM
+후/NNG
+이라크/NNP + 는/JX
+73/SN + 년/NNB
+쿠웨이트/NNP + 를/JKO
+침공/NNG + ,/SP
+페르시아/NNP
+만/NNG + 에/JKB
+면하/VV + ㄴ/ETM
+부비얀/NNP + ,/SP
+와르바/NNP
+섬/NNG + 의/JKG
+장기/NNG
+조차/NNG + 를/JKO
+요구/NNG + 하/XSV + 았/EP + 으나/EC
+아랍/NNP
+세계/NNG + 에서/JKB
+고립/NNG + 되/XSV + 었/EP + 기/ETN
+때문/NNB + 에/JKB
+실패/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이런/MM
+점/NNG + 에서/JKB
+이라크/NNP + 의/JKG
+쿠웨이트/NNP
+침공/NNG + 은/JX
+제국주의/NNG
+열강/NNG + 에/JKB
+의하/VV + 아/EC
+조성/NNG + 되/XSV + ㄴ/ETM
+중동/NNP + 의/JKG
+근대/NNG
+국가/NNG
+체제/NNG + 가/JKS
+안/VV + 고/EC
+있/VX + 는/ETM
+취약/NNG + 성/XSN + 을/JKO
+그대로/MAG
+드러내/VV + ㄴ/ETM
+것/NNB + 이/VCP + 었/EP + 다/EF + ./SF
+여기/NP + 에/JKB
+후세인/NNP
+이라크/NNP
+대통령/NNG + 은/JX
+쿠웨이트/NNP
+침공/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+대의/NNG
+명분/NNG + 으로/JKB
+아랍/NNP
+민족주의/NNG + 를/JKO
+내세우/VV + 었/EP + 으며/EC
+이/NP + 는/JX
+아랍/NNP
+세계/NNG + 의/JKG
+경제/NNG + 적/XSN
+불/XPN + 균형/NNG + 과/JC
+이/NP + 를/JKO
+뒷받침/NNG + 하/XSV + 는/ETM
+정치/NNG + 적/XSN
+억압/NNG
+구조/NNG + 를/JKO
+첨예/XR + 하/XSA + 게/EC
+드러내/VV + 는/ETM
+결과/NNG + 를/JKO
+낳/VV + 았/EP + 다/EF + ./SF
+외세/NNG + 와/JKB
+결탁/NNG + 하/XSV + 아/EC
+엄청나/VA + ㄴ/ETM
+석유/NNG
+수입/NNG + 을/JKO
+독차지/NNG + 하/XSV + 아/EC
+오/VV + ㄴ/ETM
+소수/NNG
+지배/NNG + 층/XSN + 과/JC
+이/NP + 로부터/JKB
+소외/NNG + 되/XSV + ㄴ/ETM
+민중/NNG + 의/JKG
+불만/NNG + 은/JX
+구/XPN + 질서/NNG + 를/JKO
+거부/NNG + 하/XSV + 는/ETM
+이슬람/NNP
+근본주의/NNG
+운동/NNG + 과/JC
+팔레스타인/NNP
+민족/NNG
+운동/NNG + 의/JKG
+토양/NNG + 이/JKC
+되/VV + 고/EC
+있/VX + 었/EP + 다/EF + ./SF
+석유/NNG + 를/JKO
+나누/VV + 어/EC
+갖/VV + 지/EC
+못하/VX + ㄴ/ETM
+아랍/NNP
+민중/NNG + ,/SP
+나세르/NNP + 의/JKG
+아랍/NNP
+민족주의/NNG + 를/JKO
+지지/NNG + 하/XSV + 아/EC
+오/VX + ㄴ/ETM
+세력/NNG + 들/XSN + ,/SP
+이스라엘/NNP + 을/JKO
+지지/NNG + 하/XSV + 아/EC
+오/VX + ㄴ/ETM
+미국/NNP + 과/JC
+서방/NNG + 을/JKO
+적/NNG + 으로/JKB
+보/VV + 고/EC
+있/VX + 는/ETM
+회교/NNG
+근본주의자/NNG + 들/XSN + 에게/JKB
+쿠웨이트/NNP + 와/JKB
+같/VA + 은/ETM
+석유/NNG
+부국/NNG + 들/XSN + 은/JX
+분노/NNG + 의/JKG
+대상/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+후세인/NNP
+이라크/NNP
+대통령/NNG + 은/JX
+관영/NNG
+</SS + INA/SL
+통신/NNG + >/SS + 을/JKO
+통하/VV + 아/EC
+"/SS + 8/SN + 월/NNB
+2/SN + 일/NNB + 의/JKG
+쿠웨이트/NNP
+혁명/NNG + 은/JX
+또/MAG
+다른/MM
+쿠웨이트/NNP + 형/XSN
+정권/NNG + 들/XSN + 에/JKB
+경종/NNG + 을/JKO
+울리/VV + 어/EC
+주/VX + 었/EP + 다/EF + ./SF
+이것/NP + 은/JX
+과감/XR + 하/XSA + ㄴ/ETM
+제도/NNG
+개혁/NNG
+그리고/MAJ
+페르시아/NNP
+만/NNG + 의/JKG
+새롭/VA + ㄴ/ETM
+정치/NNG
+시대/NNG + 를/JKO
+알리/VV + 는/ETM
+신호/NNG + 가/JKC
+되/VV + 었/EP + 다/EC + "/SS + 고/JKQ
+선언/NNG + 하/XSV + ㄴ/ETM
+바/NNB
+있/VV + 다/EF + ./SF
+이런/MM
+점/NNG + 에서/JKB
+적어도/MAG
+아랍/NNP
+각국/NNG + 의/JKG
+지도자/NNG + 와/JC
+민중/NNG + 에게/JKB + 는/JX
+후세인/NNP + 의/JKG
+쿠웨이트/NNP
+침공/NNG + 이/JKS
+독재자/NNG + 의/JKG
+침략/NNG
+야욕/NNG + 으로서/JKB + 가/JKC
+아니/VCN + 라/EC
+기존/NNG
+체제/NNG + 를/JKO
+유지/NNG + 하/XSV + ㄹ/ETM
+것/NNB + 이/VCP + ㄴ가/EC + ,/SP
+그렇/VA + 지/EC
+않/VX + 으면/EC
+구/XPN + 체제/NNG + 를/JKO
+타파/NNG + 하/XSV + 고/EC
+아랍/NNP + 의/JKG
+새롭/VA + ㄴ/ETM
+질서/NNG + 를/JKO
+창출/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 이/VCP + ㄴ가라는/ETM
+문제/NNG + 로/JKB
+받/VV + 아/EC
+들이/VV + 어/EC + 지/VX + 고/EC
+있/VX + 다/EF + ./SF
+따라서/MAJ
+미국/NNP + 의/JKG
+대/NNG + 이라크/NNP
+전쟁/NNG + 은/JX
+후세인/NNP + 을/JKO
+'/SS + 아랍/NNP + 의/JKG
+순교자/NNG + '/SS + 로/JKB
+부각/NNG + 시키/XSV + ㄹ/ETM
+가능/NNG + 성/XSN + 이/JKS
+있/VV + 다/EF + ./SF
+이라크/NNP + 의/JKG
+쿠웨이트/NNP
+침공/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+미국/NNP + 의/JKG
+대응/NNG + 은/JX
+반/XPN + 이라크/NNP
+전선/NNG
+구축/NNG + 을/JKO
+목표/NNG + 로/JKB
+크/VA + 게/EC
+두/MM
+가지/NNB
+방향/NNG + 에서/JKB
+진행/NNG + 되/XSV + 어/EC
+오/VX + 았/EP + 다/EF + ./SF
+냉전/NNG
+해체/NNG + 를/JKO
+주도/NNG + 하/XSV + 아/EC
+오/VX + ㄴ/ETM
+미/NNP + -/SS + 소/NNP
+협조/NNG + 를/JKO
+바탕/NNG + 으로/JKB
+유엔/NNP + 을/JKO
+통하/VV + ㄴ/ETM
+대/NNG
+이라크/NNP
+제재/NNG
+조처/NNG + 가/JKS
+그/MM
+하나/NR + 의/JKG
+축/NNG + 이/VCP + 라면/EC
+다른/MM
+하나/NR + 는/JX
+직접/NNG + 적/XSN
+군사/NNG
+개입/NNG + 을/JKO
+중심/NNG + 으로/JKB
+아랍국/NNG + 들/XSN + 의/JKG
+참여/NNG + 를/JKO
+통하/VV + ㄴ/ETM
+다국적군/NNG + 의/JKG
+결성/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+만약/NNG
+이번/NNG
+페르시아/NNP
+만/NNG
+위기/NNG + 가/JKS
+냉전/NNG
+구조/NNG
+아래/NNG + 에서/JKB
+발생/NNG + 하/XSV + 았/EP + 다면/EC
+미/NNP + -/SS + 소/NNP
+대립/NNG + 으로/JKB
+유엔/NNP
+기능/NNG + 은/JX
+마비/NNG + 되/XSV + 고/EC
+이라크/NNP
+행위/NNG + 는/JX
+기정/NNG
+사실/NNG + 화/XSN + 되/XSV + 었/EP + 거나/EC
+미/NNP + -/SS + 소/NNP
+대립/NNG + 을/JKO
+더욱/MAG
+증폭/NNG + 시키/XSV + 는/ETM
+계기/NNG + 로/JKB
+작용/NNG + 하/XSV + 았/EP + 을지/EC + 도/JX
+모르/VV + ㄴ다/EF + ./SF
+그러나/MAJ
+무력/NNG + 을/JKO
+통하/VV + ㄴ/ETM
+인접/NNG
+국가/NNG + 의/JKG
+강제/NNG
+합병/NNG + 이/VCP + 라는/ETM
+이라크/NNP + 의/JKG
+명백/XR + 하/XSA + ㄴ/ETM
+국제법/NNG
+위반/NNG + 에/JKB
+대하/VV + 아/EC
+국제/NNG
+사회/NNG + 가/JKS
+유엔/NNP + 을/JKO
+통하/VV + 아/EC
+보이/VV + 어/EC
+주/VX + ㄴ/ETM
+전례/NNG
+없/VA + 는/ETM
+결속/NNG + 은/JX
+유엔/NNP + 이/JKS
+세계/NNG
+평화/NNG
+유지/NNG + 이/VCP + 라는/ETM
+본래/NNG
+역할/NNG + 을/JKO
+수행/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+계기/NNG + 를/JKO
+만들/VV + 어/EC
+주/VX + 었/EP + 다고/EC
+하/VV + ㄹ/ETM
+수/NNB
+있/VV + 다/EF + ./SF
+이런/MM
+의미/NNG + 에서/JKB
+페만/NNP
+위기/NNG + 가/JKS
+어떻/VA + 게/EC
+해결/NNG + 되/XSV + ㄹ/ETM
+것/NNB + 이/VCP + ㄴ가/EC + 는/JX
+유엔/NNP
+중심/NNG + 의/JKG
+새롭/VA + ㄴ/ETM
+국제/NNG
+질서/NNG
+수립/NNG + 에/JKB
+결정/NNG + 적/XSN
+영향/NNG + 을/JKO
+끼치/VV + 게/EC
+되/VV + ㄹ/ETM
+것/NNB + 으로/JKB
+보이/VV + ㄴ다/EF + ./SF
+전쟁/NNG + 은/JX
+오히려/MAG
+유엔/NNP + 의/JKG
+한계/NNG + 를/JKO
+극명/NNG + 하/XSA + 게/EC
+드러내/VV + 어/EC
+주/VX + 는/ETM
+결과/NNG + 를/JKO
+낳/VV + 을/ETM
+것/NNB + 이/VCP + 며/EC + ,/SP
+그/MM
+동안/NNG
+유엔/NNP + 을/JKO
+중심/NNG + 으로/JKB
+유지/NNG + 되/XSV + 어/EC
+오/VX + ㄴ/ETM
+결속/NNG + 을/JKO
+와해/NNG + 시키/XSV + ㄹ/ETM
+가능/NNG + 성/XSN + 도/JX
+있/VV + 는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+또한/MAG
+미국/NNP
+주도/NNG + 로/JKB
+진행/NNG + 되/XSV + ㄴ/ETM
+아랍/NNP + 권/XSN
+내부/NNG + 의/JKG
+반/XPN + 이라크/NNP
+전선/NNG + 의/JKG
+구축/NNG
+과정/NNG + 은/JX
+그/MM
+자체/NNG + 가/JKS
+미국/NNP + 의/JKG
+중동/NNP
+정책/NNG
+전환/NNG + 을/JKO
+반영/NNG + 하/XSV + ㅁ/ETN + 과/JKB
+동시/NNG + 에/JKB
+이/MM
+지역/NNG + 의/JKG
+정치/NNG + 적/XSN
+재편/NNG + 을/JKO
+초래/NNG + 하/XSV + 고/EC
+있/VX + 다고/EC
+보/VV + ㄹ/ETM
+수/NNB
+있/VV + 다/EF + ./SF
+예컨대/MAG
+이란/NNP + -/SS + 이라크/NNP
+전쟁/NNG
+당시/NNG
+굳/VA + 은/ETM
+동맹/NNG
+관계/NNG + 를/JKO
+유지/NNG + 하/XSV + 아/EC
+오/VX + 던/ETM
+이란/NNP + 과/JC
+시리아/NNP + 가/JKS
+다른/MM
+방향/NNG + 으로/JKB
+갈라서/VV + 는/ETM
+양상/NNG + 을/JKO
+보이/VV + 고/EC
+있/VX + 으며/EC
+이집트/NNP + ,/SP
+사우디아라비아/NNP
+등/NNB + 은/JX
+어느/MM
+때/NNG + 보다/JKB + 도/JX
+미국/NNP + 과/JKB
+밀착/NNG + 되/XSV + 는/ETM
+결과/NNG + 를/JKO
+낳/VV + 았/EP + 다/EF + ./SF
+특히/MAG
+지나/VV + ㄴ/ETM
+10/SN + 여/XSN
+년/NNB
+동안/NNG
+미국/NNP + 에/JKB
+의하/VV + 아/EC
+테러국/NNG + 으로/JKB
+지정/NNG + 되/XSV + 어/EC
+오/VX + 았/EP + 던/ETM
+시리아/NNP + 와/JC
+미국/NNP + 의/JKG
+관계/NNG
+재/XPN + 정립/NNG + 은/JX
+미국/NNP + 의/JKG
+대/NNG
+중동/NNP
+정책/NNG
+선택/NNG
+폭/NNG + 을/JKO
+넓히/VV + 어/EC
+줄/NNB
+것/NNB + 이/VCP + 다/EF + ./SF
+반면/NNG + 에/JKB
+이라크/NNP + 가/JKS
+이란/NNP + 과/JKB + 의/JKG
+적대/NNG
+관계/NNG + 를/JKO
+종식/NNG + 시키/XSV + 고/EC
+전략/NNG + 적/XSN
+협력/NNG
+관계/NNG + 까지/JX
+모색/NNG + 하/XSV + 고/EC
+있/VX + 음/ETN + 은/JX
+커다랗/VA + ㄴ/ETM
+제약/NNG + 으로/JKB
+작용/NNG + 하/XSV + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+이/NP + 와/JKB
+함께/MAG
+미국/NNP + 에/JKB
+대하/VV + ㄴ/ETM
+공개/NNG + 적/XSN
+지지/NNG + 를/JKO
+표명/NNG + 하/XSV + ㄴ/ETM
+이집트/NNP + ,/SP
+사우디아라비아/NNP
+등/NNB + 은/JX
+이라크/NNP + 에/JKB
+의하/VV + 아/EC
+촉발/NNG + 되/XSV + ㄴ/ETM
+반/XPN + 미/NNP + ·/SP + 반/XPN + 이스라엘/NNP
+감정/NNG + 으로부터/JKB
+자신/NNG + 들/XSN + 의/JKG
+정치/NNG + 적/XSN
+입지/NNG + 를/JKO
+강화/NNG + 하/XSV + 기/ETN
+위하/VV + 아서/EC + 는/JX
+미국/NNP + 에/JKB
+팔레스타인/NNP
+문제/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+정책/NNG + 을/JKO
+전환/NNG + 하/XSV + 도록/EC
+압력/NNG + 을/JKO
+가하/VV + 게/EC
+되/VV + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+정권/NNG + 의/JKG
+약체/NNG + 성/XSN + 과/JC
+미군/NNG
+주둔/NNG
+등/NNB + 으로/JKB
+회교/NNG
+성지/NNG
+수호자/NNG + 로서/JKB + 의/JKG
+이미지/NNG + 를/JKO
+손상/NNG + 시키/XSV + ㄴ/ETM
+사우디/NNP + 의/JKG
+입장/NNG + 을/JKO
+고려/NNG + 하/XSV + 지/EC
+않/VX + 을/ETM
+수/NNB
+없/VA + 는/ETM
+미국/NNP + 으로서/JKB + 는/JX
+이/NP + 를/JKO
+심각/XR + 하/XSA + 게/EC
+받아들이/VV + 지/EC
+않/VX + 을/ETM
+수/NNB
+없/VA + 으며/EC + ,/SP
+미/NNP + -/SS + 이스라엘/NNP
+관계/NNG
+변화/NNG + 도/JX
+예상/NNG + 되/XSV + ㄴ다/EF + ./SF
+제임스/NNP
+베이커/NNP
+미/NNP
+국무/NNG
+장관/NNG + 은/JX
+지난해/NNG
+9/SN + 월/NNB
+페만/NNP
+지역/NNG + 에/JKB + 도/JX
+나토/NNP + 와/JKB
+같/VA + 은/ETM
+군사/NNG
+협력/NNG
+체제/NNG + 가/JKS
+필요/NNG + 하/XSA + 다고/EC
+밝히/VV + ㄴ/ETM
+바/NNB
+있/VV + 다/EF + ./SF
+미군/NNG + 의/JKG
+페만/NNP
+주둔/NNG
+장기/NNG + 화/XSN
+가능/NNG + 성/XSN + 을/JKO
+경계/NNG + 하/XSV + ㄴ/ETM
+비판/NNG + 이/JKS
+제기/NNG + 되/XSV + 면서/EC
+베이커/NNP + 는/JX
+자신/NNG + 의/JKG
+입장/NNG + 을/JKO
+다소/MAG
+후퇴/NNG + 시키/XSV + 기/ETN + ㄴ/JX
+하/VV + 았/EP + 지만/EC
+중동/NNP
+지역/NNG + 의/JKG
+강국/NNG + 으로/JKB
+떠오르/VV + ㄴ/ETM
+이라크/NNP + 의/JKG
+봉쇄/NNG + 는/JX
+페만/NNP
+위기/NNG + 가/JKS
+전쟁/NNG + 으로/JKB
+치닫/VV + 든/EC
+평화/NNG + 적/XSN
+해결/NNG + 의/JKG
+돌파구/NNG + 가/JKS
+마련/NNG + 되/XSV + 든/EC
+미국/NNP
+중동/NNP
+정책/NNG + 의/JKG
+목표/NNG + 가/JKC
+되/VV + ㄹ/ETM
+것/NNB + 이/VCP + 며/EC + ,/SP
+중동/NNP
+안보/NNG
+기구/NNG
+결성/NNG + 이/JKS
+장기/NNG + 적/XSN
+전략/NNG + 으로/JKB
+추진/NNG + 되/XSV + ㄹ/ETM
+가능/NNG + 성/XSN + 이/JKS
+크/VA + 다/EF + ./SF
+1991/SN + //SP + 02/SN + //SP + 05/SN
+03/SN
+언론인/NNG + (/SS + 한국/NNP
+사회/NNG
+부패/NNG
+구조/NNG + 의/JKG
+실상/NNG + :/SP + 8/SN + )/SS
+'/SS + 촌지/NNG + '/SS
+맛/NNG + 들이/VV + ㄹ수록/EC
+'/SS + 가지/VV + ㄴ/ETM
+자/NNB + '/SS
+편들/VV + 어/EC
+//SP
+재벌/NNG
+기업/NNG + ·/SP + 행정/NNG
+부처/NNG
+등/NNB
+예산/NNG + 까지/JX
+책정/NNG
+//SP
+사세/NNG
+따르/VV + 아/EC
+봉투/NNG
+다르/VA + 아/EC + …/SE
+일부/NNG + 서/JKB + ㄴ/JX
+거부/NNG + 도/JX
+지난해/NNG
+4/SN + 월/NNB
+미국/NNP + 의/JKG
+유력/NNG
+일간지/NNG
+</SS + 시카고/NNP
+트리뷴/NNP + >/SS + 에/JKB
+한국/NNP
+언론/NNG + 의/JKG
+부패상/NNG + 과/JC
+촌지/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+보도/NNG + 가/JKS
+나가/VV + 았/EP + 을/ETM
+때/NNG + 의/JKG
+일/NNG + 이/VCP + 다/EF + ./SF
+정부/NNG
+부처/NNG
+기자실/NNG + 에서/JKB
+한/MM
+국내/NNG
+신문/NNG + 에/JKB
+전재/NNG + 되/XSV + ㄴ/ETM
+이/MM
+기사/NNG + 를/JKO
+읽/VV + 은/ETM
+어떤/MM
+기자/NNG + 는/JX
+"/SS + 무엇/NP + ㄹ/JKO
+모르/VV + 고/EC
+쓰/VV + 었/EP + 다/EC + "/SS + 는/ETM
+반응/NNG + 을/JKO
+보이/VV + 었/EP + 다/EF + ./SF
+오보/NNG + 이/VCP + 라서/EC + 가/JKC
+아니/VCN + 라/EC
+촌지/NNG + 의/JKG
+규모/NNG + 가/JKS
+그/NP + 보다/JKB
+더/MAG
+크/VA + 다는/ETM
+자조/NNG
+섞이/VV + ㄴ/ETM
+반응/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+한/MM
+재벌/NNG
+그룹/NNG
+홍보실/NNG
+직원/NNG + 은/JX
+"/SS + 2/SN + ∼/SO + 3/SN + 년/NNB
+전/NNG + 과/JKB
+비교/NNG + 하/XSV + ㄹ/ETM
+때/NNG
+언론사/NNG + 가/JKS
+많이/MAG
+늘어나/VV + ㄴ데다/EC
+단위/NNG + 마저/JX
+커지/VV + 어/EC
+촌지/NNG + 성/XSN
+예산/NNG + 이/JKS
+2/SN + 배/NNG + 로/JKB
+늘어나/VV + 았/EP + 다/EC + "/SS + 고/JKQ
+말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+또/MAG
+기업/NNG + 의/JKG
+규모/NNG + 가/JKS
+커지/VV + 면서/EC
+기술/NNG
+개발/NNG + 이나/JC
+해외/NNG
+진출/NNG
+등/NNB
+적극/NNG + 적/XSN + 으로/JKB
+홍보/NNG + 하/XSV + 아야/EC
+하/VX + ㄹ/ETM
+일/NNG + 도/JX
+늘/VV + 었/EP + 지만/EC + ,/SP
+각종/NNG
+사고/NNG + 나/JC
+'/SS + 노사/NNG
+분규/NNG + '/SS
+등/NNB + 도/JX
+잦/VA + 아/EC
+엄청나/VA + ㄴ/ETM
+규모/NNG + 의/JKG
+언론/NNG
+대책비/NNG + 가/JKS
+지출/NNG + 되/XSV + ㄴ다는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+촌지/NNG + 의/JKG
+액수/NNG + 는/JX
+현안/NNG + 의/JKG
+중요도/NNG + 에/JKB
+따르/VV + 아/EC
+천차만별/NNG + 이/VCP + 지만/EC
+기자/NNG + 들/XSN + 을/JKO
+부르/VV + 어/EC
+회견/NNG + 을/JKO
+하/VV + 거나/EC
+회장/NNG + 이나/JC
+사장/NNG + 이/JKS
+식사/NNG
+대접/NNG + 을/JKO
+하/VV + ㄹ/ETM
+경우/NNG
+최소한/NNG
+10/SN + 만/NR + ∼/SO + 30/SN + 만/NR
+원/NNG
+정도/NNG + 가/JKS
+교통비/NNG + 조/NNB + 로/JKB
+건네/VV + 어/EC + 지/VX + ㄴ다고/EC
+하/VV + 았/EP + 다/EF + ./SF
+이/MM
+직원/NNG + 은/JX
+"/SS + 그룹/NNG
+회장/NNG + 이/JKS
+일간지/NNG + 나/JC
+주간지/NNG + ,/SP
+월간지/NNG
+등/NNB + 의/JKG
+부장/NNG + 급/NNG + 과/JKB
+단독/NNG
+인터뷰/NNG + 를/JKO
+하/VV + ㄹ/ETM
+때/NNG + 는/JX
+비서실/NNG + 에서/JKB
+준비/NNG + 하/XSV + 는/ETM
+촌지/NNG + 가/JKS
+백만/NR
+원/NNG
+단위/NNG + 로/JKB
+오르/VV + 아/EC
+가/VX + ㄴ다/EC + "/SS + 고/JKQ
+말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+정부/NNG
+부처/NNG
+출입/NNG
+기자/NNG + 의/JKG
+경우/NNG + 는/JX
+주로/MAG
+기자단/NNG + 을/JKO
+통하/VV + 아/EC
+촌지/NNG + 가/JKS
+수수/NNG + 되/XSV + ㄴ다/EF + ./SF
+경제/NNG
+부처/NNG
+출입/NNG
+기자/NNG + 들/XSN + 은/JX
+일간지/NNG + 의/JKG
+경우/NNG
+재벌/NNG
+그룹/NNG + 을/JKO
+하나/NR + 씩/XSN
+떠맡/VV + 고/EC
+있/VX + 는/ETM
+경우/NNG + 가/JKS
+많/VA + 아/EC
+촌지/NNG
+수령액/NNG + 이/JKS
+더/MAG
+크/VA + ㄴ/ETM
+것/NNB + 으로/JKB
+알리/VV + 어/EC + 지/VX + 고/EC
+있/VX + 다/EF + ./SF
+기자/NNG
+협회/NNG + 가/JKS
+최근/NNG
+입수/NNG + 하/XSV + ㄴ/ETM
+한/MM
+부처/NNG + 의/JKG
+'/SS + 91/SN + 년도/NNB
+정보/NNG
+사업/NNG
+예산/NNG
+명세서/NNG + '/SS + 에/JKB
+따르/VV + 면/EC
+1/SN + 억/NR
+7/SN + 천만/NR
+원/NNB + 이/JKS
+정보/NNG
+사업비/NNG + 로/JKB
+책정/NNG + 되/XSV + 어/EC
+있/VX + 다/EF + ./SF
+중견/NNG
+언론인/NNG
+40/SN + 명/NNB + 에/JKB
+대하/VV + ㄴ/ETM
+홍보비/NNG + 로/JKB
+30/SN + 만/NR
+원/NNB + 씩/XSN
+연/NNG
+4/SN + 회/NNB + 에/JKB
+걸치/VV + 어/EC
+4/SN + 천/NR
+8/SN + 백만/NR
+원/NNB + ,/SP
+출입/NNG
+기자단/NNG
+24/SN + 명/NNB + 에/JKB
+대하/VV + ㄴ/ETM
+홍보비/NNG + 로/JKB
+30/SN + 만/NR
+원/NNB + 씩/XSN
+연/NNG
+12/SN + 회/NNB + 에/JKB
+걸치/VV + 어/EC
+8/SN + 천/NR
+6/SN + 백/NR
+40/SN + 만/NR
+원/NNG + 을/JKO
+계상/NNG + 하/XSV + 아/EC
+놓/VX + 고/EC
+있/VX + 다/EF + ./SF
+나머지/NNG + 는/JX
+간담회/NNG
+경비/NNG + ,/SP
+국내/NNG + ·/SP + 해외/NNG
+시찰/NNG
+지원금/NNG
+등/NNB + 으로/JKB
+구성/NNG + 되/XSV + 어/EC
+있/VX + 다/EF + ./SF
+그러나/MAJ
+이/MM
+부처/NNG + 와/JKB + 는/JX
+달리/MAG
+대부분/NNG + 의/JKG
+정부/NNG
+부처/NNG + 에서/JKB + 는/JX
+매달/MAG
+정기/NNG + 적/XSN + 으로/JKB
+지급/NNG + 하/XSV + 는/ETM
+촌지/NNG + 는/JX
+없/VA + 고/EC + ,/SP
+이른바/MAG
+기자/NNG + 들/XSN + 의/JKG
+'/SS + 4/SN + 대/NNG
+명절/NNG + '/SS + 에/JKB
+목돈/NNG + 을/JKO
+주/VV + ㄴ다/EF + ./SF
+기자/NNG + 들/XSN + 의/JKG
+4/SN + 대/NNG
+명절/NNG + 이란/JX
+추석/NNG + ,/SP
+연말/NNG + ,/SP
+여름/NNG
+휴가/NNG + ,/SP
+신문/NNG + ·/SP + 방송/NNG + 의/JKG
+날/NNG + 을/JKO
+말/NNG + 하/XSV + 는데/EC + ,/SP
+신문/NNG + ·/SP + 방송/NNG + 의/JKG
+날/NNG + 에/JKB + 도/JX
+촌지/NNG + 를/JKO
+주/VV + 는/ETM
+것/NNB + 은/JX
+여름/NNG
+휴가/NNG
+때/NNG + 부터/JX
+연말/NNG + 까지/JX
+촌지/NNG + 가/JKS
+집중/NNG + 되/XSV + 어/EC
+있/VX + 기/ETN
+때문/NNB + 에/JKB
+봄철/NNG + 이/VCP + ㄴ/ETM
+신문/NNG + 의/JKG
+날/NNG + (/SS + 4/SN + 월/NNB
+7/SN + 일/NNB + )/SS + 에/JKB
+촌지/NNG + 를/JKO
+주/VV + 기/ETN
+시작/NNG + 하/XSV + ㄴ/ETM
+데/NNB + 서/JKB
+비롯/XR + 되/XSV + 었/EP + 다고/EC
+하/VV + ㄴ다/EF + ./SF
+신문/NNG + 의/JKG
+날/NNG + 은/JX
+출입처/NNG + 에서/JKB
+신경/NNG + 을/JKO
+쓰/VV + 지/EC
+않/VX + 고/EC
+지나가/VV + 는/ETM
+때/NNG + 도/JX
+많/VA + 기/ETN
+때문/NNB + 에/JKB
+일부/NNG
+기자단/NNG + 에서/JKB + 는/JX
+간사/NNG + 가/JKS
+이/NP + 를/JKO
+넌지시/MAG
+알리/VV + 는/ETM
+웃/VV + 지/EC
+못하/VX + ㄹ/ETM
+행태/NNG + 까지/JX
+벌어지/VV + 었/EP + 다는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+한/MM
+중견/NNG
+기자/NNG + 는/JX
+"/SS + 기자단/NNG + 에/JKB
+가입/NNG + 은/JX
+하/VV + 되/EC
+집단/NNG + 적/XSN + 으로/JKB
+촌지/NNG + 를/JKO
+받/VV + 지/EC
+않/VX + 는/ETM
+언론사/NNG + 가/JKS
+생기/VV + 는가/EC
+하/VV + 면/EC
+개별/NNG + 적/XSN + 으로/JKB
+촌지/NNG
+받/VV + 기/ETN + 를/JKO
+거부/NNG + 하/XSV + 는/ETM
+기자/NNG + 도/JX
+더러/MAG
+있/VV + 기/ETN
+때문/NNB + 에/JKB
+기자단/NNG + 을/JKO
+통하/VV + 아/EC
+전달/NNG + 되/XSV + 는/ETM
+촌지/NNG + 는/JX
+많이/MAG
+줄/VV + 어/EC
+들/VX + 었/EP + 다/EC + "/SS + 면서/EC
+"/SS + 한편/NNG + 으로/JKB
+장/NNG + ./SP + 차관/NNG + 이나/JX
+산하/NNG
+기관장/NNG + 들/XSN + 이/JKS
+개별/NNG + 적/XSN + 으로/JKB
+부르/VV + 어서/EC
+봉투/NNG + 를/JKO
+건네/VV + 어/EC
+주/VX + 는/ETM
+등/NNB + 의/JKG
+방법/NNG + 으로/JKB
+음성/NNG + 화/XSN + 하/XSV + 는/ETM
+경향/NNG + 도/JX
+없/VA + 지/EC
+않/VX + 다/EC + "/SS + 고/JKQ
+말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이/MM
+때/NNG
+그/MM
+신문/NNG + 과/JC
+방송/NNG + 의/JKG
+영향력/NNG
+또는/MAG
+그/MM
+기자/NNG + 와/JKB + 의/JKG
+친분/NNG
+관계/NNG + 에/JKB
+따르/VV + 아/EC
+봉투/NNG + 의/JKG
+두께/NNG + 가/JKS
+달라지/VV + 기/ETN + 도/JX
+하/VV + ㄴ다는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+한/MM
+신설사/NNG + 의/JKG
+기자/NNG + 는/JX
+"/SS + 기자단/NNG + 이/JKS
+신설사/NNG + 의/JKG
+신규/NNG
+가입/NNG + 에/JKB
+배타/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+자세/NNG + 를/JKO
+취하/VV + 는/ETM
+것/NNB + 도/JX
+촌지/NNG
+수수/NNG
+관행/NNG + 과/JKB
+무관/XR + 하/XSA + 지/EC
+않/VX + 은/ETM
+것/NNB
+같/VA + 다/EC + "/SS + 고/JKQ
+말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+언론인/NNG + 들/XSN + 의/JKG
+견문/NNG + 을/JKO
+넓히/VV + ㄴ다는/ETM
+명목/NNG + 으로/JKB
+실시/NNG + 되/XSV + 고/EC
+있/VX + 는/ETM
+해외/NNG
+여행/NNG + 도/JX
+촌지/NNG + 와/JKB
+관련/NNG + 되/XSV + 어/EC
+있/VX + 기/ETN
+때문/NNB + 에/JKB
+특히/MAG
+문제/NNG + 가/JKC
+되/VV + ㄴ다는/ETM
+지적/NNG + 이/JKS
+많/VA + 다/EF + ./SF
+일부/NNG
+기자단/NNG + 에서/JKB + 는/JX
+후원/NNG
+기관/NNG
+혹은/MAG
+단체/NNG + 가/JKS
+부담/NNG + 하/XSV + 는/ETM
+호텔료/NNG + 와/JC
+항공료/NNG
+등/NNB
+기본/NNG
+경비/NNG
+외/NNB + 에/JKB + 도/JX
+산하/NNG
+기관/NNG + 과/JC
+관련/NNG
+단체/NNG
+등/NNB + 에/JKB
+해외/NNG
+여행/NNG
+사실/NNG + 을/JKO
+알리/VV + 어/EC
+'/SS + 성의/NNG + '/SS + 를/JKO
+강요/NNG + 하/XSV + 기/ETN + 도/JX
+하/VV + ㄴ다/EF + ./SF
+이/MM
+때/NNG
+관련/NNG
+기업/NNG + 에/JKB
+대하/VV + 아서/EC + 는/JX
+매출액/NNG + 이나/JC
+도급/NNG
+순위/NNG + 에/JKB
+따르/VV + 아/EC
+상위/NNG
+몇/MM
+대/NNG
+기업/NNG + 까지/JX
+끊/VV + 어서/EC
+연락/NNG + 하/XSV + ㄴ다는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+취재/NNG
+목적/NNG + 이/JKS
+뚜렷/XR + 하/XSA + ㄴ/ETM
+해외/NNG
+여행/NNG + 에/JKB
+기본/NNG
+경비/NNG + 만/JX
+받/VV + 고/EC
+참가/NNG + 하/XSV + 는/ETM
+기자/NNG + 가/JKS
+없/VA + 는/ETM
+것/NNB + 은/JX
+아니/VCN + 지만/EC + ,/SP
+재무/NNG + ·/SP + 상공/NNG + ·/SP + 건설/NNG + 부/NNG
+등/NNB
+경제/NNG
+부처/NNG
+출입/NNG
+기자/NNG + 의/JKG
+경우/NNG
+한/MM
+차례/NNG
+해외/NNG
+여행/NNG + 을/JKO
+다니/VV + 어/EC
+오/VV + 면/EC
+1/SN + 백만/NR + ∼/SO + 2/SN + 백만/NR
+원/NNG + 의/JKG
+돈/NNG + 을/JKO
+남기/VV + 는/ETM
+사례/NNG + 도/JX
+흔하/VA + 다는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+이/NP + 와/JKB
+관련/NNG + ,/SP
+경제/NNG + 부/NNG + 가/JKS
+기자/NNG + 들/XSN + 이/JKS
+선호/NNG + 하/XSV + 는/ETM
+'/SS + 물/NNG
+좋/VA + 은/ETM + '/SS
+부서/NNG + 로/JKB
+손꼽히/VV + 고/EC
+있/VX + 는/ETM
+것/NNB + 도/JX
+사실/NNG + 이/VCP + 다/EF + ./SF
+사회부/NNG + 에서/JKB
+출입/NNG + 하/XSV + 는/ETM
+부처/NNG + 의/JKG
+경우/NNG
+사건/NNG + ·/SP + 사고/NNG + 가/JKS
+빈발/NNG + 하/XSV + 기/ETN
+때문/NNB + 에/JKB
+역시/MAG
+촌지/NNG + 가/JKS
+많/VA + 은/ETM
+곳/NNG + 으로/JKB
+통하/VV + ㄴ다/EF + ./SF
+촌지/NNG + 와/JKB
+관련/NNG + 하/XSV + 아/EC
+"/SS + 겨울/NNG
+문교/NNG + ,/SP
+여름/NNG
+보사/NNG + ,/SP
+사철/NNG
+내무/NNG + "/SS + 이/VCP + 라는/ETM
+말/NNG + 이/JKS
+생겨나/VV + ㄴ/ETM
+것/NNB + 도/JX
+사회부/NNG + 에서/JKB
+겨울/NNG + 에/JKB + 는/JX
+문교부/NNG + ,/SP
+여름/NNG + 에/JKB + 는/JX
+보사부/NNG + 에/JKB
+촌지/NNG + 가/JKS
+많/VA + 고/EC + ,/SP
+내무부/NNG + 는/JX
+사시사철/NNG
+많/VA + 다는/ETM
+데/NNB + 서/JKB
+비롯/XR + 되/XSV + 었/EP + 다/EF + ./SF
+지나/VV + ㄴ/ETM
+10/SN + 월/NNB + 에/JKB + 는/JX
+내무부/NNG
+장관/NNG + 이/JKS
+'/SS + 범죄/NNG + 와/JKB + 의/JKG
+전쟁/NNG + '/SS + 을/JKO
+시작/NNG + 하/XSV + 면서/EC
+사회/NNG
+부장단/NNG + 과/JC
+편집/NNG
+국장단/NNG + 에게/JKB
+각각/MAG
+식사/NNG
+대접/NNG + 을/JKO
+하/VV + ㄴ/ETM
+뒤/NNG
+거마비/NNG + 를/JKO
+돌리/VV + 었/EP + 다는/ETM
+소문/NNG + 이/JKS
+유포/NNG + 되/XSV + 기/ETN + 도/JX
+하/VV + 았/EP + 다/EF + ./SF
+특히/MAG
+내무부/NNG
+기자단/NNG + 은/JX
+폐쇄/NNG + 적/XSN + 으로/JKB
+운영/NNG + 되/XSV + 어/EC
+아직/MAG + 도/JX
+신설사/NNG + 들/XSN + 의/JKG
+기자단/NNG
+가입/NNG + 을/JKO
+허용/NNG + 하/XSV + 지/EC
+않/VX + 고/EC
+있/VX + 다/EF + ./SF
+언론사/NNG + 마다/JX
+2/SN + ∼/SO + 4/SN + 명/NNB + 의/JKG
+기자/NNG + 가/JKS
+출입/NNG + 하/XSV + 는/ETM
+서울/NNP
+시청/NNG + 과/JC
+검찰/NNG + 도/JX
+촌지/NNG + 가/JKS
+많/VA + 은/ETM
+출입처/NNG
+가운데/NNG
+하나/NR + 로/JKB
+알리/VV + 어/EC + 지/VX + 어/EC
+있/VX + 다/EF + ./SF
+정치부/NNG + 는/JX
+야당/NNG + 보다/JKB + 는/JX
+정치/NNG
+자금/NNG + 이/JKS
+풍부/XR + 하/XSA + ㄴ/ETM
+여당/NNG
+출입/NNG
+기자/NNG + ,/SP
+문화부/NNG + 는/JX
+미술/NNG + 과/JC
+영화/NNG
+담당/NNG + ,/SP
+체육부/NNG + 는/JX
+프로/NNG
+야구/NNG
+담당/NNG + 이/JKS
+촌지/NNG + 를/JKO
+많이/MAG
+받/VV + 는/ETM
+것/NNB + 으로/JKB
+알리/VV + 어/EC + 지/VX + 고/EC
+있/VX + 다/EF + ./SF
+그러나/MAJ
+기자/NNG
+모두/NNG + 가/JKS
+촌지/NNG + 를/JKO
+받/VV + 는/ETM
+것/NNB + 은/JX
+아니/VCN + 며/EC + ,/SP
+노골/NNG + 적/XSN + 으로/JKB
+촌지/NNG + 를/JKO
+요구/NNG + 하/XSV + 는/ETM
+행위/NNG
+등/NNB + 은/JX
+점차/MAG
+없/VA + 어/EC + 지/VX + 어/EC
+가/VX + 는/ETM
+추세/NNG + 에/JKB
+있/VV + 다/EF + ./SF
+또/MAG
+촌지/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+인식/NNG
+자체/NNG + 에/JKB + 도/JX
+양론/NNG + 이/JKS
+있/VV + 다/EF + ./SF
+한/MM
+중견/NNG
+기자/NNG + 는/JX
+"/SS + 촌지/NNG
+수수/NNG + 는/JX
+일반/NNG
+회사/NNG
+직원/NNG + 과/JC
+교사/NNG
+등/NNB
+사회/NNG + 의/JKG
+거의/MAG
+모든/MM
+분야/NNG + 에/JKB
+걸치/VV + 어/EC
+있/VX + 는/ETM
+현상/NNG + 이/VCP + 며/EC + ,/SP
+촌지/NNG + 를/JKO
+받/VV + 았/EP + 다/EC
+하/VV + 아서/EC
+기사/NNG
+방향/NNG + 이/JKS
+바뀌/VV + ㄴ/ETM
+적/NNB + 은/JX
+없/VA + 다/EC + "/SS + 고/JKQ
+주장/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+그러나/MAJ
+한/MM
+국회/NNG
+의원/NNG + 은/JX
+"/SS + 효과/NNG + 가/JKS
+없/VA + 다면/EC
+왜/MAG
+기자/NNG + 들/XSN + 에게/JKB
+촌지/NNG + 를/JKO
+주/VV + 겠/EP + 는가/EC + "/SS + 라고/JKQ
+반문/NNG + 하/XSV + 면서/EC
+"/SS + 선거/NNG
+때/NNG
+보도/NNG
+하/VV + 아도/EC
+되/VV + 고/EC
+안/MAG
+하/VV + 아도/EC
+되/VV + 는/ETM
+청중/NNG
+반응/NNG + 이나/JC
+고십/NNG
+기사/NNG
+한/MM
+줄/NNG + 이/JKS
+유권자/NNG + 들/XSN + 에게/JKB
+크/VA + ㄴ/ETM
+영향/NNG + 을/JKO
+끼치/VV + 는/ETM
+것/NNB + 이/JKS
+현실/NNG + "/SS + 이라고/JKQ
+말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+방정배/NNP
+교수/NNG + (/SS + 성균관대/NNP + )/SS + 는/JX
+"/SS + 특히/MAG
+5/SN + 공/NNG
+때/NNG
+기자/NNG + 들/XSN + 의/JKG
+보수/NNG + 가/JKS
+대폭/MAG
+인상/NNG + 되/XSV + 면서/EC
+촌지/NNG + 도/JX
+생활비/NNG
+보조/NNG
+수준/NNG + 에서/JKB
+촌지/NNG + 의/JKG
+효과/NNG + 를/JKO
+거두/VV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+수준/NNG + 으로/JKB
+오르/VV + 아/EC
+가/VX + 게/EC
+되/VV + 었/EP + 다/EC + "/SS + 면서/EC
+"/SS + 기자/NNG + 들/XSN + 의/JKG
+촌지/NNG
+거부/NNG
+운동/NNG + 이/JKS
+전반/NNG + 적/XSN + 으로/JKB
+확산/NNG + 되/XSV + 어야/EC
+하/VX + ㄴ다/EC + "/SS + 고/JKQ
+말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+기득/NNG + 권/XSN + 층/XSN
+보호/NNG + 에/JKB
+치중/NNG + 하/XSV + 는/ETM
+우리/NP
+언론/NNG + 의/JKG
+보수/NNG + 적/XSN
+경향/NNG + 에/JKB
+대하/VV + 아서/EC + 도/JX
+촌지/NNG + 를/JKO
+포함/NNG + 하/XSV + ㄴ/ETM
+기자/NNG + 들/XSN + 의/JKG
+수입/NNG + 이/JKS
+너무/MAG
+많/VA + 은/ETM
+것/NNB + 과/JKB
+연관/NNG
+지우/VV + 고/EC
+있/VX + 는/ETM
+언론/NNG
+학자/NNG + 들/XSN + 이/JKS
+많/VA + 다/EF + ./SF
+기자/NNG
+자신/NNG + 이/JKS
+크/VA + ㄴ/ETM
+집/NNG + 에/JKB
+살/VV + 면서/EC
+중형/NNG
+이상/NNG
+승용차/NNG + 를/JKO
+몰/VV + 고/EC
+다니/VV + ㄹ/ETM
+경우/NNG
+지하철/NNG + 이나/JC
+버스/NNG
+등/NNB
+대중/NNG
+교통/NNG
+문제/NNG + 보다/JKB + 는/JX
+주차장/NNG
+문제/NNG
+등/NNB + 에/JKB
+더/MAG
+관심/NNG + 을/JKO
+갖/VV + 게/EC
+되/VV + 고/EC + ,/SP
+재산세/NNG
+중과/NNG + 나/JC
+자동차세/NNG
+인상/NNG + 에/JKB + 는/JX
+거부/NNG
+반응/NNG + 을/JKO
+보이/VV + ㄹ/ETM
+수/NNB + 밖에/JX
+없/VA + 지/EC
+않/VX + 으냐는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+기자/NNG
+협회/NNG + 의/JKG
+한/MM
+관계자/NNG + 는/JX
+"/SS + 권인숙/NNP
+씨/NNB
+성/NNG
+고문/NNG
+사건/NNG + 을/JKO
+검찰/NNG
+발표문/NNG + 대로/JX
+'/SS + 성/NNG + 을/JKO
+혁명/NNG + 의/JKG
+도구/NNG + 로/JKB
+삼/VV + 았/EP + 다/EC + '/SS + 는/ETM
+식/NNB + 으로/JKB
+보도/NNG + 하/XSV + ㄹ/ETM
+때/NNG + 도/JX
+상당액/NNG + 의/JKG
+촌지/NNG + 가/JKS
+뿌리/VV + 어/EC + 지/VX + 었/EP + 다/EC + "/SS + 면서/EC
+"/SS + 사회/NNG + 의/JKG
+부패/NNG + 를/JKO
+막/VV + 아야/EC
+하/VX + ㄹ/ETM
+방부제/NNG + 이/VCP + ㄴ/ETM
+언론/NNG + 의/JKG
+자정/NNG
+혁명/NNG + 이/JKS
+시급/XR + 하/XSA + 다/EC + "/SS + 고/JKQ
+강조/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+실제로/MAG
+언론/NNG + 계/XSN + 에서/JKB + 도/JX
+이제/MAG
+촌지/NNG
+문제/NNG + 의/JKG
+공공연/XR + 하/XSA + ㄴ/ETM
+거론/NNG + 과/JC
+자기/NP
+비판/NNG + 을/JKO
+수용/NNG + 하/XSV + 아/EC
+가/VX + 는/ETM
+분위기/NNG + 가/JKS
+다소/NNG + 나마/JX
+자리/NNG
+잡/VV + 아/EC
+가/VX + 고/EC
+있/VX + 다/EF + ./SF
+1991/SN + //SP + 04/SN + //SP + 05/SN
+03/SN
+시민/NNG
+대표/NNG
+'/SS + 광역/NNG + '/SS
+의회/NNG
+향하/VV + 아/EC
+줄달음/NNG
+40/SN + ∼/SO + 50/SN + 명/NNB
+후보/NNG
+내세우/VV + ㄹ/ETM
+연대/NNG
+회의/NNG
+'/SS + 돌풍/NNG
+작전/NNG + '/SS
+//SP
+'/SS + 선정위/NNG + '/SS
+발족/NNG
+이문옥/NNP
+씨/NNB
+등/NNB
+거론/NNG
+//SP
+정당/NNG
+중심/NNG
+선거법/NNG
+개정/NNG + 도/JX
+추진/NNG
+기초/NNG
+의회/NNG
+선거/NNG + 에서/JKB
+공명/XR
+선거/NNG
+운동/NNG + 을/JKO
+활발히/MAG
+벌이/VV + 었/EP + 던/ETM
+YMCA/SL + ·/SP + 경실련/NNG
+등/NNB
+시민/NNG
+단체/NNG + 들/XSN + 이/JKS
+다그/VV + 아/EC
+오/VV + 는/ETM
+광역/NNG
+의회/NNG
+의원/NNG
+선거/NNG + 에서/JKB + 는/JX
+본격/NNG + 적/XSN + 으로/JKB
+'/SS + 시민/NNG
+대표/NNG
+의회/NNG
+보내/VV + 기/ETN
+운동/NNG + '/SS + 을/JKO
+전개/NNG + 하/XSV + ㄹ/ETM
+움직임/NNG + 이/VCP + 어서/EC
+관심/NNG + 을/JKO
+모으/VV + 고/EC
+있/VX + 다/EF + ./SF
+YMCA/SL + ,/SP
+경실련/NNG + ,/SP
+흥사단/NNP + ,/SP
+YWCA/SL + ,/SP
+공해/NNG
+추방/NNG
+운동/NNG
+연합/NNG + ,/SP
+여성/NNG
+단체/NNG
+연합/NNG
+등/NNB
+시민/NNG
+단체/NNG + 들/XSN + 은/JX
+지난달/NNG
+18/SN + 일/NNB
+발족/NNG + 하/XSV + ㄴ/ETM
+'/SS + 참여/NNG + 와/JC
+자치/NNG + 를/JKO
+위하/VV + ㄴ/ETM
+시민/NNG
+연대/NNG
+회의/NNG + (/SS + 연대/NNG
+회의/NNG + ·/SP + 공동/NNG
+대표/NNG
+강문규/NNP
+YMCA/SL
+총무/NNG
+등/NNB
+5/SN + 인/NNG + )/SS + 로/JKB
+창구/NNG + 를/JKO
+일원/NNG + 화/XSN + 하/XSV + 아/EC
+소속/NNG
+회원/NNG + 들/XSN
+가운데/NNG
+명망/NNG
+있/VV + 고/EC
+깨끗/XR + 하/XSA + ㄴ/ETM
+인사/NNG + 들/XSN + 을/JKO
+광역/NNG
+선거/NNG + 에/JKB
+대거/MAG
+출마/NNG + 시키/XSV + ㄴ다는/ETM
+방침/NNG + 을/JKO
+세우/VV + 어/EC
+놓/VX + 고/EC
+있/VX + 다/EF + ./SF
+이/MM
+시민/NNG
+단체/NNG + 들/XSN + 은/JX
+회원/NNG + 들/XSN
+중/NNB
+출마자/NNG + 들/XSN + 을/JKO
+각/MM
+단체/NNG + 에서/JKB
+개별/NNG
+추천/NNG + 하/XSV + 지/EC
+않/VX + 고/EC
+연대/NNG
+회의/NNG + 에/JKB
+개인/NNG
+자격/NNG + 으로/JKB
+합류/NNG + 시키/XSV + 어/EC
+연대/NNG
+회의/NNG
+이름/NNG + 으로/JKB
+후보/NNG + 들/XSN + 을/JKO
+추천/NNG + 하/XSV + 기/ETN + 로/JKB
+하/VV + 았/EP + 다/EF + ./SF
+연대/NNG
+회의/NNG + 는/JX
+이/NP + 에/JKB
+따르/VV + 아/EC
+출마자/NNG
+선정/NNG
+작업/NNG + 에/JKB
+이미/MAG
+착수/NNG + 하/XSV + 았/EP + 으며/EC
+다음/NNG
+주/NNG + 께/XSN
+'/SS + 후보/NNG
+선정/NNG
+위원회/NNG + '/SS + 를/JKO
+공식/NNG
+발족/NNG + 시키/XSV + 어/EC
+각계/NNG + 의/JKG
+추천/NNG + 을/JKO
+받/VV + 은/ETM
+뒤/NNG
+이/MM
+달/NNG
+말/NNB + 께/XSN
+후보자/NNG + 를/JKO
+확정/NNG + 하/XSV + ㄹ/ETM
+계획/NNG + 이/VCP + 다/EF + ./SF
+연대/NNG
+회의/NNG + 를/JKO
+통하/VV + 아/EC
+광역/NNG
+선거/NNG + 에/JKB
+출마/NNG + 하/XSV + ㄹ/ETM
+사람/NNG + 들/XSN + 은/JX
+환경/NNG
+운동/NNG + ,/SP
+소비자/NNG
+운동/NNG + ,/SP
+인권/NNG
+변호사/NNG + ,/SP
+여성/NNG
+운동/NNG + ,/SP
+보건/NNG
+의료/NNG
+운동/NNG
+등/NNB
+각종/NNG
+시민/NNG
+운동/NNG
+단체/NNG + 와/JC
+학계/NNG + ·/SP + 법조/NNG + 계/XSN + 를/JKO
+망라/NNG + 하/XSV + 고/EC
+있/VX + 는데/EC + ,/SP
+서울/NNP + 의/JKG
+경우/NNG
+1/SN + 백/NR
+30/SN + 여/XSN
+명/NNB + 을/JKO
+뽑/VV + 는/ETM
+광역/NNG
+선거/NNG + 에/JKB
+40/SN + ∼/SO + 50/SN + 여/XSN
+명/NNB + 의/JKG
+후보/NNG + 가/JKS
+나서/VV + ㄹ/ETM
+계획/NNG + 이/VCP + ㄴ/ETM
+것/NNB + 으로/JKB
+알리/VV + 어/EC + 지/VX + 었/EP + 다/EF + ./SF
+현재/NNG + 까지/JX
+실무진/NNG
+사이/NNG + 에서/JKB
+출마/NNG
+예상자/NNG + 로/JKB
+거론/NNG + 하/XSV + 고/EC
+있/VX + 는/ETM
+사람/NNG + 들/XSN + 은/JX
+이문옥/NNP
+전/MM
+감사관/NNG + ,/SP
+이각범/NNP
+서울대/NNP
+교수/NNG + ,/SP
+박인제/NNP
+변호사/NNG
+등/NNB + 이/VCP + 다/EF + ./SF
+연대/NNG
+회의/NNG + 는/JX
+이/NP + 를/JKO
+위하/VV + 아/EC
+은평/NNP + ·/SP + 마포/NNP + ·/SP + 도봉구/NNP
+등/NNB
+서울/NNP + 의/JKG
+8/SN + 개/NNB
+지역/NNG + 과/JC
+대구/NNP + ·/SP + 부산/NNP + ·/SP + 광주/NNP + ·/SP + 부천/NNP + ·/SP + 순천/NNP + ·/SP + 거창/NNP
+등/NNB
+지방/NNG + 의/JKG
+15/SN + 개/NNB
+지역/NNG + 에서/JKB
+시민/NNG
+단체/NNG + 에서/JKB
+활동/NNG + 하/XSV + 아/EC
+오/VX + ㄴ/ETM
+지역/NNG
+유권자/NNG + 들/XSN + 로/JKB
+1/SN + 백/NR + 여/XSN
+명/NNB
+규모/NNG + 의/JKG
+'/SS + 지역/NNG
+시민/NNG
+회의/NNG + '/SS + 를/JKO
+이미/MAG
+구성/NNG + ,/SP
+지역/NNG
+내/NNB
+기반/NNG + 을/JKO
+다지/VV + 고/EC
+있/VX + 으며/EC
+광역/NNG
+선거/NNG + 에/JKB
+출마/NNG + 하/XSV + ㄹ/ETM
+모든/MM
+후보/NNG + 들/XSN + 이/JKS
+'/SS + 지역/NNG
+시민/NNG
+회의/NNG + '/SS + 를/JKO
+통하/VV + 아/EC
+지역/NNG
+대표/NNG + 성/XSN + 을/JKO
+확보/NNG + 하/XSV + 게/EC
+하/VX + ㄹ/ETM
+방침/NNG + 이/VCP + 다/EF + ./SF
+연대/NNG
+회의/NNG + 는/JX
+또/MAG
+이번/NNG
+광역/NNG
+선거/NNG + 에서/JKB
+정당/NNG
+정치/NNG + 의/JKG
+틀/NNG + 을/JKO
+벗/VV + 고/EC
+참신/XR + 하/XSA + ㄴ/ETM
+'/SS + 시민/NNG
+대표/NNG + '/SS + 들/XSN + 을/JKO
+대거/MAG
+진출/NNG + 시키/XSV + 기/ETN
+위하/VV + 아서/EC + 는/JX
+시민/NNG
+생활/NNG + 을/JKO
+매개/NNG + 로/JKB
+하/VV + ㄴ/ETM
+정책/NNG
+개발/NNG + 이/JKS
+시급/XR + 하/XSA + 다고/EC
+보/VV + 고/EC
+학/NNG + 계/XSN + 와/JC
+시민/NNG
+단체/NNG
+전문가/NNG + 들/XSN + 로/JKB
+구성/NNG + 되/XSV + ㄴ/ETM
+정책/NNG
+개발/NNG
+팀/NNG + 을/JKO
+구성/NNG + 하/XSV + 아/EC
+환경/NNG + ·/SP + 주택/NNG + ·/SP + 교통/NNG + ·/SP + 청소년/NNG + ·/SP + 노사/NNG + ·/SP + 경제/NNG
+정의/NNG + ·/SP + 소비자/NNG
+문제/NNG
+등/NNB + 의/JKG
+해결/NNG + 을/JKO
+위하/VV + ㄴ/ETM
+정책/NNG
+대안/NNG
+연구/NNG + 에/JKB
+주력/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+연대/NNG
+회의/NNG + 는/JX
+기존/NNG
+정치/NNG + 에/JKB
+물들/VV + 지/EC
+않/VX + 고/EC
+시민/NNG
+운동/NNG + 에/JKB
+적극/NNG + 적/XSN + 이/VCP + 었/EP + 던/ETM
+사람/NNG + 들/XSN + 로/JKB + ,/SP
+도덕/NNG + 적/XSN + 으로/JKB
+깨끗/XR + 하/XSA + 면서/EC
+시민/NNG + 들/XSN + 의/JKG
+이해/NNG + 를/JKO
+충분히/MAG
+반영/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+능력/NNG + 을/JKO
+갖추/VV + ㄴ/ETM
+인사/NNG + 들/XSN + 을/JKO
+대거/MAG
+추천/NNG + ,/SP
+지역/NNG
+내/NNB
+대표/NNG + 성/XSN + 을/JKO
+확보/NNG + 하/XSV + 고/EC
+연구/NNG + 되/XSV + ㄴ/ETM
+정책/NNG
+대안/NNG + 을/JKO
+공동/NNG + 적/XSN + 으로/JKB
+제시/NNG + 하/XSV + ㅁ/ETN + 으로써/JKB
+이번/NNG
+광역/NNG
+선거/NNG + 에서/JKB
+새/MM
+바람/NNG + 을/JKO
+일으키/VV + ㄴ다는/ETM
+전략/NNG + 을/JKO
+세우/VV + 어/EC
+놓/VX + 고/EC
+있/VX + 다/EF + ./SF
+연대/NNG
+회의/NNG + 는/JX
+또/MAG
+이런/MM
+계획/NNG + 을/JKO
+관철/NNG + 하/XSV + 기/ETN
+위하/VV + 아서/EC + 는/JX
+선거법/NNG
+개정/NNG + 이/JKS
+필수/NNG + 적/XSN + 이/VCP + 라고/EC
+보/VV + 고/EC
+경실련/NNG
+등/NNB
+9/SN + 개/NNB
+단체/NNG + 로/JKB
+구성/NNG + 되/XSV + ㄴ/ETM
+공명/XR
+선거/NNG
+실천/NNG
+시민/NNG
+운동/NNG
+협의회/NNG + (/SS + 공선협/NNG + )/SS + 와/JKB
+함께/MAG
+4/SN + 월/NNB
+임시/NNG
+국회/NNG + 에서/JKB
+선거법/NNG
+개정/NNG
+운동/NNG + 도/JX
+벌이/VV + 어/EC
+나가/VX + ㄹ/ETM
+계획/NNG + 이/VCP + 다/EF + ./SF
+연대/NNG
+회의/NNG + 와/JC
+공선협/NNG + 은/JX
+특히/MAG
+후보/NNG
+추천/NNG + 권/XSN + 을/JKO
+정당/NNG + 에/JKB + 만/JX
+주/VV + 고/EC
+있/VX + 는/ETM
+현행/NNG
+선거법/NNG + 이/JKS
+시민/NNG
+단체/NNG + 들/XSN + 의/JKG
+자유/NNG + 롭/XSA + ㄴ/ETM
+선거/NNG
+참여/NNG + 를/JKO
+제한/NNG + 하/XSV + 고/EC
+있/VX + 다고/EC
+보/VV + 고/EC
+개정/NNG + 을/JKO
+위하/VV + 아/EC
+노력/NNG + 하/XSV + ㄹ/ETM
+방침/NNG + 이/VCP + 다/EF + ./SF
+선거법/NNG
+개정/NNG + 과/JKB
+관련/NNG + ,/SP
+이/MM
+단체/NNG + 들/XSN + 은/JX
+△/SW
+선거/NNG
+운동/NNG + 의/JKG
+포괄/NNG + 적/XSN
+제한/NNG + ·/SP + 금지/NNG
+규정/NNG + 을/JKO
+삭제/NNG + 하/XSV + 고/EC
+선거/NNG
+운동/NNG + 을/JKO
+하/VV + 지/EC
+않/VX + 아야/EC
+하/VX + ㄹ/ETM
+사항/NNG + 만/JX + 을/JKO
+규정/NNG + 하/XSV + ㄹ/ETM
+것/NNB
+△/SW
+선거/NNG
+운동/NNG
+방법/NNG
+제한/NNG + 을/JKO
+없애/VV + 고/EC
+하/VV + ㄹ/ETM
+수/NNB
+없/VA + 는/ETM
+운동/NNG
+방법/NNG + 만/JX + 을/JKO
+규정/NNG + 하/XSV + 아/EC
+유권자/NNG + 들/XSN + 의/JKG
+후보자/NNG
+초청/NNG
+토론회/NNG
+개인/NNG
+연설회/NNG
+등/NNB + 을/JKO
+허용/NNG + 하/XSV + ㄹ/ETM
+것/NNB
+△/SW
+기탁금/NNG
+제도/NNG + 의/JKG
+폐지/NNG
+또는/MAG
+축소/NNG
+△/SW
+선거/NNG
+범죄/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+검찰/NNG + 의/JKG
+기소/NNG
+독점/NNG + 권/XSN + 을/JKO
+제한/NNG + 하/XSV + 기/ETN
+위하/VV + 아/EC
+선거/NNG
+범죄/NNG + 를/JKO
+재정/NNG
+신청/NNG
+대상/NNG + 에/JKB
+포함/NNG + 하/XSV + ㄹ/ETM
+것/NNB
+등/NNB + 을/JKO
+국회/NNG
+청원/NNG
+등/NNB + 의/JKG
+방법/NNG + 으로/JKB
+정치/NNG + 권/XSN + 에/JKB
+요구/NNG + 하/XSV + 기/ETN + 로/JKB
+하/VV + 았/EP + 다/EF + ./SF
+연대/NNG
+회의/NNG
+사무국/NNG + 의/JKG
+이덕승/NNP + (/SS + 38/SN + )/SS
+간사/NNG + 는/JX
+이런/MM
+시민/NNG
+단체/NNG + 의/JKG
+움직임/NNG + 에/JKB
+대하/VV + 아/EC
+"/SS + 선거법/NNG
+개정/NNG + 을/JKO
+통하/VV + 아/EC
+자유/NNG + 롭/XSA + ㄴ/ETM
+선거/NNG + 가/JKS
+이루어지/VV + 면/EC
+시민/NNG
+대표/NNG + 들/XSN + 의/JKG
+의회/NNG
+진출/NNG + 이/JKS
+훨씬/MAG
+쉽/VA + 어/EC + 지/VX + ㄹ/ETM
+것/NNB + 으로/JKB
+보/VV + ㄴ다/EC + "/SS + 면서/EC
+"/SS + 1/SN + 백/NR
+30/SN + 여/XSN
+명/NNB
+선/NNG + 의/JKG
+서울시/NNP
+의회/NNG + 에서/JKB
+20/SN + ∼/SO + 30/SN + 명/NNB + 석/NNB + 만/JX
+시민/NNG
+대표/NNG + 가/JKS
+차지/NNG + 하/XSV + 더라도/EC
+행정/NNG
+당국/NNG + 의/JKG
+편의주의/NNG + 적/XSN
+행정/NNG + 과/JC
+여야/NNG
+정당/NNG + 간/NNB + 의/JKG
+담합/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+각종/NNG
+비리/NNG
+등/NNB + 을/JKO
+제도/NNG + 적/XSN + 으로/JKB
+막/VV + 을/ETM
+수/NNB
+있/VV + 을/ETM
+것/NNB + 으로/JKB
+보/VV + ㄴ다/EC + "/SS + 고/JKQ
+말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+1991/SN + //SP + 04/SN + //SP + 05/SN
+03/SN
+본사/NNG
+특파원/NNG
+이라크/NNP
+내전/NNG
+현장/NNG + 을/JKO
+가/VV + 다/EF + :/SP + 1/SN
+'/SS + 해방구/NNG + '/SS + 에/JKB + ㄴ/JX
+화약/NNG
+냄새/NNG
+뒤범벅/NNG
+//SP
+망명/NNG
+지도자/NNG
+귀환/NNG
+집회/NNG
+열광/NNG
+도가니/NNG
+//SP
+"/SS + 쿠르드/NNP
+족/NNG + 은/JX
+무릎/NNG
+꿇/VV + 지/EC
+않/VX + 는다/EC + "/SS
+장담/NNG
+전쟁/NNG + 이/JKS
+할퀴/VV + 고/EC
+가/VX + ㄴ/ETM
+도시/NNG
+자코/NNP + 는/JX
+요란/NNG + 하/XSA + ㄴ/ETM
+함성/NNG + 과/JKB
+함께/MAG
+공포/NNG
+소리/NNG + 로/JKB
+뒤덮이/VV + 어/EC
+있/VX + 었/EP + 다/EF + ./SF
+비운/NNG + 의/JKG
+민족/NNG
+쿠르드/NNP
+족/NNG + 의/JKG
+지도자/NNG + 이/VCP + ㄴ/ETM
+잘/VA + 랄/ETM
+탈라바니/NNP + (/SS + 쿠르디스탄/NNP
+전선/NNG
+의장/NNG + )/SS + 가/JKS
+망명/NNG
+18/SN + 개월/NNB
+만/NNB + 에/JKB
+돌아오/VV + 아/EC
+1/SN + 만/NR
+5/SN + 천/NR + 여/XSN
+명/NNB + 이/JKS
+넘/VV + 는/ETM
+쿠르드/NNP
+사람/NNG + 들/XSN + 이/JKS
+모이/VV + ㄴ/ETM
+가운데/NNG
+대/XPN + 규모/NNG
+집회/NNG + 를/JKO
+갖/VV + 는/ETM
+동안/NNG
+무장/NNG
+민병대/NNG + 는/JX
+미치/VV + ㄴ/ETM
+듯이/NNB
+열광/NNG + 하/XSV + 며/EC
+공포/NNG + 를/JKO
+쏘/VV + 아/EC
+대/VX + 었/EP + 다/EF + ./SF
+91/SN + 년/NNB
+3/SN + 월/NNB
+26/SN + 일/NNB
+오전/NNG
+이라크령/NNG
+쿠르디스탄/NNP + 과/JC
+외부/NNG
+세계/NNG + 를/JKO
+잇/VV + 는/ETM
+교두보/NNG + 이/VCP + 라/EC
+하/VV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+이/MM
+작/VA + 은/ETM
+국경/NNG
+도시/NNG + 는/JX
+전쟁/NNG + ,/SP
+정확히/MAG
+말/NNG + 하/XSV + 아/EC
+내전/NNG + 의/JKG
+상처/NNG + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+온통/MAG
+축제/NNG
+분위기/NNG + 에/JKB
+젖/VV + 어/EC
+있/VX + 었/EP + 다/EF + ./SF
+진흙/NNG + 으로/JKB
+되/VV + ㄴ/ETM
+단층집/NNG
+곳곳/NNG + 에/JKB + 는/JX
+흉물/NNG + 스럽/XSA + ㄴ/ETM
+총탄/NNG
+자국/NNG + 이/JKS
+나/VV + 고/EC
+제법/MAG
+크/VA + ㄴ/ETM
+건물/NNG + 에/JKB
+속하/VV + 는/ETM
+2/SN + ∼/SO + 3/SN + 층/NNG + 짜리/XSN
+건물/NNG + 들/XSN + 도/JX
+검/VA + 게/EC
+그슬리/VV + ㄴ/ETM
+모습/NNG + 이/JKS
+많/VA + 았/EP + 다/EF + ./SF
+그런데/MAJ + 도/JX
+아이/NNG + 들/XSN + 은/JX
+아이/NNG + 대로/JX
+노인/NNG + 들/XSN + 은/JX
+노인/NNG + 대로/JX
+저마다/MAG
+좁/VA + 은/ETM
+골목길/NNG + 을/JKO
+메우/VV + ㄴ/ETM
+채/NNB
+뜻/NNG + 을/JKO
+잘/MAG
+이해/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+없/VA + 는/ETM
+과정/NNG + 과/JKB + 도/JX
+같/VA + 은/ETM
+구호/NNG + 를/JKO
+외치/VV + 거나/EC
+노래/NNG + 를/JKO
+부르/VV + ㄴ다/EF + ./SF
+"/SS + 우리/NP
+쿠르드인/NNG + 은/JX
+결코/MAG
+무릎/NNG
+꿇/VV + 지/EC
+않/VX + 을/ETM
+것/NNB + 이/VCP + ㅂ니다/EF + ./SF
+반드시/MAG
+이기/VV + ㄹ/ETM
+것/NNB + 이/VCP + ㅂ니다/EF + ./SF + "/SS
+쿠르드/NNP
+족/NNG + 의/JKG
+오랜/MM
+저항/NNG
+역사/NNG + 에서/JKB
+새롭/VA + ㄴ/ETM
+세대/NNG + 의/JKG
+지도자/NNG + 로/JKB
+간주/NNG + 되/XSV + 는/ETM
+탈라바니/NNP + 가/JKS
+연설/NNG + 과/JKB
+함께/MAG
+주먹/NNG + 을/JKO
+휘두르/VV + 자/EC
+사람/NNG + 들/XSN + 은/JX
+금방/MAG + 이/VCP + 라도/EC
+새롭/VA + ㄴ/ETM
+세상/NNG + 이/JKS
+오/VV + ㄹ/ETM
+것/NNB + 으로/JKB
+생각/NNG + 하/XSV + 는/ETM
+듯/NNB + 하/XSA + 았/EP + 다/EF + ./SF
+티그리스/NNP
+강/NNG + 을/JKO
+사이/NNG + 에/JKB
+두/VV + 고/EC
+이/NP + 처럼/JKB
+이라크령/NNG
+쿠르디스탄/NNP + 은/JX
+건너편/NNG
+시리아/NNP + 와/JKB + 는/JX
+전혀/MAG
+딴판/NNG + 으로/JKB
+알/VV + ㄹ/ETM
+수/NNB
+없/VA + 는/ETM
+열기/NNG + 와/JC
+흥분/NNG
+그리고/MAJ
+공기/NNG
+속/NNG + 을/JKO
+떠돌/VV + 아/EC
+다니/VV + 는/ETM
+화약/NNG
+냄새/NNG + 가/JKS
+뒤범벅/NNG + 되/XSV + 어/EC
+있/VX + 었/EP + 다/EF + ./SF
+마치/MAG
+이/MM
+땅/NNG + 은/JX
+그/MM
+누구/NP + 도/JX
+쉽사리/MAG
+감지/NNG + 하/XSV + 기/ETN
+어렵/VA + ㄴ/ETM
+힘/NNG + 에/JKB
+떠받히/VV + 어/EC
+예상/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+없/VA + 는/ETM
+곳/NNG + 으로/JKB
+흐르/VV + 어/EC
+가/VV + 고/EC
+있/VX + 는/ETM
+것/NNB + 만/JX
+같/VA + 았/EP + 다/EF + ./SF
+쿠르디스탄/NNP + 으로/JKB
+가/VV + 는/ETM
+길/NNG + 은/JX
+멀/VA + 고/EC
+험난/XR + 하/XSA + 았/EP + 다/EF + ./SF
+이라크/NNP
+현장/NNG
+취재/NNG + 길/NNG + 을/JKO
+찾아내/VV + ㄴ/ETM
+뒤/NNG
+이라크/NNP
+입국/NNG + 을/JKO
+위하/VV + 아/EC
+요르단/NNP + 의/JKG
+수도/NNG
+암만/NNP + 에서/JKB
+기다리/VV + ㄴ/ETM
+것/NNB + 이/JKS
+6/SN + 일/NNB + ./SF
+시리아/NNP + 에서/JKB
+이리/MAG
+뛰/VV + 고/EC
+저리/MAG
+뛰/VV + ㄴ/ETM
+끝/NNG + 에/JKB
+티그리스/NNP
+강/NNG + 을/JKO
+건너/VV + 어/EC
+이라크/NNP
+땅/NNG + 을/JKO
+밟/VV + 기/ETN + 까지/JX
+5/SN + 일/NNB + ./SF
+날짜/NNG + 상/XSN + 으로/JKB + 도/JX
+모두/MAG
+열/NR
+하루/NNG + 가/JKS
+걸리/VV + 어야/EC + 만/JX
+하/VX + 았/EP + 다/EF + ./SF
+아마/MAG
+베이루트/NNP + 의/JKG
+탈라바니/NNP + 를/JKO
+제때/NNG + 에/JKB
+찾아가/VV + 아/EC
+제때/NNG + 에/JKB
+만나/VV + 지/EC
+않/VX + 았/EP + 다면/EC
+불/XPN + 가능/NNG + 하/XSA + 았/EP + 을지/EF + 도/JX
+모르/VV + ㄴ다/EF + ./SF
+3/SN + 월/NNB
+11/SN + 일/NNB + 부터/JX
+베이루트/NNP + 에서/JKB
+열리/VV + ㄴ/ETM
+이라크/NNP
+반/XPN + 정부/NNG
+단체/NNG
+지도자/NNG + 들/XSN + 의/JKG
+회의/NNG + 를/JKO
+취재/NNG + 하/XSV + 러/EC
+나서/VV + 었/EP + 다가/EC
+시리아/NNP + 의/JKG
+다마스쿠스/NNP + 까지/JX
+쫓아가/VV + 아/EC
+탈라바니/NNP + 를/JKO
+만나/VV + 면서/EC
+이라크행/NNG + 의/JKG
+문/NNG + 은/JX
+조금/NNG + 씩/XSN + ,/SP
+그러나/MAJ
+확실/XR + 하/XSA + 게/EC
+열리/VV + ㄴ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+3/SN + 월/NNB
+15/SN + 일/NNB
+기자/NNG + 와/JKB
+회견/NNG + 하/XSV + ㄴ/ETM
+탈라바니/NNP
+의장/NNG + 은/JX
+이미/MAG
+쿠르드인/NNG + 의/JKG
+참상/NNG + 과/JC
+이라크/NNP
+정부/NNG + 의/JKG
+'/SS + 만행/NNG + '/SS + 을/JKO
+알리/VV + 기/ETN
+위하/VV + 아/EC
+서방/NNG
+기자/NNG + 들/XSN + 을/JKO
+쿠르디스탄/NNP + 으로/JKB
+초청/NNG + 하/XSV + ㄹ/ETM
+방침/NNG + 이/VCP + 라고/EC
+밝히/VV + 었/EP + 다/EF + ./SF
+이/MM
+기회/NNG + 를/JKO
+놓치/VV + ㄹ/ETM
+수/NNB + 는/JX
+없/VA + 었/EP + 다/EF + ./SF
+그때/NNG + 까지/JX + 만/JX
+하/VV + 더라도/EC
+</SS + CNN/SL
+방송/NNG + >/SS + 의/JKG
+피터/NNP
+아넷/NNP + 마저/JX
+이라크/NNP
+당국/NNG + 에/JKB
+의하/VV + 아/EC
+바그다드/NNP + 에서/JKB
+빠지/VV + 어/EC
+나오/VV + 아야/EC + 만/JX
+하/VX + 았/EP + 던/ETM
+상황/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+비록/MAG
+</SS + CNN/SL + >/SS + 이/JKS
+걸프/NNP
+전쟁/NNG
+중/NNB
+가장/MAG
+중요/NNG + 하/XSA + ㄴ/ETM
+뉴스/NNG
+현장/NNG + 이/VCP + ㄴ/ETM
+바그다드/NNP + 에서/JKB
+이라크/NNP
+쪽/NNB + 의/JKG
+진상/NNG
+가운데/NNG
+극히/MAG
+일부/NNG + 를/JKO
+전하/VV + 아/EC
+오/VX + 기/ETN + 는/JX
+하/VV + 았/EP + 어도/EC
+여전히/MAG
+그/MM
+대부분/NNG + 은/JX
+비밀/NNG + 과/JC
+침묵/NNG
+그리고/MAJ
+보도/NNG
+관제/NNG
+속/NNG + 에/JKB
+휘감기/VV + 어/EC
+있/VX + 었/EP + 다/EF + ./SF
+이/MM
+때문/NNB + 에/JKB
+요르단/NNP
+수도/NNG
+암만/NNP + 에/JKB + 만/JX + 도/JX
+1/SN + 천/NR + 여/XSN
+명/NNB + 의/JKG
+기자/NNG + 들/XSN + 이/JKS
+길/VA + 게/EC + 는/JX
+두/MM
+달/NNG + 씩/XSN + ,/SP
+짧/VA + 게/EC + 는/JX
+한/MM
+달/NNG + 씩/XSN
+죽치/VV + 면서/EC
+이라크/NNP
+쪽/NNB + 의/JKG
+'/SS + 입국/NNG
+허가서/NNG + '/SS + 만/JX + 을/JKO
+기다리/VV + 고/EC
+있/VX + 었/EP + 던/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+게다가/MAG
+종전/NNG
+직후/NNG + 부터/JX
+이라크/NNP
+남부/NNG + 와/JC
+북부/NNG + 에서/JKB
+불타오르/VV + 기/ETN
+시작/NNG + 하/XSV + ㄴ/ETM
+시아파/NNP
+회교도/NNG + 와/JC
+쿠르드/NNP
+족/NNG + 의/JKG
+봉기/NNG
+소식/NNG + 은/JX
+이라크/NNP + 의/JKG
+장래/NNG + 뿐/JX + 만/JX
+아니/VCN + 라/EC
+중동/NNP + 의/JKG
+전후/NNG
+질서/NNG + 에/JKB + 도/JX
+중대/NNG + 하/XSA + ㄴ/ETM
+영향/NNG + 을/JKO
+끼치/VV + ㄹ/ETM
+수/NNB
+있/VV + 다는/ETM
+점/NNG + 에서/JKB
+가뜩이나/MAG
+초조/NNG + 하/XSA + 아/EC + 하/VX + 고/EC
+있/VX + 는/ETM
+기자/NNG + 들/XSN + 의/JKG
+발/NNG + 을/JKO
+구르/VV + 게/EC
+하/VX + 기에/EC
+충분/XR + 하/XSA + 았/EP + 다/EF + ./SF
+그런/MM
+상황/NNG + 에서/JKB
+쿠르드/NNP
+지도자/NNG
+탈라바니/NNP + 이/VCP + 라는/ETM
+중요/NNG + 하/XSA + ㄴ/ETM
+'/SS + 열쇠/NNG + '/SS + 를/JKO
+찾아내/VV + 는/ETM
+행운/NNG + 이/JKS
+뒤따르/VV + ㄴ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+드디어/MAG
+3/SN + 월/NNB
+23/SN + 일/NNB
+오전/NNG
+독일/NNP + ·/SP + 프랑스/NNP
+등/NNB
+서방/NNG
+기자/NNG
+3/SN + 명/NNB + 과/JC
+런던/NNP + 에서/JKB
+발행/NNG + 되/XSV + 는/ETM
+아랍어/NNP
+신문/NNG
+</SS + 알하야트/NNP + >/SS + 의/JKG
+프라하/NNP
+특파원/NNG
+등/NNB + 과/JKB
+함께/MAG
+시리아/NNP
+북부/NNG + 의/JKG
+국경/NNG
+도시/NNG
+카미실리/NNP + 로/JKB
+떠나/VV + 았/EP + 다/EF + ./SF
+하루/NNG
+종일/NNG
+비/NNG + 가/JKS
+내리/VV + 고/EC
+있/VX + 었/EP + 다/EF + ./SF
+기자/NNG + 들/XSN + 은/JX
+카미실리/NNP + 의/JKG
+시리아/NNP
+바트당/NNP
+청년/NNG
+회관/NNG + 에서/JKB
+무장/NNG
+민병/NNG + 들/XSN + 의/JKG
+경호/NNG + 를/JKO
+받/VV + 고/EC
+있/VX + 는/ETM
+탈라바니/NNP + 를/JKO
+만나/VV + 아/EC
+한/MM
+시간/NNG
+이상/NNG
+쿠르드인/NNG + 의/JKG
+봉기/NNG
+상황/NNG
+등/NNB + 에/JKB
+대하/VV + 아/EC
+듣/VV + 었/EP + 다/EF + ./SF
+"/SS + 쿠르드인/NNG + 이/JKS
+이틀/NNG + 째/XSN
+이라크/NNP
+북부/NNG + 의/JKG
+유전/NNG
+도시/NNG
+키르쿠크/NNP + 를/JKO
+장악/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+키르쿠크/NNP + 는/JX
+이라크/NNP
+경제/NNG + 에서/JKB
+엄청나/VA + ㄴ/ETM
+비중/NNG + 을/JKO
+차지/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+모술/NNP + 을/JKO
+제외/NNG + 하/XSV + ㄴ/ETM
+쿠르디스탄/NNP
+어디/NP + 이/VCP + 든/EC
+자유/NNG + 롭/XSA + 게/EC
+취재/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 도록/EC
+지원/NNG + 하/XSV + 겠/EP + 다/EC + "/SS
+자신감/NNG + 에/JKB
+넘치/VV + 어/EC
+있/VX + 는/ETM
+그/NP + 는/JX
+이어/MAG
+쿠르디스탄/NNP
+전선/NNG + 이/JKS
+이라크/NNP
+서부/NNG + 의/JKG
+모술/NNP
+일대/NNG + 를/JKO
+제외/NNG + 하/XSV + ㄴ/ETM
+쿠르디스탄/NNP + 의/JKG
+90/SN + %/SW
+이상/NNG + 을/JKO
+해방/NNG + 시키/XSV + 었/EP + 다고/EC
+주장/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+24/SN + 일/NNB
+오전/NNG
+비/NNG + 가/JKS
+계속/MAG
+퍼붓/VV + 는/ETM
+가운데/NNG
+티그리스/NNP
+강/NNG + 을/JKO
+건너/VV + 기/ETN
+위하/VV + 아/EC
+탈라바니/NNP + 가/JKS
+마련/NNG + 하/XSV + 아/EC
+주/VX + ㄴ/ETM
+군용/NNG
+트럭/NNG
+뒤/NNG + 칸/NNG + 에/JKB
+타/VV + ㄴ/ETM
+한국/NNP
+기자/NNG
+3/SN + 명/NNB + 은/JX
+독자/NNG + 적/XSN + 으로/JKB
+자동차/NNG + 를/JKO
+마련/NNG + 하/XSV + ㄴ/ETM
+서방/NNG
+기자/NNG + 들/XSN + 과/JKB
+함께/MAG
+카미실리/NNP + 를/JKO
+출발/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+그러나/MAJ
+터키/NNP
+산악/NNG
+지역/NNG + 에/JKB
+쏟아지/VV + ㄴ/ETM
+비/NNG + 는/JX
+티그리스/NNP
+강/NNG + 을/JKO
+불리/VV + 어/EC
+놓/VX + 았/EP + 고/EC
+티그리스/NNP
+강/NNG + 으로/JKB
+접근/NNG + 하/XSV + 는/ETM
+길/NNG + 조차/JX
+진창/NNG + 을/JKO
+이루/VV + 고/EC
+있/VX + 었/EP + 다/EF + ./SF
+기자/NNG + 들/XSN + 은/JX
+늪지대/NNG + 가/JKS
+시작/NNG + 되/XSV + 는/ETM
+작/VA + 은/ETM
+강가/NNG + 에서/JKB
+모두/MAG
+자동차/NNG + 에서/JKB
+트랙터/NNG + 로/JKB
+옮기/VV + 어/EC
+타/VV + 아야/EC + 만/JX
+하/VX + 았/EP + 다/EF + ./SF
+늪지대/NNG + 는/JX
+1/SN + 시간/NNG
+가까이/MAG
+계속/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+오후/NNG
+1/SN + 시/NNB
+40/SN + 분/NNB
+페시카부르/NNP + 에/JKB
+도착/NNG + 하/XSV + 았/EP + 으나/EC
+쿠르드/NNP
+민병대/NNG
+장교/NNG + 는/JX
+이/MM
+곳/NNG + 에/JKB + 는/JX
+동력선/NNG + 이/JKS
+없/VA + 어/EC
+불어나/VV + ㄴ/ETM
+강물/NNG + 을/JKO
+건너/VV + ㄹ/ETM
+수/NNB
+없/VA + 다면서/EC
+다음날/NNG
+마련/NNG + 하/XSV + 아/EC
+보/VX + 겠/EP + 다고/EC
+말/NNG + 하/XSV + 아/EC
+오/VX + 았/EP + 다/EF + ./SF
+우리/NP
+일행/NNG
+3/SN + 명/NNB + 은/JX
+다시/MAG
+돌아오/VV + ㄹ/ETM
+것/NNB + 을/JKO
+생각/NNG + 하/XSV + 니/EC
+아득/XR + 하/XSA + 아/EC
+말키예/NNP + 에서/JKB
+하루/NNG + 를/JKO
+묵/VV + 기/ETN + 로/JKB
+하/VV + 았/EP + 다/EF + ./SF
+우리/NP + 는/JX
+아델하지/NNP + 이/VCP + 라는/ETM
+청년/NNG + 의/JKG
+집/NNG + 에서/JKB
+하루/NNG + 를/JKO
+민박/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+말키예/NNP + 의/JKG
+쿠르드인/NNG + 들/XSN + 은/JX
+기자/NNG + 들/XSN + 이/JKS
+자신/NNG + 들/XSN + 의/JKG
+문제/NNG + 에/JKB
+관심/NNG + 을/JKO
+보이/VV + ㄴ다는/ETM
+사실/NNG + 만/JX + 으로/JKB + 도/JX
+기뻐하/VV + 았/EP + 다/EF + ./SF
+마을/NNG + 에서/JKB + 는/JX
+주민/NNG + 들/XSN + 이/JKS
+나오/VV + 아/EC
+민요/NNG + 를/JKO
+부르/VV + 며/EC
+환영/NNG + 하/XSV + 기/ETN + 도/JX
+하/VV + 았/EP + 다/EF + ./SF
+이튿날/NNG + 이/VCP + ㄴ/ETM
+25/SN + 일/NNB
+오후/NNG
+5/SN + 시/NNB
+10/SN + 분/NNB
+우리/NP + 는/JX
+조그맣/VA + ㄴ/ETM
+모터/NNG
+보트/NNG + 에/JKB
+함께/MAG
+오르/VV + 아/EC
+티그리스/NNP
+강/NNG + 으로/JKB
+뛰/VV + 어/EC
+들/VX + 었/EP + 다/EF + ./SF
+강/NNG + 은/JX
+유량/NNG + 이나/JC
+유속/NNG + 이/JKS
+전혀/MAG
+줄/VV + ㄹ지/EC
+않/VX + 아/EC
+3/SN + 인/NNG + 승/NNG
+보트/NNG + 로/JKB
+건너/VV + 기에/EC + 는/JX
+위험/NNG + 하/XSA + 았/EP + 다/EF + ./SF
+강물/NNG + 을/JKO
+따르/VV + 아/EC
+내리/VV + 어/EC
+오/VX + 다가/EC
+다시/MAG
+거스르/VV + 어/EC
+오르/VV + 아/EC
+가/VX + 는/ETM
+배/NNG + 가/JKS
+유속/NNG + 에/JKB
+밀리/VV + 어/EC
+움직이/VV + 지/EC
+않/VX + 을/ETM
+때/NNG + 는/JX
+아찔/XR + 하/XSA + ㄴ/ETM
+생각/NNG + 마저/JX
+들/VV + 었/EP + 다/EF + ./SF
+그렇/VA + 게/EC
+하/VV + ㄴ/ETM
+끝/NNG + 에/JKB
+마침내/MAG
+전쟁/NNG + 과/JC
+내전/NNG + 의/JKG
+땅/NNG + ,/SP
+이라크/NNP + 에/JKB
+닿/VV + 은/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+1991/SN + //SP + 05/SN + //SP + 05/SN
+03/SN
+사태/NNG
+수습/NNG
+능력/NNG
+잃/VV + 은/ETM
+정치/NNG + 권/XSN + (/SS + 위기/NNG
+시국/NNG
+무엇/NP + 이/JKS
+문제/NNG + 이/VCP + ㄴ가/EF + :/SP + 1/SN + )/SS
+여권/NNG + ,/SP
+정치/NNG
+냉소주의/NNG
+편승/NNG
+체제/NNG
+수호/NNG
+열중/NNG
+//SP
+야/NNG + 권/XSN + ,/SP
+진단/NNG + ·/SP + 처방/NNG
+다르/VA + 아/EC
+공동/NNG
+전선/NNG
+형성/NNG
+못/MAG + 하/XSV + 아/EC
+강경대/NNP
+씨/NNB
+타살/NNG
+사건/NNG + 으로/JKB
+촉발/NNG + 되/XSV + ㄴ/ETM
+위기/NNG
+정국/NNG + 의/JKG
+본질/NNG + 은/JX
+무엇/NP + 이/VCP + ㄴ가/EF + ./SF
+'/SS + 위기/NNG + '/SS + 를/JKO
+느끼/VV + 기/ETN + 조차/JX
+'/SS + 거부/NNG + '/SS + 하/XSV + 고/EC
+공안/NNG
+통치/NNG + 의/JKG
+단맛/NNG + 을/JKO
+잃/VV + 지/EC
+않/VX + 으려는/ETM
+청와대/NNP + 와/JC
+민자당/NNP + 이/JKS
+꿈꾸/VV + 는/ETM
+정치/NNG
+체제/NNG + 는/JX
+어떤/MM
+것/NNB + 이/VCP + ㄹ까/EF + ./SF
+강/NNP + 씨/NNB
+사건/NNG + 은/JX
+노태우/NNP
+대통령/NNG + 과/JC
+측근/NNG
+공안/NNG
+세력/NNG
+그리고/MAJ
+민자당/NNP + 의/JKG
+본질/NNG + 을/JKO
+폭로/NNG + 하/XSV + 아/EC
+주/VX + 는/ETM
+계기/NNG + 가/JKC
+되/VV + 었/EP + 다/EF + ./SF
+그/NP + 들/XSN + 이/JKS
+입/NNG + 에/JKB
+올리/VV + 는/ETM
+민주주의/NNG + ,/SP
+그/NP + 들/XSN + 이/JKS
+'/SS + 정치/NNG + '/SS
+아니/VCN + ㄴ/ETM
+'/SS + 통치/NNG + '/SS
+대상/NNG + 으로/JKB
+여기/VV + 는/ETM
+국민/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+인식/NNG + 의/JKG
+일단/NNG + 을/JKO
+극명/NNG + 하/XSA + 게/EC
+보이/VV + 어/EC
+주/VX + ㄴ/ETM
+것/NNB + 이/JKS
+강/NNP + 씨/NNB
+사건/NNG + 이/VCP + 었/EP + 다고/EC
+보/VV + ㄹ/ETM
+수/NNB
+있/VV + 다/EF + ./SF
+강/NNP + 씨/NNB
+타살/NNG + 과/JC
+잇따르/VV + ㄴ/ETM
+분신/NNG
+사건/NNG + 의/JKG
+격랑/NNG + 에/JKB
+휩쓸리/VV + ㄴ/ETM
+정치/NNG + 권/XSN + 의/JKG
+수습/NNG
+대책/NNG + 을/JKO
+짚/VV + 어/EC
+보/VX + 고/EC
+공안/NNG
+통치/NNG + 의/JKG
+본질/NNG + ,/SP
+말/NNG + 로/JKB + 만/JX
+떠들/VV + 는/ETM
+민주/NNP
+개혁/NNG + 의/JKG
+허상/NNG + 을/JKO
+해부/NNG + 하/XSV + 아/EC
+보/VX + ㄴ다/EF + ./SF
+강경대/NNP
+씨/NNB
+타살/NNG
+사건/NNG + 과/JC
+잇따르/VV + ㄴ/ETM
+대학/NNG + 생/XSN
+분신/NNG
+사망/NNG + 에/JKB + 도/JX
+여야/NNG + 는/JX
+머리/NNG + 를/JKO
+맞대/VV + 는/ETM
+대책/NNG
+회의/NNG
+한/MM
+번/NNB
+갖/VV + 지/EC
+못하/VX + 았/EP + 다/EF + ./SF
+정치/NNG + 권/XSN + 이/JKS
+이/NP + 처럼/JKB
+중대/NNG + 하/XSA + ㄴ/ETM
+시국/NNG
+사건/NNG + 을/JKO
+수습/NNG + 하/XSV + ㄹ/ETM
+능력/NNG + 이/JKS
+없/VA + 는/ETM
+것/NNB + 이/VCP + ㄴ가/EC + ,/SP
+아니/VCN + 면/EC
+수습/NNG + 하/XSV + ㄹ/ETM
+의지/NNG + 조차/JX
+갖/VV + 지/EC
+않/VX + 는/ETM
+것/NNB + 이/VCP + ㄴ가/EF + ./SF
+여야/NNG
+하/VX + ㄹ/ETM
+것/NNB
+없이/MAG
+정치/NNG + 권/XSN + 이/JKS
+사태/NNG
+수습/NNG + 에/JKB
+앞장서/VV + 었/EP + 더라면/EC
+최소한/NNG
+3/SN + 건/NNB + 의/JKG
+분신/NNG
+사건/NNG + 은/JX
+막/VV + 을/ETM
+수/NNB
+있/VV + 지/EC
+않/VX + 았/EP + 을까/EF + ./SF
+이러/XR + 하/XSA + ㄴ/ETM
+물음/NNG + 들/XSN + 은/JX
+다르/VA + ㅁ/ETN
+아니/VCN + ㄴ/ETM
+'/SS + 이/MM
+땅/NNG + 에/JKB
+과연/MAG
+정치/NNG + 가/JKS
+있/VV + 는가/EC + '/SS + 하/VV + 는/ETM
+원초/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+회의/NNG + 에서/JKB
+비롯/XR + 되/XSV + ㄴ다/EF + ./SF
+각종/NNG
+여론/NNG
+조사/NNG + 에서/JKB
+드러나/VV + 듯/EC
+국민/NNG + 의/JKG
+50/SN + %/SW
+이상/NNG + 이/JKS
+지지/NNG + 하/XSV + 는/ETM
+정당/NNG + 이/JKS
+존재/NNG + 하/XSV + 지/EC
+않/VX + 는다는/ETM
+것/NNB + 은/JX
+정치/NNG
+부재/NNG
+자체/NNG + 를/JKO
+의미/NNG + 하/XSV + 는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+곧/MAG
+정치/NNG + 적/XSN
+무/XPN + 관심/NNG + 과/JC
+정치/NNG
+불신/NNG + 이/JKS
+제도/NNG
+정치/NNG + 권/XSN + 으로/JKB
+하여금/MAG
+강경대/NNP
+씨/NNB
+타살/NNG
+사건/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+수습/NNG
+책임/NNG + 을/JKO
+회피/NNG + 하/XSV + 게/EC
+하/VX + 는/ETM
+구실/NNG + 이/JKC
+되/VV + 거나/EC
+국면/NNG
+진정/NNG + 을/JKO
+위하/VV + ㄴ/ETM
+대책/NNG
+마련/NNG + 에/JKB
+신속히/MAG
+나서/VV + 지/EC
+못하/VX + 게/EC
+하/VX + 는/ETM
+요인/NNG + 이/JKC
+되/VV + 고/EC
+있/VX + 는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+이를테면/MAG
+집권/NNG
+민자당/NNP + 이/JKS
+"/SS + 지금/NNG + 의/JKG
+상황/NNG + 은/JX
+87/SN + 년/NNB
+6/SN + 월/NNB
+항쟁/NNG
+때/NNG + 와/JKB + 는/JX
+판이/XR + 하/XSA + 다/EC + "/SS + 면서/EC
+안이/XR + 하/XSA + ㄴ/ETM
+태도/NNG + 로/JKB
+일관/NNG + 하/XSV + 는/ETM
+것/NNB + 은/JX
+정치/NNG + 와/JC
+정치/NNG + 적/XSN
+사건/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+일반/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+냉소주의/NNG + 에/JKB
+편승/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 이/VCP + 라는/ETM
+인상/NNG + 이/JKS
+짙/VA + 다/EF + ./SF
+그러/VV + 기에/EC
+민자당/NNP + 은/JX
+강경대/NNP
+씨/NNB
+사건/NNG + 에/JKB
+대하/VV + 아/EC
+초기/NNG + 에/JKB + 는/JX
+우발/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+사고/NNG + 이/VCP + 며/EC
+'/SS + 시간/NNG + 이/JKS
+약/NNG + '/SS + 이/VCP + 라는/ETM
+식/NNB + 의/JKG
+안일/NNG + 하/XSA + ㄴ/ETM
+태세/NNG + 로/JKB
+대처/NNG + 하/XSV + 는/ETM
+모습/NNG + 을/JKO
+보이/VV + 었/EP + 던/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+자기/NP
+당/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+지지/NNG + 율/XSN + 이/JKS
+10/SN + %/SW + 를/JKO
+넘나들/VV + 는/ETM
+한심/XR + 하/XSA + ㄴ/ETM
+지경/NNB + 이/VCP + 지만/EC
+지나/VV + ㄴ/ETM
+3/SN + 월/NNB
+기초/NNG
+회의/NNG
+의원/NNG
+선거/NNG + 가/JKS
+압승/NNG + 으로/JKB
+끝나/VV + 았/EP + 고/EC + ,/SP
+친/XPN + 여/NNG
+성향/NNG
+지역/NNG
+유지/NNG + 들/XSN + 의/JKG
+자금/NNG + 과/JC
+조직/NNG + 을/JKO
+동원/NNG + 하/XSV + 면/EC
+광역/NNG
+선거/NNG + 도/JX
+어렵/VA + 지/EC
+않/VX + 게/EC
+요리/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 다는/ETM
+것/NNB + 이/JKS
+민자당/NNP + 의/JKG
+판단/NNG + 이/VCP + 다/EF + ./SF
+더욱이/MAG
+국민/NNG + 이/JKS
+원하/VV + 지/EC
+않/VX + 는다/EC
+하/VV + 아도/EC
+내각/NNG + 제/XSN
+개헌/NNG + 을/JKO
+기필코/MAG
+관철/NNG + 시키/XSV + 겠/EP + 다는/ETM
+꿈/NNG + 을/JKO
+버리/VV + 지/EC
+않/VX + 고/EC
+있/VX + 는/ETM
+여권/NNG + 으로서/JKB + 는/JX
+국민/NNG + 들/XSN + 의/JKG
+정치/NNG + 적/XSN
+무/XPN + 관심/NNG + 은/JX
+더/MAG + 하/XSV + ㄹ/ETM
+나위/NNB
+없/VA + 는/ETM
+좋/VA + 은/ETM
+환경/NNG + 이/VCP + ㄴ/ETM
+셈/NNB + 이/VCP + 다/EF + ./SF
+따라서/MAJ
+이번/NNG
+사태/NNG + 를/JKO
+보/VV + 는/ETM
+여권/NNG + 의/JKG
+시각/NNG + 은/JX
+국민/NNG
+여론/NNG + 을/JKO
+대수/NNG + 롭/XSA + 지/EC
+않/VX + 게/EC
+여기/VV + 는/ETM
+쪽/NNG + 으로/JKB
+나타나/VV + 고/EC
+있/VX + 다/EF + ./SF
+지난달/NNG
+26/SN + 일/NNB
+강경대/NNP
+씨/NNB
+사건/NNG + 이/JKS
+터지/VV + 었/EP + 는데/EC + 도/JX
+노태우/NNP
+대통령/NNG + 은/JX
+주말/NNG
+휴가/NNG + 를/JKO
+위하/VV + 아/EC
+27/SN + 일/NNB
+청남대/NNP + 로/JKB
+내리/VV + 어/EC
+가/VX + 았/EP + 다/EF + ./SF
+그날/NNG
+노/NNP
+대통령/NNG + 이/JKS
+겨우/MAG
+내놓/VV + 은/ETM
+사태/NNG
+수습책/NNG + 은/JX
+안응모/NNP
+내무/NNG
+장관/NNG + 의/JKG
+인책/NNG
+경질/NNG + 과/JC
+유감/NNG
+표시/NNG + 이/VCP + 었/EP + 을/ETM
+뿐/NNB + 이/VCP + 다/EF + ./SF
+야당/NNG + 들/XSN + 이/JKS
+노/NNP
+대통령/NNG + 의/JKG
+사과/NNG + 와/JC
+노재봉/NNP
+내각/NNG
+총사퇴/NNG + ,/SP
+백골단/NNG
+해체/NNG + 를/JKO
+날/NNG + 마다/JX
+촉구/NNG + 하/XSV + 았/EP + 지만/EC
+노/NNP
+대통령/NNG + 은/JX
+침묵/NNG + 을/JKO
+지키/VV + 다/EC
+지나/VV + ㄴ/ETM
+2/SN + 일/NNB + 에서/JKB + 야/JX
+"/SS + 이번/NNG
+일/NNG + 로/JKB
+국민/NNG + 들/XSN + 에게/JKB
+슬픔/NNG + 과/JC
+고통/NNG + 을/JKO
+안기/VV + 어/EC
+주/VX + ㄴ/ETM
+데/NNB
+대하/VV + 아/EC
+다시/MAG
+한/MM
+번/NNB
+송구/XR + 스럽/XSA + 게/EC
+생각/NNG + 하/XSV + ㄴ다/EC + "/SS + 고/JKQ
+비로소/MAG
+'/SS + 사과/NNG + 의/JKG
+뜻/NNG + '/SS + 을/JKO
+밝히/VV + 었/EP + 다/EF + ./SF
+그나마/MAG + 도/JX
+대/NNG
+국민/NNG
+직접/NNG
+담화/NNG + 나/JC
+회견/NNG + 이/JKC
+아니/VCN + ㄴ/ETM
+김영삼/NNP
+민자당/NNP
+대표/NNG
+최고/NNG
+위원/NNG + 과/JKB
+만나/VV + 는/ETM
+자리/NNG + 를/JKO
+빌리/VV + ㄴ/ETM
+것/NNB + 이/VCP + 었/EP + 다/EF + ./SF
+민자당/NNP
+안/NNG + 에서/JKB + 도/JX
+사태/NNG + 의/JKG
+심각/XR + 성/XSN + 을/JKO
+인식/NNG + 하/XSV + 기/ETN + 보다/JKB + 는/JX
+일과/NNG + 성/XSN
+사건/NNG + 으로/JKB
+여기/VV + 어/EC
+적당히/MAG
+호도/NNG + 하/XSV + 려는/ETM
+분위기/NNG + 가/JKS
+지배/NNG + 적/XSN + 이/VCP + 었/EP + 다/EF + ./SF
+지나/VV + ㄴ/ETM
+1/SN + 일/NNB
+당무/NNG
+회의/NNG + 에서/JKB
+황병태/NNP + ·/SP + 황낙주/NNP
+의원/NNG
+등/NNB
+민주/NNP + 계/XSN
+쪽/NNB + 에서/JKB
+시위/NNG
+진압/NNG
+방법/NNG
+개선/NNG
+등/NNB
+대응책/NNG + 을/JKO
+제시/NNG + 하/XSV + 았/EP + 지만/EC
+민정/NNP + ·/SP + 공화/NNP + 계/XSN
+쪽/NNB + 의/JKG
+체제/NNG
+수호/NNG
+발언/NNG + 에/JKB
+밀리/VV + 었/EP + 다/EF + ./SF
+그/MM
+뒤/NNG
+청와대/NNP
+쪽/NNB + 과/JC
+민자당/NNP + 의/JKG
+공안/NNG
+통치/NNG
+존속/NNG
+의지/NNG + 는/JX
+지나/VV + ㄴ/ETM
+3/SN + 일/NNB
+'/SS + 백골단/NNG
+해체/NNG
+절대/NNG
+불가/NNG
+방침/NNG + '/SS
+표명/NNG + 으로/JKB
+나타나/VV + ㅁ/ETN + 으로써/JKB
+사태/NNG
+수습/NNG + 에/JKB
+1/SN + 차/NNB + 적/XSN
+책임/NNG + 이/JKS
+있/VV + 는/ETM
+여권/NNG + 이/JKS
+결과/NNG + 적/XSN + 으로/JKB
+사태/NNG
+확산/NNG + 을/JKO
+부추기/VV + ㄴ/ETM
+꼴/NNG + 이/JKC
+되/VV + 었/EP + 다/EF + ./SF
+일련/NNG + 의/JKG
+여권/NNG
+움직임/NNG + 을/JKO
+살피/VV + 어/EC
+보/VX + 면/EC
+강/NNP + 씨/NNB
+사건/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+수습/NNG
+능력/NNG + 을/JKO
+이야기/NNG + 하/XSV + 기/ETN + 보다/JKB + 는/JX
+과연/MAG
+수습/NNG
+의지/NNG + 가/JKS
+있/VV + 느냐는/ETM
+의문/NNG + 을/JKO
+제기/NNG + 하/XSV + 는/ETM
+것/NNB + 이/JKS
+오히려/MAG
+타당/XR + 하/XSA + ㄹ/ETM
+듯/NNB
+싶/VX + 다/EF + ./SF
+한편/NNG + 으로/JKB
+신민/NNP + ·/SP + 민주/NNP + ·/SP + 민중당/NNP
+등/NNB
+야당/NNG + 은/JX
+사건/NNG
+초기/NNG + 부터/JX
+△/SW
+노/NNP
+대통령/NNG + 의/JKG
+사과/NNG
+△/SW
+노재봉/NNP
+내각/NNG
+총사퇴/NNG
+△/SW
+관련자/NNG
+형사/NNG
+책임/NNG
+△/SW
+백골단/NNG
+해체/NNG + 를/JKO
+줄곧/MAG
+요구/NNG + 하/XSV + 고/EC
+있/VX + 지만/EC
+뚜렷/XR + 하/XSA + ㄴ/ETM
+성과/NNG + 를/JKO
+얻/VV + 어/EC
+내/VX + 지/EC
+못하/VX + 았/EP + 을/ETM
+뿐/NNB
+아니/VCN + 라/EC
+사태/NNG
+수습/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+공동/NNG
+대책/NNG + 도/JX
+마련/NNG + 하/XSV + 지/EC
+못하/VX + 는/ETM
+정치/NNG + 적/XSN
+역량/NNG + 의/JKG
+한계/NNG + 를/JKO
+드러내/VV + 었/EP + 다/EF + ./SF
+이/NP + 처럼/JKB
+야당/NNG + 이/JKS
+공동/NNG
+전선/NNG + 을/JKO
+형성/NNG + 하/XSV + 지/EC
+못하/VX + ㄴ/ETM
+가장/MAG
+크/VA + ㄴ/ETM
+이유/NNG + 는/JX
+노태우/NNP
+정권/NNG
+퇴진/NNG
+부분/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+상이/XR + 하/XSA + ㄴ/ETM
+시각차/NNG + 에/JKB
+기인/NNG + 하/XSV + ㄴ다/EF + ./SF
+김대중/NNP
+신민당/NNP
+총재/NNG + 는/JX
+재야/NNG
+쪽/NNB + 에서/JKB
+주장/NNG + 하/XSV + 는/ETM
+정권/NNG
+퇴진/NNG
+운동/NNG + 에/JKB + 는/JX
+동참/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+없/VA + 음/ETN + 을/JKO
+분명히/MAG
+하/VV + 았/EP + 다/EF + ./SF
+그/NP + 는/JX
+"/SS + 우리/NP + 의/JKG
+국제/NNG + 적/XSN
+위치/NNG + 나/JC
+경제력/NNG + 으로/JKB
+미루/VV + 어/EC
+많/VA + 은/ETM
+국민/NNG + 은/JX
+선거/NNG + 를/JKO
+통하/VV + ㄴ/ETM
+정권/NNG
+교체/NNG + 를/JKO
+원하/VV + 고/EC
+있/VX + 다/EC + "/SS + 면서/EC
+정치/NNG + 권/XSN + 에서/JKB + 의/JKG
+사태/NNG
+수습/NNG + 을/JKO
+내세우/VV + 고/EC
+있/VX + 다/EF + ./SF
+김/NNP
+총재/NNG + 는/JX
+또/MAG
+내각/NNG
+총사퇴/NNG + 와/JC
+백골단/NNG
+해체/NNG + 가/JKS
+이루어지/VV + 지/EC
+않/VX + 으면/EC
+옥외/NNG
+항의/NNG
+규탄/NNG
+집회/NNG + 를/JKO
+열/VV + 겠/EP + 지만/EC
+이/NP + 마저/JX + 도/JX
+제한/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+규모/NNG + 이/VCP + 라는/ETM
+단서/NNG + 를/JKO
+달/VV + 고/EC
+있/VX + 다/EF + ./SF
+신민당/NNP + 으로서/JKB + 는/JX
+'/SS + 성숙/NNG + 하/XSV + ㄴ/ETM
+수권/NNG
+정당/NNG + '/SS + 이/VCP + 라는/ETM
+창당/NNG
+목표/NNG + 에/JKB
+따르/VV + 아/EC
+양/MM + 당/NNG
+구조/NNG
+정착/NNG + 을/JKO
+위하/VV + 아/EC
+어디/NP + 까지/JX + 나/JX
+원내/NNG
+투쟁/NNG + 에/JKB
+매달리/VV + 겠/EP + 다는/ETM
+신호/NNG + 를/JKO
+보내/VV + 면서/EC
+여권/NNG + 이/JKS
+상응/NNG + 하/XSV + 는/ETM
+조치/NNG + 를/JKO
+취하/VV + 아/EC
+주/VX + 기/ETN + 를/JKO
+기다리/VV + 고/EC
+있/VX + 는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+민주당/NNP + 은/JX
+원내/NNG + 에/JKB
+크/VA + 게/EC
+신경/NNG + 을/JKO
+쓰/VV + 지/EC
+않/VX + 아도/EC
+되/VV + 는/ETM
+홀가분/XR + 하/XSA + ㄴ/ETM
+입장/NNG + 에서/JKB
+신민당/NNP + 보다/JKB + 는/JX
+강력/XR + 하/XSA + ㄴ/ETM
+대여/NNG
+공세/NNG + 를/JKO
+펼치/VV + 고/EC
+있/VX + 다/EF + ./SF
+이기택/NNP
+총재/NNG + 는/JX
+내각/NNG
+총사퇴/NNG
+등/NNB
+단서/NNG + 를/JKO
+달/VV + 기/ETN + 는/JX
+하/VV + 았/EP + 지만/EC
+"/SS + 수습/NNG
+의지/NNG + 가/JKS
+안/MAG
+보이/VV + 면/EC
+정권/NNG
+퇴진/NNG + 을/JKO
+공식/NNG + 으로/JKB
+제기/NNG + 하/XSV + 겠/EP + 다/EC + "/SS + 고/JKQ
+으름장/NNG + 을/JKO
+놓/VV + 고/EC
+있/VX + 다/EF + ./SF
+만약/NNG
+민자/NNP + ·/SP + 신민/NNP + 이/JKS
+어물쩍/MAG
+야합/NNG + 이/VCP + 라도/EC
+하/VV + ㄴ다면/EC
+양/MM
+쪽/NNB + 을/JKO
+싸잡/VV + 아/EC
+공격/NNG + ,/SP
+선명/NNG + 성/XSN + 을/JKO
+한껏/MAG
+부각/NNG + 시키/XSV + 겠/EP + 다는/ETM
+계산/NNG + 이/VCP + 다/EF + ./SF
+이/NP + 들/XSN
+두/MM
+야당/NNG + 과/JKB + 는/JX
+달리/MAG
+민중당/NNP + 은/JX
+애초/NNG + 부터/JX
+노태우/NNP
+정권/NNG
+퇴진/NNG + 을/JKO
+요구/NNG + 하/XSV + 는/ETM
+등/NNB
+재야/NNG
+쪽/NNB + 과/JKB
+완전히/MAG
+보조/NNG + 를/JKO
+같이/MAG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+이/NP + 와/JKB
+같이/MAG
+강/NNP + 씨/NNB
+사건/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+제도/NNG + 권/XSN
+정당/NNG + 들/XSN + 의/JKG
+진단/NNG + 과/JC
+처방/NNG + 이/JKS
+각기/MAG
+다르/VA + ㄴ/ETM
+탓/NNG + 에/JKB
+공동/NNG
+대응책/NNG + 을/JKO
+마련/NNG + 하/XSV + 기/ETN + 란/JX
+어렵/VA + ㄴ/ETM
+실정/NNG + 이/VCP + 다/EF + ./SF
+그러나/MAJ
+사태/NNG + 가/JKS
+걷잡/VV + 을/ETM
+수/NNB
+없이/MAG
+악화/NNG + 되/XSV + 면서/EC
+4/SN + 일/NNB
+민자/NNP + ·/SP + 신민당/NNP + 의/JKG
+총무/NNG
+회담/NNG + 을/JKO
+계기/NNG + 로/JKB
+사태/NNG
+수습/NNG + 을/JKO
+위하/VV + ㄴ/ETM
+정치/NNG + 권/XSN + 의/JKG
+막후/NNG
+대화/NNG + 가/JKS
+활기/NNG + 를/JKO
+띠/VV + 고/EC
+있/VX + 으며/EC
+노태우/NNP + ·/SP + 김대중/NNP
+회담/NNG + 도/JX
+추진/NNG + 되/XSV + 고/EC
+있/VX + 는/ETM
+것/NNB + 으로/JKB
+알리/VV + 어/EC + 지/VX + 어/EC
+정치/NNG + 권/XSN + 이/JKS
+뒤늦/VA + 게/EC + 나마/JX
+사태/NNG
+수습/NNG + 을/JKO
+위하/VV + 아/EC
+최소한/NNG + 의/JKG
+체면/NNG
+치레/NNG + 를/JKO
+하/VV + ㄹ/ETM
+계기/NNG + 가/JKS
+조만간/MAG
+마련/NNG + 되/XSV + ㄹ/ETM
+가능/NNG + 성/XSN + 도/JX
+없/VA + 지/EC
+않/VX + 다/EF + ./SF
+1991/SN + //SP + 06/SN + //SP + 05/SN
+03/SN
+총선/NNG + ·/SP + 대통령/NNG
+선거/NNG
+앞두/VV + ㄴ/ETM
+'/SS + 전초전/NNG + '/SS + (/SS + 막/NNG
+오르/VV + ㄴ/ETM
+광역/NNG
+의회/NNG
+선거/NNG + :/SP + 1/SN + )/SS
+결과/NNG
+따르/VV + 아/EC
+야/NNG + 권/XSN
+통합/NNG + ·/SP + 세대/NNG
+교체/NNG + 론/XSN
+재/XPN + 등장/NNG + 하/XSV + ㄹ/ETM
+듯/NNB
+오/VV + 는/ETM
+20/SN + 일/NNB
+실시/NNG + 되/XSV + 는/ETM
+특별시/NNG + ·/SP + 직할시/NNG + ·/SP + 도/NNG + 의/JKG
+광역/NNG
+지방/NNG
+의회/NNG
+선거/NNG + 는/JX
+61/SN + 년/NNB
+5/SN + ·/SP + 16/SN
+군사/NNG
+쿠데타/NNG + 로/JKB
+중단/NNG + 되/XSV + ㄴ/ETM
+지방/NNG
+자치/NNG + 의/JKG
+전면/NNG + 적/XSN
+부활/NNG + 을/JKO
+향하/VV + ㄴ/ETM
+두/MM + 번/NNB + 째/XSN
+발걸음/NNG + 이/VCP + 라는/ETM
+차원/NNG + 을/JKO
+넘/VV + 어/EC
+지나/VV + ㄴ/ETM
+해/NNG + 초/NNB
+3/SN + 당/NNG
+합당/NNG
+이후/NNG
+정국/NNG
+주도/NNG + 권/XSN + 을/JKO
+놓/VV + 고/EC
+격돌/NNG + 하/XSV + 아/EC
+오/VX + 았/EP + 던/ETM
+여야/NNG + 가/JKS
+선거/NNG + 를/JKO
+통하/VV + 아/EC
+정면/NNG
+승부/NNG + 를/JKO
+가리/VV + 는/ETM
+정치/NNG + 적/XSN
+의미/NNG + 를/JKO
+갖/VV + 고/EC
+있/VX + 다/EF + ./SF
+뿐/NNB + 만/JX
+아니/VCN + 라/EC
+이번/NNG
+광역/NNG
+의회/NNG
+선거/NNG + 는/JX
+여야/NNG
+모두/MAG
+자신/NNG + 들/XSN + 의/JKG
+정치/NNG + 적/XSN
+사활/NNG + 이/JKS
+걸리/VV + ㄴ/ETM
+차기/NNG
+총선/NNG + 과/JC
+대통령/NNG
+선거/NNG + 를/JKO
+앞두/VV + 고/EC
+총력/NNG + 을/JKO
+투입/NNG + 하/XSV + 는/ETM
+'/SS + 전초전/NNG + '/SS + 으로/JKB
+규정/NNG + 하/XSV + 고/EC
+있/VX + 기/ETN
+때문/NNB + 에/JKB
+각/MM
+당/NNG + 의/JKG
+국민/NNG + 적/XSN
+지지/NNG + 도/NNG + 와/JC
+조직력/NNG
+등/NNB + 을/JKO
+가늠/NNG + 하/XSV + 게/EC
+하/VX + 아/EC
+주/VX + 는/ETM
+계기/NNG + 이/VCP + 라고/EC
+하/VV + ㄹ/ETM
+수/NNB
+있/VV + 다/EF + ./SF
+따라서/MAJ
+광역/NNG
+의회/NNG
+선거/NNG + 의/JKG
+결과/NNG + 는/JX
+1/SN + 년/NNB
+반/NNG
+남짓/NNB
+남/VV + 은/ETM
+노태우/NNP
+대통령/NNG + 의/JKG
+재임/NNG
+기간/NNG
+중/NNB
+복잡/XR + 하/XSA + 게/EC
+전개/NNG + 되/XSV + ㄹ/ETM
+향후/NNG
+정국/NNG + 의/JKG
+풍향/NNG + 을/JKO
+좌우/NNG + 하/XSV + 게/EC
+되/VV + ㄹ/ETM
+것/NNB + 으로/JKB
+보이/VV + ㄴ다/EF + ./SF
+또/MAG
+여야/NNG + 가/JKS
+모두/MAG
+후보/NNG
+공천/NNG + 을/JKO
+둘러싸/VV + 고/EC
+적/VA + 지/EC
+않/VX + 은/ETM
+조직/NNG
+마찰/NNG + 을/JKO
+빚/VV + 음/ETN + 으로써/JKB
+내부/NNG
+분열/NNG + 이/VCP + 라는/ETM
+후유증/NNG + 에/JKB
+시달리/VV + ㄹ/ETM
+가능/NNG + 성/XSN + 이/JKS
+크/VA + 다/EF + ./SF
+특히/MAG
+신민당/NNP + 의/JKG
+이해찬/NNP
+의원/NNG
+등/NNB
+3/SN + 명/NNB + 의/JKG
+의원/NNG + 이/JKS
+공천/NNG
+과정/NNG + 에/JKB
+반발/NNG + ,/SP
+탈/XPN + 당/NNG + 하/XSV + 는/ETM
+모습/NNG + 으로/JKB
+전개/NNG + 되/XSV + ㄴ/ETM
+야/NNG + 권/XSN + 의/JKG
+내부/NNG
+균열/NNG + 이/JKS
+야/NNG + 권/XSN
+통합/NNG + 의/JKG
+잠복/NNG
+기류/NNG + 와/JKB
+맞물리/VV + 면서/EC
+정치/NNG + 권/XSN
+전체/NNG + 를/JKO
+재편/NNG + 의/JKG
+소용돌이/NNG + 로/JKB
+몰/VV + 고/EC + 가/VV + ㄹ/ETM
+가능/NNG + 성/XSN + 도/JX
+배제/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+없/VA + 다/EF + ./SF
+이/NP + 처럼/JKB
+복합/NNG + 적/XSN
+성격/NNG + 을/JKO
+안/VV + 고/EC
+있/VX + 는/ETM
+광역/NNG
+선거/NNG + 는/JX
+일차/NNG + 적/XSN + 으로/JKB
+중앙/NNG
+집권/NNG + 적/XSN
+권력/NNG
+구조/NNG + 를/JKO
+부분/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+형태/NNG + 로/JKB + 나마/JX
+완화/NNG + 시키/XSV + 어/EC
+지방/NNG + 의/JKG
+정치/NNG
+공간/NNG + 을/JKO
+확대/NNG + 시키/XSV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+제도/NNG + 적/XSN
+장치/NNG + 를/JKO
+마련/NNG + 하/XSV + 는/ETM
+셈/NNB + 이/VCP + 다/EF + ./SF
+여야/NNG + 를/JKO
+막론/XR + 하/XSV + 고/EC
+후보/NNG
+공천/NNG + 과/JKB
+관련/NNG + 되/XSV + ㄴ/ETM
+잡음/NNG + 이/JKS
+끊이/VV + 지/EC
+않/VX + 고/EC
+있/VX + 는/ETM
+것/NNB + 도/JX
+역설/NNG + 적/XSN
+의미/NNG + 에서/JKB
+중앙/NNG
+지도부/NNG + 에/JKB
+집중/NNG + 되/XSV + ㄴ/ETM
+권력/NNG + 이/JKS
+나누/VV + 어/EC + 지/VX + 는/ETM
+징후/NNG + 이/VCP + 라고/EC
+보/VV + ㄹ/ETM
+수/NNB
+있/VV + 다/EF + ./SF
+광역/NNG
+의회/NNG
+선거/NNG + 를/JKO
+통하/VV + 아/EC
+지역/NNG + 의/JKG
+실력자/NNG + 들/XSN + 이/JKS
+정치/NNG + 권/XSN + 의/JKG
+무대/NNG + 로/JKB
+대거/MAG
+진출/NNG + 하/XSV + 면/EC
+지방/NNG
+정치/NNG + 의/JKG
+영역/NNG + 이/JKS
+확대/NNG + 되/XSV + 고/EC
+이/NP + 에/JKB
+비례/NNG + 하/XSV + 아서/EC
+중앙당/NNG + 의/JKG
+일방/NNG + 적/XSN
+명령/NNG
+하달/NNG + 이나/JC
+통제/NNG + 는/JX
+약화/NNG + 되/XSV + ㄹ/ETM
+수/NNB + 밖에/JX
+없/VA + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+여야/NNG + 가/JKS
+당운/NNG + 을/JKO
+걸/VV + 고/EC
+총력/NNG + 을/JKO
+기울이/VV + 는/ETM
+이번/NNG
+광역/NNG
+의회/NNG
+선거/NNG + 는/JX
+그/MM
+결과/NNG + 가/JKS
+어느/MM
+한/MM
+쪽/NNB + 의/JKG
+일방/NNG + 적/XSN
+승리/NNG + 로/JKB
+나타나/VV + 지/EC
+않/VX + 으리라는/ETM
+전망/NNG + 이/JKS
+우세/NNG + 하/XSA + ㄴ/ETM
+편/NNB + 이/VCP + 다/EF + ./SF
+민자당/NNP + 에/JKB
+대하/VV + ㄴ/ETM
+국민/NNG + 의/JKG
+지지/NNG + 도/NNG + 가/JKS
+거의/MAG
+한/MM + 자리/NNG
+숫자/NNG + 에/JKB
+머무르/VV + 어/EC
+있/VX + 는/ETM
+것/NNB + 이/JKS
+사실/NNG + 이/VCP + 지만/EC
+기존/NNG + 의/JKG
+야당/NNG + 들/XSN + 에/JKB
+대하/VV + ㄴ/ETM
+국민/NNG + 적/XSN
+불신/NNG + 도/JX
+상당히/MAG
+팽배/NNG + 하/XSV + 아/EC
+있/VX + 어/EC
+일부/NNG
+유권자/NNG + 층/XSN + 에/JKB + 는/JX
+여야/NNG
+어느/MM
+한/MM
+쪽/NNB + 을/JKO
+대체/NNG
+세력/NNG + 으로/JKB
+인식/NNG + 하/XSV + 기/ETN + 보다/JKB + 는/JX
+극복/NNG + 하/XSV + 아야/EC
+하/VX + ㄹ/ETM
+대상/NNG + 으로/JKB
+간주/NNG + 하/XSV + 는/ETM
+분위기/NNG + 가/JKS
+제법/MAG
+퍼지/VV + 어/EC
+있/VX + 다/EF + ./SF
+이런/MM
+부정/NNG + 적/XSN
+상황/NNG + 은/JX
+3/SN + 당/NNG
+합당/NNG + 을/JKO
+영구/NNG
+집권/NNG + 을/JKO
+위하/VV + ㄴ/ETM
+정치/NNG + 적/XSN
+야합/NNG + 으로/JKB
+비난/NNG + 하/XSV + 면서/EC
+역전/NNG + 을/JKO
+기대/NNG + 하/XSV + 는/ETM
+야/NNG + 권/XSN + 에/JKB
+있/VV + 어/EC
+힘겹/VA + ㄴ/ETM
+부담/NNG + 이/VCP + 라고/EC
+하/VV + ㄹ/ETM
+수/NNB
+있/VV + 다/EF + ./SF
+야당/NNG + 들/XSN + 은/JX
+이번/NNG
+선거/NNG + 를/JKO
+민자당/NNP + 에/JKB
+대하/VV + ㄴ/ETM
+심판장/NNG + 으로/JKB
+규정/NNG + 하/XSV + 고/EC
+재야/NNG
+세력/NNG + 과/JKB
+연대/NNG + 하/XSV + 아/EC
+반/XPN + 민자당/NNP
+연합/NNG
+전선/NNG + 을/JKO
+구축/NNG + 하/XSV + ㄴ다는/ETM
+기본/NNG
+계획/NNG + 을/JKO
+천명/NNG + 하/XSV + 고/EC
+있/VX + 으나/EC
+그/MM
+연대/NNG + 의/JKG
+수준/NNG + 은/JX
+상당히/MAG
+낮/VA + 은/ETM
+편/NNB + 이/VCP + 다/EF + ./SF
+특히/MAG
+야/NNG + 권/XSN + 이/JKS
+신민/NNP + ·/SP + 민주/NNP + ·/SP + 민중당/NNP + 과/JC
+무/XPN + 소속/NNG + 으로/JKB
+각각/NNG + 의/JKG
+후보/NNG + 를/JKO
+내/VV + 어서/EC
+거대/NNG
+여당/NNG + 과/JKB
+대결/NNG + 하/XSV + 아야/EC
+하/VX + 는/ETM
+분열/NNG + 상/NNG + 은/JX
+야/NNG + 권/XSN + 의/JKG
+전망/NNG + 을/JKO
+어둡/VA + 게/EC
+만들/VV + 는/ETM
+요인/NNG + 이/VCP + 다/EF + ./SF
+한편/MAG + ,/SP
+여권/NNG + 도/JX
+3/SN + 당/NNG
+합당/NNG
+이후/NNG
+이질/NNG + 적/XSN
+요소/NNG + 를/JKO
+완전히/MAG
+해소/NNG + 하/XSV + 지/EC
+못하/VX + 고/EC
+있/VX + 어/EC
+계파/NNG + 간/NNB
+조직/NNG
+알력/NNG + 과/JC
+5/SN + 공/NNG
+및/MAG
+6/SN + 공/NNG
+세력/NNG + 간/NNB + 의/JKG
+각축/NNG + 을/JKO
+해결/NNG + 하/XSV + 아야/EC
+하/VX + 는/ETM
+과제/NNG + 를/JKO
+안/VV + 고/EC
+있/VX + 다/EF + ./SF
+이번/NNG
+광역/NNG
+선거/NNG + 를/JKO
+통하/VV + 아/EC
+자신/NNG + 의/JKG
+당내/NNG
+입지/NNG
+강화/NNG + 를/JKO
+노리/VV + 는/ETM
+김영삼/NNP
+민자당/NNP
+대표/NNG
+최고/NNG
+위원/NNG + 의/JKG
+정치/NNG + 적/XSN
+야심/NNG + 이/JKS
+실현/NNG + 되/XSV + ㄹ지/EC + 는/JX
+미지수/NNG + 이/VCP + 다/EF + ./SF
+지자제/NNG
+실현/NNG + 에/JKB
+있/VV + 어/EC
+김대중/NNP
+신민당/NNP
+총재/NNG + 와/JKB
+협력/NNG
+관계/NNG + 를/JKO
+유지/NNG + 하/XSV + 아/EC
+오/VX + ㄴ/ETM
+김/NNP
+대표/NNG + 는/JX
+자신/NNG + 이/JKS
+여권/NNG + 의/JKG
+차기/NNG
+대통령/NNG
+후보/NNG + 로서/JKB + 의/JKG
+자리/NNG + 를/JKO
+굳히기/NNG
+전/NNG + 까지/JX + 는/JX
+김/NNP
+총재/NNG + 와/JKB + 의/JKG
+공동/NNG
+보조/NNG + 를/JKO
+유지/NNG + 하/XSV + ㄴ다는/ETM
+기본/NNG
+전략/NNG + 을/JKO
+갖/VV + 고/EC
+있/VX + 다/EF + ./SF
+그러나/MAJ
+여야/NNG + 가/JKS
+최대/NNG + 의/JKG
+승부처/NNG + 로/JKB
+간주/NNG + 하/XSV + 는/ETM
+수도/NNG + 권/XSN + 에서/JKB
+신민당/NNP + 이/JKS
+부진/NNG + 하/XSA + ㄹ/ETM
+경우/NNG
+두/MM
+김/NNP + 씨/NNB + 의/JKG
+제휴/NNG + 는/JX
+단명/NNG + 으로/JKB
+끝나/VV + ㄹ/ETM
+가능/NNG + 성/XSN + 이/JKS
+높/VA + 다/EF + ./SF
+또/MAG
+김/NNP
+대표/NNG + 의/JKG
+본거지/NNG + 이/VCP + ㄴ/ETM
+부산/NNP + ·/SP + 경남/NNP
+지역/NNG + 에서/JKB
+여권/NNG
+후보/NNG + 가/JKS
+기대/NNG
+이하/NNG + 로/JKB
+그치/VV + 고/EC
+수도/NNG + 권/XSN + 에서/JKB
+야/NNG + 권/XSN + 이/JKS
+우세/NNG + 하/XSA + ㄹ/ETM
+경우/NNG
+김/NNP
+대표/NNG + 의/JKG
+위상/NNG + 이/JKS
+떨어지/VV + ㄹ/ETM
+것/NNB + 으로/JKB
+보이/VV + ㄴ다/EF + ./SF
+이렇/VA + 게/EC
+보/VV + ㄹ/ETM
+때/NNG
+이번/NNG
+선거/NNG + 는/JX
+두/MM
+김/NNP + 씨/NNB + 의/JKG
+정국/NNG
+주도력/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+시험/NNG + 이/VCP + 라는/ETM
+측면/NNG + 도/JX
+있/VV + 다/EF + ./SF
+결과/NNG + 가/JKS
+두/MM
+김/NNP + 씨/NNB + 의/JKG
+예상/NNG + 대로/JX
+나오/VV + 지/EC
+않/VX + 을/ETM
+경우/NNG
+야/NNG + 권/XSN + 에서/JKB + 는/JX
+야/NNG + 권/XSN
+통합/NNG + 론/XSN + 이/JKS + ,/SP
+여권/NNG + 에서/JKB + 는/JX
+지도부/NNG
+책임/NNG + 론/XSN + 이/JKS
+목소리/NNG + 를/JKO
+높이/VV + 면서/EC
+정치/NNG + 권/XSN + 의/JKG
+세대/NNG
+교체/NNG + 론/XSN + 이/JKS
+득세/NNG + 하/XSV + ㄹ/ETM
+가능/NNG + 성/XSN + 도/JX
+배제/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+없/VA + 다/EF + ./SF
+대통령/NNG + 의/JKG
+내각/NNG + 제/XSN
+포기/NNG
+및/MAG
+차기/NNG
+대통령/NNG
+후보/NNG + 의/JKG
+경선/NNG
+시사/NNG
+발언/NNG
+이후/NNG
+여권/NNG
+내/NNB + 에/JKB
+흐르/VV + 고/EC
+있/VX + 는/ETM
+미묘/XR + 하/XSA + ㄴ/ETM
+기류/NNG + 는/JX
+광역/NNG
+선거/NNG
+이후/NNG
+본격/NNG + 적/XSN
+계파/NNG + 간/NNB
+대권/NNG
+경쟁/NNG + 으로/JKB
+증폭/NNG + 되/XSV + ㄹ/ETM
+것/NNB + 으로/JKB
+보/VV + 는/ETM
+견해/NNG + 가/JKS
+지배/NNG + 적/XSN + 이/VCP + 다/EF + ./SF
+야/NNG + 권/XSN + 에서/JKB
+새롭/VA + ㄴ/ETM
+통합/NNG + 론/XSN + 이/JKS
+바람/NNG + 을/JKO
+일으키/VV + 어/EC
+김대중/NNP
+신민당/NNP
+총재/NNG + 의/JKG
+입지/NNG + 에/JKB
+타격/NNG + 을/JKO
+주/VV + ㄹ/ETM
+경우/NNG
+여권/NNG + 의/JKG
+대권/NNG
+경쟁/NNG
+판도/NNG + 도/JX
+새롭/VA + ㄴ/ETM
+측면/NNG + 으로/JKB
+들어가/VV + ㄹ/ETM
+수/NNB + 밖에/JX
+없/VA + 다/EF + ./SF
+김/NNP
+대표/NNG + 가/JKS
+차기/NNG
+대통령/NNG
+후보/NNG + 가/JKS
+되/VV + 어야/EC
+하/VX + ㄴ다는/ETM
+주장/NNG + 의/JKG
+논거/NNG + 는/JX
+"/SS + 야/NNG + 권/XSN
+후보/NNG + 가/JKS
+김대중/NNP
+총재/NNG + 이/VCP + ㄹ/ETM
+경우/NNG
+이/NP + 에/JKB
+맞서/VV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+유일/NNG + 하/XSA + ㄴ/ETM
+대안/NNG + 은/JX
+김/NNP
+대표/NNG + 밖에/JX
+없/VA + 다/EC + "/SS + 는/ETM
+것/NNB + 이/VCP + 기/ETN
+때문/NNB + 에/JKB
+김대중/NNP
+총재/NNG + 의/JKG
+절대/NNG + 적/XSN
+위상/NNG + 에/JKB
+변화/NNG + 가/JKS
+오/VV + 는/ETM
+현상/NNG + 은/JX
+김/NNP
+대표/NNG
+후보/NNG + 론/XSN + 의/JKG
+당위/NNG + 성/XSN + 을/JKO
+약화/NNG + 시키/XSV + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+노/NNP
+대통령/NNG + 이/JKS
+내각/NNG + 제/XSN
+개헌/NNG
+추진/NNG + 의/JKG
+사실/NNG + 상/XSN
+포기/NNG
+의사/NNG + 와/JKB
+함께/MAG
+김/NNP
+대표/NNG + 를/JKO
+의식/NNG + ,/SP
+차기/NNG
+대통령/NNG
+후보/NNG
+경선/NNG
+방식/NNG + 을/JKO
+밝히/VV + ㄴ/ETM
+것/NNB + 도/JX
+가변/NNG + 적/XSN
+정치/NNG
+상황/NNG + 을/JKO
+염두/NNG + 에/JKB
+두/VV + ㄴ/ETM
+것/NNB + 이/VCP + 라고/EC
+하/VV + ㄹ/ETM
+때/NNG
+김대중/NNP
+총재/NNG + 가/JKS
+주도/NNG + 하/XSV + 아/EC
+오/VX + ㄴ/ETM
+야/NNG + 권/XSN + 에/JKB
+판도/NNG
+변화/NNG + 가/JKS
+오/VV + ㄹ/ETM
+경우/NNG
+여권/NNG
+내부/NNG + 에/JKB + 도/JX
+연쇄/NNG
+반응/NNG + 을/JKO
+일으키/VV + ㄹ/ETM
+것/NNB + 으로/JKB
+전망/NNG + 하/XSV + 는/ETM
+견해/NNG + 가/JKS
+우세/NNG + 하/XSA + 다/EF + ./SF
+따라서/MAJ
+이번/NNG
+광역/NNG
+의회/NNG
+선거/NNG + 는/JX
+중앙/NNG
+정치/NNG + 의/JKG
+통제력/NNG + 을/JKO
+완화/NNG + 시키/XSV + ㄴ다는/ETM
+취지/NNG + 와/JKB + 는/JX
+달리/MAG
+중앙/NNG
+정치/NNG + 의/JKG
+본질/NNG + 적/XSN
+구도/NNG
+변혁/NNG + 을/JKO
+촉발/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+정치/NNG + 적/XSN
+분기점/NNG + 으로/JKB
+작용/NNG + 하/XSV + 고/EC
+있/VX + 는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+1991/SN + //SP + 06/SN + //SP + 05/SN
+03/SN
+총리실/NNG + ·/SP + 검찰/NNG
+표정/NNG
+총리/NNG
+"/SS + 부덕/NNG + 하/XSA + ㄴ/ETM
+탓/NNG + …/SE
+야속/NNG + 하/XSA + ㄴ/ETM
+생각/NNG + "/SS
+//SP
+"/SS + 공권력/NNG
+초/XPN + 강경/NNG
+행사/NNG + "/SS
+한/MM
+목소리/NNG
+◇/SW + …/SE
+4/SN + 일/NNB
+오후/NNG
+국무/NNG
+총리실/NNG + 에서/JKB
+열리/VV + ㄴ/ETM
+긴급/NNG
+국무/NNG
+위원/NNG
+간담회/NNG + 는/JX
+정/NNP
+총리/NNG
+서리/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+학생/NNG + 들/XSN + 의/JKG
+폭행/NNG
+사태/NNG + 로/JKB
+이제/MAG
+정부/NNG + 가/JKS
+더/MAG
+이상/NNG
+물러서/VV + ㄹ/ETM
+곳/NNG + 이/JKS
+없/VA + 으며/EC
+학생/NNG
+운동/NNG + 권/XSN
+등/NNB + 에/JKB
+초/XPN + 강경/NNG
+조처/NNG + 를/JKO
+취하/VV + 아야/EC
+하/VX + ㄴ다는/ETM
+등/NNB
+격앙/NNG + 되/XSV + ㄴ/ETM
+분위기/NNG
+속/NNG + 에/JKB
+진행/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+다음/NNG + 은/JX
+최창윤/NNP
+공보처/NNG
+장관/NNG + 이/JKS
+전하/VV + ㄴ/ETM
+간담회/NNG
+발언/NNG
+요지/NNG + 이/VCP + 다/EF + ./SF
+△/SW
+최각규/NNP
+부총리/NNG
+=/SW
+이번/NNG
+사건/NNG + 은/JX
+국가/NNG + 와/JC
+정부/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+직접/NNG
+도전/NNG + 이/VCP + 며/EC
+사회/NNG
+윤리/NNG + 와/JC
+도덕/NNG + 을/JKO
+짓밟/VV + 은/ETM
+패륜/NNG
+행위/NNG + 이/VCP + 다/EF + ./SF
+정부/NNG + 는/JX
+일과/NNG + 성/XSN
+조처/NNG + 가/JKS
+아니/VCN + ㄴ/ETM + ,/SP
+근본/NNG + 적/XSN + ·/SP + 장기/NNG + 적/XSN
+대책/NNG + 을/JKO
+세우/VV + 어야/EC
+하/VX + ㄴ다/EF + ./SF
+△/SW
+이상연/NNP
+내무/NNG
+=/SW
+민주/NNG + 화/XSN + 를/JKO
+내세우/VV + 던/ETM
+운동/NNG + 권/XSN + 의/JKG
+실체/NNG + 를/JKO
+국민/NNG + 들/XSN + 이/JKS
+알/VV + 게/EC
+되/VV + 었/EP + 다/EF + ./SF
+이번/NNG
+사건/NNG + 의/JKG
+배후/NNG + 에/JKB
+있/VV + 는/ETM
+체제/NNG
+전복/NNG + ·/SP + 용공/NNG
+세력/NNG + 을/JKO
+이/MM
+사회/NNG + 에서/JKB
+고립/NNG + 시키/XSV + 는/ETM
+데/NNB
+정부/NNG + ·/SP + 제도/NNG + 권/XSN
+정당/NNG + ·/SP + 지식인/NNG + ·/SP + 언론/NNG
+등/NNB + 이/JKS
+모두/MAG
+나서/VV + 어야/EC
+하/VX + ㄴ다/EF + ./SF
+그런/MM
+바탕/NNG
+위/NNG + 에서/JKB
+정부/NNG + 는/JX
+확신/NNG + 과/JC
+자신감/NNG + 을/JKO
+갖/VV + 고/EC
+총체/NNG + 적/XSN
+대응/NNG + 에/JKB
+나서/VV + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+△/SW
+김기춘/NNP
+법무/NNG
+=/SW
+그/MM
+동안/NNG
+수/NNB
+없/VA + 는/ETM
+파출소/NNG
+습격/NNG + ·/SP + 전경/NNG
+부상/NNG
+등/NNB
+불법/NNG
+사태/NNG + 를/JKO
+방치/NNG + 하/XSV + 아/EC
+오/VX + 았/EP + 기/ETN
+때문/NNB + 에/JKB
+이번/NNG
+사건/NNG + 이/JKS
+일어나/VV + ㄹ/ETM
+수/NNB
+있/VV + 었/EP + 다/EF + ./SF
+국민/NNG + 들/XSN + 은/JX
+공권력/NNG + 이/JKS
+과도/NNG + 하/XSA + 게/EC
+사용/NNG + 되/XSV + ㄹ/ETM
+때/NNG
+이/NP + 를/JKO
+비판/NNG + 하/XSV + 지만/EC
+나서/VV + 어야/EC
+하/VX + ㄹ/ETM
+때/NNG
+주저/NNG + 하/XSV + 는/ETM
+공권력/NNG + 에/JKB
+대하/VV + 아서/EC + 도/JX
+준엄/XR + 하/XSA + ㄴ/ETM
+비판/NNG + 을/JKO
+하/VV + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+이제/MAG
+행동/NNG + 을/JKO
+통하/VV + ㄴ/ETM
+엄중/XR + 하/XSA + ㄴ/ETM
+법/NNG + 집행/NNG + 에/JKB
+나서/VV + 겠/EP + 다/EF + ./SF
+△/SW
+이종구/NNP
+국방/NNG
+=/SW
+이번/NNG
+사건/NNG + 은/JX
+체제/NNG
+파괴/NNG
+세력/NNG + 의/JKG
+계획/NNG + 되/XSV + ㄴ/ETM
+도전/NNG + 이/VCP + 다/EF + ./SF
+정부/NNG + 가/JKS
+그/MM
+동안/NNG
+여러/MM
+차례/NNG
+좌익/NNG
+폭력/NNG
+세력/NNG
+척결/NNG
+의지/NNG + 를/JKO
+밝히/VV + 었/EP + 음/ETN + 에/JKB + 도/JX
+그/NP + 들/XSN + 은/JX
+아직/MAG + 도/JX
+뻔뻔/XR + 스럽/XSA + 게/EC
+거리/NNG + 와/JC
+학원/NNG + 에서/JKB
+활개/NNG + 치/VV + 고/EC
+있/VX + 다/EF + ./SF
+이/NP + 를/JKO
+더/MAG
+이상/NNG
+그냥/MAG
+두/VV + ㄹ/ETM
+수/NNB
+없/VA + 으며/EC
+강력/XR + 하/XSA + ㄴ/ETM
+정부/NNG + 의/JKG
+의지/NNG + 를/JKO
+보이/VV + 어야/EC
+하/VX + ㄴ다/EF + ./SF
+△/SW
+김동영/NNP
+정무/NNG
+1/SN
+=/SW
+정부/NNG + 가/JKS
+새롭/VA + ㄴ/ETM
+각오/NNG + 로/JKB
+임하/VV + 지/EC
+않/VX + 으면/EC
+다시/MAG
+일어나/VV + 지/EC
+않/VX + 는다는/ETM
+보장/NNG + 이/JKS
+없/VA + 다/EF + ./SF
+민주주의/NNG + 가/JKS
+위협/NNG + 받/VV + 는/ETM
+단계/NNG + 이/VCP + 며/EC + ,/SP
+사회/NNG
+안정/NNG + 을/JKO
+바라/VV + 는/ETM
+국민/NNG
+대다수/NNG + 의/JKG
+염원/NNG + 을/JKO
+실현/NNG + 하/XSV + ㄹ/ETM
+계기/NNG + 로/JKB
+삼/VV + 아야/EC
+하/VX + ㄴ다/EF + ./SF
+△/SW
+이어령/NNP
+문화/NNG
+=/SW
+지식인/NNG + 과/JC
+사회/NNG
+지도/NNG + 층/XSN + 이/JKS
+모두/MAG
+나서/VV + 어/EC
+입/NNG + 을/JKO
+열/VV + 고/EC
+용감/XR + 하/XSA + ㄴ/ETM
+의인/NNG + 이/JKC
+되/VV + 어야/EC
+하/VX + ㄹ/ETM
+때/NNG + 이/VCP + 다/EF + ./SF
+소수/NNG
+좌경/NNG
+세력/NNG + 을/JKO
+왜/MAG
+두려워하/VV + 는가/EF + ./SF
+공권력/NNG + 의/JKG
+정당/XR + 하/XSA + ㄴ/ETM
+집행/NNG + 을/JKO
+뒷받침/NNG + 하/XSV + 아/EC
+주/VX + 어야/EC
+하/VX + ㄴ다/EF + ./SF
+△/SW
+최창윤/NNP
+공보/NNG
+=/SW
+이번/NNG
+사건/NNG + 을/JKO
+국면/NNG
+전환/NNG + 의/JKG
+계기/NNG + 로/JKB
+삼/VV + 아/EC
+정부/NNG + 의/JKG
+신뢰/NNG + 를/JKO
+회복/NNG + 하/XSV + 아야/EC
+하/VX + ㄴ다/EF + ./SF
+◇/SW + …/SE
+이/MM
+날/NNG
+오전/NNG
+8/SN + 시/NNB
+50/SN + 분/NNB + 께/XSN
+정상/NNG
+출근/NNG + 하/XSV + ㄴ/ETM
+정원식/NNP
+총리/NNG
+서리/NNG + 는/JX
+9/SN + 시/NNB
+40/SN + 분/NNB + 께/XSN
+총리실/NNG
+소/XPN + 접견실/NNG + 에서/JKB
+기자/NNG + 들/XSN + 을/JKO
+만나/VV + 아/EC
+15/SN + 분/NNB
+남짓/NNB
+심경/NNG + 을/JKO
+밝히/VV + 었/EP + 다/EF + ./SF
+예상/NNG + 과/JKB
+달리/MAG
+차분/XR + 하/XSA + ㄴ/ETM
+표정/NNG + 의/JKG
+정/NNP
+총리/NNG
+서리/NNG + 는/JX
+가라앉/VV + 은/ETM
+목소리/NNG + 로/JKB
+"/SS + 누구/NP + 를/JKO
+탓/NNG + 하/XSV + 기/ETN
+전/NNG + 에/JKB
+내/NP + 가/JKS
+나/NP + 의/JKG
+종아리/NNG + 를/JKO
+사정/NNG
+없이/MAG
+때리/VV + 고/EC
+싶/VX + 은/ETM
+심정/NNG + "/SS + 이/VCP + 라면서/EC
+"/SS + 국민/NNG
+여러분/NP + 께/JKB
+걱정/NNG + 을/JKO
+끼치/VV + 어/EC
+드리/VX + 고/EC
+국가/NNG
+체면/NNG + 에/JKB
+손상/NNG + 을/JKO
+가져오/VV + 아/EC
+송구/XR + 스럽/XSA + 고/EC
+죄송/XR + 하/XSA + 다/EC + "/SS + 고/JKQ
+말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+그/NP + 는/JX
+"/SS + 노/NNP
+교수/NNG + 의/JKG
+순수/NNG + 하/XSA + ㄴ/ETM
+마음/NNG + 을/JKO
+일부/NNG
+학생/NNG + 들/XSN + 이/JKS
+받/VV + 아/EC
+들이/VV + 어/EC
+주/VX + 지/EC
+않/VX + 아/EC
+다소/MAG
+야속/NNG + 하/XSA + ㄴ/ETM
+생각/NNG + 이/JKS
+들/VV + ㄴ다/EC + "/SS + 이/VCP + 면서/EC
+"/SS + 그러나/MAJ
+대다수/NNG
+학생/NNG + 들/XSN + 은/JX
+나/NP + 의/JKG
+뜻/NNG + 을/JKO
+이해/NNG + 하/XSV + 아/EC
+주/VX + 리라/EC
+믿/VV + 는다/EC + "/SS + 고/JKQ
+덧붙이/VV + 었/EP + 다/EF + ./SF
+정/NNP
+총리/NNG
+서리/NNG + 는/JX
+"/SS + 어떤/MM
+일/NNG + 이/JKS
+있/VV + 어도/EC
+교육/NNG + 은/JX
+결코/MAG
+포기/NNG + 되/XSV + ㄹ/ETM
+수/NNB
+없/VA + 다/EC + "/SS + 며/EC
+"/SS + 공직/NNG + 에서/JKB
+물러나/VV + 게/EC
+되/VV + 면/EC
+다시/MAG
+교단/NNG + 에/JKB
+서/VV + ㄹ/ETM
+생각/NNG + "/SS + 이라고/JKQ
+말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+◇/SW + …/SE
+오전/NNG
+11/SN + 시/NNB + 께/XSN
+이강혁/NNP
+외국어대/NNG
+총장/NNG + ,/SP
+이인웅/NNP
+교육/NNG
+대학/NNG
+원장/NNG + 과/JC
+전날/NNG
+정/NNP
+총리/NNG
+서리/NNG + 의/JKG
+강의/NNG + 를/JKO
+듣/VV + 은/ETM
+대학원/NNG + 생/XSN
+3/SN + 명/NNB + 이/JKS
+총리실/NNG + 을/JKO
+찾아가/VV + 아/EC
+정/NNP
+총리/NNG
+서리/NNG + 를/JKO
+10/SN + 분/NNB
+가량/NNG
+만나/VV + 아/EC
+사과/NNG + 의/JKG
+뜻/NNG + 을/JKO
+전하/VV + 았/EP + 다/EF + ./SF
+대학원/NNG + 생/XSN + 들/XSN + 은/JX
+"/SS + 나랏일/NNG + 에/JKB
+바쁘/VA + 시/EP + ㄴ/ETM
+중/NNB + 에/JKB + 도/JX
+유종/NNG + 의/JKG
+미/NNG + 를/JKO
+거두/VV + 시/EP + 려는/ETM
+정/NNP
+교수/NNG + 님/XSN + 의/JKG
+학자/NNG + 적/XSN
+책임/NNG + 과/JC
+양심/NNG + 에/JKB
+경의/NNG + 를/JKO
+표/NNG + 하/XSV + 며/EC
+학습/NNG + 권/XSN + 을/JKO
+침해/NNG + 하/XSV + 는/ETM
+어떤/MM
+소란/NNG + 도/JX
+있/VV + 어서/EC + 는/JX
+안/MAG
+되/VV + ㄹ/ETM
+것/NNB + "/SS + 이/VCP + 라는/ETM
+내용/NNG + 의/JKG
+성명서/NNG + 를/JKO
+정/NNP
+총리/NNG
+서리/NNG + 에게/JKB
+전달/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+정/NNP
+총리/NNG
+서리/NNG + 는/JX
+"/SS + 바쁘/VA + 다는/ETM
+이유/NNG + 로/JKB
+어제/NNG
+강의/NNG + 에/JKB
+안/MAG
+가/VV + ㄹ/ETM
+수/NNB + 도/JX
+있/VV + 었/EP + 지만/EC
+학생/NNG + 들/XSN + 과/JKB + 의/JKG
+약속/NNG
+때문/NNB + 에/JKB
+가/VV + 았/EP + 다가/EC
+평생/NNG
+처음/NNG
+그런/MM
+변/NNG + 을/JKO
+당하/VV + 았/EP + 다/EC + "/SS + 면서/EC
+"/SS + 여러분/NP + 들/XSN + 의/JKG
+사과/NNG + 를/JKO
+받/VV + 기/ETN
+전/NNG + 에/JKB
+나/NP + 의/JKG
+부덕/NNG + 의/JKG
+소치/NNG + 로/JKB
+생각/NNG + 하/XSV + ㄴ다/EC + "/SS + 고/JKQ
+답변/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+◇/SW + …/SE
+이/MM
+날/NNG
+오전/NNG
+정/NNP
+총리/NNG
+서리/NNG + 에게/JKB + 는/JX
+신민당/NNP + 의/JKG
+김대중/NNP
+총재/NNG + ,/SP
+민자당/NNP + 의/JKG
+김영삼/NNP
+대표/NNG + 와/JC
+김종필/NNP + ·/SP + 박태준/NNP
+최고/NNG
+위원/NNG + ,/SP
+박준규/NNP
+국회/NNG
+의장/NNG + ,/SP
+김덕주/NNP
+대법원장/NNG
+등/NNB + 으로부터/JKB
+위로/NNG
+전화/NNG + 가/JKS
+잇따르/VV + 았/EP + 다/EF + ./SF
+정/NNP
+총리/NNG
+서리/NNG + 는/JX
+이/MM
+날/NNG
+예정/NNG + 되/XSV + 어/EC
+있/VX + 던/ETM
+덕성/NNP
+여대/NNG + 에서/JKB + 의/JKG
+마지막/NNG
+강의/NNG + 를/JKO
+취소/NNG + 하/XSV + 고/EC
+오전/NNG
+11/SN + 시/NNB
+30/SN + 분/NNB + 께/XSN
+공관/NNG + 으로/JKB
+돌아가/VV + 아/EC
+휴식/NNG + 을/JKO
+취하/VV + 았/EP + 다/EF + ./SF
+◇/SW + …/SE
+정구영/NNP
+검찰/NNG
+총장/NNG
+등/NNB
+검찰/NNG
+수뇌부/NNG + 는/JX
+3/SN + 일/NNB
+저녁/NNG
+시내/NNG
+한/MM
+음식점/NNG + 에서/JKB
+이/MM
+날/NNG
+오전/NNG
+열리/VV + 었/EP + 던/ETM
+전국/NNG
+검사장/NNG
+회의/NNG
+참석자/NNG + 들/XSN + 과/JKB
+반주/NNG + 를/JKO
+곁들이/VV + ㄴ/ETM
+식사/NNG + 를/JKO
+하/VV + 던/ETM
+중/NNB
+외대/NNP
+사건/NNG + 에/JKB
+대하/VV + 아/EC
+3/SN + 차례/NNG + 에/JKB
+걸치/VV + ㄴ/ETM
+보고/NNG + 를/JKO
+받/VV + 고/EC + 는/JX
+화기애애/XR + 하/XSA + ㄴ/ETM
+회식/NNG
+자리/NNG + 가/JKS
+초상집/NNG
+분위기/NNG + 로/JKB
+돌변/NNG + 하/XSV + 았/EP + 다고/EC
+한/MM
+참석자/NNG + 가/JKS
+전하/VV + 았/EP + 다/EF + ./SF
+정/NNP
+총장/NNG + 은/JX
+즉석/NNG + 에서/JKB
+함께/MAG
+자리/NNG + 하/XSV + ㄴ/ETM
+전재기/NNP
+서울검사장/NNG + 에게/JKB
+수사/NNG
+전담/NNG + 반/NNG + 을/JKO
+편성/NNG + ,/SP
+주동자/NNG + 와/JC
+폭행/NNG
+가담자/NNG + 들/XSN + 을/JKO
+가려내/VV + 어/EC
+엄단/NNG + 하/XSV + 도록/EC
+지시/NNG + 하/XSV + 았/EP + 다는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+전/NNP
+검사장/NNG + 은/JX
+부랴부랴/MAG
+서울/NNP
+지검/NNG
+청사/NNG + 로/JKB
+돌/VV + 아/EC
+가/VV + 면서/EC
+카폰/NNG + 으로/JKB
+집/NNG + 에/JKB
+있/VV + 던/ETM
+신창언/NNP
+서울/NNP
+지검/NNG
+북부/NNG
+지청장/NNG + 을/JKO
+호출/NNG + ,/SP
+당장/NNG
+수사/NNG + 반/NNG + 을/JKO
+가동/NNG + 하/XSV + 라고/EC
+지시/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이/NP + 에/JKB
+따르/VV + 아/EC
+북부/NNG
+지청/NNG
+특수/NNG + 부/NNG
+검사/NNG + 들/XSN + 이/JKS
+전원/NNG
+출동/NNG + 하/XSV + 았/EP + 음/ETN + 은/JX
+물론/MAG
+대검/NNG
+간부/NNG + 들/XSN + 은/JX
+집/NNG + 에서/JKB
+자/VV + 다가/EC
+'/SS + 공안/NNG
+상황/NNG + '/SS + 을/JKO
+통고/NNG
+받/VV + 고/EC
+집/NNG + 에서/JKB
+한/XPN + 밤/NNG
+대기/NNG
+상태/NNG + 에/JKB
+있/VV + 었/EP + 다는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+대검/NNG + 의/JKG
+한/MM
+간부/NNG + 는/JX
+"/SS + 새벽/NNG
+2/SN + 시/NNB + 쯤/NNG
+집/NNG + 에서/JKB
+전화/NNG + 를/JKO
+받/VV + 고/EC + 는/JX
+정/NNP
+총장/NNG + 의/JKG
+험악/XR + 하/XSA + 아/EC + 지/VX + 었/EP + 을/ETM
+얼굴/NNG + 이/JKS
+떠오르/VV + 아/EC
+밤/NNG + 을/JKO
+꼬박/MAG
+세우/VV + 었/EP + 다/EC + "/SS + 고/JKQ
+토로/NNG + 하/XSV + 기/ETN + 도/JX
+하/VV + 았/EP + 다/EF + ./SF
+◇/SW + …/SE
+학생/NNG + 들/XSN + 의/JKG
+정/NNP
+총리/NNG
+서리/NNG
+폭행/NNG
+사태/NNG + 가/JKS
+발생/NNG + 하/XSV + 자/EC
+검찰/NNG
+간부/NNG + 들/XSN + 은/JX
+이/MM
+사태/NNG + 가/JKS
+그/MM
+동안/NNG
+공권력/NNG + 이/JKS
+운동/NNG + 권/XSN + 의/JKG
+횡포/NNG + 에/JKB
+무/XPN + 기력/NNG + 하/XSA + 고/EC
+안일/NNG + 하/XSA + 게/EC
+대응/NNG + 하/XSV + 아/EC
+오/VX + ㄴ/ETM
+데/NNB
+따르/VV + ㄴ/ETM
+필연/NNG + 적/XSN
+결과/NNG + 이/VCP + 라며/EC
+이번/NNG
+사태/NNG + 를/JKO
+계기/NNG + 로/JKB
+단호/XR + 하/XSA + ㄴ/ETM
+법/NNG
+집행/NNG
+의지/NNG + 를/JKO
+보이/VV + 어/EC
+주/VX + 어야/EC
+하/VX + ㄴ다고/EC
+입/NNG + 을/JKO
+모으/VV + 아/EC
+성토/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+서울/NNP
+지검/NNG + 의/JKG
+한/MM
+간부/NNG + 는/JX
+이/MM
+사태/NNG + 에/JKB
+관하/VV + ㄴ/ETM
+보도/NNG + 로/JKB
+온통/MAG
+지면/NNG + 을/JKO
+뒤덮/VV + 은/ETM
+4/SN + 일/NNB + 자/NNG
+아침/NNG
+신문/NNG + 을/JKO
+가리키/VV + 며/EC
+"/SS + 이제야/MAG
+언론/NNG + 이/JKS
+저/NP + 의/JKG
+모습/NNG + 을/JKO
+찾/VV + 았/EP + 다/EC + "/SS + 면서/EC
+"/SS + 이번/NNG
+사태/NNG + 를/JKO
+계기/NNG + 로/JKB
+언론/NNG + 도/JX
+법/NNG
+질서/NNG + 가/JKS
+확립/NNG + 되/XSV + 어야/EC
+하/VX + ㄴ다는/ETM
+주장/NNG + 을/JKO
+강력히/MAG
+펴/VV + 어야/EC
+하/VX + ㄹ/ETM
+것/NNB + "/SS + 이라고/JKQ
+주장/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+또/MAG
+다른/MM
+한/MM
+간부/NNG + 는/JX
+"/SS + 공권력/NNG + 은/JX
+필요/NNG + 하/XSA + ㄹ/ETM
+때/NNG
+가차/NNG
+없이/MAG
+행사/NNG + 되/XSV + 어야/EC
+하/VX + ㄴ다/EC + "/SS + 면서/EC
+"/SS + 계속/MAG
+여론/NNG + 에/JKB
+밀리/VV + 어/EC
+눈치/NNG + 만/JX
+보/VV + 다가/EC + 는/JX
+이/NP + 와/JKB
+같/VA + 은/ETM
+사태/NNG + 가/JKS
+언제/MAG
+또/MAG
+재발/NNG + 하/XSV + ㄹ지/EC
+모르/VV + ㄹ/ETM
+일/NNG + "/SS + 이라고/JKQ
+말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+◇/SW + …/SE
+검찰/NNG
+수사/NNG
+전담/NNG
+반장/NNG + 이/VCP + ㄴ/ETM
+서울/NNP
+지검/NNG
+북부/NNG
+지청/NNG
+장재/NNP
+특수/NNG
+부장/NNG + 은/JX
+4/SN + 일/NNB
+"/SS + 현재/MAG
+총리/NNG
+수행원/NNG + ,/SP
+외대/NNP
+교수/NNG + ,/SP
+교직원/NNG + ,/SP
+수강/NNG
+학생/NNG
+등/NNB
+당시/NNG
+목격자/NNG + 들/XSN + 의/JKG
+진술/NNG + 과/JC + ,/SP
+현장/NNG + 을/JKO
+찍/VV + 은/ETM
+비디오/NNG
+스틸/NNG
+사진/NNG
+판별/NNG
+작업/NNG
+등/NNB + 을/JKO
+바탕/NNG + 으로/JKB
+이미/MAG
+밝히/VV + 어/EC + 지/VX + ㄴ/ETM
+주동자/NNG
+16/SN + 명/NNB
+외/NNB + 의/JKG
+적극/NNG
+가담자/NNG + 들/XSN + 을/JKO
+찾/VV + 고/EC
+있/VX + 는/ETM
+중/NNB + "/SS + 이라고/JKQ
+수사/NNG
+상황/NNG + 을/JKO
+밝히/VV + 었/EP + 다/EF + ./SF
+장/NNP
+부장/NNG
+검사/NNG + 는/JX
+"/SS + 폭행/NNG
+가담자/NNG + 에/JKB
+대하/VV + 아서/EC + 는/JX
+전원/NNG
+구속/NNG
+수사/NNG + 를/JKO
+원칙/NNG + 으로/JKB
+하/VV + 는/ETM
+한편/NNG + ,/SP
+구호/NNG + 를/JKO
+외치/VV + 거나/EC
+정/NNP
+총리/NNG
+서리/NNG + 를/JKO
+둘러싸/VV + ㄴ/ETM
+시위/NNG
+대열/NNG + 에/JKB
+끼/VV + 는/ETM
+등/NNB + 의/JKG
+소극/NNG + 적/XSN
+동조/NNG + ·/SP + 지지/NNG
+행위자/NNG + 도/JX
+포함/NNG + 되/XSV + ㄴ다/EC + "/SS + 고/JKQ
+말/NNG + 하/XSV + 고/EC
+"/SS + 이/NP + 들/XSN + 에게/JKB + 는/JX
+일단/MAG
+폭력/NNG
+행위/NNG
+등/NNB
+처벌/NNG + 에/JKB
+관하/VV + ㄴ/ETM
+법률/NNG
+위반/NNG
+혐의/NNG + 가/JKS
+적용/NNG + 되/XSV + ㄹ/ETM
+것/NNB + 이/VCP + 며/EC
+집시법/NNG
+등/NNB
+다른/MM
+법률/NNG + 의/JKG
+적용/NNG
+여부/NNG + 는/JX
+아직/MAG
+확정/NNG + 하/XSV + 지/EC
+않/VX + 았/EP + 다/EC + "/SS + 고/JKQ
+밝히/VV + 었/EP + 다/EF + ./SF
+1991/SN + //SP + 08/SN + //SP + 15/SN
+03/SN
+'/SS + 배상/NNG + '/SS
+운동/NNG + 의/JKG
+역사/NNG + 적/XSN
+의미/NNG + (/SS + 일본/NNP + 의/JKG
+'/SS + 배상/NNG
+문제/NNG + '/SS
+이렇/VA + 게/EC
+보/VV + ㄴ다/EF + :/SP + 1/SN + )/SS
+냉전/NNG
+체제/NNG
+무너지/VV + 며/EC
+민간/NNG
+차원/NNG
+요구/NNG
+봇물/NNG
+//SP
+남/NNP + ·/SP + 북한/NNP
+공동/NNG
+대응책/NNG
+강구/NNG + 되/XSV + 어야/EC
+//SP
+김영호/NNP
+일본/NNP + 은/JX
+제/XPN + 2/SN + 차/NNB
+세계/NNG
+대전/NNG + 과/JC
+그/MM
+동안/NNG + 의/JKG
+식민지/NNG
+지배/NNG
+등/NNB
+역사/NNG + 의/JKG
+'/SS + 빚/NNG + '/SS + 을/JKO
+청산/NNG + 하/XSV + 았/EP + 는가/EF + ./SF
+나아가/VV + 아/EC
+이러/XR + 하/XSA + ㄴ/ETM
+청산/NNG
+작업/NNG + 을/JKO
+토대/NNG + 로/JKB
+평화/NNG
+국가/NNG + 의/JKG
+헌법/NNG
+이념/NNG + 에/JKB
+맞/VV + 는/ETM
+올바르/VA + ㄴ/ETM
+길/NNG + 을/JKO
+걷/VV + 어/EC
+오/VX + 았/EP + 는가/EF + ./SF
+2/SN + 차/NNB
+대전/NNG
+종전/NNG
+46/SN + 주년/NNB + 을/JKO
+맞/VV + 아/EC
+이런/MM
+물음/NNG + 이/JKS
+일제/NNG
+침략/NNG
+피해/NNG
+국가/NNG + 들/XSN + 로부터/JKB
+이전/NNG + 보다/JKB
+강력/XR + 하/XSA + 게/EC
+제기/NNG + 되/XSV + 는/ETM
+것/NNB + 은/JX
+그/MM
+대답/NNG + 이/JKS
+부정/NNG + 적/XSN + 이/VCP + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+바로/MAG
+이/NP + 들/XSN
+나라/NNG + 에서/JKB
+피해자/NNG + 나/JC
+그/MM
+유가족/NNG
+그리고/MAJ
+여러/MM
+민간/NNG
+단체/NNG + 가/JKS
+열성/NNG + 적/XSN + 으로/JKB
+'/SS + 배상/NNG
+운동/NNG + '/SS + 을/JKO
+벌이/VV + 고/EC
+있/VX + 는/ETM
+사실/NNG + 은/JX
+이/NP + 를/JKO
+극/NNG + 적/XSN + 으로/JKB
+웅변/NNG + 하/XSV + ㄴ다/EF + ./SF
+이/MM
+운동/NNG + 은/JX
+이미/MAG
+단순/NNG + 하/XSA + ㄴ/ETM
+금전/NNG + 적/XSN
+배상/NNG + 이나/JC
+보상/NNG
+차원/NNG + 을/JKO
+넘/VV + 어/EC
+올바르/VA + ㄴ/ETM
+역사/NNG + 의/JKG
+자리/NNG
+매기/VV + ㅁ/ETN + ,/SP
+나아가/VV + 아/EC
+피해/NNG
+국가/NNG + 들/XSN + 의/JKG
+바람직/XR + 하/XSA + ㄴ/ETM
+미래상/NNG + 이/VCP + 라는/ETM
+장기/NNG
+전략/NNG + 과/JKB + 도/JX
+직결/NNG + 되/XSV + 는/ETM
+무게/NNG + 로/JKB
+다가서/VV + 고/EC
+있/VX + 다/EF + ./SF
+한국/NNP + 을/JKO
+비롯/XR + 하/XSV + 아/EC
+여러/MM
+나라/NNG + 에서/JKB
+일/VV + 고/EC
+있/VX + 는/ETM
+'/SS + 배상/NNG
+운동/NNG + '/SS + 의/JKG
+현주소/NNG + 와/JC
+역사/NNG + 적/XSN
+의미/NNG
+그리고/MAJ
+앞/NNG + 으로/JKB + 의/JKG
+과제/NNG
+등/NNB + 을/JKO
+각계/NNG
+전문가/NNG + 들/XSN + 의/JKG
+특별/NNG
+기고/NNG
+시리즈/NNG + 를/JKO
+통하/VV + 아/EC
+정리/NNG + 하/XSV + 아/EC
+보/VX + ㄴ다/EF + ./SF
+얼마/NNG
+전/NNG
+히로시마/NNP + 에서/JKB
+열리/VV + ㄴ/ETM
+평화/NNG
+심포지엄/NNG + 에/JKB
+참석/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+'/SS + 노/NNG
+모어/NNG
+히로시마/NNP + '/SS + (/SS + 히로시마/NNP + 와/JKB
+같/VA + 은/ETM
+원폭/NNG
+피해/NNG + 가/JKS
+지구/NNG
+위/NNG + 에/JKB
+다시/MAG
+없/VA + 기/ETN + 를/JKO
+촉구/NNG + 하/XSV + 는/ETM
+운동/NNG + )/SS + 에/JKB
+대하/VV + 아/EC
+평소/NNG
+느끼/VV + ㄴ/ETM
+감상/NNG + 을/JKO
+솔직히/MAG
+얘기/NNG + 하/XSV + 고/EC
+싶/VX + 었/EP + 다/EF + ./SF
+"/SS + 일본인/NNG + 들/XSN + 이/JKS
+히로시마/NNP + 의/JKG
+피폭지/NNG + 에/JKB
+모이/VV + 어/EC
+눈물/NNG + 을/JKO
+흘리/VV + ㄹ/ETM
+때/NNG
+한국/NNP + 의/JKG
+어느/MM
+저명/NNG
+학자/NNG + 가/JKS
+</SS + 뉴스위크/NNP + >/SS + 에/JKB
+미국/NNP + 은/JX
+일본/NNP + 에/JKB
+원폭/NNG + 을/JKO
+열/NR
+개/NNB + 쯤/NNG
+투하/NNG + 하/XSV + 았/EP + 어야/EC
+하/VX + 았/EP + 다는/ETM
+글/NNG + 을/JKO
+쓰/VV + 었/EP + 다/EF + ./SF
+나/NP + 는/JX
+그/MM
+말/NNG + 에/JKB
+찬성/NNG + 하/XSV + 지/EC + 는/JX
+않/VX + 지만/EC
+동시/NNG + 에/JKB
+일본/NNP + 의/JKG
+히로시마/NNP + 의/JKG
+논리/NNG + 에/JKB + 도/JX
+늘/MAG
+심하/VA + ㄴ/ETM
+안타깝/VA + ㅁ/ETN + 을/JKO
+느끼/VV + 어/EC
+오/VX + 았/EP + 다/EF + ./SF
+태평양/NNP
+전쟁/NNG + 을/JKO
+일으키/VV + ㄴ/ETM
+일본/NNP + 은/JX
+당시/NNG
+'/SS + 천황/NNG + '/SS + -/SS + 군부/NNG + -/SS + 국민/NNG + 이/JKS
+완전히/MAG
+일체/NNG + 화/XSN + 되/XSV + ㄴ/ETM
+병영/NNG
+국가/NNG + 이/VCP + 었/EP + 고/EC
+따라서/MAJ
+전쟁/NNG
+책임/NNG + 이/JKS
+없/VA + 는/ETM
+민간인/NNG + 은/JX
+거의/MAG
+없/VA + 었/EP + 다/EF + ./SF
+진정/XR + 하/XSA + ㄴ/ETM
+희생자/NNG + 는/JX
+조선인/NNG
+피폭자/NNG + 이/VCP + 다/EF + ./SF
+그/NP + 들/XSN + 이야말로/JX
+식민/NNG + 적/XSN
+희생/NNG + 과/JC
+원폭/NNG + 의/JKG
+희생/NNG + 을/JKO
+이중/NNG + 으로/JKB
+당하/VV + ㄴ/ETM
+역사/NNG + 의/JKG
+'/SS + 맨/MM
+밑바닥/NNG + '/SS + 이/VCP + 다/EF + ./SF
+저/NP + 들/XSN + 을/JKO
+계속/MAG
+식민주의/NNG + 적/XSN
+의식/NNG + 에서/JKB
+깔/VV + 고/EC
+앉/VV + 아/EC
+그/MM
+위/NNG + 에서/JKB
+피해자/NNG
+의식/NNG + 을/JKO
+내세우/VV + 며/EC
+당시/NNG + 의/JKG
+전범/NNG
+내지/MAG
+준범/NNG + 적/XSN
+피폭자/NNG + 들/XSN + 을/JKO
+평화/NNG + 의/JKG
+이름/NNG + 으로/JKB
+추존/NNG + 하/XSV + ㄴ들/EC
+어떻/VA + 게/EC
+보편/NNG + 성/XSN + 을/JKO
+가지/VV + ㄹ/ETM
+수/NNB
+있/VV + 겠/EP + 는가/EF + ./SF
+나/NP + 는/JX
+오히려/MAG
+'/SS + 노/NNP
+모어/NNG
+히로시마/NNP
+드라마/NNG + '/SS + (/SS + 히로시마/NNP + 의/JKG
+연극/NNG + 을/JKO
+집/VV + 어/EC
+치우/VV + 어라/EF + !/SF + )/SS + 라고/JKQ
+말/NNG + 하/XSV + 고/EC
+싶/VX + 다/EF + ./SF
+히로시마/NNP + 의/JKG
+세계사/NNG + 적/XSN
+의미/NNG + 를/JKO
+회복/NNG + 시키/XSV + 는/ETM
+길/NNG + 은/JX
+오직/MAG
+하나/NR
+맨/MM
+밑바닥/NNG + 을/JKO
+맨/MM
+앞자리/NNG + 에/JKB
+세우/VV + 는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+조선인/NNG
+피폭자/NNG + 들/XSN + 이야말로/JX
+세계/NNG
+평화/NNG + 의/JKG
+원점/NNG + 이/VCP + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF + "/SS
+최근/NNG
+일본/NNP + 의/JKG
+식민지/NNG
+전쟁/NNG
+배상/NNG + 을/JKO
+요구/NNG + 하/XSV + 는/ETM
+소리/NNG + 가/JKS
+국제/NNG + 적/XSN + 으로/JKB
+높/VA + 아/EC + 지/VX + 어/EC
+가/VX + 고/EC
+있/VX + 다/EF + ./SF
+한국/NNP + 으로부터/JKB
+원폭/NNG
+피해자/NNG + 들/XSN + 이/JKS + ,/SP
+일제/NNG
+징용자/NNG + 들/XSN + 이/JKS + ,/SP
+여자/NNG
+정신대/NNG + 가/JKS + ,/SP
+사할린/NNP
+잔류/NNG
+동포/NNG + 가/JKS
+한꺼번에/MAG
+사죄/NNG + ·/SP + 배상/NNG
+문제/NNG + 를/JKO
+들/VV + 고/EC
+나오/VV + 는가/EC
+하/VV + 면/EC
+중국/NNP + 에서/JKB + ㄴ/JX
+무려/MAG
+1/SN + 천/NR
+8/SN + 백억/NR
+달러/NNB + 의/JKG
+대일/NNP
+민간/NNG
+배상/NNG + 을/JKO
+청구/NNG + 하/XSV + 고/EC
+나오/VV + 았/EP + 다/EF + ./SF
+인도네시아/NNP
+말레이시아/NNP
+대만/NNP
+홍콩/NNP
+그리고/MAJ
+남태평양/NNP + 의/JKG
+팔라우/NNP + 에서/JKB + 도/JX
+비슷/XR + 하/XSA + ㄴ/ETM
+요구/NNG + 가/JKS
+속출/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+앞/NNG + 으로/JKB
+이런/MM
+움직임/NNG + 은/JX
+더욱/MAG
+세차/VA + 게/EC
+전개/NNG + 되/XSV + ㄹ/ETM
+형국/NNG + 이/VCP + 다/EF + ./SF
+지금/NNG + 까지/JX + 는/JX
+미국/NNP + 의/JKG
+반공/NNG
+정책/NNG + 과/JC
+그/MM
+부산물/NNG + 이/VCP + ㄴ/ETM
+샌프란시스코/NNP
+강화/NNG
+조약/NNG + ,/SP
+그리고/MAJ
+그것/NP + 과/JKB
+영합/NNG + 되/XSV + ㄴ/ETM
+일본/NNP + 의/JKG
+신/XPN + 보수주의/NNG + 와/JC
+한국/NNP + 의/JKG
+독재/NNG
+정권/NNG + 이/JKS
+서로/MAG
+얽히/VV + ㄴ/ETM
+국제/NNG
+체제/NNG
+속/NNG + 에서/JKB
+묻히/VV + 고/EC
+갇히/VV + 어/EC
+있/VX + 던/ETM
+이/MM
+문제/NNG + 가/JKS
+이제/MAG
+냉전/NNG
+체제/NNG + 와/JC
+독재/NNG
+체제/NNG + 가/JKS
+무너지/VV + 면서/EC + ,/SP
+일반/NNG
+민중/NNG + 의/JKG
+차원/NNG + 에서/JKB
+세차/VA + 게/EC
+일어나/VV + 고/EC
+있/VX + 는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+한국인/NNG
+피폭자/NNG
+6/SN + 만/NR
+명/NNB + 이/JKS
+배상/NNG + 을/JKO
+받/VV + 지/EC
+못하/VX + ㄴ/ETM
+데/NNB + 는/JX
+두/MM
+가지/NNB + 의/JKG
+형식/NNG + 적/XSN
+배경/NNG + 이/JKS
+있/VV + 다/EF + ./SF
+이것/NP + 은/JX
+물론/MAG
+징용자/NNG
+배상/NNG + ,/SP
+여자/NNG + 정신대/NNG
+배상/NNG + ,/SP
+사할린/NNP
+동포/NNG
+문제/NNG + 와/JC
+그/MM + 밖/NNG + 의/JKG
+수많/VA + 은/ETM
+피해/NNG
+보상/NNG + 의/JKG
+경우/NNG + 에/JKB + 도/JX
+그대로/MAG
+적용/NNG + 되/XSV + 는/ETM
+것/NNB + 이/VCP + 기/ETN + 는/JX
+하/VV + 다/EF + ./SF
+우선/MAG
+원폭/NNG + 을/JKO
+투하/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 은/JX
+일본/NNP + 이/JKS
+아니/VCN + 라/EC
+미국/NNP + 이/VCP + 라는/ETM
+논리/NNG + 이/VCP + 다/EF + ./SF
+그러나/MAJ
+이/MM
+논리/NNG + 는/JX
+일본/NNP + 이/JKS
+강제/NNG + 적/XSN + 으로/JKB
+한국인/NNG + 을/JKO
+끌/VV + 고/EC
+가/VV + 고/EC + 도/JX
+나중/NNG + 에/JKB + 는/JX
+일본인/NNG
+피폭자/NNG + 에게/JKB
+하/VV + 고/EC
+있/VX + 는/ETM
+모든/MM
+지원/NNG + 에서/JKB + 도/JX
+이/NP + 들/XSN + 을/JKO
+기본/NNG + 적/XSN + 으로/JKB
+제외/NNG + 시키/XSV + 고/EC
+있/VX + 다는/ETM
+점/NNG + 에서/JKB
+설득력/NNG + 이/JKS
+없/VA + 다/EF + ./SF
+한국인/NNG
+피폭자/NNG
+문제/NNG + 는/JX
+전쟁/NNG
+보상/NNG
+차원/NNG + 에서/JKB
+식민지/NNG + 보상/NNG + 의/JKG
+차원/NNG + 으로/JKB
+환원/NNG + 하/XSV + 아야/EC
+하/VX + ㄹ/ETM
+것/NNB + 이/VCP + 라는/ETM
+점/NNG + 이/JKS
+강조/NNG + 되/XSV + ㄹ/ETM
+필요/NNG + 가/JKS
+있/VV + 을/ETM
+것/NNB
+같/VA + 다/EF + ./SF
+전쟁/NNG + 의/JKG
+차원/NNG + 에서/JKB + 는/JX
+미/NNP + -/SS + 일/NNP + 전쟁/NNG
+당사자/NNG
+사이/NNG + 에서/JKB
+한국/NNP + 은/JX
+일본/NNP
+쪽/NNB + 에/JKB
+편입/NNG + 되/XSV + 어/EC
+있/VX + 었/EP + 고/EC + ,/SP
+기묘/XR + 하/XSA + 게/EC + 도/JX
+대전/NNG
+뒤/NNG
+징용/NNG
+한국인/NNG + 이/JKS
+미군/NNG + 에/JKB
+의하/VV + 아/EC
+전범/NNG + 으로/JKB
+처리/NNG + 되/XSV + 는/ETM
+사태/NNG + 까지/JX
+벌어지/VV + 게/EC
+되/VV + ㄴ다/EF + ./SF
+일본/NNP + 의/JKG
+연합국/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+전쟁/NNG
+책임/NNG + 의/JKG
+차원/NNG + 에서/JKB + 는/JX
+한국/NNP + 의/JKG
+식민지/NNG
+지배/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+사죄/NNG + ·/SP + 배상/NNG + 을/JKO
+도출/NNG + 하/XSV + 아/EC
+내/VX + 기/ETN + 가/JKS
+어렵/VA + 게/EC
+되/VV + ㄴ다/EF + ./SF
+한/NNP + -/SS + 일/NNP + 간/NNB + 에/JKB + 는/JX
+식민지/NNG + 적/XSN
+모순/NNG + 이/JKS
+선행/NNG + 하/XSV + 았/EP + 고/EC
+따라서/MAJ
+식민지/NNG + 보상/NNG + 차원/NNG + 에/JKB
+서/VV + 는/ETM
+것/NNB + 이/JKS
+문제/NNG + 의/JKG
+본질/NNG + 에/JKB
+접근/NNG + 하/XSV + 는/ETM
+길/NNG + 이/JKC
+되/VV + ㄴ다/EF + ./SF
+이것/NP + 은/JX
+1910/SN + 년/NNB + 의/JKG
+무력/NNG + 적/XSN
+강압/NNG + 을/JKO
+전제/NNG + 로/JKB
+하/VV + ㄴ/ETM
+'/SS + 한/NNP + 일/NNP + 합방/NNG + 조약/NNG + '/SS + 의/JKG
+무효/NNG + 화/XSN
+투쟁/NNG + 과/JKB
+직결/NNG + 되/XSV + ㄴ다/EF + ./SF
+또/MAG
+하나/NR + 의/JKG
+배경/NNG + 은/JX
+한/NNP + -/SS + 일/NNP + 간/NNB + 의/JKG
+보상/NNG
+문제/NNG + 가/JKS
+1965/SN + 년/NNB + 의/JKG
+'/SS + 한/NNP + 일/NNP + 기본/NNG + 조약/NNG + '/SS
+및/MAG
+'/SS + 재산/NNG
+및/MAG
+청구/NNG + 권/XSN + 에/JKB
+관하/VV + ㄴ/ETM
+문제/NNG + 의/JKG
+해결/NNG + 과/JC
+경제/NNG
+협력/NNG + 에/JKB
+관하/VV + ㄴ/ETM
+협정/NNG + '/SS + 에서/JKB
+"/SS + 양국/NNG + 도/JX
+양국/NNG
+및/MAG
+그/MM
+국민/NNG + (/SS + 법인/NNG + 포함/NNG + )/SS + 의/JKG
+재산/NNG
+권리/NNG
+이익/NNG + 과/JC
+양국/NNG
+및/MAG
+그/MM
+국민/NNG + 간/NNB + 의/JKG
+청구/NNG + 권/XSN + 에/JKB
+관하/VV + ㄴ/ETM
+문제/NNG + 가/JKS
+완전히/MAG
+그리고/MAJ
+최종/NNG + 으로/JKB
+해결/NNG + 되/XSV + 었/EP + 다는/ETM
+것/NNB + 을/JKO
+확인/NNG + 하/XSV + ㄴ다/EC + "/SS + 는/ETM
+협정/NNG + 으로/JKB
+처리/NNG + 가/JKS
+끝나/VV + 았/EP + 다는/ETM
+입장/NNG + 이/VCP + 다/EF + ./SF
+그러나/MAJ
+이/MM
+조약/NNG + 을/JKO
+전제/NNG + 로/JKB
+하/VV + 더라도/EC
+이것/NP + 은/JX
+어디/NP + 까지/JX + 나/JX
+정부/NNG
+차원/NNG + 의/JKG
+것/NNB + 이/VCP + 지/EC
+민간/NNG
+차원/NNG + 의/JKG
+보상/NNG
+문제/NNG + 는/JX
+여전히/MAG
+미/XPN + 해결/NNG + 로/JKB
+남/VV + 아/EC
+있/VX + 다고/EC
+해석/NNG + 하/XSV + 아야/EC
+하/VX + ㄴ다/EF + ./SF
+근대/NNG
+국가/NNG + 에서/JKB
+민간/NNG + 의/JKG
+청구/NNG + 권/XSN
+문제/NNG + 나/JC
+배상/NNG
+문제/NNG + 는/JX
+개개인/NNG + 의/JKG
+고유/NNG + 하/XSA + ㄴ/ETM
+권한/NNG + 의/JKG
+문제/NNG + 이/VCP + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+따라서/MAJ
+이/MM
+조약/NNG + 은/JX
+민간/NNG + 의/JKG
+배상/NNG
+요구/NNG + 에/JKB
+대하/VV + 아/EC
+정부/NNG + 가/JKS
+외교/NNG + 적/XSN
+개입/NNG + 을/JKO
+하/VV + 지/EC
+않/VX + 는다는/ETM
+내용/NNG + 으로/JKB
+해석/NNG + 되/XSV + 어야/EC
+하/VX + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+이/NP + 와/JKB
+같/VA + 은/ETM
+국가/NNG
+배상/NNG + 과/JC
+민간/NNG
+배상/NNG + 을/JKO
+구별/NNG + 하/XSV + 는/ETM
+논리/NNG
+위/NNG + 에서/JKB
+이번/NNG + 에/JKB
+중국/NNP + 에서/JKB
+1/SN + 천/NR
+8/SN + 백억/NR
+달러/NNB + 에/JKB
+해당/NNG + 하/XSV + 는/ETM
+민간/NNG
+배상/NNG + 을/JKO
+청구/NNG + 하/XSV + 고/EC
+나서/VV + ㄴ/ETM
+것/NNB + 이/VCP + 며/EC + ,/SP
+한국/NNP + 은/JX
+같/VA + 은/ETM
+논리/NNG + 에서/JKB
+다양/NNG + 하/XSA + ㄴ/ETM
+민간/NNG
+배상/NNG + 을/JKO
+요구/NNG + 하/XSV + 고/EC
+있/VX + 는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+그러나/MAJ
+한/NNP + 일/NNP
+기본/NNG
+조약/NNG + 의/JKG
+테두리/NNG
+안/NNG + 에서/JKB
+민간/NNG
+보상/NNG
+차원/NNG + 으로/JKB
+추진/NNG + 하/XSV + ㄹ/ETM
+경우/NNG + 도/JX
+그것/NP + 이/JKS
+배상/NNG + 이/VCP + 냐/EC + ,/SP
+청구/NNG + 권/XSN + 이/VCP + 냐/EC + ,/SP
+아니/VCN + 면/EC
+경제/NNG + 적/XSN
+지원/NNG
+형태/NNG + 이/VCP + 냐/EC
+하/VV + 는/ETM
+문제/NNG + 가/JKS
+남/VV + 는다/EF + ./SF
+배상/NNG
+차원/NNG + 으로/JKB
+가/VV + 려면/EC
+식민지/NNG
+지배/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+사죄/NNG + 를/JKO
+전제/NNG + 로/JKB
+하/VV + ㄹ/ETM
+때/NNG + 에/JKB
+가능/NNG + 하/XSA + 다/EF + ./SF
+그리고/MAJ
+진정/XR + 하/XSA + ㄴ/ETM
+사죄/NNG + 는/JX
+법/NNG + 적/XSN + 으로/JKB
+군사/NNG + 적/XSN
+강제/NNG + 가/JKS
+선행/NNG + 되/XSV + ㄴ/ETM
+한/NNP + -/SS + 일/NNP
+합방/NNG
+조약/NNG + 의/JKG
+원인/NNG
+무효/NNG + 를/JKO
+전제/NNG + 로/JKB
+하/VV + ㄹ/ETM
+때/NNG + 만/JX
+가능/NNG + 하/XSA + 다/EF + ./SF
+그러/VV + 기/ETN
+위하/VV + 아서/EC + 는/JX
+역시/MAG
+한/NNP + -/SS + 일/NNP
+기본/NNG
+조약/NNG + 을/JKO
+개정/NNG + 시키/XSV + 어야/EC
+하/VX + ㄴ다/EF + ./SF
+한/NNP + -/SS + 일/NNP
+기본/NNG
+조약/NNG + 의/JKG
+개정/NNG
+없/VA + 는/ETM
+대일/NNP
+민간/NNG
+배상/NNG
+운동/NNG + 은/JX
+한계/NNG + 에/JKB
+부닥치/VV + 게/EC
+마련/NNB + 이/VCP + 다/EF + ./SF
+지금/MAG
+일본/NNP + 은/JX
+북한/NNP + 의/JKG
+국제/NNG + 적/XSN + ·/SP + 경제/NNG + 적/XSN
+약점/NNG + 을/JKO
+이용/NNG + 하/XSV + 아/EC
+남한/NNP + 과/JKB + 의/JKG
+기본/NNG
+조약/NNG + 의/JKG
+테두리/NNG
+안/NNG + 에서/JKB
+일본/NNP + -/SS + 북한/NNP
+조약/NNG + 을/JKO
+맺/VV + 으려/EC
+하/VX + 고/EC
+있/VX + 다/EF + ./SF
+우리/NP + 는/JX
+이/NP + 에/JKB
+맞서/VV + 어/EC
+거꾸로/MAG
+민간/NNG + 의/JKG
+대일/NNP
+배상/NNG
+운동/NNG + 을/JKO
+통하/VV + 아/EC
+한/NNP + 일/NNP
+기본/NNG
+조약/NNG + 을/JKO
+개정/NNG + 하/XSV + 는/ETM
+데/NNB + 까지/JX
+나아가/VV + 고/EC + ,/SP
+북한/NNP + 은/JX
+일본/NNP + 과/JKB + 의/JKG
+3/SN + 당/NNG
+합의/NNG
+선언/NNG + 의/JKG
+선/NNG
+위/NNG + 에서/JKB
+북한/NNP + -/SS + 일본/NNP
+기본/NNG
+조약/NNG + 을/JKO
+맺/VV + 도록/EC
+하/VX + 아야/EC
+하/VX + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+그러/VV + 기/ETN
+위하/VV + 아서/EC + 는/JX
+먼저/MAG
+한국/NNP
+안/NNG + 의/JKG
+각종/NNG
+대일/NNP
+배상/NNG
+운동/NNG + 을/JKO
+종합/NNG + 하/XSV + 아/EC
+국민/NNG
+운동/NNG + 의/JKG
+차원/NNG + 으로/JKB
+승화/NNG + 시키/XSV + 면서/EC
+일본/NNP + 의/JKG
+양심/NNG + 적/XSN
+시민/NNG
+운동/NNG
+세력/NNG + 을/JKO
+포함/NNG + 하/XSV + ㄴ/ETM
+국제/NNG + 적/XSN
+연대/NNG + 를/JKO
+더욱/MAG
+강화/NNG + 하/XSV + 아야/EC
+하/VX + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+1991/SN + //SP + 09/SN + //SP + 05/SN
+05/SN
+국제/NNG
+정세/NNG + 의/JKG
+향방/NNG + (/SS + 전문가/NNG
+진단/NNG
+소련/NNP
+사태/NNG + ,/SP
+의미/NNG + 와/JC
+파장/NNG + :/SP + 2/SN + )/SS
+군사/NNG
+대결/NNG
+퇴조/NNG
+경제/NNG
+갈등/NNG
+부각/NNG
+//SP
+미국/NNP
+영향력/NNG
+강화/NNG + …/SE
+세계/NNG
+질서/NNG
+재편/NNG
+가속/NNG
+//SP
+시장/NNG
+경제/NNG
+확산/NNG
+속/NNG
+블록/NNG + 화/XSN
+추세/NNG
+촉진/NNG + 되/XSV + ㄹ/ETM
+듯/NNB
+고르바초프/NNP
+집권/NNG
+이래/NNB
+추진/NNG + 되/XSV + 어/EC
+오/VX + ㄴ/ETM
+페레스트로이카/NNG + 는/JX
+소련/NNP
+사회/NNG + 를/JKO
+민주/NNG + 화/XSN + ·/SP + 다원/NNG + 화/XSN + 하/XSV + 아/EC
+오/VX + 았/EP + 으며/EC + ,/SP
+국제/NNG
+정세/NNG + 의/JKG
+탈/XPN + 냉전/NNG + 화/XSN + 에/JKB
+중요/NNG + 하/XSA + ㄴ/ETM
+주/MM + 동력/NNG + 으로/JKB
+작용/NNG + 하/XSV + 아/EC
+오/VX + 았/EP + 다/EF + ./SF
+소련/NNP + 의/JKG
+이러/XR + 하/XSA + ㄴ/ETM
+변화/NNG + 는/JX
+89/SN + 년/NNB
+동유럽/NNP
+혁명/NNG + 을/JKO
+가능/NNG + 하/XSA + 게/EC
+하/VX + ㄴ/ETM
+외부/NNG + 적/XSN
+요인/NNG + 이/VCP + 었/EP + 던/ETM
+동시/NNG + 에/JKB + ,/SP
+강경/NNG
+보수/NNG
+세력/NNG + 의/JKG
+쿠데타/NNG + 가/JKS
+소련/NNP + 에서/JKB
+실패/NNG + 하/XSV + ㄹ/ETM
+수/NNB + 밖에/JX
+없/VA + 게/EC
+하/VX + ㄴ/ETM
+결정/NNG + 적/XSN
+요인/NNG + 이/VCP + 다/EF + ./SF
+그러나/MAJ
+소련/NNP
+사회/NNG + 에/JKB
+축적/NNG + 되/XSV + ㄴ/ETM
+민주/NNG + 적/XSN
+에너지/NNG + 가/JKS
+보수/NNG
+쿠데타/NNG + 를/JKO
+무산/NNG + 시키/XSV + ㄴ/ETM
+후/NNG
+현재/MAG
+소련/NNP + 에서/JKB + 는/JX
+볼셰비키/NNP
+혁명/NNG
+이래/NNB
+74/SN + 년/NNB + 간/NNG
+권력/NNG + 을/JKO
+독점/NNG + 하/XSV + 아/EC
+오/VX + ㄴ/ETM
+공산당/NNP + 이/JKS
+와해/NNG + 되/XSV + 고/EC
+구성/NNG
+공화국/NNG + 의/JKG
+독립/NNG
+요구/NNG + 가/JKS
+거세/VA + 어/EC + 지/VX + 는/ETM
+등/NNB
+안정/NNG + 을/JKO
+추구/NNG + 하/XSV + 아/EC
+오/VX + ㄴ/ETM
+소련/NNP
+중앙/NNG
+지도부/NNG
+권위/NNG + 의/JKG
+위기/NNG + 이/VCP + 라는/ETM
+점/NNG + 에서/JKB
+국제/NNG
+정세/NNG + 의/JKG
+안정/NNG + 을/JKO
+위협/NNG + 하/XSV + 는/ETM
+요인/NNG + 으로/JKB
+여기/VV + 어/EC + 지/VX + 고/EC
+있/VX + 다/EF + ./SF
+따라서/MAJ
+현재/MAG
+소련/NNP + 에서/JKB
+나타나/VV + 고/EC
+있/VX + 는/ETM
+위기/NNG + 의/JKG
+본질/NNG + 을/JKO
+바르/VA + 게/EC
+이해/NNG + 하/XSV + 고/EC
+소련/NNP + 의/JKG
+장래/NNG + 를/JKO
+객관/NNG + 적/XSN + 으로/JKB
+전망/NNG + 하/XSV + 는/ETM
+것/NNB + 은/JX
+앞/NNG + 으로/JKB + 의/JKG
+국제/NNG
+정세/NNG + 를/JKO
+내/VV + 다/EC
+보/VV + 는/ETM
+데/NNB
+무엇/NP + 보다/JKB + 도/JX
+중요/NNG + 하/XSA + 다/EF + ./SF
+급속/NNG
+발전/NNG
+따르/VV + ㄴ/ETM
+혼란/NNG
+현재/NNG
+소련/NNP + 의/JKG
+위기/NNG + 는/JX
+강경/NNG
+보수/NNG
+세력/NNG + 의/JKG
+쿠데타/NNG + 가/JKS
+실패/NNG + 하/XSV + ㄴ/ETM
+뒤/NNG
+페레스트로이카/NNG
+이래/NNB + 의/JKG
+민주/NNG + 화/XSN + ·/SP + 다원/NNG + 화/XSN
+추세/NNG + 가/JKS
+폭발/NNG + 적/XSN + 으로/JKB
+가속/NNG + 화/XSN + 하/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+나타나/VV + ㄴ/ETM
+혼란/NNG + 이/VCP + 다/EF + ./SF
+그러므로/MAJ
+소련/NNP
+사회/NNG + 의/JKG
+역사/NNG + 적/XSN
+발전/NNG
+과정/NNG + 이/VCP + 라는/ETM
+점/NNG + 에서/JKB
+현재/NNG + 의/JKG
+문제/NNG + 를/JKO
+살피/VV + 어/EC
+보/VX + ㄹ/ETM
+때/NNG + ,/SP
+지나/VV + ㄴ/ETM
+몇/MM
+년/NNB + 간/NNG
+진전/NNG + 되/XSV + 어/EC
+오/VX + ㄴ/ETM
+발전/NNG
+과정/NNG + 이/JKS
+쿠데타/NNG
+실패/NNG
+이후/NNG
+속도/NNG + 를/JKO
+더/MAG
+하/VV + 게/EC
+되/VV + ㄹ/ETM
+것/NNB + 으로/JKB
+전망/NNG + 되/XSV + ㄴ다/EF + ./SF
+지난해/NNG
+3/SN + 월/NNB
+공산당/NNP + 의/JKG
+지도/NNG + 적/XSN
+역할/NNG + 을/JKO
+규정/NNG + 하/XSV + ㄴ/ETM
+헌법/NNG
+조항/NNG + 이/JKS
+폐기/NNG + 되/XSV + 면서/EC
+소련/NNP
+정치/NNG + 의/JKG
+다원/NNG + 화/XSN + 가/JKS
+본격/NNG + 화/XSN + 되/XSV + 고/EC
+있/VV + 었/EP + 으므로/EC
+소련/NNP
+공산당/NNP + 은/JX
+복수/NNG
+정당/NNG
+제도/NNG + 의/JKG
+틀/NNG
+속/NNG + 에서/JKB
+기능/NNG + 하/XSV + 게/EC
+되/VV + ㄹ/ETM
+것/NNB + 이/VCP + 며/EC + ,/SP
+이/NP + 는/JX
+소련/NNP
+사회/NNG + 의/JKG
+민주/NNG + 화/XSN + ·/SP + 다원/NNG + 화/XSN + 를/JKO
+더욱/MAG
+촉진/NNG + 시키/XSV + 게/EC
+되/VV + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+또한/MAG
+쿠데타/NNG + 를/JKO
+주도/NNG + 하/XSV + ㄴ/ETM
+강경/NNG
+보수파/NNG + 의/JKG
+약화/NNG + 에/JKB
+따르/VV + 아/EC
+개혁파/NNG + 의/JKG
+입지/NNG + 가/JKS
+확고/XR + 하/XSA + 게/EC
+강화/NNG + 되/XSV + 고/EC
+특히/MAG
+급진/NNG + 적/XSN
+시장/NNG + 화/XSN
+계획/NNG + 을/JKO
+주장/NNG + 하/XSV + 며/EC
+오/VX + ㄴ/ETM
+실라예프/NNP + 와/JC
+야블린스키/NNP
+등/NNB + 이/JKS
+경제/NNG
+정책/NNG + 의/JKG
+핵심/NNG + 으로/JKB
+떠오르/VV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC + ,/SP
+시장/NNG
+경제/NNG
+체제/NNG + 로/JKB + 의/JKG
+이행/NNG + 은/JX
+한층/MAG
+빠르/VA + 아/EC + 지/VX + ㄹ/ETM
+전망/NNG + 이/VCP + 다/EF + ./SF
+이/NP + 와/JKB
+관련/NNG + 하/XSV + 아/EC
+이른바/MAG
+'/SS + 5/SN + 백/NR
+일/NNB
+계획/NNG + '/SS + (/SS + 샤탈린안/NNP + )/SS + 과/JKB
+같/VA + 은/ETM
+급진/NNG + 적/XSN
+시장/NNG
+경제/NNG + 화/XSN
+프로그램/NNG + 이/JKS
+다시/MAG
+시도/NNG + 되/XSV + ㄹ/ETM
+것/NNB + 이/VCP + 며/EC + ,/SP
+이/NP + 에/JKB
+따르/VV + 아/EC
+서방/NNG + 의/JKG
+소련/NNP + 에/JKB
+대하/VV + ㄴ/ETM
+경제/NNG
+지원/NNG + 도/JX
+확대/NNG + 되/XSV + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+연방/NNG
+존속/NNG
+여부/NNG + 가/JKS
+열쇠/NNG
+그러나/MAJ
+앞/NNG + 으로/JKB + 의/JKG
+소련/NNP
+정세/NNG + 를/JKO
+전망/NNG + 하/XSV + 는/ETM
+데/NNB
+가장/MAG
+중요/NNG + 하/XSA + ㄴ/ETM
+변수/NNG + 는/JX
+연방/NNG
+체제/NNG + 의/JKG
+장래/NNG + 에/JKB
+관하/VV + ㄴ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+앞/NNG + 으로/JKB
+연방/NNG
+체제/NNG + 는/JX + ,/SP
+일부/NNG
+공화국/NNG + 들/XSN + 이/JKS
+독립/NNG + 을/JKO
+선언/NNG + 하/XSV + 았/EP + 지만/EC + ,/SP
+옐친/NNP
+등/NNB
+러시아/NNP
+공화국/NNG + 이/JKS
+연방/NNG
+유지/NNG + 를/JKO
+원하/VV + 고/EC
+있/VX + 으며/EC + ,/SP
+연방/NNG
+해체/NNG
+때/NNG
+직면/NNG + 하/XSV + 게/EC
+되/VV + ㄹ/ETM
+각/MM
+공화국/NNG + 들/XSN + 의/JKG
+경제/NNG + 적/XSN
+어려움/NNG + 에/JKB
+비추/VV + 어/EC
+완전/NNG + 하/XSA + ㄴ/ETM
+연방/NNG
+해체/NNG + 로/JKB + 까지/JX
+발전/NNG + 하/XSV + 지/EC + 는/JX
+않/VX + 을/ETM
+것/NNB + 으로/JKB
+보이/VV + ㄴ다/EF + ./SF
+중앙/NNG
+집권/NNG + 적/XSN
+계획/NNG
+경제/NNG
+체제/NNG + 는/JX
+공화국/NNG + 들/XSN + 을/JKO
+상호/NNG
+의존/NNG + 적/XSN + 이/VCP + 고/EC
+보완/NNG + 적/XSN + 으로/JKB
+만들/VV + 어/EC
+오/VX + 았/EP + 다/EF + ./SF
+따라서/MAJ
+새롭/VA + ㄴ/ETM
+형태/NNG + 의/JKG
+연방/NNG + 을/JKO
+구성/NNG + 하/XSV + 면서/EC
+몇몇/MM
+공화국/NNG + 의/JKG
+분리/NNG
+독립/NNG + 은/JX
+있/VV + 을/ETM
+수/NNB
+있/VV + 지만/EC
+경제/NNG + 적/XSN
+측면/NNG + 에서/JKB + 의/JKG
+기존/NNG + 의/JKG
+협조/NNG
+관계/NNG + 는/JX
+유지/NNG + 되/XSV + ㄹ/ETM
+것/NNB + 이/VCP + 며/EC + ,/SP
+이/NP + 는/JX
+연방/NNG
+차원/NNG + 의/JKG
+경제/NNG
+조정/NNG + 이/JKS
+앞/NNG + 으로/JKB + 도/JX
+여전히/MAG
+중요/NNG + 하/XSA + ㄴ/ETM
+요인/NNG + 으로/JKB
+작용/NNG + 하/XSV + ㄹ/ETM
+것/NNB + 이/VCP + 라는/ETM
+것/NNB + 을/JKO
+의미/NNG + 하/XSV + ㄴ다/EF + ./SF
+이미/MAG
+쿠데타/NNG + 가/JKS
+발생/NNG + 하/XSV + 기/ETN
+이전/NNG + 에/JKB
+새/MM
+연방/NNG
+조약/NNG + 의/JKG
+내용/NNG + 은/JX
+공화국/NNG
+단일/NNG
+조세/NNG + 권/XSN + 과/JC
+공화국/NNG + 의/JKG
+자원/NNG
+관할/NNG + 권/XSN + 을/JKO
+인정/NNG + 하/XSV + 는/ETM
+등/NNB
+각/MM
+공화국/NNG + 의/JKG
+경제/NNG + 적/XSN
+독립/NNG + 을/JKO
+최대한/NNG + 으로/JKB
+보장/NNG + 하/XSV + 는/ETM
+방향/NNG + 으로/JKB
+조정/NNG + 되/XSV + 어/EC
+있/VX + 었/EP + 다/EF + ./SF
+그러므로/MAJ
+쿠데타/NNG + 로/JKB
+새/MM
+변수/NNG + 가/JKS
+생기/VV + 었/EP + 다고/EC
+하/VV + 더라도/EC
+연방/NNG + 이/JKS
+해체/NNG + 되/XSV + 지/EC
+않/VX + 는다면/EC
+이후/NNG + 의/JKG
+문제/NNG + 로/JKB
+남/VV + 는/ETM
+것/NNB + 은/JX
+외교/NNG + 권/XSN + 과/JC
+국방/NNG + 권/XSN + 에/JKB
+관하/VV + ㄴ/ETM
+조정/NNG + 이/VCP + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+연방/NNG
+체제/NNG + 의/JKG
+존속/NNG + 을/JKO
+전제/NNG + 하/XSV + 는/ETM
+한/NNG + ,/SP
+연방/NNG
+정부/NNG + 의/JKG
+국제/NNG + 적/XSN
+대표/NNG + 권/XSN + 을/JKO
+보장/NNG + 하/XSV + 지/EC
+않/VX + 을/ETM
+수/NNB
+없/VA + 다는/ETM
+점/NNG + 에서/JKB
+외교/NNG + 권/XSN + 과/JC
+군/NNG
+통수/NNG + 권/XSN + 에/JKB
+대하/VV + ㄴ/ETM
+연방/NNG
+정부/NNG + 의/JKG
+우월/NNG + 권/XSN + 을/JKO
+인정/NNG + 하/XSV + 지/EC
+않/VX + 을/ETM
+수/NNB
+없/VA + 을/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+다만/MAG
+군/NNG
+통수/NNG + 권/XSN + 과/JKB
+관련/NNG + 하/XSV + 아/EC
+각/MM
+공화국/NNG + 이/JKS
+공화국/NNG
+수비대/NNG
+등/NNB + 을/JKO
+창설/NNG + 하/XSV + 아/EC
+공화국/NNG
+내무부/NNG + 의/JKG
+관할/NNG
+아래/NNG
+두/VV + 고/EC + ,/SP
+연방군/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+통제/NNG + 를/JKO
+강화/NNG + 하/XSV + 기/ETN
+위하/VV + 아/EC
+군/NNG
+통수/NNG + 권/XSN + 은/JX
+연방/NNG
+대통령/NNG + 이/JKS
+갖/VV + 되/EC + ,/SP
+실질/NNG + 적/XSN
+군사/NNG
+정책/NNG + 은/JX
+연방/NNG
+국방/NNG
+위원회/NNG + 의/JKG
+합의/NNG + 제/XSN + 로/JKB
+운영/NNG + 하/XSV + 고/EC + ,/SP
+국방/NNG
+위원회/NNG + 의/JKG
+구성/NNG + 에/JKB
+각/MM
+공화국/NNG + 이/JKS
+영향력/NNG + 을/JKO
+갖/VV + 는/ETM
+방향/NNG + 으로/JKB
+귀착/NNG + 되/XSV + ㄹ/ETM
+가능/NNG + 성/XSN + 이/JKS
+크/VA + 다/EF + ./SF
+한편/MAG
+외교/NNG + 권/XSN + 에/JKB
+있/VV + 어서/EC + 도/JX
+각/MM
+공화국/NNG + 이/JKS
+일정/NNG + 하/XSA + ㄴ/ETM
+영향력/NNG + 을/JKO
+행사/NNG + 하/XSV + 기/ETN
+위하/VV + ㄴ/ETM
+제도/NNG + 적/XSN
+장치/NNG + 를/JKO
+마련/NNG + 하/XSV + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+그러나/MAJ
+새롭/VA + ㄴ/ETM
+소련/NNP + 은/JX
+국내/NNG
+문제/NNG
+해결/NNG + 에/JKB
+주력/NNG + 하/XSV + ㄹ/ETM
+수/NNB + 밖에/JX
+없/VA + 을/ETM
+것/NNB + 이/VCP + 므로/EC
+외교/NNG
+정책/NNG + 상/XSN + 의/JKG
+크/VA + ㄴ/ETM
+변화/NNG + 는/JX
+없/VA + 을/ETM
+것/NNB + 으로/JKB
+전망/NNG + 되/XSV + ㄴ다/EF + ./SF
+따라서/MAJ
+지나/VV + ㄴ/ETM
+몇/MM
+년/NNB + 간/NNG
+소련/NNP + 이/JKS
+추동력/NNG + 이/JKC
+되/VV + 어/EC
+진전/NNG + 되/XSV + 어/EC
+오/VX + ㄴ/ETM
+국제/NNG
+정세/NNG + 에/JKB
+반전/NNG + 은/JX
+없/VA + 을/ETM
+것/NNB + 으로/JKB
+보이/VV + 며/EC + ,/SP
+소련/NNP + 의/JKG
+변화/NNG + 는/JX
+오히려/MAG
+기존/NNG + 의/JKG
+국제/NNG
+정세/NNG
+변화/NNG
+추세/NNG + 를/JKO
+가속/NNG + 화/XSN + 하/XSV + 는/ETM
+요인/NNG + 으로/JKB
+작용/NNG + 하/XSV + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+앞/NNG + 으로/JKB + 의/JKG
+국제/NNG
+정세/NNG + 는/JX
+다음/NNG + 과/JKB
+같/VA + 은/ETM
+특징/NNG + 을/JKO
+보이/VV + ㄹ/ETM
+것/NNB + 으로/JKB
+전망/NNG + 되/XSV + ㄴ다/EF + ./SF
+첫째/NR + ,/SP
+걸프전/NNG
+이후/NNG
+두드러지/VV + 고/EC
+있/VX + 는/ETM
+미국/NNP
+주도/NNG + 의/JKG
+세계/NNG
+질서/NNG
+재편/NNG + 이/JKS
+가속/NNG + 화/XSN + 하/XSV + 면서/EC
+미국/NNP + 의/JKG
+국제/NNG + 적/XSN
+영향력/NNG + 이/JKS
+과거/NNG
+어느/MM
+때/NNG + 보다/JKB
+강화/NNG + 되/XSV + 고/EC + ,/SP
+미국/NNP + 이/JKS
+유일/NNG + 하/XSA + ㄴ/ETM
+군사/NNG
+대국/NNG + 으로/JKB
+등장/NNG + 하/XSV + 는/ETM
+군사력/NNG + 의/JKG
+패권/NNG + 화/XSN
+현상/NNG + 이/JKS
+촉진/NNG + 되/XSV + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+쿠데타/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+미국/NNP + 의/JKG
+확고/XR + 하/XSA + ㄴ/ETM
+반대/NNG + 가/JKS
+쿠데타/NNG
+실패/NNG + 의/JKG
+주요/NNG
+요인/NNG + 으로/JKB
+작용/NNG + 하/XSV + 았/EP + 다는/ETM
+점/NNG + 에서/JKB
+소련/NNP + 은/JX
+미국/NNP + 에/JKB
+대하/VV + 아/EC
+부담/NNG + 을/JKO
+느끼/VV + 지/EC
+않/VX + 을/ETM
+수/NNB
+없/VA + 다/EF + ./SF
+게다가/MAG
+소련/NNP + 이/JKS
+서방/NNG + 의/JKG
+경제/NNG
+지원/NNG + 을/JKO
+필요/NNG + 로/JKB
+하/VV + ㄴ다는/ETM
+사실/NNG + 은/JX
+소련/NNP + 이/JKS
+무엇/NP + 보다/JKB + 도/JX
+국내/NNG
+문제/NNG
+해결/NNG + 에/JKB
+주력/NNG + 하/XSV + ㄹ/ETM
+수/NNB + 밖에/JX
+없/VA + 다는/ETM
+점/NNG + 과/JKB
+동시/NNG + 에/JKB
+대외/NNG
+문제/NNG + 에/JKB
+있/VV + 어서/EC
+미국/NNP + 의/JKG
+요구/NNG + 를/JKO
+수용/NNG + 하/XSV + ㄹ/ETM
+수/NNB + 밖에/JX
+없/VA + 다는/ETM
+점/NNG + 을/JKO
+의미/NNG + 하/XSV + ㄴ다/EF + ./SF
+그러나/MAJ
+미국/NNP + 이/JKS
+앞/NNG + 으로/JKB
+국제/NNG
+정세/NNG + 를/JKO
+주도/NNG + 하/XSV + ㄴ다고/EC
+하/VV + 아/EC
+미국/NNP + 이/JKS
+국제/NNG
+사회/NNG + 의/JKG
+모든/MM
+영역/NNG + 에/JKB
+있/VV + 어서/EC
+결정자/NNG + 로/JKB
+등장/NNG + 하/XSV + 는/ETM
+것/NNB + 을/JKO
+의미/NNG + 하/XSV + 지/EC + 는/JX
+않/VX + 는다/EF + ./SF
+다만/MAG
+다극/NNG + 화/XSN + 하/XSV + 고/EC
+있/VX + 는/ETM
+국제/NNG
+사회/NNG
+속/NNG + 에서/JKB
+미국/NNP + 이/JKS
+상대/NNG + 적/XSN + 으로/JKB
+강화/NNG + 되/XSV + ㄴ/ETM
+입장/NNG + 을/JKO
+바탕/NNG + 으로/JKB
+국제/NNG
+문제/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+효율/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+조정자/NNG
+역할/NNG + 을/JKO
+수행/NNG + 하/XSV + ㄹ/ETM
+것/NNB + 이/VCP + 라는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+둘째/NR + ,/SP
+동/NNG + ·/SP + 서/NNG
+냉전/NNG + 의/JKG
+완전/NNG
+종식/NNG + 이/VCP + 다/EF + ./SF
+공산주의/NNG
+종주국/NNG
+소련/NNP
+공산당/NNP + 의/JKG
+와해/NNG + 로/JKB
+말미암/VV + 아/EC
+자본주의/NNG
+대/NNG
+공산주의/NNG + 로/JKB
+반영/NNG + 되/XSV + 어/EC
+오/VX + ㄴ/ETM
+사회/NNG
+체제/NNG + 간/NNB + 의/JKG
+대결/NNG
+구도/NNG + 가/JKS
+끝나/VV + 고/EC + ,/SP
+앞/NNG + 으로/JKB + 의/JKG
+국제/NNG
+정세/NNG + 는/JX
+인류/NNG
+복지/NNG + 와/JC
+평화/NNG + 를/JKO
+위하/VV + ㄴ/ETM
+새롭/VA + ㄴ/ETM
+민주주의/NNG + 적/XSN
+이데올로기/NNG + 의/JKG
+모색/NNG + 으로/JKB
+특징/NNG + 지우/VV + 어/EC + 지/VX + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+이/NP + 에/JKB
+따르/VV + 아/EC
+전/MM + 세계/NNG + 적/XSN
+차원/NNG + 에서/JKB + 의/JKG
+민주/NNG + 화/XSN + 와/JC
+시장/NNG
+경제/NNG + 화/XSN
+현상/NNG + 이/JKS
+가속/NNG + 화/XSN + 하/XSV + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+셋째/NR + ,/SP
+경제/NNG
+문제/NNG
+중시/NNG
+현상/NNG + 이/VCP + 다/EF + ./SF
+정치/NNG + ·/SP + 군사/NNG
+관계/NNG + 를/JKO
+내용/NNG + 으로/JKB
+하/VV + 는/ETM
+고위/NNG
+정치/NNG + 에서/JKB
+경제/NNG
+관계/NNG + 가/JKS
+주요/NNG
+내용/NNG + 이/JKC
+되/VV + 는/ETM
+하위/NNG
+정치/NNG + 로/JKB + 의/JKG
+이전/NNG + 으로/JKB
+특징/NNG
+지우/VV + 어/EC + 지/VX + 는/ETM
+국제/NNG
+질서/NNG + 의/JKG
+변화/NNG + 는/JX
+국제/NNG
+관계/NNG + 에/JKB
+있/VV + 어서/EC
+힘/NNG + 의/JKG
+개념/NNG + 을/JKO
+변화/NNG + 시키/XSV + 는/ETM
+동시/NNG + 에/JKB + ,/SP
+종래/NNG + 의/JKG
+군사/NNG
+안보/NNG
+중심/NNG + 에서/JKB
+탈피/NNG + 하/XSV + 아/EC
+정치/NNG + ·/SP + 외교/NNG + ·/SP + 경제/NNG + 적/XSN
+측면/NNG + 에서/JKB
+안보/NNG + 를/JKO
+추구/NNG + 하/XSV + ㄴ다는/ETM
+포괄/NNG + 적/XSN
+안보/NNG
+개념/NNG + 이/JKS
+새롭/VA + ㄴ/ETM
+국제/NNG
+질서/NNG + 의/JKG
+중심/NNG
+개념/NNG + 으로/JKB
+작용/NNG + 하/XSV + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+이/NP + 에/JKB
+따르/VV + 아/EC
+환경/NNG
+문제/NNG
+등/NNB
+전/MM + 인류/NNG + 의/JKG
+이해/NNG + 와/JC
+관련/NNG
+있/VV + 는/ETM
+문제/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+관심/NNG + 이/JKS
+커지/VV + 고/EC
+군축/NNG + 을/JKO
+포함/NNG + 하/XSV + ㄴ/ETM
+국제/NNG
+정세/NNG + 의/JKG
+긴장/NNG
+완화/NNG + 는/JX
+촉진/NNG + 되/XSV + ㄹ/ETM
+것/NNB + 이/VCP + 지만/EC
+과학/NNG
+기술/NNG + ·/SP + 경제/NNG
+및/MAG
+환경/NNG
+등/NNB + 의/JKG
+영역/NNG + 에서/JKB + 의/JKG
+국제/NNG
+갈등/NNG + 은/JX
+구체/NNG + 화/XSN + 하/XSV + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+넷째/NR + ,/SP
+국내/NNG
+문제/NNG + 의/JKG
+비중/NNG
+증대/NNG + 이/VCP + 다/EF + ./SF
+국가/NNG + 간/NNB + 의/JKG
+상호/NNG
+의존/NNG + 성/XSN + 이/JKS
+커지/VV + 면서/EC
+순수/NNG + 하/XSA + ㄴ/ETM
+국내/NNG
+문제/NNG + 도/JX
+국제/NNG + 적/XSN
+중요/NNG + 성/XSN + 을/JKO
+갖/VV + 게/EC
+되/VV + 어/EC + ,/SP
+소련/NNP
+사태/NNG + 에서/JKB
+나타나/VV + 았/EP + 듯이/EC
+소련/NNP + 의/JKG
+국내/NNG
+문제/NNG + 가/JKS
+세계/NNG + 적/XSN
+관심/NNG + 으로/JKB
+대두/NNG + 되/XSV + 는/ETM
+동시/NNG + 에/JKB
+외교/NNG
+정책/NNG
+추진/NNG + 에/JKB
+있/VV + 어서/EC
+국내/NNG
+문제/NNG
+해결/NNG + 을/JKO
+일차/NNG + 적/XSN + 으로/JKB
+고려/NNG + 하/XSV + 는/ETM
+경향/NNG + 이/JKS
+지배/NNG + 적/XSN + 으로/JKB
+되/VV + ㄴ다/EF + ./SF
+국내/NNG
+문제/NNG
+비중/NNG
+증대/NNG
+이/NP + 는/JX
+지역/NNG
+분쟁/NNG + 에/JKB
+있/VV + 어서/EC + 도/JX
+미/NNP + ·/SP + 소/NNP + 의/JKG
+국내/NNG
+문제/NNG
+중시/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+분쟁/NNG
+개입/NNG + ,/SP
+자제/NNG + 에/JKB
+따르/VV + 아/EC
+지역/NNG
+분쟁/NNG + 의/JKG
+국지/NNG + 화/XSN + 가/JKS
+진전/NNG + 되/XSV + 는/ETM
+동시/NNG + 에/JKB
+분쟁/NNG
+해결/NNG + 을/JKO
+위하/VV + ㄴ/ETM
+국제/NNG + 적/XSN
+노력/NNG + 이/JKS
+강화/NNG + 되/XSV + 는/ETM
+것/NNB + 을/JKO
+의미/NNG + 하/XSV + ㄴ다/EF + ./SF
+다섯째/NR + ,/SP
+세계/NNG
+경제/NNG + 의/JKG
+블록/NNG + 화/XSN
+추세/NNG + 이/VCP + 다/EF + ./SF
+국제/NNG
+관계/NNG + 에서/JKB
+힘/NNG + 의/JKG
+개념/NNG + 이/JKS
+변화/NNG + 되/XSV + 고/EC
+경제력/NNG + 의/JKG
+다원/NNG + 화/XSN + 가/JKS
+진전/NNG + 되/XSV + 면서/EC
+세계/NNG
+경제/NNG + 의/JKG
+블록/NNG + 화/XSN + 가/JKS
+더욱/MAG
+촉진/NNG + 되/XSV + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+한편/MAG
+이러/XR + 하/XSA + ㄴ/ETM
+국제/NNG
+정세/NNG + 의/JKG
+발전/NNG
+추세/NNG + 는/JX
+동북아/NNP
+지역/NNG + 의/JKG
+안정/NNG + 과/JC
+평화/NNG + 에/JKB + 도/JX
+기여/NNG + 하/XSV + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+특히/MAG
+소련/NNP + 은/JX
+지금/NNG + 까지/JX
+아/NNP + ·/SP + 태/NNP
+진출/NNG
+정책/NNG + 을/JKO
+추진/NNG + 하/XSV + 면서/EC
+현재/NNG + 의/JKG
+교착/NNG
+상태/NNG + 를/JKO
+타개/NNG + 하/XSV + 는/ETM
+돌파구/NNG + 로서/JKB
+한반도/NNP
+문제/NNG
+해결/NNG + 을/JKO
+강조/NNG + 하/XSV + 아/EC
+오/VX + 았/EP + 지만/EC + ,/SP
+소련/NNP
+정세/NNG + 의/JKG
+발전/NNG + 에/JKB
+따르/VV + 아/EC
+발트/NNP
+3/SN + 국/NNG + 이/JKS
+완전/NNG
+독립/NNG + 하/XSV + 아/EC
+북방/NNG
+4/SN + 개/NNB
+섬/NNG
+반환/NNG + 의/JKG
+부정/NNG + 적/XSN
+영향/NNG + 이/JKS
+감소/NNG + 되/XSV + 고/EC + ,/SP
+과거/NNG + 에/JKB
+비하/VV + 아/EC
+군부/NNG + 의/JKG
+반발/NNG + 이/JKS
+약화/NNG + 되/XSV + 었/EP + 으며/EC + ,/SP
+무엇/NP + 보다/JKB + 도/JX
+일본/NNP + 의/JKG
+대소/NNG
+경제/NNG
+지원/NNG + 이/JKS
+절실/XR + 하/XSA + 다는/ETM
+점/NNG
+등/NNB + 에/JKB
+비추/VV + 어/EC
+소련/NNP + 이/JKS
+북방/NNG
+4/SN + 개/NNB
+섬/NNG
+반환/NNG
+등/NNB
+일/NNP + -/SS + 소/NNP
+관계/NNG + 의/JKG
+걸림돌/NNG + 을/JKO
+제거/NNG + 하/XSV + 기/ETN
+위하/VV + ㄴ/ETM
+노력/NNG + 을/JKO
+경주/NNG + 하/XSV + 고/EC + ,/SP
+이/NP + 를/JKO
+통하/VV + 아/EC
+아/NNP + ·/SP + 태/NNP
+정책/NNG
+전반/NNG + 의/JKG
+돌파구/NNG + 로/JKB
+삼/VV + 을/ETM
+가능/NNG + 성/XSN + 도/JX
+배제/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+없/VA + 다/EF + ./SF
+이/NP + 는/JX
+한반도/NNP + 에/JKB + 도/JX
+긍정/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+통일/NNG
+환경/NNG + 으로/JKB
+반영/NNG + 되/XSV + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+강원식/NNP
+약력/NNG
+△/SW
+한양대/NNP
+전치/NNG
+학과/NNG + 와/JC
+대학원/NNG
+졸업/NNG + (/SS + 박사/NNG + )/SS
+△/SW
+현재/NNG
+민족/NNG
+통일/NNG
+연구원/NNG
+책임/NNG
+연구원/NNG
+△/SW
+저서/NNG
+1991/SN + //SP + 09/SN + //SP + 15/SN
+03/SN
+새/MM
+인물/NNG
+영입/NNG + …/SE
+입지/NNG
+보장/NNG
+고심/NNG + (/SS + '/SS + 통합/NNG
+야당/NNG + '/SS
+정국/NNG + :/SP + 5/SN + )/SS
+"/SS + 범/XPN + 야/NNG + 권/XSN
+통합/NNG + -/SS + 체질/NNG
+혁신/NNG + "/SS
+명분/NNG + 으로/JKB + ㄴ/JX
+절실/XR
+//SP
+법조/NNG + 계/XSN
+등/NNB
+각계/NNG
+인사/NNG
+조심스레/MAG
+의중/NNG
+타진/NNG
+야당/NNG
+통합/NNG + 이/JKS
+낳/VV + 은/ETM
+효과/NNG
+가운데/NNG
+하나/NR + 는/JX
+정치/NNG
+참여/NNG
+의사/NNG + 가/JKS
+있/VV + 으면서/EC + 도/JX
+여러/MM
+가지/NNB
+이유/NNG + 로/JKB
+인하/VV + 아/EC
+과거/NNG
+신민/NNP + ·/SP + 민주/NNP
+어느/MM
+당/NNG + 에/JKB + 도/JX
+참여/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+없/VA + 었/EP + 던/ETM
+인사/NNG + 들/XSN + 에게/JKB
+선택/NNG + 의/JKG
+고민/NNG + 을/JKO
+해소/NNG + 하/XSV + 아/EC
+주/VX + 었/EP + 다는/ETM
+점/NNG + 이/VCP + 다/EF + ./SF
+옛/MM
+야당/NNG
+정치인/NNG + 이나/JC
+법조/NNG + 계/XSN + ·/SP + 학계/NNG
+각종/NNG
+시민/NNG
+단체/NNG
+등/NNB + 에서/JKB
+활동/NNG + 하/XSV + 고/EC
+있/VX + 는/ETM
+야/NNG + 권/XSN
+성향/NNG
+세력/NNG
+중/NNB
+상당수/NNG + 는/JX
+자천/NNG + ·/SP + 타천/NNG + 으로/JKB
+곧/MAG
+통합/NNG
+민주당/NNP + 에/JKB
+가담/NNG + 하/XSV + ㄹ/ETM
+것/NNB + 으로/JKB
+전망/NNG + 되/XSV + 고/EC
+있/VX + 고/EC + ,/SP
+이/NP + 들/XSN + 의/JKG
+입당/NNG
+규모/NNG + 나/JC
+지명/NNG
+인사/NNG + 의/JKG
+참여/NNG
+정도/NNG + 에/JKB
+따르/VV + 아서/EC + 는/JX
+범/XPN + 야/NNG
+통합/NNG
+또는/MAG
+김대중/NNP
+총재/NNG + 의/JKG
+언급/NNG + 대로/JX
+'/SS + 민주/NNG
+대/XPN + 연합/NNG + '/SS + 이/JKS
+구축/NNG + 되/XSV + ㄹ/ETM
+수/NNB + 도/JX
+있/VV + 을/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+하지만/MAJ
+수요/NNG + 와/JC
+공급/NNG + 의/JKG
+불/XPN + 일치/NNG + 이/VCP + 라는/ETM
+근본/NNG + 적/XSN + 이/VCP + 고/EC
+현실/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+문제/NNG
+즉/MAG
+지구당/NNG
+조직책/NNG
+자리/NNG + 가/JKS
+일정/NNG + 하/XSA + ㄴ/ETM
+상황/NNG + 에서/JKB
+두/MM
+당/NNG + 이/JKS
+합치/VV + 어/EC + 지/VX + ㄴ데다/EC + ,/SP
+외부/NNG
+인사/NNG + 의/JKG
+영입/NNG + 마저/JX
+뒤따르/VV + ㄹ/ETM
+경우/NNG
+포화/NNG
+상태/NNG + 가/JKS
+극심/XR + 하/XSA + 아/EC + 지/VX + 리라는/ETM
+점/NNG + 은/JX
+쉽/VA + 게/EC
+예상/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 다/EF + ./SF
+특히/MAG
+통합/NNG
+당/NNG + 의/JKG
+상층부/NNG
+구성/NNG
+문제/NNG + 도/JX
+최고/NNG
+위원/NNG
+자리/NNG + 가/JKS
+한정/NNG + 되/XSV + 어/EC
+있/VX + 는/ETM
+까닭/NNG + 에/JKB
+지명도/NNG + 가/JKS
+상당/NNG + 하/XSA + ㄴ/ETM
+인사/NNG + 의/JKG
+영입/NNG
+역시/MAG
+어려움/NNG + 이/JKS
+따르/VV + ㄹ/ETM
+수/NNB + 밖에/JX
+없/VA + 다는/ETM
+한계/NNG + 도/JX
+지적/NNG + 되/XSV + 고/EC
+있/VX + 다/EF + ./SF
+그런데/MAJ + 도/JX
+통합/NNG
+야당/NNG + 이/JKS
+명실상부/NNG + 하/XSA + ㄴ/ETM
+야/NNG + 권/XSN + 의/JKG
+결집체/NNG + 이/VCP + 라는/ETM
+면모/NNG + 를/JKO
+보이/VV + 기/ETN
+위하/VV + 아서/EC + 는/JX
+명망가/NNG + 나/JC
+전문인/NNG + ,/SP
+재야/NNG
+활동/NNG
+인사/NNG + ,/SP
+건전/NNG + 하/XSA + ㄴ/ETM
+재력가/NNG
+등/NNB + 의/JKG
+수혈/NNG + 이/JKS
+불가피/XR + 하/XSA + 며/EC + ,/SP
+경우/NNG + 에/JKB
+따르/VV + 아서/EC + 는/JX
+기존/NNG
+당료/NNG + 들/XSN + 의/JKG
+부분/NNG + 적/XSN
+물갈이/NNG
+또한/MAG
+절실히/MAG
+요망/NNG + 되/XSV + 고/EC
+있/VX + 는/ETM
+형편/NNG + 이/VCP + 다/EF + ./SF
+이/NP + 와/JKB
+관련/NNG + 하/XSV + 아/EC
+김대중/NNP + ·/SP + 이기택/NNP
+총재/NNG + 가/JKS
+지나/VV + ㄴ/ETM
+12/SN + 일/NNB
+신민/NNP + ·/SP + 민주당보/NNP
+기자/NNG + 들/XSN + 과/JKB
+함께/MAG
+하/VV + ㄴ/ETM
+자리/NNG + 에서/JKB
+"/SS + 정치인/NNG
+외/NNB + 에/JKB
+학자/NNG + ·/SP + 지식인/NNG + ·/SP + 예술인/NNG + ·/SP + 노동자/NNG + ·/SP + 농민/NNG + ·/SP + 서민/NNG
+등/NNB
+각/MM
+계층/NNG + 을/JKO
+대표/NNG + 하/XSV + 는/ETM
+사람/NNG + 들/XSN + 을/JKO
+영입/NNG + 하/XSV + 는/ETM
+것/NNB + 은/JX
+물론/MAG
+중앙당/NNG + 뿐/JX
+아니/VCN + 라/EC
+전국/NNG
+2/SN + 백/NR
+24/SN + 개/NNB
+지역구/NNG + 마다/JX
+여당/NNG
+후보/NNG + 에/JKB
+손색/NNG
+없/VA + 는/ETM
+인사/NNG + 를/JKO
+내세우/VV + 겠/EP + 다/EC + "/SS + 고/JKQ
+문호/NNG
+개방/NNG + 의/JKG
+원칙/NNG + 과/JC
+목표/NNG + 를/JKO
+밝히/VV + ㄴ/ETM
+것/NNB + 은/JX
+다가오/VV + 는/ETM
+14/SN + 대/NNB
+총선/NNG
+공천/NNG
+작업/NNG + 에서/JKB + 의/JKG
+일대/MM
+혁신/NNG + 을/JKO
+시사/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 이/JKC
+아니/VCN + ㄴ가/EC
+보이/VV + 어/EC
+주목/NNG + 되/XSV + 고/EC
+있/VX + 다/EF + ./SF
+현시점/NNG + 에서/JKB + 는/JX
+통합/NNG
+당/NNG + 의/JKG
+조직/NNG
+특위/NNG + 가/JKS
+구성/NNG + 되/XSV + 지/EC
+않/VX + 은/ETM
+상태/NNG + 이/VCP + 어서/EC
+당/NNG
+차원/NNG + 에서/JKB + 의/JKG
+외부/NNG
+인사/NNG
+영입/NNG
+작업/NNG + 은/JX
+이렇/VA + 다/EC
+하/VV + ㄹ/ETM
+움직임/NNG + 을/JKO
+보이/VV + 지/EC
+않/VX + 고/EC
+있/VX + 다/EF + ./SF
+다만/MAG
+민주당/NNP
+쪽/NNB + 의/JKG
+민주/NNP
+연합/NNG + 파/NNG + 에서/JKB
+재야/NNG
+인사/NNG
+일부/NNG + 와/JC
+민주당/NNP + 을/JKO
+상대/NNG + 로/JKB
+의중/NNG + 을/JKO
+타진/NNG
+중/NNB + 이/VCP + 며/EC
+정치/NNG
+발전/NNG
+연구회/NNG + 에서/JKB
+조직/NNG
+특위/NNG
+가동/NNG + 때/NNG
+천거/NNG + 하/XSV + ㄴ다는/ETM
+계획/NNG
+아래/NNG
+법조/NNG + 계/XSN + 와/JC
+옛/MM
+야/NNG + 권/XSN
+인사/NNG
+등/NNB + 과/JKB
+접촉/NNG + 하/XSV + 는/ETM
+정도/NNG + 이/VCP + ㄴ/ETM
+것/NNB + 으로/JKB
+알리/VV + 어/EC + 지/VX + 고/EC
+있/VX + 다/EF + ./SF
+우선/MAG
+민주/NNP
+연합/NNG + 쪽/NNB + 에서/JKB
+거론/NNG + 되/XSV + 고/EC
+있/VX + 는/ETM
+인사/NNG + 로/JKB + 는/JX
+진보/NNG
+정치/NNG
+연합/NNG
+대표/NNG + 를/JKO
+지내/VV + ㄴ/ETM
+제정구/NNP
+씨/NNB + 와/JC
+진보련/NNP
+선전/NNG
+국장/NNG + 을/JKO
+역임/NNG + 하/XSV + ㄴ/ETM
+이현배/NNP
+씨/NNB
+등/NNB + 을/JKO
+들/VV + ㄹ/ETM
+수/NNB
+있/VV + 다/EF + ./SF
+민주/NNP
+연합/NNG
+쪽/NNB + 은/JX
+특히/MAG
+제/NNP + 씨/NNB + 의/JKG
+경우/NNG
+지나/VV + ㄴ/ETM
+13/SN + 대/NNB
+총선/NNG
+때/NNG
+서울/NNP
+종로/NNP + 에서/JKB
+출마/NNG + ,/SP
+비교/NNG + 적/XSN
+선전/NNG + 하/XSV + 았/EP + 던/ETM
+경력/NNG + 과/JC
+마침/MAG
+신민/NNP + ·/SP + 민주/NNP
+모두/MAG
+이/MM
+지역/NNG + 에/JKB
+조직책/NNG + 이/JKS
+없/VA + 다는/ETM
+점/NNG + 을/JKO
+중시/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+민중당/NNP + 과/JKB
+관련/NNG + 하/XSV + 아서/EC + 는/JX
+민주/NNP
+연합/NNG + 이/JKS
+이미/MAG
+지구당/NNG
+상황/NNG + 까지/JX
+파악/NNG + 하/XSV + 아/EC
+당/NNG
+지도부/NNG + 에/JKB
+구체/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+수효/NNG + 의/JKG
+지역구/NNG
+할당/NNG
+제의/NNG + 까지/JX
+하/VV + 는/ETM
+등/NNB
+적극/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+협의/NNG + 를/JKO
+벌이/VV + 고/EC
+있/VX + 고/EC
+민중당/NNP
+내/NNB
+일부/NNG + 에서/JKB + 도/JX
+'/SS + 민중/NNG
+노선/NNG + 의/JKG
+견지/NNG + '/SS + 와/JC
+'/SS + 현실/NNG
+인정/NNG + 을/JKO
+통하/VV + ㄴ/ETM
+참여/NNG + '/SS
+주장/NNG + 이/JKS
+맞서/VV + 고/EC
+있/VX + 다는/ETM
+후문/NNG + 이/VCP + 다/EF + ./SF
+민중당/NNP + 은/JX
+17/SN + 일/NNB
+중앙/NNG
+위원회/NNG + 를/JKO
+열/VV + 어/EC
+이/MM
+문제/NNG + 를/JKO
+논의/NNG + 하/XSV + ㄹ/ETM
+예정/NNG + 이/VCP + 나/EC
+△/SW
+당내/NNG
+사정/NNG + 상/XSN
+아직/MAG
+통합/NNG + 당/NNG + 을/JKO
+'/SS + 수용/NNG + '/SS + 하/XSV + ㄹ/ETM
+준비/NNG + 가/JKS
+안/MAG + 되/XSV + 어/EC
+있/VX + 고/EC
+△/SW
+현실/NNG
+노선/NNG + 을/JKO
+추구/NNG + 하/XSV + ㄴ다/EC
+하/VV + 아도/EC
+진보/NNG + 적/XSN
+이념/NNG + 이/JKS
+뿌리/NNG + 를/JKO
+내리/VV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+가능/NNG + 성/XSN + 이/JKS
+불/XPN + 투명/NNG + 하/XSA + 다는/ETM
+의견/NNG + 이/JKS
+주류/NNG + 이/VCP + 라고/EC
+한/MM
+관계자/NNG + 가/JKS
+전하/VV + 았/EP + 다/EF + ./SF
+또한/MAG
+정발연/NNP
+쪽/NNB + 에서/JKB + 는/JX
+정대철/NNP
+의원/NNG
+등/NNB + 이/JKS
+나서/VV + 어서/EC
+30/SN + ∼/SO + 40/SN + 대/NNB
+변호사/NNG + 와/JC
+이중재/NNP + ·/SP + 예춘호/NNP + ·/SP + 이신범/NNP + 씨/NNB
+등/NNB + 을/JKO
+만나/VV + 고/EC
+있/VX + 으나/EC
+이/NNP
+전/MM + 의원/NNG + 을/JKO
+제외/NNG + 하/XSV + ㄴ/ETM
+나머지/NNG
+정치인/NNG + 들/XSN + 은/JX
+부정/NNG + 적/XSN
+입장/NNG + 을/JKO
+보이/VV + 고/EC
+있/VX + 는/ETM
+것/NNB + 으로/JKB
+알리/VV + 어/EC + 지/VX + 었/EP + 다/EF + ./SF
+정/NNP
+의원/NNG + 은/JX
+"/SS + 젊/VA + 은/ETM
+법조/NNG + 계/XSN
+인사/NNG + 들/XSN + 은/JX
+상당수/NNG + 가/JKS
+통합/NNG + 당/NNG
+참여/NNG + 에/JKB
+뜻/NNG + 은/JX
+두/VV + 고/EC
+있/VX + 으나/EC
+서울/NNP
+지역/NNG + 을/JKO
+희망/NNG + 하/XSV + 는/ETM
+사람/NNG + 이/JKS
+많/VA + 은데다/EC
+현재/NNG + 로서/JKB + ㄴ/JX
+지역구/NNG
+공천/NNG + 을/JKO
+보장/NNG + 하/XSV + ㄹ/ETM
+계제/NNG + 가/JKC
+안/MAG
+되/VV + 어/EC
+어려움/NNG + 을/JKO
+겪/VV + 고/EC
+있/VX + 다/EC + "/SS + 고/JKQ
+말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이/NP + 밖에/JX
+민자당/NNP
+민주/NNP + 계/XSN
+의원/NNG
+가운데/NNG
+영남/NNP + 권/XSN + 의/JKG
+공천/NNG
+탈락/NNG
+예상자/NNG + 들/XSN + 이/JKS
+통합/NNG
+민주당/NNP + 의/JKG
+문/NNG + 을/JKO
+두드리/VV + 고/EC
+있/VX + 다는/ETM
+소문/NNG + 이/JKS
+나돌/VV + 고/EC
+있/VX + 으며/EC + ,/SP
+이만섭/NNP
+전/MM
+국민당/NNP
+총재/NNG + 가/JKS
+옛/MM
+야/NNG + 권/XSN
+인사/NNG
+몇/MM
+사람/NNG + 과/JKB
+함께/MAG
+입당/NNG + 하/XSV + ㄹ/ETM
+것/NNB + 이/VCP + 라는/ETM
+소문/NNG + 도/JX
+파다/XR + 하/XSA + 다/EF + ./SF
+또/MAG
+지방/NNG + 의/JKG
+재야/NNG
+활동가/NNG + 들/XSN + 도/JX
+신민당/NNP
+대외/NNG
+협력위/NNG + 를/JKO
+통하/VV + 아/EC
+입당/NNG
+참여/NNG
+의사/NNG + 를/JKO
+밝히/VV + 어/EC
+오/VX + 고/EC
+있/VX + 는/ETM
+것/NNB + 으로/JKB
+알리/VV + 어/EC + 지/VX + 었/EP + 다/EF + ./SF
+이/NP + 들/XSN
+가운데/NNG
+옛/MM
+야/NNG + 권/XSN
+인사/NNG + 의/JKG
+참여/NNG + 에/JKB
+대하/VV + 아/EC
+정치/NNG + 적/XSN
+경험/NNG + 이나/JC + ,/SP
+신/NNG + ·/SP + 구/NNG + 의/JKG
+조화/NNG + 이/VCP + 라는/ETM
+측면/NNG + 의/JKG
+긍정/NNG + 적/XSN
+입장/NNG + 도/JX
+있/VV + 으나/EC
+부정/NNG + 적/XSN
+견해/NNG + 도/JX
+만만/XR + 하/XSA + 지/EC
+않/VX + 다/EF + ./SF
+신민당/NNP + 의/JKG
+한/MM
+중간/NNG
+당직자/NNG + 는/JX
+"/SS + 반쯤/NNG + 은/JX
+정계/NNG
+은퇴/NNG + 를/JKO
+선언/NNG + 하/XSV + ㄴ/ETM
+사람/NNG + 들/XSN + 이/JKS
+통합/NNG
+야당/NNG + 의/JKG
+탄생/NNG + 에/JKB
+편승/NNG + 하/XSV + 는/ETM
+것/NNB
+같/VA + 은/ETM
+인상/NNG + 도/JX
+없/VA + 지/EC
+않/VX + 고/EC
+특히/MAG
+이/NP + 들/XSN + 의/JKG
+이미지/NNG + 가/JKS
+통합/NNG + 당/NNG
+출발/NNG + 에/JKB
+반드시/MAG
+좋/VA + 은/ETM
+면/NNG + 으로/JKB
+작용/NNG + 하/XSV + ㄴ다는/ETM
+확신/NNG + 을/JKO
+가지/VV + ㄹ/ETM
+수/NNB
+없/VA + 다/EC + "/SS + 며/EC
+"/SS + 기존/NNG
+당료/NNG
+중/NNB + 에서/JKB + 도/JX
+세대/NNG
+교체/NNG + 를/JKO
+하/VV + ㄹ/ETM
+대상/NNG + 이/JKS
+적/VA + 지/EC
+않/VX + 다는/ETM
+주장/NNG
+등/NNB + 이/JKS
+있/VV + 는/ETM
+만큼/NNB
+외부/NNG
+인사/NNG
+영입/NNG + 에/JKB + 는/JX
+신중/NNG + 하/XSA + ㄴ/ETM
+선별/NNG + 이/JKS
+있/VV + 어야/EC
+하/VX + ㄹ/ETM
+것/NNB + "/SS + 이라고/JKQ
+말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+또/MAG
+다른/MM
+당직자/NNG + 는/JX
+"/SS + 장기/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+관점/NNG + 에서/JKB
+야당/NNG + 의/JKG
+인력/NNG + 충원/NNG
+방식/NNG + 도/JX
+차제/NNG + 에/JKB
+바뀌/VV + 는/ETM
+계기/NNG + 를/JKO
+마련/NNG + 하/XSV + 아야/EC
+하/VX + ㄴ다/EC + "/SS + 고/JKQ
+밝히/VV + 고/EC
+유능/NNG + 하/XSA + ㄴ/ETM
+젊은이/NNG + 들/XSN + 이/JKS
+당/NNG + 에/JKB
+들어오/VV + 아/EC
+정책/NNG
+기능/NNG + 을/JKO
+강화/NNG + 시키/XSV + 고/EC
+보좌관/NNG + 이나/JC
+비서관/NNG + 들/XSN + 이/JKS
+활동/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+공간/NNG + 도/JX
+넓히/VV + 어/EC
+야당/NNG + 의/JKG
+의원/NNG
+입법/NNG
+업적/NNG + 을/JKO
+많이/MAG
+남기/VV + 어야/EC
+하/VX + ㄹ/ETM
+것/NNB + 이/VCP + 라고/EC
+지적/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이/NP + 들/XSN
+젊/VA + 은/ETM
+당료/NNG + 들/XSN + 이/JKS
+성장/NNG + 하/XSV + 면서/EC
+지역/NNG
+의회/NNG + 나/JC
+자치/NNG
+단체장/NNG
+선거/NNG + 에/JKB
+나서/VV + 도록/EC
+하/VX + ㄴ/ETM
+뒤/NNG
+국회/NNG + 로/JKB
+진출/NNG + 하/XSV + 는/ETM
+정상/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+인력/NNG
+수급/NNG
+구조/NNG + 가/JKS
+이루어지/VV + 어야/EC
+하/VX + ㄴ다는/ETM
+주장/NNG + 이/VCP + 다/EF + ./SF
+야당/NNG + 의/JKG
+'/SS + 수혈/NNG + '/SS
+문제/NNG + 에/JKB
+대하/VV + 아/EC
+또/MAG
+다른/MM
+쪽/NNB + 에서/JKB + 는/JX
+외무/NNG + 영입/NNG
+인사/NNG + 들/XSN + 이/JKS
+반드시/MAG
+국회/NNG
+진출/NNG + 만/JX + 을/JKO
+겨냥/NNG + 하/XSV + 는/ETM
+인식/NNG + 도/JX
+달라지/VV + 어야/EC
+하/VX + ㄹ/ETM
+것/NNB + 이/VCP + 라는/ETM
+견해/NNG + 를/JKO
+나타내/VV + 고/EC
+있/VX + 다/EF + ./SF
+지난번/NNG
+신/XPN + 민주/NNG
+연합/NNG + 과/JC
+평민당/NNP + 과/JKB + 의/JKG
+합당/NNG + 때/NNG
+1/SN + 백/NR
+30/SN + 여/XSN
+명/NNB + 이/JKS
+입당/NNG + 하/XSV + 았/EP + 지만/EC
+주요/NNG
+당직/NNG + 이나/JC
+지구당/NNG + 을/JKO
+맡/VV + 은/ETM
+30/SN + 여/XSN
+명/NNB + 을/JKO
+제외/NNG + 하/XSV + 면/EC
+1/SN + 백/NR + 여/XSN
+명/NNB + 이/JKS
+사실/NNG + 상/XSN
+아무/MM
+역할/NNG + 을/JKO
+못/MAG + 하/XSV + 고/EC
+있/VX + 는/ETM
+형편/NNG + 이/VCP + 고/EC
+평민연/NNP + 이나/JC
+민주당/NNP
+쪽/NNB + 의/JKG
+민주/NNP
+연합/NNG + 도/JX
+사정/NNG + 은/JX
+대개/MAG
+비슷/XR + 하/XSA + 다/EF + ./SF
+따라서/MAJ
+이/NP + 들/XSN
+남/VV + 는/ETM
+인력/NNG + 과/JC
+새/MM
+영입자/NNG + 들/XSN + 은/JX
+경력/NNG + 이나/JC
+지명도/NNG
+등/NNB + 에/JKB
+따르/VV + 아/EC
+앞/NNG + 으로/JKB
+있/VV + 을/ETM
+기초/NNG + 나/JC
+광역/NNG
+자치/NNG
+단체장/NNG
+선거/NNG + 에/JKB
+적절히/MAG
+배분/NNG + 하/XSV + ㅁ/ETN + 으로써/JKB
+야당/NNG + 도/JX
+의회/NNG + 와/JC
+행정/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+경험/NNG + 을/JKO
+축적/NNG + 하/XSV + 는/ETM
+기회/NNG + 로/JKB
+삼/VV + 아야/EC
+하/VX + ㄹ/ETM
+것/NNB + 이/VCP + 라는/ETM
+지적/NNG + 이/VCP + 다/EF + ./SF
+1991/SN + //SP + 11/SN + //SP + 15/SN
+03/SN
+외국/NNG
+언론/NNG
+//SP
+돈/NNG
+받/VV + 는/ETM
+기자/NNG + 는/JX
+"/SS + 당장/NNG
+해고/NNG + 감/NNG + "/SS + (/SS + '/SS + 촌지/NNG + '/SS
+청산/NNG
+시급/XR + 하/XSA + 다/EF + :/SP + 8/SN + )/SS
+"/SS + 감히/MAG
+주/VV + 지/EC + 도/JX
+받/VV + 지/EC + 도/JX
+못하/VX + ㄴ다/EC + "/SS
+상상/NNG + 조차/JX
+못/MAG
+하/VV + 아/EC
+"/SS + 기자/NNG + 가/JKS
+취재원/NNG + 에게서/JKB
+현금/NNG + 을/JKO
+받/VV + 았/EP + 다는/ETM
+이야기/NNG + 는/JX
+듣/VV + 어/EC
+보/VX + ㄴ/ETM
+적/NNB + 도/JX
+없/VA + 다/EF + ./SF
+당장/NNG
+해고/NNG + 감/NNG + 이/VCP + 다/EF + ./SF + "/SS
+일본/NNP
+교도/NNP
+통신사/NNG
+서울/NNP
+지국/NNG
+히라이/NNP
+히사시/NNP
+특파원/NNG + 은/JX
+일본/NNP + 에서/JKB + 는/JX
+일체/NNG + 의/JKG
+촌지/NNG
+수수/NNG
+관행/NNG + 에/JKB
+없/VA + 음/ETN + 을/JKO
+분명/MAG + 하/XSA + ㄴ/ETM
+어조/NNG + 로/JKB
+자르/VV + 아/EC
+말/NNG + 하/XSV + ㄴ다/EF + ./SF
+주한/NNG
+외신/NNG
+기자/NNG
+클럽/NNG
+회장/NNG + 을/JKO
+지내/VV + ㄴ/ETM
+미국/NNP
+</SS + 워싱턴/NNP
+타임스/NNP + >/SS + 마이클브린/NNP
+특파원/NNG + 도/JX
+"/SS + 한/MM
+번/NNB + 도/JX
+현금/NNG + 이/JKS
+직접/MAG
+오/VV + 고/EC
+가/VV + ㄴ/ETM
+기자/NNG
+사회/NNG + 의/JKG
+비리/NNG + 에/JKB
+접하/VV + 아/EC
+보/VX + ㄴ/ETM
+적/NNB + 이/JKS
+없/VA + 다/EC + "/SS + 이/VCP + 라며/EC
+한국/NNP + 의/JKG
+촌지/NNG
+수수/NNG
+관행/NNG + 은/JX
+세계/NNG + 적/XSN + 으로/JKB
+이례/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+현상/NNG + 이/VCP + ㅁ/ETN + 을/JKO
+강조/NNG + 하/XSV + ㄴ다/EF + ./SF
+외신/NNG
+기자/NNG + 들/XSN + 의/JKG
+이러/XR + 하/XSA + ㄴ/ETM
+일치/NNG + 되/XSV + ㄴ/ETM
+시각/NNG + 을/JKO
+더욱/MAG
+분명/MAG + 하/XSA + 게/EC
+드러내/VV + 어/EC
+주/VX + 는/ETM
+것/NNB + 은/JX
+국제/NNG
+언론인/NNG
+연맹/NNG + (/SS + IFJ/SL + )/SS + 이/JKS
+네덜란드/NNP
+기자/NNG
+노조/NNG
+사무/NNG
+총장/NNG
+한스/NNP
+벨플루흐/NNP + 와/JC
+뉴질랜드/NNP
+기자/NNG
+노조/NNG
+사무/NNG
+총장/NNG
+토니/NNP
+월튼/NNP + 을/JKO
+지나/VV + ㄴ/ETM
+4/SN + 월/NNB
+서울/NNP + 로/JKB
+파견/NNG + 하/XSV + 아/EC
+현직/NNG
+국내/NNG
+언론인/NNG + 과/JC
+정부/NNG
+관리/NNG + ,/SP
+주한/NNG
+외신/NNG
+기자/NNG + 들/XSN + 을/JKO
+만나/VV + ㄴ/ETM
+뒤/NNG
+작성/NNG + 하/XSV + 게/EC
+하/VX + ㄴ/ETM
+'/SS + 한국/NNP + 의/JKG
+언론/NNG
+자유/NNG + -/SS + 전문/NNG + 화/XSN + 를/JKO
+위하/VV + ㄴ/ETM
+모색/NNG + '/SS + 이/VCP + 라는/ETM
+이름/NNG + 의/JKG
+보고서/NNG + 이/VCP + 다/EF + ./SF
+국제/NNG
+언론인/NNG
+연맹/NNG + 은/JX
+이/MM + 중/NNB
+'/SS + 기자/NNG
+윤리/NNG + '/SS
+항목/NNG + 에서/JKB
+"/SS + 대다수/NNG + 의/JKG + (/SS + 한국/NNP + )/SS
+기자/NNG + 들/XSN + 은/JX
+봉급/NNG
+수준/NNG + 과/JC
+직업/NNG + 적/XSN
+신분/NNG + 에/JKB
+만족/NNG + 하/XSA + 고/EC
+있/VX + 다/EF + ./SF
+그러나/MAJ
+기자/NNG + 들/XSN + 의/JKG
+대부분/NNG + 이/JKS
+촌지/NNG + 나/JC
+선물/NNG + 을/JKO
+받/VV + 고/EC
+있/VX + 으며/EC
+이/NP + 를/JKO
+당연/XR + 하/XSA + ㄴ/ETM
+것/NNB + 으로/JKB
+여기/VV + 고/EC
+있/VX + 다/EC + "/SS + 고/JKQ
+지적/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+그/NP + 들/XSN + 은/JX
+기자단/NNG + 의/JKG
+폐해/NNG + 에/JKB
+대하/VV + 아서/EC + 도/JX
+"/SS + 기자단/NNG + 에/JKB
+속하/VV + 지/EC
+못하/VX + ㄴ/ETM
+기자/NNG + 들/XSN + 의/JKG
+합법/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+언론/NNG
+매체/NNG + 를/JKO
+대표/NNG + 하/XSV + 면서/EC + 도/JX
+충분히/MAG
+기사/NNG + 화/XSN
+되/VV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+사건/NNG + 에/JKB
+대하/VV + 아서/EC + 조차/JX
+동료/NNG
+기자/NNG + 들/XSN + 이/JKS
+접근/NNG + 을/JKO
+거부/NNG + 하/XSV + 고/EC
+있/VX + 다/EC + "/SS + 고/JKQ
+적/VV + 고/EC
+잇/VV + 어/EC
+한/MM
+주한/NNG
+외신/NNG
+기자/NNG + 의/JKG
+말/NNG + 을/JKO
+빌리/VV + 어/EC
+이/MM
+'/SS + 제도/NNG + '/SS + 를/JKO
+신랄/XR + 하/XSA + 게/EC
+비판/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+"/SS + 기자단/NNG
+제도/NNG + 를/JKO
+타파/NNG + 하/XSV + 아라/EF + ./SF
+언론/NNG
+매체/NNG + 들/XSN + 이/JKS
+이/NP + 에/JKB
+대하/VV + 아/EC
+대담/NNG + 하/XSA + 고/EC
+결정/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+조처/NNG + 를/JKO
+취하/VV + 기/ETN
+전/NNG + 에/JKB + 는/JX
+어떤/MM
+중요/NNG + 하/XSA + ㄴ/ETM
+변화/NNG + 도/JX
+일어나/VV + 지/EC
+않/VX + 을/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+그/NP + 들/XSN + 은/JX
+정부/NNG
+기관/NNG + 과/JKB + 의/JKG
+공모/NNG + 와/JC
+특별/NNG + 하/XSA + ㄴ/ETM
+이해/NNG
+관계/NNG
+속/NNG + 에서/JKB
+일/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+기자단/NNG
+간부/NNG + 의/JKG
+책임/NNG
+중/NNB + 에/JKB + 는/JX
+호의/NNG + 적/XSN
+기사/NNG + 를/JKO
+취급/NNG + 하/XSV + ㄴ/ETM
+데/NNB
+대하/VV + ㄴ/ETM + ,/SP
+더/MAG
+중요/NNG + 하/XSA + 게/EC + 는/JX
+비/XPN + 호의/NNG + 적/XSN
+기사/NNG + 를/JKO
+다루/VV + 지/EC
+않/VX + 은/ETM
+데/NNB
+대하/VV + ㄴ/ETM
+감사/NNG
+표시/NNG + 로/JKB
+전하/VV + 아/EC + 지/VX + 는/ETM
+희/VA + ㄴ/ETM
+봉투/NNG + 를/JKO
+기자단/NNG
+소속/NNG
+회원/NNG + 들/XSN + 에게/JKB
+분배/NNG + 하/XSV + 는/ETM
+일/NNG + 도/JX
+있/VV + 다/EF + ./SF + "/SS
+한국/NNP
+언론/NNG + 계/XSN + 의/JKG
+해묵/VV + 은/ETM
+'/SS + 관행/NNG + '/SS + 들/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+국제/NNG
+여론/NNG + 의/JKG
+이러/XR + 하/XSA + ㄴ/ETM
+질타/NNG + 는/JX
+외국/NNG
+언론/NNG + 계/XSN + 의/JKG
+현실/NNG + 을/JKO
+감안/NNG + 하/XSV + ㄹ/ETM
+때/NNG
+당연/XR + 하/XSA + ㄴ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+역사/NNG + 적/XSN + 으로/JKB
+언론/NNG
+윤리/NNG
+강령/NNG + 을/JKO
+처음/NNG
+제정/NNG + 하/XSV + ㄴ/ETM
+나라/NNG + 이/VCP + ㄴ/ETM
+미국/NNP + 의/JKG
+경우/NNG
+미국/NNP
+신문/NNG
+편집인/NNG
+협회/NNG + 가/JKS
+채택/NNG + 하/XSV + ㄴ/ETM
+신문/NNG
+윤리/NNG
+강령/NNG + (/SS + 1923/SN + 년/NNB + )/SS + ,/SP
+미국/NNP
+신문/NNG
+기자/NNG
+조합/NNG + 의/JKG
+행동/NNG
+윤리/NNG
+강령/NNG + (/SS + 1934/SN + 년/NNB + )/SS + ,/SP
+미국/NNP
+신문/NNG
+편집인/NNG
+협회/NNG + 의/JKG
+수정/NNG
+윤리/NNG
+강령/NNG + 이/VCP + ㄴ/ETM
+원칙/NNG
+성명/NNG + (/SS + 1975/SN + 년/NNB + )/SS + ,/SP
+전문/NNG
+언론/NNG
+협회/NNG + 의/JKG
+언론/NNG
+윤리/NNG
+강령/NNG + (/SS + 1973/SN + 년/NNB + )/SS + ,/SP
+AP/SL
+회원사/NNG
+편집/NNG
+국장회/NNG + 가/JKS
+채택/NNG + 하/XSV + ㄴ/ETM
+윤리/NNG
+강령/NNG + (/SS + 1975/SN + 년/NNB + )/SS
+등/NNB
+언론/NNG
+단체/NNG + 들/XSN + 의/JKG
+강령/NNG
+외/NNB + 에/JKB + 도/JX
+</SS + 워싱턴/NNP
+포스트/NNG + >/SS
+</SS + 뉴욕/NNP
+데일리/NNG
+뉴스/NNG + >/SS
+</SS + 필라델피아/NNP
+인콰이어러/NNG + >/SS + 등/NNB
+개별/NNG
+언론사/NNG + 의/JKG
+윤리/NNG
+강령/NNG
+등/NNB + 을/JKO
+통하/VV + 아/EC
+기자/NNG + 의/JKG
+직업/NNG
+윤리/NNG + 를/JKO
+엄격/XR + 하/XSA + 게/EC
+규정/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+아무리/MAG
+간단/XR + 하/XSA + ㄴ/ETM
+선물/NNG + 이나/JC
+호의/NNG + 이/VCP + 라도/EC
+기자/NNG + 의/JKG
+품위/NNG + 를/JKO
+떨어뜨리/VV + 게/EC
+하/VX + ㄹ/ETM
+뿐/NNB
+아니/VCN + 라/EC
+뉴스/NNG
+취재/NNG
+보도/NNG + 에/JKB
+영향/NNG + 을/JKO
+끼치/VV + 고/EC
+언론/NNG
+기관/NNG + 의/JKG
+위신/NNG + 을/JKO
+해치/VV + ㄹ/ETM
+수/NNB
+있/VV + 다고/EC
+보/VV + 고/EC
+있/VX + 으나/EC
+이/NP + 들/XSN
+윤리/NNG
+강령/NNG + 에서/JKB + 는/JX
+아예/MAG
+현금/NNG
+수수/NNG
+조항/NNG + 을/JKO
+찾/VV + 을/ETM
+수/NNG + 가/JKS
+없/VA + 다/EF + ./SF
+'/SS + 촌지/NNG + '/SS + 에/JKB
+대하/VV + ㄴ/ETM
+개념/NNG + 이/JKS
+없/VA + 는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+대신/NNG
+운동/NNG
+경기/NNG + ·/SP + 연극/NNG + ·/SP + 영화/NNG + ·/SP + 서커스/NNG
+등/NNB
+각종/NNG
+행사/NNG + 의/JKG
+공짜/NNG + 표/NNG + ·/SP + 패스/NNG + 를/JKO
+받/VV + 느냐/EC + ,/SP
+말/VV + 느냐/EC + 의/JKG
+기준/NNG + 을/JKO
+비롯/XR + 하/XSV + 아/EC
+선물/NNG + ·/SP + 여행/NNG + ·/SP + 상품/NNG
+등/NNB + 에/JKB
+대하/VV + ㄴ/ETM
+자세/XR + 하/XSA + ㄴ/ETM
+규정/NNG + 들/XSN + 이/JKS
+마련/NNG + 되/XSV + 어/EC
+있/VX + 는데/EC
+원칙/NNG + 적/XSN + 으로/JKB
+선물/NNG + ·/SP + 공짜/NNG + 표/NNG + ·/SP + 공짜/NNG
+여행/NNG + ·/SP + 각종/NNG
+특혜/NNG
+등/NNB + 이/JKS
+엄격/XR + 하/XSA + ㄴ/ETM
+규제/NNG
+대상/NNG + 이/JKC
+되/VV + 고/EC
+있/VX + 다/EF + ./SF
+미국/NNP + 뿐/JX
+아니/VCN + 라/EC
+일본/NNP
+프랑스/NNP
+독일/NNP
+스웨덴/NNP
+이탈리아/NNP
+등/NNB
+20/SN + 여/XSN
+개국/NNB + 의/JKG
+언론인/NNG
+조직/NNG + 이/JKS
+비슷/XR + 하/XSA + ㄴ/ETM
+내용/NNG + 의/JKG
+언론/NNG
+윤리/NNG
+강령/NNG + 을/JKO
+채택/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+우리/NP
+나라/NNG
+기자단/NNG + 의/JKG
+원형/NNG + 으로/JKB
+알리/VV + 어/EC + 지/VX + ㄴ/ETM
+일본/NNP
+기자/NNG
+클럽/NNG + 의/JKG
+경우/NNG
+</SS + 기자/NNG
+클럽/NNG + 에/JKB
+관하/VV + ㄴ/ETM
+일본/NNP
+신문/NNG
+협회/NNG
+편집/NNG
+위원회/NNG + 의/JKG
+견해/NNG + >/SS + (/SS + 1978/SN + 년/NNB + )/SS + ,/SP
+</SS + 기자/NNG
+클럽/NNG + 에/JKB
+관하/VV + ㄴ/ETM
+신문/NNG
+협회/NNG + 의/JKG
+방침/NNG + >/SS + (/SS + 1949/SN + 년/NNB + )/SS + ,/SP
+</SS + 기자/NNG
+클럽/NNG
+문제/NNG + 에/JKB
+관하/VV + ㄴ/ETM
+편집/NNG
+위원회/NNG + 의/JKG
+통일/NNG
+해석/NNG + >/SS + (/SS + 1962/SN + 년/NNB + )/SS
+등/NNB + 에서/JKB
+그/MM
+운영/NNG
+방침/NNG + 들/XSN + 을/JKO
+상세/XR + 하/XSA + 게/EC
+규정/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+이/NP + 에/JKB
+따르/VV + 면/EC
+기자/NNG
+클럽/NNG + 의/JKG
+목적/NNG + 은/JX
+"/SS + 일상/NNG + 적/XSN
+취재/NNG
+활동/NNG + 을/JKO
+통하/VV + 아/EC
+상호/NNG
+계발/NNG + 과/JC
+친목/NNG + 을/JKO
+도모/NNG + "/SS + 하/VV + 는/ETM
+데/NNB
+있/VV + 으며/EC
+따라서/MAJ
+기자/NNG
+클럽/NNG + 의/JKG
+뉴스/NNG
+협정/NNG + 은/JX
+"/SS + 각/MM
+회사/NNG + 간/NNB
+협정/NNG
+이외/NNG + 에/JKB
+취재/NNG
+기자단/NNG + 의/JKG
+협정/NNG + 은/JX
+인정/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+없/VA + 다/EC + "/SS + 고/JKQ
+규정/NNG + 하/XSV + 아/EC
+취재/NNG
+기자/NNG + 들/XSN + 의/JKG
+단합/NNG + 에/JKB
+의하/VV + ㄴ/ETM
+보도/NNG
+제한/NNG + 을/JKO
+금지/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+또/MAG
+기자/NNG
+클럽/NNG + 은/JX
+취재원/NNG + 으로부터/JKB
+어떤/MM
+형태/NNG + 의/JKG
+특별/NNG + 하/XSA + ㄴ/ETM
+편의/NNG
+제공/NNG + 을/JKO
+받/VV + 을/ETM
+수/NNB + 도/JX
+없/VA + 으며/EC
+그/MM
+운영/NNG
+경비/NNG + 는/JX
+회비/NNG + 로/JKB
+충당/NNG + 하/XSV + 도록/EC
+규정/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+경력/NNG
+16/SN + 년/NNB + 째/XSN
+히라이/NNP
+특파원/NNG + 의/JKG
+경우/NNG
+"/SS + 넥타이/NNG
+상품권/NNG + 이나/JC
+맥주/NNG
+한/MM
+상자/NNG
+정도/NNG + 의/JKG
+선물/NNG + 은/JX
+받/VV + 은/ETM
+적/NNB + 이/JKS
+있/VV + 지만/EC
+현금/NNG + 은/JX
+받/VV + 을래도/EC
+주/VV + 는/ETM
+사람/NNG + 이/JKS
+없/VA + 었/EP + 다/EC + "/SS + 고/JKQ
+말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+경력/NNG
+13/SN + 년/NNB + 째/XSN + 이/VCP + ㄴ/ETM
+마이클/NNP
+브린/NNP + 은/JX
+"/SS + 미국/NNP
+언론/NNG + 계/XSN + 에서/JKB + 도/JX
+자유/NNG
+기고가/NNG + 나/JC
+규모/NNG + 가/JKS
+작/VA + 은/ETM
+텔리비전/NNG
+방송국/NNG + ·/SP + 잡지사/NNG + ·/SP + 노년/NNG + 층/XSN
+기자/NNG
+중/NNB + 에서/JKB
+비리/NNG + 로/JKB
+악명/NNG + 을/JKO
+떨치/VV + 는/ETM
+경우/NNG + 는/JX
+있/VV + 지만/EC + ,/SP
+현금/NNG + 을/JKO
+직접/MAG
+받/VV + 는/ETM
+형태/NNG + 는/JX
+아니/VCN + 다/EC + "/SS + 라고/JKQ
+말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+미국/NNP + ·/SP + 일본/NNP
+등/NNB
+외국/NNG + 에/JKB + 도/JX
+크/VA + 고/EC
+작/VA + 은/ETM
+기자/NNG
+비리/NNG + ·/SP + 부패/NNG + 가/JKS
+전혀/MAG
+없/VA + 는/ETM
+것/NNB + 은/JX
+아니/VCN + 지만/EC + ,/SP
+우리/NP + 처럼/JKB
+배타/NNG + 적/XSN + 이/VCP + 고/EC
+폐쇄/NNG + 적/XSN + 으로/JKB
+기자단/NNG + 을/JKO
+운영/NNG + 하/XSV + 고/EC
+촌지/NNG
+수수/NNG
+관행/NNG + 이/JKS
+만연/NNG + 하/XSV + ㄴ/ETM
+나라/NNG + ,/SP
+또/MAG
+이/NP + 에/JKB
+대하/VV + ㄴ/ETM
+아무런/MM
+제재/NNG + 가/JKS
+따르/VV + 지/EC
+않/VX + 는/ETM
+나라/NNG + 는/JX
+없/VA + 다는/ETM
+것/NNB + 이/JKS
+외국/NNG
+기자/NNG + 들/XSN + 의/JKG
+한결/MAG
+같/VA + 은/ETM
+지적/NNG + 이/VCP + 다/EF + ./SF
+1991/SN + //SP + 12/SN + //SP + 15/SN
+03/SN
+'/SS + 개혁/NNG
+입법/NNG + '/SS + 의/JKG
+운명/NNG + (/SS + 결산/NNG
+13/SN + 대/NNB
+국회/NNG + :/SP + 5/SN + )/SS
+거대/NNG
+여당/NNG
+날치기/NNG + 로/JKB
+'/SS + 사이비/NNG
+개정/NNG + '/SS
+//SP
+고치/VV + 어야/EC
+하/VX + ㄹ/ETM
+독소/NNG
+조항/NNG
+그대로/MAG
+남/VV + 아/EC
+//SP
+4/SN + 당/NNG
+합의/NNG
+노동법/NNG + 은/JX
+노/NNP
+대통령/NNG + 이/JKS
+거부/NNG
+여/NNG + 소/NNG
+야/NNG + 대/NNG + 로/JKB
+이루어지/VV + ㄴ/ETM
+13/SN + 대/NNB
+국회/NNG + 의/JKG
+초기/NNG
+세/MM
+야당/NNG + 의/JKG
+주도/NNG + 로/JKB
+추진/NNG + 되/XSV + ㄴ/ETM
+각종/NNG
+개혁/NNG
+입법/NNG + 의/JKG
+결과/NNG + 를/JKO
+13/SN + 대/NNB
+국회/NNG
+말/NNB + 에/JKB
+오/VV + 아서/EC
+정리/NNG + 하/XSV + 아/EC
+보/VX + 면/EC
+그야말로/MAG
+'/SS + 상전벽해/NNG + '/SS + 의/JKG
+느낌/NNG + 을/JKO
+갖/VV + 지/EC
+않/VX + 을/ETM
+수/NNB
+없/VA + 게/EC
+하/VX + ㄴ다/EF + ./SF
+당시/NNG
+세/MM
+야당/NNG + 은/JX
+봇물/NNG + 처럼/JKB
+터지/VV + 어/EC
+나오/VV + ㄴ/ETM
+각계/NNG + 의/JKG
+민주/NNG + 화/XSN
+요구/NNG + 를/JKO
+거스르/VV + 지/EC
+못하/VX + ㄴ/ETM
+채/NNB
+'/SS + 민주/NNG
+발전/NNG + 을/JKO
+위하/VV + ㄴ/ETM
+법률/NNG
+개폐/NNG
+특별/NNG
+위원회/NNG + '/SS + 이/VCP + 라는/ETM
+이름/NNG + 의/JKG
+악법/NNG
+개폐/NNG
+위원회/NNG + 를/JKO
+만들/VV + 어/EC
+획기적/NNG + 이/VCP + ㄴ/ETM
+법/NNG
+개정/NNG
+작업/NNG + 에/JKB
+들어가/VV + 았/EP + 다/EF + ./SF
+독재/NNG
+정권/NNG
+아래/NNG + 서/JKB
+국민/NNG + 의/JKG
+정치/NNG
+자유/NNG + 를/JKO
+억압/NNG + 하/XSV + 아/EC
+오/VX + ㄴ/ETM
+국가/NNG
+안전/NNG
+기획부/NNG + ·/SP + 검찰/NNG + ·/SP + 경찰/NNG
+등/NNB
+'/SS + 공안/NNG
+기관/NNG + '/SS + 의/JKG
+초/XPN + 법/NNG + 적/XSN
+활동/NNG + 에/JKB
+쐐기/NNG + 를/JKO
+박/VV + 기/ETN
+위하/VV + 아/EC
+△/SW
+안기부/NNG + 의/JKG
+수사관/NNG + 을/JKO
+폐지/NNG + 하/XSV + 아/EC
+국외/NNG + ·/SP + 대북/NNG
+정보/NNG
+수집/NNG
+기능/NNG + 으로/JKB
+한정/NNG + 시키/XSV + 고/EC
+△/SW
+검찰청/NNG + 법/NNG + 상/XSN + 의/JKG
+상명하복/NNG
+조항/NNG
+폐지/NNG + 와/JC
+총장/NNG
+임기/NNG + 제/XSN + 를/JKO
+추진/NNG + 하/XSV + 는가/EC
+하/VV + 면/EC
+△/SW
+경찰/NNG
+중립/NNG + 화/XSN + 를/JKO
+위하/VV + 아/EC
+총리/NNG
+지명/NNG + 과/JC
+국회/NNG
+선출/NNG + 로/JKB
+각각/MAG
+구성/NNG + 되/XSV + 는/ETM
+경찰/NNG
+위원회/NNG + 가/JKS
+경찰청/NNG + 을/JKO
+관리/NNG + 하/XSV + 도록/EC
+하/VX + 는/ETM
+등/NNB + 의/JKG
+법/NNG
+개정/NNG + 을/JKO
+시도/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+민주/NNP
+세력/NNG
+탄압/NNG + 의/JKG
+상징/NNG + 으로/JKB
+꼽히/VV + 어/EC + 오/VX + ㄴ/ETM
+국가/NNG
+보안법/NNG + 과/JC
+집회/NNG
+및/MAG
+시위/NNG + 에/JKB
+관하/VV + ㄴ/ETM
+법률/NNG + 에/JKB
+대하/VV + 아서/EC + 도/JX
+폐지/NNG
+또는/MAG
+개정/NNG
+준비/NNG + 를/JKO
+하/VV + 아/EC
+나가/VX + 았/EP + 다/EF + ./SF
+또/MAG
+△/SW
+노동/NNG
+운동/NNG + 을/JKO
+보장/NNG + 하/XSV + 기/ETN
+위하/VV + ㄴ/ETM
+노동/NNG
+조합/NNG + 법/NNG + 과/JC
+노동/NNG
+쟁의/NNG
+조정법/NNG
+개정/NNG
+△/SW
+문화/NNG
+활동/NNG + 의/JKG
+자유/NNG
+확대/NNG + 를/JKO
+위하/VV + ㄴ/ETM
+출판사/NNG
+등록법/NNG + ·/SP + 공연법/NNG + ·/SP + 영화/NNG
+진흥/NNG + 법/NNG + ·/SP + 음반/NNG + 법/NNG
+등/NNB + 의/JKG
+제정/NNG
+또는/MAG
+개정/NNG
+△/SW
+통합/NNG
+의료/NNG
+보험/NNG + 제/XSN
+실시/NNG + 를/JKO
+위하/VV + ㄴ/ETM
+국민/NNG
+의료/NNG
+보험법/NNG
+제정/NNG
+△/SW
+해직/NNG
+언론인/NNG + ·/SP + 삼청/NNP
+교육/NNG
+피해자/NNG + ·/SP + 광주/NNP
+항쟁/NNG
+피해자/NNG
+등/NNB + 에/JKB
+대하/VV + ㄴ/ETM
+각종/NNG
+배상/NNG + 법/NNG
+등/NNB + 도/JX
+추진/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+몇/MM + 십/NR
+년/NNB
+동안/NNG
+헌법/NNG + 에/JKB + 만/JX
+규정/NNG + 되/XSV + ㄴ/ETM
+채/NNB
+사문/NNG + 화/XSN + 되/XSV + 어/EC
+오/VX + 던/ETM
+지방/NNG
+자치/NNG + 제/XSN + 를/JKO
+실시/NNG + 하/XSV + 아야/EC
+하/VX + ㄴ다는/ETM
+요구/NNG + 가/JKS
+터지/VV + 어/EC
+나오/VV + 기/ETN
+시작/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 도/JX
+여/NNG + 소/NNG
+야/NNG + 대/NNG + 에/JKB
+힘입/VV + 은/ETM
+것/NNB + 이/VCP + 었/EP + 고/EC
+헌법/NNG
+재판소/NNG + 의/JKG
+신설/NNG + 과/JC
+국정/NNG
+감사/NNG
+제도/NNG + 의/JKG
+부활/NNG + 이/JKS
+이루어지/VV + ㄴ/ETM
+것/NNB + 도/JX
+이때/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+이/MM
+시절/NNG + 이야말로/JX
+"/SS + 해방/NNG
+이후/NNG
+쌓이/VV + 어/EC
+오/VX + ㄴ/ETM
+각종/NNG
+비리/NNG + ·/SP + 비정/NNG + 을/JKO
+총체/NNG + 적/XSN + 으로/JKB
+'/SS + 개혁/NNG + '/SS + 하/VV + ㄹ/ETM
+절호/NNG + 의/JKG
+기회/NNG + "/SS + 라고/JKQ
+하/VV + 아도/EC
+과언/NNG + 이/JKC
+아니/VCN + 었/EP + 다/EF + ./SF
+개혁/NNG
+입법/NNG
+작업/NNG + 은/JX
+세/MM
+야당/NNG
+사이/NNG + 에/JKB
+삐걱거리/VV + 는/ETM
+분야/NNG + 가/JKS
+없/VA + 지/EC + 는/JX
+않/VX + 았/EP + 으나/EC + ,/SP
+그런대로/MAG
+진행/NNG + 되/XSV + 어/EC
+나가/VX + 아/EC
+5/SN + 공/NNG + 이/JKS
+정치/NNG + 적/XSN + 으로/JKB
+청산/NNG + 하/XSV + 았/EP + 다고/EC
+간주/NNG + 하/XSV + ㄴ다는/ETM
+89/SN + 년/NNB
+말/NNB + 의/JKG
+여야/NNG
+합의/NNG
+이후/NNG
+90/SN + 년/NNB
+1/SN + 월/NNB + 에/JKB
+닥쳐오/VV + ㄴ/ETM
+3/SN + 당/NNG
+합당/NNG + 으로/JKB
+결정/NNG + 적/XSN + 으로/JKB
+좌절/NNG + 되/XSV + 어/EC
+버리/VX + 었/EP + 다/EF + ./SF
+국회/NNG
+의석/NNG
+2/SN + 백/NR
+99/SN + 석/NNB
+가운데/NNG
+2/SN + 백/NR
+17/SN + 석/NNB + 을/JKO
+차지/NNG + 하/XSV + 게/EC
+되/VV + ㄴ/ETM
+민자당/NNP + 은/JX
+90/SN + 년/NNB
+3/SN + 월/NNB
+국회/NNG + 에서/JKB
+첫/MM
+날치기/NNG + 를/JKO
+시도/NNG + 하/XSV + ㄴ/ETM
+이래/NNB
+이번/NNG
+156/SN + 회/NNB
+정기/NNG
+국회/NNG + 에/JKB
+이르/VV + 기/ETN + 까지/JX
+5/SN + 차례/NNG + 에/JKB
+걸치/VV + ㄴ/ETM
+날치기/NNG
+통과/NNG + 를/JKO
+'/SS + 감행/NNG + '/SS + 하/XSV + 면서/EC
+개혁/NNG
+입법/NNG + 들/XSN + 마저/JX + 도/JX
+'/SS + 핵심/NNG + '/SS + 은/JX
+빼놓/VV + 은/ETM
+채/NNB
+'/SS + 사이비/NNG
+개정/NNG + '/SS + 을/JKO
+하/VV + 아/EC
+버리/VX + 었/EP + 다/EF + ./SF
+경찰/NNG
+중립/NNG + 화/XSN + 를/JKO
+위하/VV + 아/EC
+세/MM
+야당/NNG + 이/JKS
+합의/NNG
+추진/NNG + 하/XSV + 던/ETM
+'/SS + 경찰법/NNG + '/SS + 은/JX
+지나/VV + ㄴ/ETM
+5/SN + 월/NNB
+날치기/NNG
+통과/NNG + 되/XSV + 면서/EC
+'/SS + 경찰청법/NNG + '/SS + 으로/JKB
+둔갑/NNG + 하/XSV + 아/EC
+경찰/NNG
+위원/NNG + 을/JKO
+모두/MAG
+대통령/NNG + 이/JKS
+임명/NNG + 하/XSV + 도록/EC
+하/VX + ㅁ/ETN + 으로써/JKB
+오히려/MAG
+'/SS + 정권/NNG + 의/JKG
+몽둥이/NNG + '/SS + 역할/NNG + 을/JKO
+좀/MAG + 더/MAG
+소신/NNG
+있/VV + 게/EC
+하/VX + ㄹ/ETM
+수/NNB
+있/VV + 도록/EC
+경찰/NNG
+위상/NNG + 을/JKO
+보장/NNG + 하/XSV + 아/EC
+주/VX + ㄴ/ETM
+격/NNB + 이/JKC
+되/VV + 어/EC
+버리/VX + 었/EP + 다/EF + ./SF
+강경대/NNP
+씨/NNB
+타살/NNG
+사건/NNG + 과/JC
+한국원/NNP
+씨/NNB
+피격/NNG
+사망/NNG
+사건/NNG + 은/JX
+경찰/NNG + 의/JKG
+실상/NNG + 을/JKO
+잘/MAG
+드러내/VV + 어/EC
+주/VX + 고/EC
+있/VX + 다/EF + ./SF
+평민/NNP + ·/SP + 민주당/NNP + 이/JKS
+상정/NNG + 하/XSV + ㄴ/ETM
+안기부/NNG + 법/NNG + 은/JX
+국방위/NNG + 에/JKB
+묶이/VV + ㄴ/ETM
+채/NNB
+자동/NNG
+폐기/NNG + 되/XSV + ㄹ/ETM
+운명/NNG + 에/JKB
+놓이/VV + 었/EP + 고/EC
+검찰청/NNG + 법/NNG + 은/JX
+여/NNG + 소/NNG
+야/NNG + 대/NNG
+시절/NNG
+총장/NNG
+임기/NNG + 제/XSN + 를/JKO
+도입/NNG + 하/XSV + 았/EP + 으나/EC
+중립/NNG + 화/XSN + 에/JKB + 는/JX
+사실/NNG + 상/XSN
+실패/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 으로/JKB
+평가/NNG + 되/XSV + ㄴ다/EF + ./SF
+국가/NNG
+보안법/NNG + 의/JKG
+경우/NNG
+평민당/NNP + 이/JKS
+민주/NNP
+질서/NNG
+보호/NNG + 법/NNG + 으로서/JKB + 의/JKG
+대체/NNG
+입법/NNG + ,/SP
+민주당/NNP + 이/JKS
+폐지/NNG
+뒤/NNG
+형법/NNG
+흡수/NNG
+등/NNB + 을/JKO
+주장/NNG + 하/XSV + 아/EC
+여/NNG + 소/NNG
+야/NNG + 대/NNG
+시절/NNG
+야당/NNG
+단일/NNG + 안/NNG + 이/JKS
+마련/NNG + 되/XSV + 지/EC
+못하/VX + ㄴ/ETM
+상태/NNG + 에서/JKB
+3/SN + 당/NNG
+합당/NNG
+뒤/NNG
+경찰청법/NNG + 과/JKB
+함께/MAG
+날치기/NNG
+처리/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+민자당/NNP + 의/JKG
+보안/NNG + 법안/NNG + 은/JX
+형사/NNG
+처벌/NNG
+조건/NNG + 에/JKB
+"/SS + 국가/NNG + 의/JKG
+존립/NNG + ·/SP + 안전/NNG + 과/JC
+자유/NNG
+민주/NNG + 적/XSN
+기본/NNG
+질서/NNG + 를/JKO
+위태/XR + 롭/XSA + 게/EC
+하/VX + ㄴ다는/ETM
+점/NNG + 을/JKO
+알/VV + 면서/EC + "/SS + 하/VV + 는/ETM
+조건/NNG + 을/JKO
+붙이/VV + 었/EP + 으나/EC
+이후/NNG
+법원/NNG + ·/SP + 검찰/NNG + 의/JKG
+법/NNG
+적용/NNG
+기준/NNG + 이/JKS
+거의/MAG
+달라지/VV + 지/EC
+않/VX + 은/ETM
+데/NNB + 서/JKB + 도/JX
+드러나/VV + 듯이/EC
+추상/NNG + 적/XSN
+문구/NNG
+때문/NNB + 에/JKB
+사실/NNG + 상/XSN
+개정/NNG
+효과/NNG + 가/JKS
+전혀/MAG
+없/VA + 는/ETM
+상태/NNG + 이/VCP + 다/EF + ./SF
+집시법/NNG + 은/JX
+다행히/MAG
+여/NNG + 소/NNG
+야/NNG + 대/NNG
+시절/NNG
+여야/NNG
+합의/NNG + 로/JKB
+개정/NNG + 되/XSV + 어/EC
+"/SS + 사회/NNG
+불안/NNG + 을/JKO
+야기/NNG + 하/XSV + ㄹ/ETM
+우려/NNG + "/SS + 가/JKS
+있/VV + 는/ETM
+집회/NNG + 를/JKO
+금지/NNG + 하/XSV + ㄴ다는/ETM
+추상/NNG + 적/XSN
+표현/NNG
+대신/NNG
+"/SS + 집단/NNG + 적/XSN
+폭행/NNG + …/SE
+등/NNB + 으로/JKB
+공공/NNG + 의/JKG
+안녕/NNG
+질서/NNG + 에/JKB
+직접/NNG + 적/XSN
+위협/NNG + 을/JKO
+가하/VV + ㄹ/ETM
+것/NNB + 이/JKS
+명백/XR + 하/XSA + ㄴ/ETM + "/SS
+경우/NNG + 에/JKB + 만/JX
+금지/NNG + 하/XSV + 도록/EC
+하/VX + 고/EC
+금지/NNG
+통고/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+이/NP + 의/JKG
+신청/NNG + 도/JX
+가능/NNG + 하/XSA + 도록/EC
+고치/VV + 었/EP + 다/EF + ./SF
+그러나/MAJ
+금지/NNG
+통고/NNG + 권/XSN + 을/JKO
+경찰/NNG
+서장/NNG + 에게/JKB
+그대로/MAG
+남기/VV + 어/EC
+두/VX + ㄴ/ETM
+바람/NNB + 에/JKB
+운용/NNG
+과정/NNG + 에서/JKB + 는/JX
+재야/NNG
+단체/NNG + 의/JKG
+집회/NNG + 를/JKO
+집중/NNG + 적/XSN + 으로/JKB
+금지/NNG + 하/XSV + 는/ETM
+등/NNB
+전/NNG + 과/JKB
+달라지/VV + ㄴ/ETM
+점/NNG + 이/JKS
+없/VA + 다는/ETM
+평가/NNG + 를/JKO
+받/VV + 았/EP + 다/EF + ./SF
+6/SN + 급/NNG
+이하/NNG
+공무원/NNG + 의/JKG
+노조/NNG
+조직/NNG + 과/JC
+단체/NNG
+교섭/NNG + 권/XSN + 을/JKO
+인정/NNG + 하/XSV + 고/EC
+방위/NNG
+산업체/NNG
+노동자/NNG + 의/JKG
+쟁의/NNG + 를/JKO
+허용/NNG + 하/XSV + 는/ETM
+등/NNB
+당시/NNG + 로서/JKB + 는/JX
+획기적/NNG
+내용/NNG + 을/JKO
+담/VV + 고/EC
+있/VX + 던/ETM
+노동/NNG
+조합/NNG + 법/NNG + 과/JC
+노동/NNG
+쟁의/NNG
+조정법/NNG + 은/JX
+네/MM + 당/NNG + 의/JKG
+합의/NNG + 로/JKB
+국회/NNG + 까지/JX
+통과/NNG + 되/XSV + 었/EP + 으나/EC
+대통령/NNG + 의/JKG
+거부/NNG + 권/XSN
+행사/NNG + 로/JKB
+무산/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+더구나/MAG
+거대/NNG
+여당/NNG
+출범/NNG
+이후/NNG + 에/JKB + 는/JX
+정부/NNG + 가/JKS
+총액/NNG
+임금/NNG + 제/XSN
+실시/NNG
+등/NNB + 을/JKO
+뼈대/NNG + 로/JKB
+하/VV + 는/ETM
+노동/NNG
+관계/NNG + 법/NNG
+개정안/NNG + 을/JKO
+내/VV + 려다/EC
+노동/NNG + 계/XSN + 의/JKG
+반발/NNG + 로/JKB
+보류/NNG + 하/XSV + ㄴ/ETM
+적/NNB + 이/JKS
+있/VV + 다/EF + ./SF
+교육/NNG
+공무원/NNG + 의/JKG
+노조/NNG
+설립/NNG + 과/JC
+정당/NNG
+활동/NNG
+허용/NNG
+등/NNB + 을/JKO
+담/VV + 을/ETM
+교육/NNG
+공무원/NNG + 법/NNG + 과/JC
+납본/NNG + 제/XSN
+폐지/NNG + 를/JKO
+위하/VV + ㄴ/ETM
+출판사/NNG
+등록법/NNG + ,/SP
+사전/NNG
+심의/NNG + 제/XSN
+폐지/NNG + 를/JKO
+뼈대/NNG + 로/JKB
+하/VV + 는/ETM
+공연법/NNG
+등/NNB + 도/JX
+국회/NNG + 에/JKB
+발/NNG + 이/JKS
+묶이/VV + 어/EC
+폐기/NNG + 되/XSV + ㄹ/ETM
+운명/NNG + 에/JKB
+있/VV + 다/EF + ./SF
+이/NP + 밖에/JX
+물질/NNG + 적/XSN
+보상/NNG + 을/JKO
+주/MM + 내용/NNG + 으로/JKB
+하/VV + ㄴ/ETM
+광주/NNP
+보상법/NNG + 은/JX
+날치기/NNG + 로/JKB
+처리/NNG + 되/XSV + 었/EP + 고/EC
+그나마/MAG
+해직/NNG
+언론인/NNG + ·/SP + 삼청/NNP
+교육/NNG
+피해자/NNG
+등/NNB + 에/JKB
+대하/VV + ㄴ/ETM
+배상/NNG + 은/JX
+제대로/MAG
+거론/NNG + 조차/JX
+되/VV + 지/EC
+못하/VX + 고/EC
+있/VX + 다/EF + ./SF
+5/SN + 공/NNG
+시절/NNG
+법률/NNG + 이/JKS
+만들/VV + 어/EC + 지/VX + ㄴ/ETM
+금융/NNG
+실명/NNG + 제/XSN + 의/JKG
+경우/NNG
+부칙/NNG + 에/JKB
+실시/NNG
+시기/NNG + 를/JKO
+유보/NNG + 하/XSV + 는/ETM
+바람/NNB + 에/JKB
+시행/NNG + 되/XSV + 지/EC
+못하/VX + 다/EC
+대통령/NNG
+공약/NNG
+사항/NNG + 으로/JKB
+13/SN + 대/NNB
+국회/NNG + 에/JKB
+넘기/VV + 어/EC + 지/VX + 어/EC
+89/SN + 년/NNB
+4/SN + 월/NNB
+재무/NNG + 부/NNG + 에/JKB
+실시/NNG
+준비단/NNG + 까지/JX
+만들/VV + 었/EP + 으나/EC
+지난해/NNG
+4/SN + 월/NNB
+증시/NNG
+침체/NNG + 와/JC
+소비/NNG
+확산/NNG
+등/NNB + 의/JKG
+이유/NNG + 로/JKB
+전면/NNG
+보류/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+토지/NNG
+공개념/NNG
+실현/NNG + 을/JKO
+위하/VV + 아/EC
+마련/NNG + 되/XSV + ㄴ/ETM
+△/SW
+택지/NNG
+소유/NNG
+상환/NNG + 에/JKB
+관하/VV + ㄴ/ETM
+법률/NNG
+△/SW
+개발/NNG
+이익/NNG
+환수/NNG + 에/JKB
+관하/VV + ㄴ/ETM
+법률/NNG
+△/SW
+토지/NNG
+초과/NNG
+이득/NNG + 세법/NNG
+등/NNB + 을/JKO
+89/SN + 년/NNB
+12/SN + 월/NNB
+우여곡절/NNG
+끝/NNG + 에/JKB
+국회/NNG + 를/JKO
+통과/NNG + 하/XSV + 았/EP + 으나/EC
+애초/NNG + 의/JKG
+취지/NNG + 와/JKB
+달리/MAG
+각기/MAG
+△/SW
+시행/NNG
+지역/NNG + 을/JKO
+한정/NNG + 하/XSV + 고/EC
+△/SW
+개발/NNG
+부담금/NNG + 이/JKS
+너무/MAG
+적/VA + 으며/EC
+△/SW
+과세/NNG
+표준/NNG + 이/JKS
+현실/NNG + 화/XSN + 되/XSV + 지/EC
+않/VX + 아/EC
+세/NNG + 율/XSN + 이/JKS
+낮/VA + 은/ETM
+점/NNG
+등/NNB
+문제점/NNG + 이/JKS
+적/VA + 지/EC
+않/VX + 아/EC
+실질/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+투기/NNG
+방지/NNG
+효과/NNG + 는/JX
+거두/VV + 지/EC
+못하/VX + 고/EC
+있/VX + 다/EF + ./SF

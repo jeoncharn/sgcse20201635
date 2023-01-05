@@ -1,0 +1,7262 @@
+1/SN + ./SF + 추적/NNG + ,/SP
+뉴/NNG
+비즈니스/NNG
+1/SN + ./SF
+생활/NNG + 로/JKB
+굳/VV + 어/EC
+버리/VX + ㄴ/ETM
+뉴/NNG
+비즈니스/NNG
+"/SS + 아이디어/NNG + 가/JKS
+돈/NNG + 이/VCP + 다/EF + ./SF + "/SS
+반짝이/VV + 는/ETM
+아이디어/NNG + 를/JKO
+사업/NNG + 화/XSN + 하/XSV + 는/ETM
+뉴/NNG
+비즈니스/NNG
+열풍/NNG + 이/JKS
+일본/NNP + 에서/JKB
+성숙/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+소득/NNG
+수준/NNG + 이/JKS
+달라지/VV + 고/EC + ,/SP
+사회/NNG
+분위기/NNG + 가/JKS
+변하/VV + 면서/EC
+소비자/NNG + 는/JX
+새롭/VA + ㄴ/ETM
+상품/NNG + 과/JC
+서비스/NNG + 를/JKO
+기대/NNG + 하/XSV + 게/EC
+마련/NNB + 이/VCP + 다/EF + ./SF
+이/NP + 를/JKO
+놓치/VV + 지/EC
+않/VX + 고/EC
+아마추어/NNG
+기업가/NNG + 들/XSN + 은/JX
+재빨리/MAG
+회사/NNG + 를/JKO
+창업/NNG + ,/SP
+수익/NNG + 성/XSN + 을/JKO
+올리/VV + 고/EC
+고/XPN + 성장/NNG
+사업/NNG + 으로/JKB
+키우/VV + 어/EC + 가/VX + 고/EC
+있/VX + 다/EF + ./SF
+미우라/NNP
+사장/NNG + 은/JX
+대/XPN
+중공업/NNG
+회사/NNG
+과장/NNG + 에서/JKB
+승진/NNG + 길/NNG + 이/JKS
+막히/VV + 자/EC + ,/SP
+회사/NNG + 를/JKO
+그만두/VV + 었/EP + 다/EF + ./SF
+실업자/NNG
+생활/NNG
+3/SN + 개월/NNB
+후/NNG
+백화점/NNG + 에서/JKB
+가구/NNG + 를/JKO
+판매/NNG + 하/XSV + 는/ETM
+데/NNB
+뛰어들/VV + 었/EP + 다/EF + ./SF
+그러나/MAJ
+임대료/NNG + 가/JKS
+비싸/VA + ㄴ/ETM
+백화점/NNG + 에서/JKB
+가구/NNG
+사업/NNG + 은/JX
+사양길/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+몇/MM
+달/NNG + 간/NNG
+적자/NNG
+경영/NNG + 에/JKB
+빠지/VV + 어/EC
+있/VX + 다가/EC
+착안/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 은/JX
+양복/NNG
+교정/NNG + ·/SP + 수리업/NNG + ./SF
+체중/NNG + 이/JKS
+줄/VV + 거나/EC
+늘어나/VV + ㄴ/ETM
+사람/NNG + ,/SP
+새롭/VA + ㄴ/ETM
+유행/NNG + 에/JKB
+따르/VV + 아/EC
+양복/NNG + 을/JKO
+고치/VV + 려는/ETM
+고객/NNG + 층/XSN + 을/JKO
+겨냥/NNG + 하/XSV + ㄴ/ETM
+것/NNB + ./SF
+맞춤/NNG
+양복/NNG + 값/NNG + 이/JKS
+오르/VV + ㄹ수록/EC
+기존/NNG
+양복/NNG + 을/JKO
+고치/VV + 려는/ETM
+수요/NNG + 가/JKS
+늘/VV + 어/EC
+양복/NNG
+모델/NNG
+체인지/NNG
+사업/NNG + 은/JX
+번창/NNG
+중/NNB + 이/VCP + 다/EF + ./SF
+또/MAG
+다른/MM
+사례/NNG + 는/JX
+혈액/NNG
+검사/NNG
+회사/NNG + ./SF
+병원/NNG
+원장/NNG + 을/JKO
+남편/NNG + 으로/JKB
+두/VV + ㄴ/ETM
+부인/NNG + 이/JKS
+창업/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+혈액/NNG + 을/JKO
+채취/NNG + 하/XSV + 아/EC
+암/NNG
+진단/NNG + 을/JKO
+전문/NNG + 적/XSN + 으로/JKB
+하/VV + 아/EC + 주/VX + 는/ETM
+사업/NNG + 이/VCP + 다/EF + ./SF
+고객/NNG + 은/JX
+전원/NNG
+회원/NNG + 제/XSN + ./SF
+정기/NNG + 적/XSN + 으로/JKB
+혈액/NNG + 을/JKO
+채취/NNG + 하/XSV + 러/EC
+사무실/NNG + 과/JC
+가정/NNG + 에/JKB
+출장/NNG + 하/XSV + 고/EC + ,/SP
+혈액/NNG + 은/JX
+암/NNG
+전문가/NNG
+남편/NNG + 에게/JKB
+맡기/VV + 러/EC
+검사/NNG + 하/XSV + ㄴ다/EF + ./SF
+암/NNG
+공포증/NNG + 이/JKS
+확산/NNG + 되/XSV + 는/ETM
+분위기/NNG + 가/JKS
+크/VA + ㄴ/ETM
+시장/NNG + 을/JKO
+형성/NNG + 하/XSV + ㄴ/ETM
+셈/NNB + 이/VCP + 다/EF + ./SF
+기발/XR + 하/XSA + ㄴ/ETM
+뉴/NNG
+비즈니스/NNG
+아이디어/NNG + 는/JX
+생활/NNG
+속/NNG + 에서/JKB
+속출/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+전화/NNG + 를/JKO
+걸/VV + 어도/EC
+오/VV + 지/EC
+않/VX + 는/ETM
+병원/NNG
+앰뷸런스/NNG + 를/JKO
+기다리/VV + ㄹ/ETM
+수/NNB
+없/VA + 어/EC
+등장/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 이/JKS
+민간/NNG
+구급/NNG
+관리/NNG
+센터/NNG + ./SF
+임산부/NNG + 나/JC
+노인/NNG
+등/NNB
+잠시/NNG + 도/JX
+지체/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+없/VA + 는/ETM
+환자/NNG + 를/JKO
+위하/VV + 아/EC
+전화/NNG
+즉시/NNG
+택시/NNG + 를/JKO
+보내/VV + 어/EC + 주/VX + 는/ETM
+회사/NNG + 이/VCP + 다/EF + ./SF
+골프/NNG
+연습장/NNG + 에서/JKB
+연습/NNG
+순서/NNG + 를/JKO
+대신/NNG
+기다리/VV + 어/EC
+주/VX + 는/ETM
+사업/NNG + ,/SP
+맞벌이/NNG
+부부/NNG + 를/JKO
+위하/VV + 아/EC
+야간/NNG + 에/JKB + 만/JX
+반찬거리/NNG + 를/JKO
+배달/NNG + 하/XSV + 아/EC
+주/VX + 는/ETM
+사업/NNG + ,/SP
+아예/MAG
+주문/NNG + 대로/JX
+밥/NNG + 을/JKO
+짓/VV + 어다/EC
+주/VX + 는/ETM
+사업/NNG + 까지/JX
+성황/NNG + 이/VCP + 다/EF + ./SF
+애완/NNG
+동물/NNG
+붐/NNG + 을/JKO
+반영/NNG + ,/SP
+고급/NNG
+애완/NNG
+동물/NNG
+호텔/NNG + 이/JKS
+설립/NNG + 되/XSV + 고/EC + ,/SP
+잃/VV + 어/EC
+버리/VX + ㄴ/ETM
+애완/NNG
+동물/NNG + 만/JX + 을/JKO
+찾/VV + 아/EC
+주/VX + 는/ETM
+탐정/NNG
+회사/NNG + 도/JX
+나오/VV + 았/EP + 다/EF + ./SF
+저명인/NNG + 들/XSN + 의/JKG
+친필/NNG
+원고/NNG + 를/JKO
+판매/NNG + 하/XSV + 는/ETM
+발상/NNG + ,/SP
+음악회/NNG + 가/JKS
+열리/VV + 는/ETM
+극장/NNG
+근처/NNG + 에서/JKB
+젖먹이/NNG
+어린애/NNG + 를/JKO
+서너/MM
+시간/NNG
+돌보/VV + 아/EC
+주/VX + 는/ETM
+발상/NNG + ,/SP
+해외/NNG
+근무자/NNG + 들/XSN + 에게/JKB
+고향/NNG
+음식/NNG
+재료/NNG + 를/JKO
+발송/NNG + 하/XSV + 아/EC
+주/VX + 는/ETM
+발상/NNG + 도/JX
+모두/MAG
+사업/NNG + 화/XSN + 되/XSV + 었/EP + 다/EF + ./SF
+대/XPN + 기업/NNG + 들/XSN + 이/JKS
+영역/NNG
+확장/NNG + 을/JKO
+위하/VV + 아/EC
+시작/NNG + 하/XSV + 는/ETM
+뉴/NNG
+비즈니스/NNG + 도/JX
+줄/NNG + 을/JKO
+잇/VV + 고/EC
+있/VX + 다/EF + ./SF
+오사카/NNP
+가스/NNG + 는/JX
+노인/NNG
+홈/NNG + 을/JKO
+운영/NNG + 하/XSV + 고/EC
+있/VX + 으며/EC + ,/SP
+스미토모/NNP
+시멘트/NNG + 는/JX
+세라믹제/NNG
+인감/NNG
+도장/NNG + 을/JKO
+팔/VV + 고/EC
+있/VX + 다/EF + ./SF
+아스카/NNP
+건설/NNG + 은/JX
+심각/XR + 하/XSA + ㄴ/ETM
+묘지난/NNG + 에/JKB
+착안/NNG + ,/SP
+묘지/NNG
+조사/NNG
+및/MAG
+개발/NNG
+사업/NNG + 을/JKO
+본격/NNG
+개시/NNG + 하/XSV + 았/EP + 고/EC + ,/SP
+미쓰비시/NNP
+상사/NNG + 는/JX
+레저/NNG
+이벤트/NNG
+사업/NNG + 에/JKB
+뛰어들/VV + 었/EP + 다/EF + ./SF
+도카이/NNP + 가/JKS
+여자/NNG
+골프/NNG
+학교/NNG + 를/JKO
+설립/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 이/VCP + 나/EC
+핫도리/NNP
+세이코/NNP + 가/JKS
+연기/NNG
+없/VA + 는/ETM
+담배/NNG + 를/JKO
+개발/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 은/JX
+사원/NNG + 들/XSN + 의/JKG
+비즈니스/NNG
+감각/NNG + 을/JKO
+사업/NNG + 화/XSN + 하/XSV + ㄴ/ETM
+것/NNB + ./SF
+개인/NNG
+주문/NNG + 을/JKO
+받/VV + 아/EC
+외제품/NNG + 을/JKO
+수입/NNG + 하/XSV + 아/EC
+주/VX + 고/EC + ,/SP
+밤/NNG + 이/VCP + 면/EC
+아무/MM
+쓸모/NNG
+없/VA + 는/ETM
+모델/NNG
+하우스/NNG + 를/JKO
+파티장/NNG + 으로/JKB
+임대/NNG + 하/XSV + 아/EC
+주/VX + 는/ETM
+사업/NNG + 도/JX
+대/XPN + 기업/NNG + 들/XSN + 이/JKS
+창안/NNG + 하/XSV + 았/EP + 다/EC + (/SS + 뉴/NNG
+비즈니스/NNG
+내용/NNG + 은/JX
+도표/NNG
+참조/NNG + )/SS + ./SF
+일본/NNP + 의/JKG
+뉴/NNG
+비즈니스/NNG
+붐/NNG + 은/JX
+'/SS + 80/SN + 년대/NNB + 부터/JX
+본격/NNG + 화/XSN + 되/XSV + 었/EP + 다/EF + ./SF
+2/SN + ,/SP + 600/SN + 여/XSN
+뉴/NNG
+비즈니스/NNG
+기업/NNG + 이/JKS
+가입/NNG + 하/XSV + ㄴ/ETM
+뉴/NNG
+비즈니스/NNG
+협의회/NNG + 가/JKS
+창설/NNG + 되/XSV + ㄴ/ETM
+것/NNB + 도/JX
+지나/VV + ㄴ/ETM
+'/SS + 85/SN + 년/NNB + 이/VCP + 다/EF + ./SF
+이어/MAG
+'/SS + 90/SN + 년/NNB + 에/JKB + 는/JX
+첫/MM + 번/NNB + 째/XSN
+『/SS + 뉴/NNG
+비즈니스/NNG
+백서/NNG + 』/SS + 를/JKO
+발간/NNG + 하/XSV + 았/EP + 고/EC + ,/SP
+미국/NNP + 의/JKG
+뉴/NNG
+비즈니스/NNG + 를/JKO
+잇달/VV + 아/EC
+일본/NNP + 에/JKB
+소개/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+일본/NNP
+뉴/NNG
+비즈니스/NNG
+협의회/NNG + 가/JKS
+조사/NNG + 하/XSV + ㄴ/ETM
+뉴/NNG
+비즈니스/NNG
+경영자/NNG + 들/XSN + 의/JKG
+'/SS + 공통/NNG
+분모/NNG + '/SS + 는/JX
+정말/MAG
+흥미/NNG
+있/VV + 다/EF + ./SF
+</SS + 성격/NNG + 은/JX
+밝/VA + 고/EC
+낙천/NNG + 적/XSN + ,/SP
+호기심/NNG + 이/JKS
+왕성/NNG + 하/XSA + 고/EC
+정직/NNG + ·/SP + 성실/NNG + 하/XSA + ㄴ/ETM
+특징/NNG + 이/JKS
+있/VV + 다/EF + ./SF
+얘기/NNG + 하/XSV + ㄹ/ETM
+때/NNG
+설득력/NNG + 이/JKS
+선교사/NNG + 처럼/JKB
+강/XR + 하/XSA + 고/EC
+숫자/NNG
+감각/NNG + 이/JKS
+발달/NNG + 하/XSV + 았/EP + 으며/EC + ,/SP
+폭넓/VA + 은/ETM
+인맥/NNG + 을/JKO
+갖/VV + 고/EC
+있/VX + 는/ETM
+경우/NNG + 가/JKS
+태반/NNG + 이/VCP + 다/EF + ./SF
+사고/NNG
+방식/NNG + 은/JX
+역시/MAG
+로맨틱/NNG + 하/XSA + ㄴ/ETM
+성향/NNG + 이/JKS
+있/VV + 고/EC
+고정/NNG
+관념/NNG + 에/JKB
+얽매이/VV + 지/EC
+않/VX + 는다/EF + ./SF
+실패/NNG + 를/JKO
+두려워하/VV + 지/EC
+않/VX + 고/EC
+겁/NNG
+없이/MAG
+덤비/VV + 는/ETM
+경향/NNG + 이/JKS
+있/VV + 는/ETM
+점/NNB + ,/SP
+머리/NNG
+회전/NNG + 이/JKS
+비상/NNG + 하/XSA + 게/EC
+빠르/VA + 다는/ETM
+평/NNG + 을/JKO
+듣/VV + 는/ETM
+점/NNB + ,/SP
+박력/NNG
+있/VV + 게/EC
+실행/NNG + 에/JKB
+옮기/VV + 는/ETM
+결단력/NNG + 이/JKS
+강하/VA + ㄴ/ETM
+점/NNB + ,/SP
+개인/NNG
+욕심/NNG + 이/JKS
+적/VA + 은/ETM
+점/NNB
+등/NNB + 도/JX
+뉴/NNG
+비즈니스/NNG
+경영자/NNG + 들/XSN + 의/JKG
+공통/NNG + 되/XSV + ㄴ/ETM
+부분/NNG + 이/VCP + 다/EF + ./SF + >/SS
+뉴/NNG
+비즈니스/NNG
+붐/NNG + 을/JKO
+지탱/NNG + 하/XSV + 는/ETM
+힘/NNG + 은/JX
+역시/MAG
+빈약/NNG + 하/XSA + ㄴ/ETM
+자본/NNG + 과/JC
+적/VA + 은/ETM
+인원/NNG + 으로/JKB
+창업/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 다는/ETM
+데/NNB
+있/VV + 다/EF + ./SF
+일본/NNP + 의/JKG
+경우/NNG
+창업/NNG
+때/NNG
+직원/NNG + 수/NNG + 는/JX
+평균/NNG
+19/SN + 명/NNB + ./SF
+그/MM
+중/NNB
+가족/NNG
+1/SN + 명/NNB + 이/JKS
+끼이/VV + 어/EC
+있/VX + 고/EC + ,/SP
+시간/NNG + 제/XSN
+직원/NNG + 이/JKS
+5/SN + 명/NNB
+이상/NNG
+들/VV + 어/EC
+있/VX + 다/EF + ./SF
+따라서/MAJ
+13/SN + 명/NNB
+수준/NNG + 의/JKG
+적/VA + 은/ETM
+수/NNG + 로/JKB
+새롭/VA + ㄴ/ETM
+사업/NNG + 에/JKB
+뛰어들/VV + 고/EC
+있/VX + 음/ETN + 을/JKO
+알/VV + ㄹ/ETM
+수/NNB
+있/VV + 다/EF + ./SF
+자본금/NNG + 은/JX
+65/SN + %/SW + 가/JKS
+자금/NNG + 이/VCP + 나/EC
+임원/NNG
+및/MAG
+가족/NNG
+자금/NNG + 에서/JKB
+충당/NNG + 하/XSV + ㄴ다/EF + ./SF
+이/MM
+때문/NNB + 에/JKB
+실패/NNG + 하/XSV + 면/EC
+자본금/NNG + 을/JKO
+읽/VV + 지만/EC + ,/SP
+성공/NNG + 하/XSV + 면/EC
+수익/NNG + 성/XSN + 이/JKS
+매우/MAG
+높/VA + 고/EC
+급속/NNG
+성장/NNG + 하/XSV + 는/ETM
+것/NNB + 이/JKS
+뉴/NNG
+비즈니스/NNG + 의/JKG
+가장/MAG
+크/VA + ㄴ/ETM
+매력/NNG + 으로/JKB
+꼽히/VV + 고/EC
+있/VX + 다/EF + ./SF
+반짝이/VV + 는/ETM
+아이디어/NNG + 를/JKO
+머릿속/NNG + 에/JKB
+가두/NNG + 어/EC
+두/VX + ㄹ/ETM
+것/NNB + 이/JKC
+아니/VCN + 라/EC + ,/SP
+결단코/MAG
+실행/NNG + 하/XSV + 아/EC
+보/VX + ㄹ/ETM
+시기/NNG + 이/VCP + 다/EF + ./SF
+마키노/NNP + 의/JKG
+새/MM
+직장/NNG
+미쓰비시/NNP
+종합/NNG
+연구소/NNG + 의/JKG
+마키노/NNP
+회장/NNG + 은/JX
+한국/NNP
+경제/NNG + 계/XSN + 에서/JKB + 도/JX
+이름/NNG
+있/VV + 는/ETM
+기술인/NNG + ./SF
+그/NP + 가/JKS
+쓰/VV + ㄴ/ETM
+『/SS + 전/MM + 예측/NNG
+'/SS + 90/SN + 년대/NNB
+세계/NNG
+경제/NNG + 』/SS + 이/VCP + 라는/ETM
+책/NNG + 은/JX
+한국/NNP + 에서/JKB + 도/JX
+베스트/NNG
+셀러/NNG + 이/VCP + 었/EP + 고/EC
+쟁쟁/XR + 하/XSA + ㄴ/ETM
+한국/NNP
+경제/NNG + 계/XSN
+인사/NNG + 들/XSN + 이/JKS
+그/NP + 와/JKB
+만나/VV + 았/EP + 다는/ETM
+기록/NNG + 을/JKO
+남기/VV + 기/ETN
+위하/VV + 아/EC
+도쿄/NNP + (/SS + 동경/NNP + )/SS + 를/JKO
+들락거리/VV + ㄴ다/EF + ./SF
+그/NP + 는/JX
+'/SS + 92/SN + 년/NNB + 부터/JX
+현/MM
+직장/NNG + 을/JKO
+서서히/MAG
+정리/NNG + 하/XSV + ㄹ/ETM
+것/NNB + 이/VCP + 라고/EC
+하/VV + ㄴ다/EF + ./SF
+본인/NNG + 은/JX
+70/SN + 이/VCP + 라는/ETM
+나이/NNG
+때문/NNB + 이/VCP + 라지만/EC + ,/SP
+그/MM
+동안/NNG
+40/SN + 여/XSN
+권/NNB + 의/JKG
+저서/NNG + 를/JKO
+남기/VV + ㄴ/ETM
+정열/NNG + 에/JKB
+비하/VV + 면/EC
+빠르/VA + ㄴ/ETM
+은퇴/NNG + 이/VCP + ㄴ/ETM
+셈/NNB + 이/VCP + 다/EF + ./SF
+연구소/NNG + 측/NNB + 도/JX
+"/SS + 연구소/NNG + 가/JKS
+그/NP + 의/JKG
+이름/NNG + 에/JKB
+지/VV + 고/EC
+있/VX + 는/ETM
+빚/NNG + 만/JX + 도/JX
+엄청나/VA + 다/EC + "/SS + 고/JKQ
+아쉬워하/VV + 고/EC
+있/VX + 다/EF + ./SF
+그/NP + 는/JX
+이름/NNG + 만/JX + 의/JKG
+유명/NNG
+인사/NNG + 가/JKC
+아니/VCN + 라/EC
+실제/NNG
+많/VA + 은/ETM
+업적/NNG + 을/JKO
+남기/VV + 었/EP + 다는/ETM
+뜻/NNG + 이/VCP + 다/EF + ./SF
+그/NP + 가/JKS
+은퇴/NNG + 에/JKB
+앞서/VV + 어/EC
+내놓/VV + 은/ETM
+책/NNG + 은/JX
+『/SS + 제조업/NNG + 은/JX
+영원/NNG + 하/XSA + 다/EC + 』/SS + 와/JC
+『/SS + 전/MM + 예측/NNG
+'/SS + 90/SN + 년대/NNB
+첨단/NNG
+과학/NNG
+기술/NNG + 』/SS + 이/VCP + 다/EF + ./SF
+한국/NNP + 에서/JKB + 는/JX
+진부/XR + 하/XSA + 아/EC
+보이/VV + 는/ETM
+제목/NNG + 이/VCP + ㄹ런지/EC
+모르/VV + ㄴ다/EF + ./SF
+그러나/MAJ
+그/NP + 는/JX
+기술/NNG
+개발/NNG + 과/JC
+제조업/NNG + 의/JKG
+중요/NNG + 성/XSN + 을/JKO
+누누이/MAG
+강조/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+세계/NNG
+정세/NNG + 의/JKG
+변화/NNG + 에/JKB
+적응/NNG + 하/XSV + 려면/EC
+일본/NNP
+기업/NNG + 들/XSN + 이/JKS
+다시/MAG
+제조업/NNG + 에/JKB
+혼신/NNG + 을/JKO
+다/MAG + 하/VV + 아야/EC
+하/VX + ㄴ다는/ETM
+경고/NNG + 를/JKO
+담/VV + 고/EC
+있/VX + 다/EF + ./SF
+그/NP + 는/JX
+또/MAG
+새롭/VA + ㄴ/ETM
+일거리/NNG + 를/JKO
+구하/VV + 았/EP + 다는/ETM
+소식/NNG + 이/VCP + 다/EF + ./SF
+그룹/NNG
+내/NNB + 의/JKG
+첨단/NNG
+과학/NNG
+연구소/NNG + 가/JKS
+그/NP + 의/JKG
+새/MM
+직장/NNG + ,/SP
+자기/NP
+소신/NNG + 과/JC
+일치/NNG + 하/XSV + 는/ETM
+일감/NNG + 을/JKO
+마련/NNG + 하/XSV + ㄴ/ETM
+셈/NNB + 이/VCP + 다/EF + ./SF
+어쩌면/MAG
+냉전/NNG
+체제/NNG
+붕괴/NNG
+이후/NNG
+불/VV + 어/EC + 닥치/VV + ㄴ/ETM
+일본/NNP
+경제/NNG + 계/XSN + 의/JKG
+제조업/NNG
+붐/NNG + 과/JC
+기초/NNG
+과학/NNG
+연구소/NNG
+설립/NNG
+붐/NNG + 을/JKO
+반영/NNG + 하/XSV + ㄴ/ETM
+전직/NNG + 처럼/JKB
+보이/VV + ㄴ다/EF + ./SF
+2/SN + ./SF
+다방업/NNG
+35/SN + 년/NNB
+도쿄/NNP + (/SS + 동경/NNP + )/SS + 의/JKG
+번화가/NNG
+긴자/NNP + 를/JKO
+걷/VV + 다가/EC
+'/SS + 르누아르/NNP + '/SS + 이/VCP + 라는/ETM
+다방/NNG
+간판/NNG + 과/JKB
+마주치/VV + 지/EC
+않/VX + 을/ETM
+수/NNB
+없/VA + 다/EF + ./SF
+목/NNG
+좋/VA + 은/ETM
+곳/NNG
+11/SN + 군데/NNB + 에/JKB
+르누아르/NNP
+다방/NNG + 이/JKS
+들어서/VV + 어/EC
+있/VX + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+긴자/NNP + 를/JKO
+벗어나/VV + 아도/EC
+르누아르/NNP + 와/JKB
+마주치/VV + 기/ETN + 는/JX
+마찬가지/NNG + 이/VCP + 다/EF + ./SF
+신주쿠/NNP + ,/SP
+가/VV + ㄴ다/EC + ,/SP
+시부야/NNP + ,/SP
+다카다노바바/NNP
+등/NNB
+부도심/NNG + 권/XSN + 에/JKB + 도/JX
+르누아르/NNP
+다방/NNG + 은/JX
+들어서/VV + 어/EC
+있/VX + 다/EF + ./SF
+도쿄/NNP + (/SS + 동경/NNP + )/SS
+시내/NNG + 에/JKB + 만/JX
+148/SN + 개/NNB
+소/NNG + ./SF
+르누아르/NNP
+다방/NNG
+체인/NNG + 을/JKO
+운영/NNG + 하/XSV + 는/ETM
+사업체/NNG + 는/JX
+긴자/NNP
+르누아르/NNP
+사/NNG + ./SF
+1/SN + 년/NNB
+전/NNG
+세계/NNG
+금융/NNG
+시장/NNG + 의/JKG
+중심지/NNG
+도쿄/NNP + (/SS + 동경/NNP + )/SS
+증권/NNG
+거래소/NNG + 에/JKB
+상장/NNG + 되/XSV + ㄴ/ETM
+주식/NNG
+회사/NNG + 이/VCP + 며/EC + ,/SP
+연간/NNG
+매상/NNG + 은/JX
+54/SN + 억/NR
+6/SN + ,/SP + 000/SN + 만/NR
+엔/NNB + (/SS + 약/MM
+300/SN + 억/NR
+원/NNG
+수준/NNG + )/SS + 이/VCP + 다/EF + ./SF
+물론/MAG
+매출액/NNG + 의/JKG
+10/SN + %/SW + 가/JKS
+남/VV + 는/ETM
+흑자/NNG
+회사/NNG + 이/VCP + 다/EF + ./SF
+긴자/NNP
+르누아르/NNP + 의/JKG
+창업자/NNG + 는/JX
+현재/MAG
+69/SN + 세/NNB + 의/JKG
+고미야마/NNP + (/SS + 小官山正九郞/SH + )/SS + 씨/NNB + ,/SP
+그/NP + 는/JX
+선대/NNG + 에게/JKB
+제과점/NNG + 을/JKO
+물려받/VV + 아/EC
+다방업/NNG + 을/JKO
+시작/NNG + 하/XSV + ㄴ/ETM
+후/NNG
+35/SN + 년/NNB + 간/NNG
+'/SS + 한/MM
+우물/NNG + '/SS + 속/NNG + 에서/JKB
+돈/NNG + 을/JKO
+벌/VV + 었/EP + 다/EF + ./SF
+그리고/MAJ
+지금/NNG + 은/JX
+폭등/NNG + 하/XSV + 는/ETM
+임대료/NNG + 와/JC
+인건비/NNG
+때문/NNB + 에/JKB
+사양/NNG
+산업/NNG
+리스트/NNG + 의/JKG
+상위/NNG
+그룹/NNG + 에/JKB
+들/VV + 어/EC
+있/VX + 는/ETM
+다방업/NNG + 을/JKO
+최후/NNG + 까지/JX
+지키/VV + ㄹ/ETM
+사업가/NNG + 로/JKB
+평판/NNG + 을/JKO
+얻/VV + 고/EC
+있/VX + 다/EF + ./SF
+그/NP + 의/JKG
+경영/NNG
+비결/NNG + 은/JX
+해묵/VV + 은/ETM
+지혜/NNG + 와/JC
+현대/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+감각/NNG + 이/JKS
+혼합/NNG + 되/XSV + ㄴ/ETM
+모양/NNG + ,/SP
+예/NNG + 를/JKO
+들/VV + 어/EC
+그/NP + 는/JX
+다방/NNG + 의/JKG
+생명/NNG + 이/VCP + ㄴ/ETM
+좋/VA + 은/ETM
+길목/NNG + 을/JKO
+잡/VV + 는/ETM
+데/NNB
+가장/MAG
+공/NNG + 을/JKO
+들이/VV + 었/EP + 다고/EC
+하/VV + ㄴ다/EF + ./SF
+이/NP + 를/JKO
+위하/VV + 아/EC
+부동산/NNG
+임대/NNG
+정보/NNG
+수집/NNG + 에/JKB
+직접/MAG
+뛰어다니/VV + 며/EC + ,/SP
+일단/MAG
+적합/NNG + 하/XSA + ㄴ/ETM
+장소/NNG + 가/JKS
+나타나/VV + 면/EC
+다소/MAG
+비싸/VA + ㄴ/ETM
+가격/NNG + 에/JKB + 이/VCP + 라도/EC
+계약/NNG + 을/JKO
+체결/NNG + 하/XSV + ㄴ다/EF + ./SF
+그/NP + 가/JKS
+유독/MAG
+중시/NNG + 하/XSV + 는/ETM
+입지/NNG
+전략/NNG + 은/JX
+사람/NNG + 들/XSN + 의/JKG
+통행/NNG + 이/JKS
+빈번/XR + 하/XSA + ㄴ/ETM
+곳/NNG + 에/JKB
+5/SN + ～/SO + 6/SN + 개/NNB + 의/JKG
+르누아르/NNP
+다방/NNG + 을/JKO
+집중/NNG
+설치/NNG + 하/XSV + 는/ETM
+것/NNB + ,/SP
+그/NP + 가/JKS
+"/SS + 군대/NNG
+시절/NNG
+포병/NNG
+전술/NNG + 에서/JKB
+배우/VV + 었/EP + 다/EC + "/SS + 고/JKQ
+말/NNG + 하/XSV + 는/ETM
+'/SS + 핵심/NNG
+지역/NNG
+집중/NNG
+포격/NNG + '/SS
+전략/NNG + 은/JX
+고객/NNG + 들/XSN + 에게/JKB
+선전/NNG
+효과/NNG + 가/JKS
+크/VA + 고/EC + ,/SP
+특히/MAG
+다른/MM
+경쟁자/NNG + 의/JKG
+출현/NNG + 을/JKO
+막/VV + 는/ETM
+데/NNB
+위력/NNG + 을/JKO
+발휘/NNG + 하/XSV + ㄴ다는/ETM
+것/NNB + 이/JKS
+어느/MM
+경영학자/NNG + 의/JKG
+분석/NNG + 이/VCP + 다/EF + ./SF
+고미야마/NNP
+상술/NNG
+중/NNB
+또/MAG
+하나/NR
+중요/NNG + 하/XSA + ㄴ/ETM
+포인트/NNG + 는/JX
+샐러리맨/NNG + 과/JC
+주부/NNG + 층/XSN + 을/JKO
+겨냥/NNG + 하/XSV + 는/ETM
+고객/NNG
+관리/NNG + 이/VCP + 다/EF + ./SF
+"/SS + 학생/NNG + 층/XSN + 은/JX
+전혀/MAG
+의식/NNG + 하/XSV + 지/EC
+않/VX + 는다/EF + ./SF
+그/NP + 들/XSN + 의/JKG
+비위/NNG + 를/JKO
+맞추/VV + 기/ETN
+위하/VV + 아/EC
+재즈/NNG
+다방/NNG + 을/JKO
+만들/VV + 고/EC + ,/SP
+스파게티/NNG + 를/JKO
+서비스/NNG + 하/XSV + 는/ETM
+따위/NNB + 는/JX
+하/VV + 지/EC
+않/VX + 는다/EF + ./SF
+커피/NNG
+같/VA + 은/ETM
+음료/NNG + 만/JX + 으로/JKB
+승부/NNG + 하/XSV + ㄴ다/EC + "/SS + 는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+그렇/VA + 어서/EC + 이/VCP + ㄴ지/EC
+르누아르/NNP
+다방/NNG + 에/JKB + 는/JX
+어디/NP + 나/JX
+푹신/XR + 하/XSA + ㄴ/ETM
+소파/NNG + 가/JKS
+드문드문/MAG
+배치/NNG + 되/XSV + 어/EC
+있/VX + 어/EC
+한눈/NNG + 에/JKB
+널찍/XR + 하/XSA + ㄴ/ETM
+인상/NNG + 을/JKO
+주/VV + ㄴ다/EF + ./SF
+3/SN + ./SP + 3/SN + 평/NNB + 당/XSN
+소파/NNG
+1/SN + ./SP + 5/SN + 개/NNB + 꼴/XSN + 의/JKG
+면적/NNG + 에서/JKB
+월급/NNG + 쟁이/XSN + 들/XSN + 의/JKG
+낮잠/NNG + 을/JKO
+즐기/VV + 기/ETN + 도/JX
+하/VX + ㄴ다/EF + ./SF
+"/SS + 다방/NNG + 은/JX
+공간/NNG
+제공업/NNG + 이/VCP + 다/EF + ./SF
+고객/NNG + 이/JKS
+원하/VV + 는/ETM
+것/NNB + 은/JX
+커피/NNG + 이/VCP + 라기/ETN + 보다/JKB + 는/JX
+얘기/NNG + 하/XSV + 고/EC
+쉬/VV + ㄹ/ETM
+만/NNB + 하/XSA + ㄴ/ETM
+장소/NNG + 이/VCP + 다/EF + ./SF
+다방/NNG + 은/JX
+맹물/NNG + 을/JKO
+서비스/NNG + 하/XSV + 는/ETM
+일/NNG + 이/JKS
+있/VV + 더라도/EC
+넉넉/XR + 하/XSA + ㄴ/ETM
+공간/NNG + 을/JKO
+빌리/VV + 어/EC + 주/VX + 어야/EC
+하/VX + ㄴ다/EC + "/SS + 고/JKQ
+나름/NNB + 의/JKG
+전략/NNG + 을/JKO
+설명/NNG + 하/XSV + ㄴ다/EF + ./SF
+차/NNG
+한/MM
+잔/NNG
+시키/VV + 어/EC
+놓/VX + 고/EC
+소파/NNG + 에/JKB
+파묻히/VV + 어/EC
+졸/VV + 는/ETM
+손/NNG + 님/XSN + 이야말로/JX
+그/NP + 가/JKS
+가장/MAG
+환영/NNG + 하/XSV + 는/ETM
+고객/NNG + 이/VCP + ㄴ/ETM
+셈/NNB + 이/VCP + 다/EF + ./SF
+인건비/NNG
+절감/NNG + 도/JX
+그/NP + 의/JKG
+경영/NNG
+방침/NNG + 의/JKG
+첫머리/NNG + 에/JKB
+등장/NNG + 하/XSV + ㄴ다/EF + ./SF
+"/SS + 종업원/NNG + 을/JKO
+구하/VV + 기/ETN
+힘들/VA + 다/EC
+못하/VX + 아/EC
+없/VA + 다고/EC
+하/VV + 아야/EC
+옳/VA + 은/ETM
+실정/NNG + 이/VCP + ㅂ니다/EF + ./SF + "/SS
+이/MM
+때문/NNB + 에/JKB
+그/NP + 가/JKS
+채택/NNG + 하/XSV + ㄴ/ETM
+인사/NNG
+원칙/NNG + 은/JX
+모든/MM
+사원/NNG + 의/JKG
+간부/NNG + 화/XSN + ./SF
+정사원/NNG + 을/JKO
+1/SN + 점/NNB + 에/JKB
+1/SN + 명/NNB + 꼴/XSN + 로/JKB + 만/JX
+소수/NNG
+배치/NNG + 하/XSV + 고/EC + ,/SP
+이/NP + 들/XSN + 이/JKS
+시간/NNG + 제/XSN
+아르바이트/NNG
+종업원/NNG + 을/JKO
+통솔/NNG + 하/XSV + 아/EC
+가/VX + 며/EC
+대리점/NNG + 을/JKO
+운영/NNG + 하/XSV + 도록/EC
+하/VX + 고/EC
+있/VX + 다/EF + ./SF
+이/NP + 들/XSN + 은/JX
+비록/MAG
+차/NNG + 를/JKO
+나르/VV + 는/ETM
+종업원/NNG + 이/VCP + ㄹ지라도/EC
+점장/NNG + (/SS + 店長/SH + )/SS
+직위/NNG + 를/JKO
+제공/NNG + 하/XSV + 고/EC + ,/SP
+사원/NNG
+아파트/NNG + 에/JKB
+입주/NNG + 시키/XSV + 어/EC
+주/VX + ㄴ다/EF + ./SF
+이/NP + 와/JKB
+함께/MAG
+정사원/NNG + 에게/JKB
+매일/MAG
+매출/NNG
+상황/NNG + 을/JKO
+전화/NNG
+보고/NNG + 하/XSV + 도록/EC
+신뢰/NNG + 를/JKO
+부여/NNG + 하/XSV + 고/EC + ,/SP
+입금/NNG
+상황/NNG + 의/JKG
+전산/NNG + 화/XSN
+시스템/NNG + 을/JKO
+조기/NNG
+도입/NNG + ,/SP
+재무/NNG
+관리/NNG + 를/JKO
+간소/XR + 화/XSN + 하/XSV + 았/EP + 다/EF + ./SF
+여러/MM
+가지/NNB
+음료/NNG + 를/JKO
+취급/NNG + 하/XSV + 지/EC
+않/VX + 고/EC
+한정/NNG + 되/XSV + ㄴ/ETM
+품목/NNG + 만/JX + 을/JKO
+서비스/NNG + 하/XSV + 는/ETM
+것/NNB + 도/JX
+가격/NNG + 을/JKO
+낮추/VV + 기/ETN
+위하/VV + ㄴ/ETM
+작전/NNG + 이/VCP + 며/EC + ,/SP
+내부/NNG
+장식/NNG + 을/JKO
+'/SS + 깨끗/XR + 하/XSA + 게/EC + 만/JX + '/SS
+보이/VV + 도록/EC
+하/VX + 는/ETM
+원칙/NNG + 을/JKO
+고수/NNG + 하/XSV + 는/ETM
+것/NNB + 도/JX
+그/NP + 의/JKG
+특이/NNG + 하/XSA + ㄴ/ETM
+상술/NNG + 이/VCP + 다/EF + ./SF
+그러나/MAJ
+그/NP + 의/JKG
+회사/NNG + 에/JKB + 는/JX
+승용차/NNG + 란/JX
+1/SN + 대/NNB + 도/JX
+없/VA + 고/EC + ,/SP
+업무/NNG + 용/XSN
+왜건/NNG
+1/SN + 대/NNB + 만/JX
+운용/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+그/NP + 는/JX
+물론/MAG
+전철/NNG + 로/JKB
+출퇴근/NNG + 하/XSV + 며/EC
+두/MM
+아들/NNG + 을/JKO
+모두/MAG
+경영/NNG + 에/JKB
+참여/NNG + 시키/XSV + 고/EC
+있/VX + 다/EF + ./SF
+그러/VV + 어도/EC
+그/NP + 는/JX
+1/SN + 인/NNG + 당/XSN
+1/SN + 시간/NNB + 에/JKB
+800/SN + ～/SO + 1/SN + ,/SP
+200/SN + 엔/NNB
+하/VV + 는/ETM
+다방/NNG
+임대업/NNG + 을/JKO
+새/MM
+업종/NNG + 으로/JKB
+개발/NNG + 하/XSV + 는/ETM
+등/NNB
+경영/NNG
+다각/NNG + 화/XSN + 에/JKB
+의욕/NNG + 을/JKO
+보이/VV + 고/EC
+있/VX + 다/EF + ./SF
+3/SN + ./SF
+패스트/NNG
+푸드/NNG + 로/JKB
+승부/NNG
+일본/NNP + 의/JKG
+패션/NNG
+거리/NNG
+하라주쿠/NNP + ./SF
+이곳/NP
+네거리/NNG + 에/JKB
+트위너즈/NNP + 이/VCP + 라는/ETM
+점포/NNG + 가/JKS
+있/VV + 다/EF + ./SF
+연인/NNG + ,/SP + 과/JKB
+둘/NR + 이서/JKS
+만나/VV + 기/ETN
+안성맞춤/NNG + 이/VCP + ㄴ/ETM
+즉석/NNG
+패스트/NNG
+푸드점/NNG + 이/VCP + 다/EF + ./SF
+햄버거/NNG + ·/SP + 아이스크림/NNG + 을/JKO
+팔/VV + 는/ETM
+미국식/NNG
+점포/NNG
+분위기/NNG + 이/VCP + 지만/EC + ,/SP
+실은/MAG
+일본식/NNG
+간이/NNG
+음식/NNG
+규동/NNG + (/SS + 牛井/SH + )/SS + 을/JKO
+팔/VV + 는/ETM
+식당/NNG + ./SF
+45/SN + 평/NNB
+남짓/NNB + 하/XSA + ㄴ/ETM
+점포/NNG + 에/JKB
+오/VV + ㄴ/ETM
+젊/VA + 은/ETM
+여자/NNG + 들/XSN + 이/JKS
+가득/MAG
+차/VV + 았/EP + 다/EF + ./SF
+여대/NNG + 생/XSN + ,/SP
+직장/NNG
+여성/NNG + 들/XSN + 을/JKO
+노리/VV + ㄴ/ETM
+현대/NNG
+감각/NNG + 의/JKG
+체인/NNG
+점포/NNG + 이/VCP + ㅁ/ETN + 을/JKO
+곧/MAG
+느끼/VV + ㄹ/ETM
+수/NNB
+있/VV + 다/EF + ./SF
+요시노야/NNP
+D/SL + &/SW + C/SL + 는/JX
+세존/NNP
+그룹/NNG + 의/JKG
+계열/NNG
+회사/NNG + 이/VCP + 다/EF + ./SF
+세존/NNP
+그룹/NNG + 은/JX
+세계/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+부자/NNG
+대열/NNG + 에/JKB
+끼/VV + 고/EC
+있/VX + 는/ETM
+쓰쓰미/NNP
+가문/NNG + 이/JKS
+경영/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+현재/MAG
+규동/NNP
+점포/NNG + 는/JX
+일본/NNP
+내/NNB
+339/SN + 개/NNB + ,/SP
+외국/NNG + 에/JKB
+64/SN + 개/NNB + 이/VCP + 다/EF + ./SF
+일본/NNP
+내/NNB + 에서/JKB
+첫손가락/NNG + 에/JKB
+꼽히/VV + 는/ETM
+것/NNB + 은/JX
+물론/NNG + 이/VCP + 고/EC + ,/SP
+일본/NNP
+음식/NNG
+체인점/NNG + 을/JKO
+외국/NNG + 까지/JX
+확장/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 이/JKS
+범상/XR + 하/XSA + 지/EC
+않/VX + 다/EF + ./SF
+미국/NNP
+서해안/NNP + 에/JKB
+51/SN + 개/NNB + ,/SP
+대만/NNP + 에/JKB
+9/SN + 개/NNB + ,/SP
+중국/NNP
+본토/NNG + 에/JKB
+2/SN + 개/NNB
+등/NNB + ,/SP
+해외/NNG
+체인점/NNG + 을/JKO
+머지않/VA + 아/EC
+240/SN + 개/NNB
+이상/NNG + 으로/JKB
+늘리/VV + ㄴ다는/ETM
+전략/NNG + 이/VCP + 다/EF + ./SF
+쇠고기/NNG + 와/JC
+닭고기/NNG + ,/SP
+쌀/NNG + 로/JKB
+구성/NNG + 되/XSV + ㄴ/ETM
+규동/NNG + 은/JX
+쇠고기/NNG
+덮밥/NNG
+같/VA + 은/ETM
+음식/NNG + ,/SP
+서양/NNG
+식탁/NNG + 에서/JKB
+환영/NNG + 받/VV + 지/EC
+못하/VX + ㄹ/ETM
+규동/NNG + 을/JKO
+우동/NNG + 처럼/JKB
+국제/NNG
+식품/NNG + 으로/JKB
+만들/VV + 겠/EP + 다는/ETM
+것/NNB + 이/JKS
+요시노야/NNP
+D/SL + &/SW + C/SL + 의/JKG
+세계/NNG
+시장/NNG
+구상/NNG + ./SF
+규동/NNG + 이/VCP + 란/ETM
+이름/NNG + 도/JX
+이/NP + 에/JKB
+맞추/VV + 어/EC
+비프/NNG
+볼/NNG + ,/SP
+치킨/NNG
+볼/NNG + 로/JKB
+변경/NNG
+중/NNB + 이/VCP + 다/EF + ./SF
+"/SS + 성공/NNG
+가능/NNG + 성/XSN + 은/JX
+아카사카/NNP + 에서/JKB
+증명/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+비프/NNG
+볼/NNG + 과/JC
+치킨/NNG
+볼/NNG + 을/JKO
+찾/VV + 는/ETM
+외국인/NNG + ,/SP + 들/XSN + 이/JKS
+아카사카/NNP
+점포/NNG + 에/JKB
+줄/NNG + 을/JKO
+잇/VV + 고/EC
+있/VX + 다/EF + ./SF
+건강/NNG
+식품/NNG + 이/VCP + 라는/ETM
+인식/NNG + 이/JKS
+확산/NNG + 되/XSV + 는/ETM
+증거/NNG + 이/VCP + 다/EF + ./SF + "/SS
+요시노야/NNP
+D/SL + &/SW + C/SL + 의/JKG
+성공/NNG
+비결/NNG + 은/JX
+고급/NNG + 화/XSN + 에서/JKB
+찾/VV + 을/ETM
+수/NNB
+있/VV + 다/EF + ./SF
+지나/VV + ㄴ/ETM
+'/SS + 58/SN + 년/NNB
+창업/NNG + 하/XSV + ㄴ/ETM
+후/NNG
+한동안/NNG
+선풍/NNG + 적/XSN
+인기/NNG + 를/JKO
+끌/VV + 었/EP + 으나/EC + ,/SP
+이익금/NNG + 을/JKO
+확보/NNG + 하/XSV + 려고/EC
+값싸/VA + ㄴ/ETM
+쇠고기/NNG + 와/JC
+질/NNG
+낮/VA + 은/ETM
+쌀/NNG + 로/JKB
+음식/NNG
+재료/NNG + 를/JKO
+바꾸/VV + ㄴ/ETM
+것/NNB + 이/JKS
+도산/NNG
+직전/NNG
+상황/NNG + 을/JKO
+몰/VV + 고/EC
+오/VX + 았/EP + 다/EF + ./SF
+이때/NNG
+등장/NNG + 하/XSV + ㄴ/ETM
+구세주/NNG + 가/JKS
+세존/NNP
+그룹/NNG + ,/SP
+부실/NNG
+기업/NNG + 을/JKO
+인수/NNG + 하/XSV + ㄴ/ETM
+그룹/NNG + 측/NNB + 은/JX
+일단/MAG
+음식/NNG + 맛/NNG + 이/JKS
+나쁘/VA + ㄴ/ETM
+부실/NNG
+점포/NNG + 를/JKO
+정리/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이름/NNG + 뿐/JX + 이/VCP + ㄴ/ETM
+점포/NNG + 를/JKO
+정리/NNG + 하/XSV + 아야/EC
+이미지/NNG + 가/JKS
+개선/NNG + 되/XSV + ㄴ다는/ETM
+판단/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+다음/NNG + 은/JX
+음식/NNG
+재료/NNG + 의/JKG
+고급/NNG + 화/XSN + ,/SP
+질/NNG
+좋/VA + 은/ETM
+미국/NNP
+쇠고기/NNG + ,/SP
+기름/NNG + 기/XSN
+많/VA + 은/ETM
+일본/NNP
+쌀/NNG + 을/JKO
+새로/MAG
+구매/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+"/SS + 고객/NNG + 에게/JKB
+끼니/NNG + 를/JKO
+때우/VV + 어/EC
+주/VX + ㄴ다는/ETM
+궁색/NNG + 하/XSA + ㄴ/ETM
+인상/NNG + 보다/JKB + 는/JX
+영양/NNG + 을/JKO
+보충/NNG + 하/XSV + ㄴ다는/ETM
+느긋/XR + 하/XSA + ㄴ/ETM
+인식/NNG + 을/JKO
+심/VV + 어/EC
+주/VX + 었/EP + 다/EF + ./SF + "/SS
+아무리/MAG
+즉석/NNG
+식품/NNG + 이/VCP + 라고/EC
+하/VV + 아도/EC
+영양/NNG + 과/JC
+칼로리/NNG + 를/JKO
+따지/VV + 는/ETM
+현대인/NNG + 의/JKG
+별미/NNG
+심리/NNG + 에/JKB
+착안/NNG + 하/XSV + ㄴ/ETM
+셈/NNB + 이/VCP + 다/EF + ./SF
+다음/NNG + 은/JX
+국제/NNG + 화/XSN + ./SF
+점포/NNG
+간판/NNG + 을/JKO
+젊/VA + 은/ETM
+여성/NNG
+취향/NNG + 에/JKB
+맞/VV + 게/EC
+화려/XR + 하/XSA + 게/EC
+바꾸/VV + 었/EP + 다/EF + ./SF
+지나/VV + ㄴ/ETM
+'/SS + 88/SN + 년/NNB + 에/JKB + 는/JX
+던킨/NNP
+도넛/NNG
+회사/NNG + 를/JKO
+인수/NNG + ,/SP
+도넛/NNG + 과/JC
+규동/NNG + 의/JKG
+이미지/NNG + 를/JKO
+혼합/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+"/SS + 미국/NNP
+식품/NNG + 과/JC
+일본/NNP
+음식/NNG + 의/JKG
+결함/NNG + 을/JKO
+통하/VV + 아/EC
+규동/NNG + 을/JKO
+국제/NNG
+상품/NNG + 으로/JKB
+등장/NNG + 시키/XSV + 려는/ETM
+전략/NNG + 이/VCP + 었/EP + 다/EF + ./SF + "/SS
+예상/NNG + 대로/JX
+던킨/NNP
+인수/NNG
+후/NNG
+국내/NNG
+시장/NNG + 은/JX
+더욱/MAG
+확장/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+외국/NNG + 에서/JKB
+인정받/VV + 는/ETM
+식품/NNG + 이/VCP + 라는/ETM
+인식/NNG + 이/JKS
+심/VV + 어/EC + 지/VX + ㄴ/ETM
+것/NNB + ./SF
+국내/NNG
+시장/NNG
+안정/NNG + 은/JX
+해외/NNG
+진출/NNG + 의/JKG
+튼튼/XR + 하/XSA + ㄴ/ETM
+기반/NNG + 이/JKC
+되/VV + 었/EP + 다/EF + ./SF
+젊/VA + 은/ETM
+종업원/NNG + 을/JKO
+붙잡/VV + 기/ETN
+위하/VV + 아/EC
+학생/NNG
+사원/NNG
+제도/NNG + 를/JKO
+도입/NNG + 하/XSV + 고/EC + ,/SP
+장기/NNG
+근무/NNG
+사원/NNG + 에게/JKB
+프랜차이즈/NNG
+점포/NNG
+개설/NNG + 권/XSN + 을/JKO
+선물/NNG + 하/XSV + 는/ETM
+인재/NNG
+활용법/NNG + 도/JX
+요시노야/NNP
+D/SL + &/SW + C/SL + 의/JKG
+특징/NNG + 이/VCP + 다/EF + ./SF
+4/SN + ./SF + 멜론/NNG + ·/SP + 연어/NNG + 를/JKO
+부엌/NNG + 까지/JX
+"/SS + 우리/NP + 는/JX
+마진/NNG + 을/JKO
+먹/VV + 지/EC
+않/VX + 습니다/EF + ./SF + "/SS
+지방/NNG
+특산물/NNG + 을/JKO
+산지/NNG + 에서/JKB
+부엌/NNG + 까지/JX
+배달/NNG + 하/XSV + 아/EC
+주/VX + 는/ETM
+회사/NNG + 의/JKG
+선전/NNG
+문구/NNG + 이/VCP + 다/EF + ./SF
+특급/NNG
+송달/NNG
+회사/NNG + 이/VCP + 라면/EC
+문서/NNG + 를/JKO
+주로/MAG
+운반/NNG + 하/XSV + 아/EC
+주/VX + 는/ETM
+것/NNB + 으로/JKB
+알리/VV + 어/EC + 지/VX + 어/EC
+있/VX + 지만/EC + ,/SP
+일본/NNP + 에서/JKB + 는/JX
+각종/NNG
+선물/NNG + 과/JC
+소포물/NNG + 을/JKO
+배달/NNG + 하/XSV + 아/EC
+주/VX + 는/ETM
+것/NNB + 이/JKS
+사업/NNG + 으로/JKB
+정착/NNG + 하/XSV + 아/EC
+있/VX + 다/EF + ./SF
+다쿠하이빙/NNP + (/SS + 宅配便/SH + )/SS + ,/SP
+닥규빙/NNP + (/SS + 宅急便/SH + )/SS + 이/VCP + 라는/ETM
+이름/NNG + 으로/JKB
+영업/NNG + 하/XSV + 고/EC
+있/VX + 는/ETM
+회사/NNG + 는/JX
+일본/NNP + 에서/JKB
+수백/NR
+개/NNB + 에/JKB
+이르/VV + ㄴ다/EF + ./SF
+풋워크/NNP
+사/NNG + 도/JX
+그/MM
+중/NNB
+하나/NR + ./SF
+하지만/MAJ
+풋워크/NNP
+사/NNG + 가/JKS
+유명/NNG + 하/XSA + 아/EC + 지/VX + ㄴ/ETM
+것/NNB + 은/JX
+멜론/NNG + 과/JC
+연어/NNG
+덕분/NNG + 이/VCP + 다/EF + ./SF
+이/MM
+회사/NNG + 는/JX
+10/SN + 년/NNB
+전/NNG
+파격/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+서비스/NNG + 를/JKO
+선언/NNG + 하/XSV + 았었/EP + 다/EF + ./SF
+훗카이도/NNP
+명물/NNG
+유바리/NNG + (/SS + 夕張/SH + )/SS
+멜론/NNG + 과/JC
+얼간/NNG
+연어/NNG + 를/JKO
+가정/NNG + 에/JKB
+배달/NNG + 하/XSV + 아/EC
+주/VV + 겠/EP + 다는/ETM
+아이디어/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+마진/NNG + 은/JX
+받/VV + 지/EC
+않/VX + 고/EC
+통상/NNG
+운송/NNG
+수수료/NNG + 만/JX + 을/JKO
+챙기/VV + 는/ETM
+배달/NNG
+업무/NNG + 를/JKO
+시작/NNG + 하/XSV + 았/EP + 던/ETM
+셈/NNB + ./SF
+"/SS + 산지/NNG + 에서/JKB
+부엌/NNG + 까지/JX + ,/SP
+신선/XR + 하/XSA + ㅁ/ETN + 이/JKS
+그대로/MAG + ,/SP
+마진/NNG + 을/JKO
+포기/NNG + 하/XSV + ㅂ니다/EF + ./SF + "/SS
+이것/NP + 이/JKS
+풋워크/NNP + 의/JKG
+선전/NNG
+전략/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+창업자/NNG
+오바시/NNP + (/SS + 大橋渡/SH + )/SS
+사장/NNG + 은/JX
+그러나/MAJ
+처음/NNG + 에/JKB + 는/JX
+겁/NNG + 이/JKS
+나/VV + 았/EP + 다/EF + ./SF
+산지/NNG + 를/JKO
+출발/NNG + 하/XSV + ㄴ/ETM
+과일/NNG + 과/JC
+생선/NNG + 이/JKS
+사흘/NNG
+내/NNB
+식탁/NNG + 에/JKB
+오르/VV + 지/EC
+않/VX + 으면/EC
+싱싱/XR + 하/XSA + ㄴ/ETM
+연어/NNG + 와/JC
+멜론/NNG + 을/JKO
+먹/VV + 을/ETM
+수/NNB
+없/VA + 게/EC
+되/VV + 는/ETM
+것/NNB + 이/JKS
+최대/NNG + 의/JKG
+고민/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+3/SN + 년/NNB + 간/NNG
+트럭/NNG
+운전사/NNG + 로/JKB
+일/NNG + 하/XSV + 았/EP + 던/ETM
+그/NP + 는/JX
+훗카이도/NNP + 에서/JKB
+도쿄/NNP + (/SS + 동경/NNP + )/SS + 와/JC
+오사카/NNP + 까지/JX
+트럭/NNG
+운송/NNG + 만/JX + 을/JKO
+생각/NNG + 하/XSV + 았었/EP + 던/ETM
+것/NNB + ./SF
+궁리/NNG
+끝/NNG + 에/JKB
+착안/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 이/JKS
+비행기/NNG
+운송/NNG + ./SF
+비행기/NNG
+도착/NNG
+시간/NNG + 에/JKB
+트럭/NNG + 을/JKO
+공항/NNG + 에/JKB
+보내/VV + 고/EC
+곧바로/MAG
+주문/NNG + 받/VV + 은/ETM
+고객/NNG + 에게/JKB
+나르/VV + 아다/EC
+주/VX + 는/ETM
+시스템/NNG + 을/JKO
+만들/VV + 었/EP + 다/EF + ./SF
+첫해/NNG
+운송/NNG
+목표/NNG + 는/JX
+멜론/NNG
+1/SN + 만/NR
+상자/NNG + ./SF
+그러나/MAJ
+그/MM
+해/NNG
+명절/NNG
+때/NNG
+싱싱/XR + 하/XSA + ㄴ/ETM
+훗카이도/NNP
+멜론/NNG + 이/JKS
+엄청나/VA + ㄴ/ETM
+인기/NNG + 를/JKO
+끌/VV + 어/EC
+3/SN + 만/NR
+2/SN + ,/SP + 000/SN + 상자/NNG + 를/JKO
+운송/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+지금/NNG + 은/JX
+연간/NNG
+25/SN + 만/NR
+상자/NNG
+이상/NNG + 을/JKO
+산지/NNG + 에서/JKB
+소비지/NNG + 까지/JX
+옮기/VV + 어/EC + 주/VX + 고/EC
+있/VX + 다/EF + ./SF
+곧이어/MAG
+착안/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 은/JX
+연어/NNG + ./SF
+생선/NNG
+좋아하/VV + 는/ETM
+일본인/NNG + 들/XSN + 은/JX
+이제/MAG
+오바시/NNP
+사장/NNG + 의/JKG
+상술/NNG
+덕분/NNG + 에/JKB
+연간/NNG
+55/SN + 만/NR
+마리/NNB + 를/JKO
+집/NNG + 에/JKB
+앉/VV + 아서/EC
+즐기/VV + 고/EC
+있/VX + 다/EF + ./SF
+오바시/NNP
+사장/NNG + 이/JKS
+풋워크/NNP
+사/NNG + 를/JKO
+만들/VV + 게/EC
+되/VV + ㄴ/ETM
+것/NNB + 은/JX
+트럭/NNG
+운전사/NNG + 이/VCP + 라는/ETM
+직업/NNG + 의/JKG
+비애/NNG + 에서/JKB
+출발/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+아버지/NNG + 가/JKS
+경영/NNG + 하/XSV + 는/ETM
+영세/NNG
+운수/NNG
+회사/NNG + 에서/JKB
+트럭/NNG
+운전/NNG + 과/JC
+화물/NNG
+짐/NNG + 꾼/XSN + 을/JKO
+하/VV + 다가/EC + ,/SP
+"/SS + 이렇/VA + 게/EC
+살/VV + ㄹ/ETM
+수/NNB + 는/JX
+없/VA + 다/EC + "/SS + 고/JKQ
+다짐/NNG + 하/XSV + ㄴ/ETM
+후/NNG + ,/SP
+새/MM
+사업/NNG + 을/JKO
+구상/NNG + 하/XSV + ㄴ/ETM
+것/NNB + ,/SP
+주변/NNG + 의/JKG
+영세/NNG
+운수/NNG
+회사/NNG
+7/SN + 개/NNB + 사/NNG + 를/JKO
+규합/NNG + ,/SP
+풋워크/NNP
+사/NNG + 를/JKO
+설립/NNG + 하/XSV + ㄴ/ETM
+시기/NNG + 는/JX
+지나/VV + ㄴ/ETM
+'/SS + 81/SN + 년/NNB + ./SF
+자본금/NNG
+3/SN + ,/SP + 500/SN + 만/NR
+엔/NNB
+중/NNB
+3/SN + ,/SP + 000/SN + 만/NR
+엔/NNB + 을/JKO
+몽땅/MAG
+회사/NNG
+심벌/NNG
+마크/NNG + 를/JKO
+도안/NNG + 하/XSV + 는/ETM
+데/NNB
+지출/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+영국/NNP + 산/XSN
+사냥개/NNG + 를/JKO
+밝/VA + 고/EC
+화려/XR + 하/XSA + ㄴ/ETM
+색깔/NNG + 로/JKB
+도안/NNG + ,/SP
+어둡/VA + ㄴ/ETM
+운수업/NNG + 의/JKG
+이미지/NNG + 를/JKO
+씻/VV + 었/EP + 던/ETM
+것/NNB + 이/JKS
+적중/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+요즘/NNG + 은/JX
+오스트레일리아/NNP
+산/XSN
+쇠고기/NNG + 를/JKO
+일본/NNP + 에/JKB
+운송/NNG + 하/XSV + 는/ETM
+사업/NNG + 에/JKB + 까지/JX
+영역/NNG + 을/JKO
+넓히/VV + 었/EP + 다/EF + ./SF
+또/MAG
+특급/NNG
+송달/NNG
+회사/NNG
+중/NNB
+31/SN + 번/NNB + 째/XSN + 로/JKB
+창업/NNG + ,/SP
+10/SN + 년/NNB
+만/NR + 에/JKB
+3/SN + 위/NNB
+회사/NNG + 로/JKB
+뛰어오르/VV + 았/EP + 다/EF + ./SF
+세계/NNG + 적/XSN
+자동차/NNG
+메이커/NNG
+혼다/NNP
+자동차/NNG + 가/JKS
+주차장/NNG
+업종/NNG + 에/JKB
+진출/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+혼다/NNP + 가/JKS
+이시하라/NNP + (/SS + 石川島播磨/SH + )/SS
+중공업/NNG + 과/JKB
+합작/NNG + 으로/JKB
+혼다/NNP
+파킹/NNG
+사/NNG + 를/JKO
+설립/NNG + 하/XSV + ㄴ/ETM
+것/NNB + ./SF
+혼다/NNP
+파킹/NNP + 에서/JKB + 는/JX
+자동차/NNG
+딜러/NNG + 들/XSN + 에게/JKB
+입체/NNG
+주차장/NNG + 과/JC
+2/SN + 단/NNB
+주차장/NNG
+등/NNB
+주차장/NNG
+설비/NNG + 를/JKO
+판매/NNG + 하/XSV + 는/ETM
+외/NNB + 에/JKB
+개인/NNG
+고객/NNG + 들/XSN + 에게/JKB + 도/JX
+주차장/NNG
+설비/NNG + 를/JKO
+세일즈/NNG
+중/NNB + 이/VCP + 다/EF + ./SF
+혼다/NNP + 의/JKG
+이/NP
+같/VA + 은/ETM
+주차장/NNG
+판매/NNG
+전략/NNG + 은/JX
+승용차/NNG
+판매/NNG
+전략/NNG + 에서/JKB
+출발/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+주차장/NNG
+부족/NNG
+현상/NNG + 이/JKS
+드디어/MAG
+영업/NNG
+전선/NNG + 에서/JKB
+판매/NNG
+부진/NNG + 으로/JKB
+나타나/VV + 자/EC + ,/SP
+이/NP + 를/JKO
+타개/NNG + 하/XSV + 기/ETN
+위하/VV + 아/EC
+자동차/NNG + 와/JC
+주차장/NNG + 을/JKO
+끼우/VV + 어서/EC
+팔/VV + ㄴ다는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+특히/MAG
+경승용차/NNG + 에/JKB
+대하/VV + 아서/EC + 도/JX
+주차장/NNG + 이/JKS
+의무/NNG + 화/XSN + 되/XSV + 었/EP + 고/EC
+불법/NNG
+주차/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+벌금/NNG + 이/JKS
+급격히/MAG
+상승/NNG + 하/XSV + 고/EC
+있/VX + 어/EC
+주차장/NNG
+회사/NNG + 가/JKS
+유망/NNG
+업종/NNG + 으로/JKB
+등장/NNG + 하/XSV + ㄹ/ETM
+것/NNB + 이/VCP + 라는/ETM
+예측/NNG + 이/VCP + 다/EF + ./SF
+이/NP + 에/JKB
+따르/VV + 아/EC
+도쿄/NNP + (/SS + 동경/NNP + )/SS
+부근/NNG
+도시/NNG + 를/JKO
+대상/NNG + 으로/JKB
+주차장/NNG
+세일즈/NNG + 를/JKO
+전개/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+자동차/NNG
+판매/NNG
+부진/NNG + 을/JKO
+주차장/NNG
+끼우/VV + 어/EC
+팔/VV + 기/ETN + 로/JKB
+돌파/NNG + 하/XSV + 려는/ETM
+판매/NNG
+전략/NNG + 이/VCP + 다/EF + ./SF
+'/SS + 팔/VV + 면/EC
+끝나/VV + ㄴ다/EC + '/SS + 는/JX
+한국/NNP
+승용차/NNG
+회사/NNG + 들/XSN + 과/JKB
+전혀/MAG
+딴판/NNG + 이/VCP + 다/EF + ./SF
+주차장/NNG + 이/JKS
+마련/NNG + 되/XSV + 어/EC
+있/VX + 지/EC
+않/VX + 으면/EC
+승용차/NNG + 를/JKO
+팔/VV + 지/EC
+않/VX + 는/ETM
+나라/NNG + 이/VCP + 지만/EC + ,/SP
+세계/NNG
+자동차/NNG
+왕국/NNG + 으로/JKB
+떠오르/VV + 았/EP + 다/EF + ./SF
+더/MAG
+늦/VA + 기/ETN
+전/NNG + 에/JKB
+한국/NNP + 도/JX
+승용차/NNG
+판매/NNG
+때/NNG
+주차장/NNG + 을/JKO
+의무/NNG + 화/XSN + 시키/XSV + 어야/EC
+하/VX + ㄴ다/EF + ./SF
+5/SN + ./SF
+책방/NNG + 을/JKO
+교외/NNG + 에/JKB
+차리/VV + 어라/EC
+"/SS + 3/SN + 개월/NNB + 만/JX
+지나/VV + 면/EC
+고물/NNG
+상품/NNG + 이/VCP + 다/EF + ./SF + "/SS
+이것/NP + 은/JX
+첨단/NNG
+전자/NNG
+상품/NNG + 을/JKO
+팔/VV + 는/ETM
+곳/NNG + 에서/JKB
+나오/VV + ㄴ/ETM
+말/NNG + 이/JKC
+아니/VCN + 라/EC + ,/SP
+일본/NNP + 의/JKG
+유명/NNG
+책방/NNG + 에서/JKB
+만들/VV + ㄴ/ETM
+말/NNG + 이/VCP + 다/EF + ./SF
+진열대/NNG + 에/JKB
+3/SN + 개월/NNB
+이상/NNG
+똑같/VA + 은/ETM
+책/NNG + 을/JKO
+진열/NNG + 하/XSV + 지/EC
+않/VX + 는다는/ETM
+상품/NNG
+전략/NNG + 이/VCP + 다/EF + ./SF
+오사카/NNP + 에/JKB + 는/JX
+유명/NNG + 하/XSA + ㄴ/ETM
+'/SS + 북/NNG
+마트/NNG
+시스템/NNG
+엔지니어링/NNG + '/SS + 이/VCP + 라는/ETM
+회사/NNG + 가/JKS
+있/VV + 었/EP + 다/EF + ./SF
+책방/NNG + 치고/JX + 는/JX
+거창/XR + 하/XSA + 아/EC
+보이/VV + 는/ETM
+이름/NNG + 이/VCP + 다/EF + ./SF
+회사/NNG + 는/JX
+이미/MAG
+해체/NNG + 되/XSV + 었/EP + 지만/EC + ,/SP
+6/SN + 개/NNB + 의/JKG
+직영/NNG
+책방/NNG + 과/JC
+64/SN + 개/NNB + 의/JKG
+프랜차이즈/NNG
+점포/NNG + (/SS + 이름/NNG + 을/JKO
+빌리/VV + 어/EC + 주/VX + 는/ETM
+대리점/NNG + )/SS + 는/JX
+그대로/MAG
+남/VV + 아/EC
+있/VX + 다/EF + ./SF
+이/MM
+회사/NNG + 는/JX
+기존/NNG
+회사/NNG + 와/JKB + 는/JX
+전혀/MAG
+다른/MM
+영업/NNG
+전략/NNG + 으로/JKB
+성공/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+우선/MAG
+점포/NNG + 는/JX
+도심/NNG
+한/XPN + 복판/NNG + 에/JKB
+두/VV + 지/EC
+않/VX + 는다/EF + ./SF
+지하철/NNG
+역/NNG
+앞/NNG + 이나/JC + ,/SP
+학생/NNG
+거리/NNG + 를/JKO
+피하/VV + 아/EC
+교외/NNG + 로/JKB
+나가/VV + 았/EP + 다/EF + ./SF
+중심지/NNG + 는/JX
+임대료/NNG + 도/JX
+비싸/VA + 려니와/EC
+기존/NNG
+서점/NNG + 과/JC
+점포/NNG
+개설/NNG + 을/JKO
+둘러싸/VV + ㄴ/ETM
+마찰/NNG + 이/JKS
+적/VA + 지/EC
+않/VX + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+같/VA + 은/ETM
+자금/NNG + 으로/JKB
+교외/NNG + 에서/JKB
+50/SN + 평/NNB + ,/SP
+70/SN + 평/NNB + ,/SP
+100/SN + 평/NNB + 짜리/XSN
+서점/NNG + 을/JKO
+열/VV + 는/ETM
+식/NNB + 이/VCP + 다/EF + ./SF
+이/NP
+같/VA + 은/ETM
+교외/NNG + 형/XSN
+서점/NNG + 의/JKG
+창시자/NNG
+사이토/NNP + (/SS + 齋藤忠司/SH + )/SS
+씨/NNB + 는/JX
+작년/NNG + 에/JKB
+교통/NNG
+사고/NNG + 로/JKB
+사망/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+그러나/MAJ
+그/NP + 가/JKS
+남기/VV + 어/EC
+놓/VX + 은/ETM
+교외/NNG
+서점/NNG
+경영/NNG
+전략/NNG + 은/JX
+그대로/MAG
+살/VV + 아/EC + 있/VX + 다/EF + ./SF
+사이토/NNP
+씨/NNB + 의/JKG
+5/SN + 대/XSN
+서점/NNG
+경영/NNG
+원칙/NNG + 은/JX
+다음/NNG + 과/JKB
+같/VA + 다/EF + ./SF
+첫째/NR + ,/SP
+고객/NNG + 층/XSN + 은/JX
+20/SN + 대/NNB + 와/JC
+30/SN + 대/NNB + 로/JKB
+한정/NNG + 하/XSV + ㄴ다/EF + ./SF
+누구/NP + 이/VCP + 라도/EC
+만족/NNG + 시키/XSV + ㄹ/ETM
+백화점식/NNG
+책방/NNG + 은/JX
+곤란/NNG + 하/XSA + 다는/ETM
+것/NNB + ./SF
+둘째/NR + ,/SP
+점포/NNG + 는/JX
+쾌적/XR
+공간/NNG + 으로/JKB
+만들/VV + ㄴ다/EF + ./SF
+자동차/NNG + 로/JKB
+교외/NNG + 를/JKO
+30/SN + 분/NNB
+달리/VV + 는/ETM
+곳/NNG + 에/JKB
+서점/NNG + 을/JKO
+개설/NNG + 하/XSV + 되/EC + ,/SP
+의자/NNG + 를/JKO
+놓/VV + 아/EC
+주/VX + 고/EC
+장식/NNG + 을/JKO
+원색/NNG + 으로/JKB
+하/VV + 아야/EC
+하/VX + 며/EC
+대형/NNG
+비디오/NNG
+화면/NNG + 까지/JX
+설치/NNG + ,/SP
+밝/VA + 고/EC
+호화/NNG + 롭/XSA + 게/EC
+꾸미/VV + 라는/ETM
+것/NNB + ./SF
+셋째/NR + 는/JX
+1/SN + 시간/NNG
+동안/NNG
+레저/NNG + 로/JKB
+즐기/VV + ㄹ/ETM
+책/NNG + 을/JKO
+준비/NNG + 하/XSV + 라는/ETM
+점/NNB + 이/VCP + 다/EF + ./SF
+젊/VA + 은/ETM
+학생/NNG + 들/XSN
+취향/NNG + 에/JKB
+맞/VV + 게/EC
+만화/NNG
+·/SP
+문고판/NNG
+·/SP
+잡지/NNG + 만/JX + 을/JKO
+진열대/NNG + 에/JKB
+꽂/VV + 으라고/EC
+사이토/NNP
+사장/NNG + 은/JX
+역설/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+전문/NNG
+서적/NNG + 과/JC
+비싸/VA + ㄴ/ETM
+책/NNG + 은/JX
+단/MM
+한/MM
+권/NNB + 도/JX
+팔/VV + 지/EC
+말/VX + 라는/ETM
+것/NNB + ./SF
+가격/NNG + 은/JX
+1/SN + ,/SP + 000/SN + 엔/NNB + 이하/NNG + 의/JKG
+책/NNG + 들/XSN + 을/JKO
+중심/NNG + 으로/JKB
+패션/NNG
+·/SP
+여행/NNG
+·/SP
+추리/NNG
+소설/NNG
+등/NNB + 을/JKO
+위주/NNG + 로/JKB
+영업/NNG + 하/XSV + 라는/ETM
+권고/NNG + 이/VCP + 다/EF + ./SF
+넷째/NR + ,/SP
+점포/NNG + 는/JX
+3/SN + 개월/NNB
+만/NNB + 에/JKB
+재/XPN + 정리/NNG
+하/VV + 라는/ETM
+원칙/NNG + 이/VCP + 다/EF + ./SF
+젊/VA + 은/ETM
+학생/NNG + 들/XSN + 에게/JKB + 는/JX
+똑같/VA + 은/ETM
+책/NNG + 이/JKS
+똑같/VA + 은/ETM
+장소/NNG + 에/JKB
+남/VV + 아/EC
+있/VX + 으면/EC + ,/SP
+답답/XR + 하/XSA + 다는/ETM
+인상/NNG + 을/JKO
+주/VV + ㄴ다는/ETM
+분석/NNG + 이/VCP + 다/EF + ./SF
+따라서/MAJ
+석/MM
+달/NNG + 만/JX
+지나/VV + 면/EC
+무조건/MAG
+진열/NNG
+서적/NNG + 을/JKO
+회전/NNG + 시키/XSV + 는/ETM
+것/NNB + 이/JKS
+중요/NNG + 하/XSA + 다는/ETM
+것/NNB + ./SF
+마지막/NNG
+원칙/NNG + 은/JX
+'/SS + 죽/VV + 은/ETM
+상품/NNG + '/SS + 은/JX
+신속/NNG
+철거/NNG + 하/XSV + 라는/ETM
+것/NNB + ./SF
+아무리/MAG
+인기/NNG
+있/VV + 는/ETM
+책/NNG + 도/JX
+한철/NNG + 이/JKS
+지나/VV + 면/EC
+취급/NNG + 하/XSV + 아서/EC + 는/JX
+안/MAG
+되/VV + ㄴ다/EF + ./SF
+1/SN + 년/NNB
+되/VV + 도록/EC
+베스트/NNG
+셀러/NNG + 에/JKB
+미련/NNG + 을/JKO
+갖/VV + 게/EC
+되/VV + 면/EC + ,/SP
+고객/NNG + 들/XSN + 은/JX
+이미/MAG
+책방/NNG
+문/NNG + 을/JKO
+열/VV + 고/EC
+들어서/VV + 지/EC
+않/VX + 는다는/ETM
+주장/NNG + 이/VCP + 다/EF + ./SF
+이런/MM
+파격/NNG
+전략/NNG + 은/JX
+그대로/MAG
+먹히/VV + 어/EC
+들/VX + 어/EC
+사이토/NNP
+사장/NNG + 이/JKS
+첫/MM
+점포/NNG + 를/JKO
+열/VV + ㄴ/ETM
+지/NNB
+7/SN + 년/NNB
+만/NNB + 에/JKB
+전국/NNG + 의/JKG
+교외/NNG
+점포/NNG + 는/JX
+70/SN + 개/NNB + 를/JKO
+헤아리/VV + 게/EC
+되/VV + 었/EP + 다/EF + ./SF
+그/NP + 가/JKS
+32/SN + 세/NNB + 의/JKG
+젊/VA + 은/ETM
+나이/NNG + 에/JKB
+모험/NNG + 하/XSV + ㄴ/ETM
+교외/NNG
+서점/NNG + 에서/JKB + 는/JX
+이제/MAG
+가볍/VA + ㄴ/ETM
+책/NNG + 뿐/JX + 만/JX
+아니/VCN + 라/EC + ,/SP
+비디오/NNG
+카세트/NNG + ,/SP
+콤팩트/NNG
+디스크/NNG + ,/SP
+컴퓨터/NNG
+소프트웨어/NNG + 까지/JX
+학생/NNG + 들/XSN + 의/JKG
+애호/NNG
+상품/NNG + 을/JKO
+늘리/VV + 어/EC
+취급/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+영업/NNG
+시간/NNG + 은/JX
+밤/NNG
+1/SN + 시/NNB + 까지/JX + ./SF
+독서실/NNG + 에서/JKB
+집/NNG + 으로/JKB
+돌아가/VV + 다가/EC
+잠시/MAG
+머리/NNG + 를/JKO
+식히/VV + 려는/ETM
+고객/NNG + 을/JKO
+배려/NNG + 하/XSV + ㄴ/ETM
+영업/NNG
+시간/NNG + 이/VCP + 다/EF + ./SF
+6/SN + ./SF
+레코드/NNG
+대여점/NNG + 으로/JKB
+시작/NNG
+"/SS + 뉴/NNG
+비즈니스/NNG + 의/JKG
+최고/NNG
+자산/NNG + 은/JX
+정열/NNG + 뿐/JX + ./SF + "/SS
+일본/NNP
+청년/NNG
+창업자/NNG + 들/XSN
+사이/NNG + 에/JKB
+영웅/NNG + 이/VCP + ㄴ/ETM
+우시쿠보/NNP + (/SS + 牛久保洋次/SH + )/SS
+사장/NNG + 의/JKG
+말/NNG + 이/VCP + 다/EF + ./SF
+그/NP + 는/JX
+레코드/NNG
+임대점/NNG
+개점/NNG
+10/SN + 년/NNB
+만/NNB + 에/JKB
+일본/NNP + 을/JKO
+제패/NNG + 하/XSV + ㄴ/ETM
+47/SN + 세/NNB + 의/JKG
+사업가/NNG + 이/VCP + 다/EF + ./SF
+회사/NNG
+이름/NNG + 은/JX
+'/SS + 우정/NNG + 과/JC
+사랑/NNG + (/SS + 友/SH + 愛/SH + )/SS + ./SF + '/SS
+일본어/NNP
+발음/NNG + 은/JX
+'/SS + 유/NNG
+앤드/NNG
+아이/NNG + '/SS + 이/VCP + 라는/ETM
+회사명/NNG + 이/VCP + 다/EF + ./SF
+인생/NNG + 이란/JX
+친구/NNG + 와/JC
+사랑/NNG + 이/JKS
+전부/NNG + 이/VCP + 라는/ETM
+철학/NNG + 에/JKB
+따르/VV + 아/EC
+결정/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 이/VCP + 라고/EC
+하/VV + ㄴ다/EF + ./SF
+그/NP + 는/JX
+대학/NNG + 을/JKO
+졸업/NNG + 하/XSV + ㄴ/ETM
+후/NNG
+처음/NNG + 에/JKB
+닛산/NNP
+자동차/NNG
+판매원/NNG
+생활/NNG
+1/SN + 년/NNB + ,/SP
+다음/NNG + 은/JX
+화장품/NNG
+외판원/NNG + 을/JKO
+전전/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+"/SS + 화장품/NNG + 이/VCP + 라는/ETM
+상품/NNG + 에/JKB
+일생/NNG + 을/JKO
+맡기/VV + ㄹ/ETM
+수/NNB + 는/JX
+없/VA + 다/EC + "/SS + 는/ETM
+판단/NNG
+아래/NNG
+그/NP + 는/JX
+승승장구/NNG + 하/XSV + 던/ETM
+화장품/NNG
+지점장/NNG
+시절/NNG + ,/SP
+부업/NNG + 으로/JKB
+레코드/NNG
+임대점/NNG + 을/JKO
+열/VV + 었/EP + 다/EF + ./SF
+레코드/NNG + 는/JX
+학창/NNG
+시절/NNG
+모으/VV + 았/EP + 던/ETM
+500/SN + 장/NNB + 과/JC
+친구/NNG + 들/XSN + 에게서/JKB
+빌리/VV + ㄴ/ETM
+200/SN + 장/NNB + ,/SP
+신장/NNG
+개업/NNG
+기념/NNG + 으로/JKB
+구입/NNG + 하/XSV + ㄴ/ETM
+300/SN + 장/NNB
+등/NNB
+1/SN + ,/SP + 000/SN + 장/NNB + 을/JKO
+마련/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+형제/NNG + ./SP + 친구/NNG + 들/XSN + 은/JX
+"/SS + 레코드/NNG + 에/JKB
+흠집/NNG + 만/JX
+생기/VV + ㄴ다/EF + "/SS + ,/SP
+"/SS + 빌리/VV + 어/EC + 가/VX + 아도/EC
+돌려주/VV + 지/EC
+않/VX + 을/ETM
+것/NNB + 이/VCP + 다/EC + "/SS + 며/EC
+말리/VV + 었/EP + 으나/EC + ,/SP
+친구/NNG + (/SS + 友/SH + )/SS + 와/JC
+사랑/NNG + (/SS + 愛/SH + )/SS + 을/JKO
+믿/VV + 은/ETM
+그/NP + 는/JX
+결심/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+"/SS + 임대업/NNG + 은/JX
+첫/MM
+가격/NNG
+설정/NNG + 이/JKS
+포인트/NNG + 이/VCP + 다/EF + ./SF + "/SS
+그/NP + 는/JX
+레코드/NNG
+임대료/NNG + 를/JKO
+1/SN + 장/NNB + 당/XSN
+커피/NNG
+한/MM
+잔/NNG
+값/NNG + 으로/JKB
+설정/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+젊은이/NNG + 들/XSN + 이/JKS
+커피/NNG
+한/MM
+잔/NNG
+값/NNG + 에/JKB
+듣/VV + 고/EC
+싶/VX + 은/ETM
+음악/NNG + 을/JKO
+듣/VV + 도록/EC
+하/VX + 겠/EP + 다는/ETM
+전략/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+다섯/NR
+달/NNG
+후/NNG
+그/NP + 는/JX
+화장품/NNG
+대리점장/NNG + 을/JKO
+그만두/VV + 었/EP + 다/EF + ./SF
+레코드/NNG + 를/JKO
+빌리/VV + 려는/ETM
+젊/VA + 은/ETM
+고객/NNG + 들/XSN + 이/JKS
+정기/NNG
+회원/NNG + 으로/JKB
+대거/MAG
+입회/NNG + ,/SP
+겸업/NNG + 이/JKS
+어렵/VA + 어/EC + 지/VX + 었/EP + 던/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+그러나/MAJ
+레코드/NNG
+제조/NNG
+회사/NNG + 들/XSN + 은/JX
+저작/NNG + 권/XSN + 법/NNG
+위반/NNG + 으로/JKB
+우시쿠보/NNP
+사장/NNG + 을/JKO
+고소/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+그/NP + 는/JX
+제소/NNG + 에/JKB
+시달리/VV + 었/EP + 지만/EC + ,/SP
+제조/NNG
+회사/NNG + 들/XSN + 이/JKS
+화내/VV + ㄴ/ETM + 만큼/NNB
+레코드/NNG
+임대/NNG
+사업/NNG + 이/JKS
+번창/NNG + 하/XSV + 리라는/ETM
+확신/NNG + 을/JKO
+갖/VV + 게/EC
+되/VV + 었/EP + 다/EF + ./SF
+얼마/NNG
+후/NNG
+역시/MAG
+프랜차이즈/NNG + (/SS + 똑같/VA + 은/ETM
+회사/NNG
+이름/NNG + 을/JKO
+사용/NNG + 하/XSV + 는/ETM
+대리점/NNG + )/SS
+점포/NNG + 를/JKO
+열/VV + 겠/EP + 다는/ETM
+신청/NNG + 이/JKS
+몰리/VV + 었/EP + 다/EF + ./SF
+우시쿠보/NNP
+사장/NNG + 은/JX
+여기/NP + 서/JKB
+또다시/MAG
+색다르/VA + ㄴ/ETM
+결심/NNG + 을/JKO
+하/VV + 았/EP + 다/EF + ./SF
+사용료/NNG + 를/JKO
+단/MM
+4/SN + 만/NR
+엔/NNB + 으로/JKB
+균일/NNG
+설정/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+매상/NNG
+규모/NNG + 에/JKB
+따르/VV + 아/EC
+사용료/NNG + 를/JKO
+늘리/VV + 어/EC
+내/VX + 어야/EC
+하/VX + 는/ETM
+다른/MM
+프랜차이즈/NNG
+점포/NNG + 와/JKB + 는/JX
+다르/VA + ㄴ/ETM
+전략/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+"/SS + 사업/NNG + 이/VCP + 란/ETM
+한/MM
+사람/NNG + 이/JKS
+긁어모으/VV + 면/EC
+다른/MM
+사람/NNG + 은/JX
+잃/VV + 어야/EC
+하/VX + 는/ETM
+도박/NNG + 과/JKB
+다르/VA + 다/EF + ./SF
+가맹점/NNG + 과/JC
+본점/NNG + ,/SP
+거래/NNG
+업자/NNG + 들/XSN + 이/JKS
+모두/MAG
+이득/NNG + 을/JKO
+보/VV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+것/NNB + 이/JKS
+비즈니스/NNG + 이/VCP + 다/EF + ./SF + "/SS
+유/NNG
+앤드/NNG
+아이/NNG
+점포/NNG + 에서/JKB + 는/JX
+레코드/NNG + 만/JX
+임대/NNG + 하/XSV + 는/ETM
+것/NNB + 은/JX
+아니/VCN + 다/EF + ./SF
+여느/MM
+레코드/NNG
+점/NNG + 처럼/JKB
+연극/NNG + 표/NNG + 도/JX
+팔/VV + 고/EC + ,/SP
+해외/NNG
+여행/NNG
+서비스/NNG + 도/JX
+하/VV + 아/EC + 주/VX + ㄴ다/EF + ./SF
+각종/NNG
+레저/NNG
+정보/NNG + 를/JKO
+제공/NNG + 하/XSV + 는/ETM
+것/NNB + 은/JX
+젊/VA + 은/ETM
+고객/NNG + 층/XSN + 을/JKO
+굳히/VV + 려는/ETM
+영역/NNG
+확대/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+이렇/VA + 게/EC
+하/VV + 아서/EC
+체인점/NNG + 은/JX
+전국/NNG
+700/SN + 개/NNB + 를/JKO
+넘어서/VV + ㄴ/ETM
+지/NNB
+오래/VA + 다/EF + ./SF
+우시쿠보/NNP
+사장/NNG + 은/JX
+매일/MAG
+아침/NNG
+태양/NNG + 을/JKO
+바라보/VV + 며/EC
+손/NNB + 을/JKO
+모으/VV + 는/ETM
+것/NNB + 이/JKS
+일과/NNG + 이/VCP + 다/EF + ./SF
+"/SS + 뉴/NNG
+비즈니스/NNG + 는/JX
+강하/VA + ㄴ/ETM
+시장/NNG + 가/XSN
+속전/NNG
+속결/NNG + 의/JKG
+스피드/NNG + 가/JKS
+중요/NNG + 하/XSA + 다/EF + ./SF
+특히/MAG
+대/XPN + 기업/NNG + 이/JKS
+손/NNB + 을/JKO
+대/VV + 기/ETN
+전/NNG + 에/JKB
+타이밍/NNG + 을/JKO
+잡/VV + 는/ETM
+것/NNB + 은/JX
+필수/NNG + 적/XSN + 이/VCP + 다/EF + ./SF
+그러나/MAJ
+그/MM
+무엇/NP + 보다/JKB
+정열/NNG + 과/JC
+애정/NNG + 이/JKS
+최고/NNG + 의/JKG
+경영/NNG
+철학/NNG + 이/VCP + 어야/EC
+하/VX + ㄴ다/EF + ./SF + "/SS
+화장품/NNG
+세일즈맨/NNG
+출신/NNG
+창업자/NNG + 의/JKG
+정열/NNG
+비즈니스/NNG + 론/XSN + 이/VCP + 다/EF + ./SF
+7/SN + ./SF
+부인복/NNG
+방문/NNG
+판매/NNG
+'/SS + 샤를레/NNP + '/SS + 이/VCP + 라면/EC
+아이스크림/NNG + 을/JKO
+떠올리/VV + ㄹ지/EC
+모르/VV + 지만/EC + ,/SP
+실은/MAG
+유명/NNG + 하/XSA + ㄴ/ETM
+부인복/NNG
+판매/NNG
+회사/NNG + 이/VCP + 다/EF + ./SF
+그/MM
+중/NNB + 에서/JKB + 도/JX
+여자/NNG
+속옷/NNG + 만/JX + 을/JKO
+전문/NNG
+취급/NNG + 하/XSV + 아/EC
+오/VX + 았/EP + 다/EF + ./SF
+세계/NNG + 적/XSN + 으로/JKB
+알리/VV + 어/EC + 지/VX + ㄴ/ETM
+와코루/NNP
+사/NNG + 와/JC
+세실/NNP
+사/NNG + 에/JKB
+잇/VV + 어/EC
+부인복/NNG
+매출/NNG
+순위/NNG
+일본/NNP
+3/SN + 위/NNB + ,/SP
+부인복/NNG
+방문/NNG
+판매/NNG
+회사/NNG
+중/NNB + 에서/JKB + 는/JX
+아무/NP + 도/JX
+넘보/VV + ㄹ/ETM
+수/NNB
+없/VA + 는/ETM
+1/SN + 위/NNB + 이/VCP + 다/EF + ./SF
+샤를레/NNP + 가/JKS
+일본/NNP + 에/JKB
+유행/NNG + 시키/XSV + ㄴ/ETM
+세일즈/NNG
+방식/NNG + 은/JX
+홈/NNG
+파티/NNG
+방식/NNG + ./SF
+가정/NNG + 을/JKO
+방문/NNG + ,/SP
+4/SN + ～/SO + 5/SN + 명/NNB + 의/JKG
+주부/NNG + 들/XSN + 을/JKO
+모으/VV + 아/EC
+놓/VX + 고/EC
+세일즈/NNG + 를/JKO
+전개/NNG + 하/XSV + ㄴ다/EF + ./SF
+주부/NNG + 들/XSN + 은/JX
+이것저것/NNG
+속옷/NNG + 을/JKO
+고르/VV + 아/EC
+입/VV + 어/EC
+보/VX + 고서/EC
+친구/NNG + 들/XSN + 의/JKG
+촌평/NNG + 을/JKO
+듣/VV + 어/EC
+가/VX + 며/EC
+속옷/NNG + 을/JKO
+구입/NNG + 하/XSV + ㄴ다/EF + ./SF
+"/SS + 부인복/NNG + 을/JKO
+가게/NNG + 에서/JKB
+팔/VV + 면/EC
+소비자/NNG + 들/XSN + 이/JKS
+입/VV + 어/EC
+보/VX + ㄹ/ETM
+수/NNG + 가/JKS
+없/VA + 습니다/EF + ./SF
+특히/MAG
+속옷/NNG + 은/JX
+옷/NNG + 을/JKO
+전부/MAG
+벗/VV + 고서/EC
+입/VV + 어/EC
+보/VX + 아야/EC
+하/VX + 기/ETN
+때문/NNB + 에/JKB
+여성/NNG + 들/XSN + 의/JKG
+저항감/NNG + 이/JKS
+은근히/MAG
+강/XR + 하/XSA + ㅂ니다/EF + ./SF
+안방/NNG + 에서/JKB + 이/VCP + 라면/EC
+입/VV + 고/EC
+벗/VV + 어/EC
+보/VX + 는/ETM
+일/NNG + 이/JKS
+한결/MAG
+부담/NNG
+없/VA + 습니다/EF + ./SF + "/SS
+홈/NNG
+파티/NNG
+세일즈/NNG
+방식/NNG + 을/JKO
+성공/NNG + 시키/XSV + ㄴ/ETM
+하야시/NNP + (/SS + 林雅晴/SH + )/SS
+사장/NNG + 의/JKG
+얘기/NNG + 이/VCP + 다/EF + ./SF
+입/VV + 어/EC
+보/VX + 도록/EC
+하/VX + 아/EC + 주/VX + 는/ETM
+것/NNB + 이/JKS
+홈/NNG
+파티/NNG
+방식/NNG + 의/JKG
+핵심/NNG + 이/VCP + ㄴ/ETM
+셈/NNB + ./SF
+하지만/MAJ
+홈/NNG
+파티/NNG
+방식/NNG + 은/JX
+또/MAG
+하나/NR
+결정/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+과정/NNG + 을/JKO
+밟/VV + 아야/EC
+하/VX + ㄴ다/EF + ./SF
+1/SN + 만/NR
+엔/NNB
+이상/NNG + 을/JKO
+구매/NNG + 하/XSV + 는/ETM
+고객/NNG + 에게/JKB + 는/JX
+다음/NNG
+번/NNB + 부터/JX
+25/SN + %/SW + 의/JKG
+할인/NNG
+혜택/NNG + 을/JKO
+제공/NNG + 하/XSV + ㄴ다/EF + ./SF
+회원/NNG
+자격/NNG + 을/JKO
+제공/NNG + 하/XSV + 는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+회원/NNG + 들/XSN + 은/JX
+다시/MAG
+구매/NNG
+액수/NNG + 와/JC
+판매/NNG
+실적/NNG + 에/JKB
+따르/VV + 아/EC
+특약점/NNG + 을/JKO
+차리/VV + ㄹ/ETM
+수/NNB
+있/VV + 게/EC
+하/VX + 아/EC + 주/VX + 고/EC
+특약점/NNG
+중/NNB
+실적/NNG + 이/JKS
+늘/VV + 어/EC + 가/VX + 는/ETM
+곳/NNG + 에/JKB + 는/JX
+대리점/NNG
+간판/NNG + 을/JKO
+달/VV + 아/EC + 주/VX + ㄴ다/EF + ./SF
+고객/NNG + 이/JKS
+판매원/NNG + 이/JKC
+되/VV + 고/EC + ,/SP
+판매원/NNG + 이/JKS
+다시/MAG
+판매망/NNG + 을/JKO
+형성/NNG + 하/XSV + 는/ETM
+점포/NNG
+확대/NNG
+방식/NNG + 이/VCP + 다/EF + ./SF
+샤를레/NNP + 의/JKG
+회원/NNG + 은/JX
+현재/MAG
+407/SN + 만/NR
+명/NNB + ,/SP
+특약점/NNG + 은/JX
+7/SN + 만/NR
+2/SN + ,/SP + 000/SN + 개/NNB + ,/SP
+대리점/NNG + 은/JX
+1/SN + ,/SP + 511/SN + 개/NNB + 이/VCP + 다/EF + ./SF
+세포/NNG
+분열/NNG + 처럼/JKB
+강대/XR + 하/XSA + ㄴ/ETM
+조직/NNG + 을/JKO
+만들/VV + ㄴ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+창립/NNG + 은/JX
+지나/VV + ㄴ/ETM
+'/SS + 75/SN + 년/NNB + ./SF
+하야시/NNP
+사장/NNG + 은/JX
+젊/VA + 은/ETM
+시절/NNG
+직업/NNG + 을/JKO
+13/SN + 번/NNB
+바꾸/VV + ㄴ/ETM
+이색/NNG
+경력/NNG + 을/JKO
+갖/VV + 고/EC
+있/VX + 다/EF + ./SF
+택시/NNG
+운전사/NNG + ,/SP
+자동차/NNG
+세일즈맨/NNG + ,/SP
+자동/NNG
+도어/NNG
+판매/NNG
+대리점/NNG + ,/SP
+세일즈맨/NNG
+교육/NNG
+담당/NNG
+등/NNB + ./SF
+하루/NNG + 는/JX
+여자/NNG
+속옷/NNG
+판매/NNG + 를/JKO
+하/VV + 아/EC
+오/VX + ㄴ/ETM
+친구/NNG + 가/JKS
+동업/NNG + 을/JKO
+제의/NNG + 하/XSV + 아/EC
+오/VX + 았/EP + 다/EF + ./SF
+세제/NNG
+판매/NNG
+대리점/NNG + 으로/JKB
+재미/NNG + 를/JKO
+보/VV + 고/EC
+있/VX + 던/ETM
+그/NP + 는/JX
+겸업/NNG + 을/JKO
+시작/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+세제/NNG + 와/JC
+속옷/NNG + 을/JKO
+동시/NNG
+판매/NNG + 하/XSV + ㄴ/ETM
+것/NNB + ./SF
+그러나/MAJ
+세제/NNG
+회사/NNG + 측/NNB + 은/JX
+겸업/NNG
+금지/NNG
+조항/NNG + 이/JKS
+들어가/VV + ㄴ/ETM
+계약서/NNG + 를/JKO
+내밀/VV + 며/EC
+대리점/NNG
+계약/NNG + 을/JKO
+취소/NNG + 하/XSV + 아/EC
+버리/VX + 었/EP + 다/EF + ./SF
+어쩌/VV + ㄹ/ETM
+수/NNB
+없이/MAG
+그/NP + 는/JX
+여자/NNG
+속옷/NNG
+판매/NNG + 에/JKB
+매달리/VV + 었/EP + 다/EF + ./SF
+농촌/NNG + 을/JKO
+돌/VV + 며/EC
+안방/NNG
+파티/NNG
+방식/NNG + 으로/JKB
+세일즈/NNG + 를/JKO
+벌이/VV + 었/EP + 다/EF + ./SF
+40/SN + 이/VCP + 라는/ETM
+나이/NNG + 에/JKB
+시작/NNG + 하/XSV + ㄴ/ETM
+낯간지럽/VA + ㄴ/ETM
+상품/NNG
+판매/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+그러나/MAJ
+안방/NNG + 에서/JKB
+피부/NNG + 로/JKB
+감지/NNG + 하/XSV + ㄴ/ETM
+여성/NNG
+심리/NNG + 에/JKB
+미국/NNP + 의/JKG
+세일즈/NNG
+기법/NNG + 을/JKO
+혼합/NNG + ,/SP
+회원/NNG
+수/NNB + 를/JKO
+늘리/VV + 어/EC + 가/VX + 았/EP + 다/EF + ./SF
+여성/NNG + 의/JKG
+마음/NNG + 을/JKO
+그대로/MAG
+읽/VV + 은/ETM
+하야시/NNP
+사장/NNG + 의/JKG
+세일즈/NNG
+기법/NNG + 은/JX
+일본/NNP + 에서/JKB
+부인복/NNG
+방문/NNG
+판매/NNG + 의/JKG
+성공/NNG
+모델/NNG + 이/JKC
+되/VV + 었/EP + 다/EF + ./SF
+혼다/NNP
+기술/NNG
+전략/NNG
+혼다/NNP
+자동차/NNG + 의/JKG
+진짜/NNG
+이름/NNG + 은/JX
+혼다/NNP
+기연/NNP
+공업/NNG + 이/VCP + 다/EF + ./SF
+'/SS + 혼다/NNP
+자동차/NNG
+공업/NNG + '/SS
+정도/NNG + 이/VCP + ㄹ/ETM
+것/NNB
+같/VA + 지만/EC
+그것/NP + 이/JKC
+아니/VCN + 다/EF + ./SF
+창업자/NNG
+혼다/NNP
+씨/NNB + 는/JX
+고향/NNG
+하마마쓰/NNP + 에/JKB
+회사/NNG
+공장/NNG + 문/NNG + 을/JKO
+열/VV + 었/EP + 을/ETM
+때/NNG
+간판/NNG + 을/JKO
+혼다/NNP
+기술/NNG
+연구소/NNG + 이/VCP + 라고/EC
+달/VV + 았/EP + 다/EF + ./SF
+이태/NNG
+뒤/NNG
+'/SS + 혼다/NNP
+기연/NNP
+공업/NNG
+주식/NNG
+회사/NNG + '/SS + 이/VCP + 라고/EC
+고치/VV + 었/EP + 지만/EC + ,/SP
+지나/VV + ㄴ/ETM
+'/SS + 60/SN + 년/NNB + 에/JKB + 는/JX
+혼다/NNP
+기술/NNG
+연구소/NNG + 를/JKO
+별도/NNG
+법인체/NNG + 로/JKB
+발족/NNG + 시키/XSV + 었/EP + 다/EF + ./SF
+기술/NNG + 과/JC
+연구/NNG + 가/JKS
+회사/NNG + 의/JKG
+생명선/NNG + 이/VCP + 라는/ETM
+점/NNB + 을/JKO
+창업/NNG
+초/NNB + 부터/JX
+부각/NNG + 시키/XSV + ㄴ/ETM
+셈/NNB + 이/VCP + 다/EF + ./SF
+별도/NNG
+회사/NNG + 를/JKO
+출범/NNG + 시키/XSV + ㄹ/ETM
+때/NNG
+이/NP + 를/JKO
+주도/NNG + 하/XSV + ㄴ/ETM
+사람/NNG + 은/JX
+후지사와/NNP
+씨/NNB + 이/VCP + 다/EF + ./SF
+"/SS + 회사/NNG + 에/JKB
+혼다/NNP
+씨/NNB + 가/JKS
+영원히/MAG
+살/VV + 아서/EC
+연구/NNG + ,/SP
+신/XPN + 기술/NNG + 을/JKO
+개발/NNG + 하/XSV + ㄹ/ETM
+수/NNB + 는/JX
+없/VA + 다/EF + ./SF
+판매/NNG + 나/JC
+생산/NNG + 과/JKB + 는/JX
+다르/VA + ㄴ/ETM
+기술/NNG
+집단/NNG + 이/JKS
+없이/MAG + 는/JX
+회사/NNG + 가/JKS
+살/VV + 아/EC
+남/VV + 을/ETM
+수/NNB
+없/VA + 다/EF + ./SF + "/SS
+의미/NNG
+있/VV + 는/ETM
+것/NNB + 은/JX
+역대/NNG
+사장/NNG + 들/XSN + 은/JX
+반드시/MAG
+연구소/NNG
+사장/NNG + 직/NNG + 을/JKO
+거치/VV + 었/EP + 다는/ETM
+점/NNB + 이/VCP + 다/EF + ./SF
+연구소/NNG
+사장/NNG + 은/JX
+본사/NNG + 에서/JKB
+벌어들이/VV + ㄴ/ETM
+돈/NNG + 을/JKO
+사용/NNG + 하/XSV + 면서/EC
+새/MM
+상품/NNG + 을/JKO
+개발/NNG + 하/XSV + 고/EC + ,/SP
+영업/NNG
+조직/NNG + 과/JKB + 는/JX
+일정/NNG + 하/XSA + ㄴ/ETM
+거리/NNG + 를/JKO
+유지/NNG + 하/XSV + 면서/EC
+독립/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+경영/NNG + 을/JKO
+하/VV + 아/EC
+오/VX + 고/EC
+있/VX + 다/EF + ./SF
+기술자/NNG + 가/JKS
+세일즈맨/NNG + 을/JKO
+우선/NNG + 하/XSV + 는/ETM
+전통/NNG + 은/JX
+이렇/VA + 게/EC
+정착/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+그러나/MAJ
+최근/NNG
+판매/NNG
+부진/NNG
+국면/NNG + 을/JKO
+맞/VV + 으면서/EC
+전술/NNG + 상/XSN + 의/JKG
+변화/NNG + 가/JKS
+생기/VV + 었/EP + 다/EF + ./SF
+판매/NNG
+전선/NNG + 의/JKG
+이견/NNG + 을/JKO
+과거/NNG + 보다/JKB + 는/JX
+적극/NNG
+반영/NNG + 하/XSV + 는/ETM
+기술/NNG
+개발/NNG
+구상/NNG + 이/JKS
+마련/NNG + 되/XSV + ㄴ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+스타일/NNG + 을/JKO
+좀/MAG + 더/MAG
+중시/NNG + 하/XSV + 는/ETM
+쪽/NNG + 으로/JKB
+서서히/MAG
+전환/NNG
+중/NNB + 이/VCP + 다/EF + ./SF
+8/SN + ./SF
+보석/NNG
+닦/VV + 아/EC
+주/VX + 기/ETN
+"/SS + 집/NNG + 에서/JKB
+잠자/VV + 는/ETM
+보석/NNG + 을/JKO
+훔치/VV + 어라/EF + ./SF + "/SS
+가와시마/NNP + (/SS + 川/SH + 조/NNG + )/SS
+골드/NNG
+사/NNG + 가/JKS
+내걸/VV + ㄴ/ETM
+영업/NNG
+전략/NNG + 이/VCP + 다/EF + ./SF
+이/MM
+회사/NNG + 는/JX
+장롱/NNG
+속/NNG + 에/JKB
+숨/VV + 어/EC
+있/VX + 는/ETM
+해묵/VV + 은/ETM
+보석/NNG + 을/JKO
+수리/NNG + ·/SP + 재생/NNG + 하/XSV + 아/EC
+주/VX + 는/ETM
+회사/NNG + 이/VCP + 다/EF + ./SF
+다이아몬드/NNG + ·/SP + 루비/NNG + ·/SP + 진주/NNG
+등/NNB
+결혼/NNG
+반지/NNG + 부터/JX
+돌/NNG + 반지/NNG + ,/SP
+이런/MM
+저런/MM
+기념/NNG
+반지/NNG + 를/JKO
+고객/NNG
+주문/NNG + 에/JKB
+맞추/VV + 어/EC
+깨끗이/MAG
+수리/NNG + 하/XSV + 아/EC
+주/VX + 고/EC + ,/SP
+최신/NNG
+디자인/NNG + 으로/JKB
+바꾸/VV + 어/EC
+주/VX + 는/ETM
+사업/NNG + 이/VCP + 다/EF + ./SF
+사업/NNG
+포인트/NNG + 는/JX
+소득/NNG + 이/JKS
+올라가/VV + ㄹ수록/EC
+각/MM
+가정/NNG + 의/JKG
+보석/NNG
+구입/NNG + 은/JX
+늘/VV + 고/EC + ,/SP
+더욱이/MAG
+장식/NNG + 하/XSV + 지/EC
+않/VX + 은/ETM
+보석/NNG + 은/JX
+더욱/MAG
+늘/VV + 고/EC
+있/VX + 는/ETM
+현상/NNG + 이/VCP + 다/EF + ./SF
+장롱/NNG + 과/JC
+보석함/NNG
+속/NNG + 에서/JKB
+잠자/VV + 는/ETM
+재고품/NNG
+보석/NNG + 은/JX
+집집/NNG + 마다/JX
+급증/NNG + 하/XSV + 고/EC
+있/VX + 음/ETN + 에/JKB
+착안/NNG + 하/XSV + ㄴ/ETM
+비즈니스/NNG + 이/VCP + 다/EF + ./SF
+가와시마/NNP + 의/JKG
+영업/NNG
+방법/NNG + 은/JX
+맨/XPN + 발/NNG + 로/JKB
+뛰/VV + 는/ETM
+것/NNB + ./SF
+고급/NNG
+주택가/NNG + 를/JKO
+돌/VV + 며/EC
+'/SS + 보석/NNG
+재생/NNG + '/SS + 을/JKO
+역설/NNG + 하/XSV + 고/EC
+교환/NNG + 과/JC
+수리/NNG + ,/SP
+청소/NNG + 를/JKO
+부탁/NNG + 하/XSV + 면/EC
+받/VV + 아다가/EC
+원하/VV + 는/ETM
+대로/NNB
+하/VV + 아/EC + 주/VX + ㄴ다/EF + ./SF
+가공료/NNG + 와/JC
+수수료/NNG + 는/JX
+보석/NNG
+종류/NNG + 와/JC
+디자인/NNG
+변화/NNG
+정도/NNG + 에/JKB
+따르/VV + 아/EC
+다르/VA + 게/EC
+설정/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+수수료/NNG + 는/JX
+보석/NNG
+현금/NNG
+가격/NNG + 의/JKG
+10/SN + %/SW
+정도/NNG + ,/SP
+모양/NNG + 을/JKO
+바꾸/VV + 면/EC
+20/SN + ～/SO + 30/SN + %/SW + 를/JKO
+받/VV + 는다/EF + ./SF
+예/NNG + 를/JKO
+들/VV + 어/EC
+흠집/NNG
+나/VV + ㄴ/ETM
+반지/NNG + 를/JKO
+재생/NNG + 하/XSV + 아/EC
+주/VX + 면/EC
+6/SN + ,/SP + 800/SN + 엔/NNB + ,/SP
+줄/NNG
+끊어지/VV + ㄴ/ETM
+목걸이/NNG + 를/JKO
+수리/NNG + 하/XSV + 아/EC
+주/VX + 면/EC
+5/SN + ,/SP + 000/SN + 엔/NNB + ,/SP
+짜부라지/VV + ㄴ/ETM
+브로치/NNG + 를/JKO
+재생/NNG + 하/XSV + 아/EC
+주/VX + 면/EC
+1/SN + 만/NR
+1/SN + ,/SP + 000/SN + 엔/NNB
+등등/NNB + ./SF
+구식/NNG
+보석/NNG + 을/JKO
+포기/NNG + 하/XSV + 고/EC
+최신/NNG
+디자인/NNG + 을/JKO
+원하/VV + 는/ETM
+고객/NNG + 에게/JKB + 는/JX
+추가/NNG
+금액/NNG + 을/JKO
+받/VV + 고서/EC
+교환/NNG + 하/XSV + 아/EC
+주/VX + ㄴ다/EF + ./SF
+유행/NNG + 하/XSV + 는/ETM
+보석/NNG
+디자인/NNG + 을/JKO
+추천/NNG + ,/SP
+새/MM
+보석/NNG + 을/JKO
+장식/NNG + 하/XSV + 고/EC
+싶/VX + 어/EC + 하/VX + 는/ETM
+고객/NNG + 들/XSN + 의/JKG
+욕구/NNG + 를/JKO
+만족/NNG + 시키/XSV + 어/EC
+주/VX + 는/ETM
+전략/NNG + 이/VCP + 다/EF + ./SF
+가와시마/NNP + 는/JX
+영업/NNG
+점포/NNG + 까지/JX
+개설/NNG + ,/SP
+본격/NNG
+영업/NNG
+중/NNB + 이/VCP + 지만/EC + ,/SP
+원래/NNG
+보석/NNG
+재생업/NNG + 은/JX
+가정/NNG
+주부/NNG + 들/XSN + 의/JKG
+부업거리/NNG + ./SF
+주부/NNG + 들/XSN + 이/JKS
+보험/NNG
+회사/NNG
+외판원/NNG + 들/XSN + 처럼/JKB
+친구/NNG
+·/SP
+친척/NNG + 들/XSN + 을/JKO
+방문/NNG + ,/SP
+해묵/VV + 은/ETM
+보석/NNG
+재생/NNG + 을/JKO
+권유/NNG + 하/XSV + 는/ETM
+식/NNB + 이/VCP + 다/EF + ./SF
+최대/NNG + 의/JKG
+장점/NNG + 은/JX
+역시/MAG
+넓/VA + 고/EC
+호화/NNG + 롭/XSA + ㄴ/ETM
+점포/NNG + 가/JKS
+필요/NNG
+없/VA + 고/EC + ,/SP
+운송비/NNG + 나/JC
+인건비/NNG + 가/JKS
+필요/NNG + 하/XSA + ㄴ/ETM
+것/NNB + 도/JX
+아니/VCN + 다/EF + ./SF
+주부/NNG
+부업/NNG + 으로서/JKB + 는/JX
+안성맞춤/NNG + 이/VCP + ㄴ/ETM
+셈/NNB + 이/VCP + 다/EF + ./SF
+대형/NNG
+보석상/NNG + 들/XSN
+중/NNB + 에/JKB + 는/JX
+주부/NNG + 들/XSN + 을/JKO
+채용/NNG + ,/SP
+재생/NNG + 을/JKO
+원하/VV + 는/ETM
+고객/NNG + 들/XSN + 을/JKO
+찾/VV + 아/EC
+나서/VV + 는/ETM
+곳/NNG + 도/JX
+있/VV + 다/EF + ./SF
+귀금속점/NNG + 에/JKB
+맡기/VV + 기/ETN
+꺼림칙/XR + 하/XSA + 아/EC
+보석함/NNG
+속/NNG + 에/JKB
+그냥/MAG
+넣/VV + 어/EC
+두/VX + 는/ETM
+쪽/NNB + 을/JKO
+택하/VV + 는/ETM
+고객/NNG + 들/XSN + 을/JKO
+찾/VV + 아/EC
+나서/VV + 고/EC
+있/VX + 는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+그러나/MAJ
+역시/MAG
+최대/NNG + 의/JKG
+장애물/NNG + 은/JX
+신뢰/NNG
+문제/NNG + ./SF
+처음/NNG
+보/VV + 는/ETM
+사람/NNG + 에게/JKB
+보석/NNG + 을/JKO
+맡기/VV + 는/ETM
+것/NNB + 을/JKO
+꺼리/VV + 어/EC + 하/VX + 는/ETM
+경향/NNG + 이/VCP + 다/EF + ./SF
+이/MM
+때문/NNB + 에/JKB
+친구/NNG + ·/SP + 친척/NNG + 을/JKO
+중심/NNG + 으로/JKB
+신용/NNG + 을/JKO
+쌓/VV + 되/EC + ,/SP
+약속/NNG + 을/JKO
+어기/VV + 거나/EC
+고객/NNG + 을/JKO
+속이/VV + 는/ETM
+사건/NNG + 이/JKS
+발생/NNG + 하/XSV + 면/EC
+사업/NNG
+생명/NNG + 은/JX
+끊어지/VV + ㄴ다/EF + ./SF
+또/MAG
+하나/NR + 는/JX
+아마추어/NNG + 가/JKS
+보석/NNG
+재생업/NNG + 을/JKO
+시작/NNG + 하/XSV + 려면/EC
+상식/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+보석/NNG
+감정법/NNG + 은/JX
+익히/VV + 어야/EC
+하/VX + ㄴ다/EF + ./SF
+고객/NNG + 들/XSN + 이/JKS
+가짜/NNG + 를/JKO
+맡기/VV + 고서/EC
+진짜/NNG + 를/JKO
+요구/NNG + 하/XSV + 는/ETM
+일/NNG + 에/JKB
+대비/NNG + 하/XSV + 고/EC + ,/SP
+함량/NNG
+등/NNB + 을/JKO
+알/VV + 아야/EC + 만/JX
+고객/NNG
+상담/NNG + 에/JKB
+부드럽/VA + 게/EC
+응하/VV + ㄹ/ETM
+수/NNB
+있/VV + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+대/XPN + 규모/NNG + 보다/JKB + 는/JX
+역시/MAG
+영세/NNG
+부업/NNG + 으로/JKB
+추진/NNG + 하/XSV + 아/EC
+보/VX + ㄹ/ETM
+만/NNB + 하/XSA + ㄴ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+9/SN + ./SF
+보육원/NNG
+전국/NNG
+체인점/NNG
+일본/NNP + 에/JKB + 는/JX
+베이비/NNG
+호텔/NNG + 이/JKS
+있/VV + 다/EF + ./SF
+어린이/NNG
+전용/NNG
+호텔/NNG + 이/JKC
+아니/VCN + 라/EC + ,/SP
+어린아이/NNG + 를/JKO
+맡기/VV + 러/EC
+두/VX + 는/ETM
+탁아소/NNG
+같/VA + 은/ETM
+곳/NNG + 이/VCP + 다/EF + ./SF
+밤/NNG + 을/JKO
+새우/VV + 어/EC
+맡/VV + 아/EC
+주/VX + 기/ETN + 도/JX
+하/VX + 고/EC + ,/SP
+시간/NNG + 제/XSN + 로/JKB
+맡/VV + 아/EC
+주/VX + 기/ETN + 도/JX
+하/VX + ㄴ다/EF + ./SF
+물론/MAG
+시설/NNG + 은/JX
+집/NNG + 보다/JKB
+호화/NNG + 롭/XSA + 고/EC
+장난감/NNG + 과/JC
+놀이/NNG
+시설/NNG + 이/JKS
+완비/NNG + 되/XSV + 어/EC
+있/VX + 다/EF + ./SF
+맞벌이/NNG
+부부/NNG + 가/JKS
+늘/VV + 면서/EC
+그리고/MAJ
+아르바이트/NNG + 를/JKO
+나가/VV + 는/ETM
+신혼/NNG
+주부/NNG + 들/XSN + 이/JKS
+증가/NNG + 하/XSV + 면서/EC
+생기/VV + 기/ETN
+시작/NNG + 하/XSV + ㄴ/ETM
+사업/NNG + 이/VCP + 다/EF + ./SF
+지비코엔/NNP + 을/JKO
+일본/NNP + 에서/JKB
+유일/NNG + 하/XSA + ㄴ/ETM
+보육원/NNG
+체인점/NNG + 이/VCP + 다/EF + ./SF
+전국/NNG
+각지/NNG + 에서/JKB
+보육원/NNG + 을/JKO
+50/SN + 개/NNB
+경영/NNG + 하/XSV + 고/EC
+있/VX + 으며/EC + ,/SP
+몇/MM
+년/NNB
+안/NNG + 에/JKB
+100/SN + 개/NNB + 로/JKB
+늘리/VV + ㄴ다는/ETM
+계획/NNG + 을/JKO
+갖/VV + 고/EC
+있/VX + 다/EF + ./SF
+산매/NNG
+점포/NNG + 를/JKO
+설치/NNG + 하/XSV + 듯/EC
+보육원/NNG
+전국/NNG
+체인/NNG + 망/NNG + 을/JKO
+짜/VV + 고/EC
+있/VX + 는/ETM
+회사/NNG + 이/VCP + 다/EF + ./SF
+44/SN + 세/NNB + 의/JKG
+창업자/NNG
+마에가와/NNP + (/SS + 前川政光/SH + )/SS
+사장/NNG + 은/JX
+원래/NNG
+음식점/NNG + 을/JKO
+경영/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+빌딩/NNG + 을/JKO
+세내/VV + 어/EC
+이런저런/MM
+음식점/NNG + 을/JKO
+운영/NNG + 하/XSV + 았/EP + 으나/EC + ,/SP
+골칫거리/NNG + 는/JX
+역시/MAG
+점원/NNG
+조달/NNG + ./SF
+젊/VA + 은/ETM
+아가씨/NNG + 는/JX
+찾/VV + 아/EC
+보/VX + ㄹ/ETM
+수/NNB
+없/VA + 고/EC + ,/SP
+그래서/MAJ
+어쩌/VV + ㄹ/ETM
+수/NNB
+없이/MAG
+선택/NNG + 하/XSV + ㄴ/ETM
+인력/NNG
+조달책/NNG + 은/JX
+가정/NNG
+주부/NNG + 를/JKO
+아르바이트/NNG + 로/JKB
+채용/NNG + 하/XSV + 는/ETM
+방법/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+그러나/MAJ
+문제/NNG + 는/JX
+응모/NNG
+주부/NNG + 들/XSN + 의/JKG
+아르바이트/NNG
+희망/NNG
+시간/NNG + 이/JKS
+마음대로/MAG
+되/VV + 지/EC
+않/VX + 았/EP + 다/EF + ./SF
+8/SN + 할/NNB
+이상/NNG + 이/JKS
+오전/NNG
+10/SN + 시/NNB + 부터/JX
+오후/NNG
+2/SN + 시/NNB + 까지/JX + 를/JKO
+희망/NNG + 하/XSV + 았/EP + 던/ETM
+것/NNB + ./SF
+남편/NNG + 과/JC
+아이/NNG + 들/XSN + 을/JKO
+직장/NNG + 과/JC
+학교/NNG + 로/JKB
+보내/VV + ㄴ/ETM
+후/NNG + 에/JKB + 야/JX
+시간/NNG + 이/JKS
+나/VV + 고/EC + ,/SP
+자녀/NNG + 가/JKS
+집/NNG + 에/JKB
+돌아오/VV + ㄹ/ETM
+시간/NNG + 에/JKB
+일/NNG + 을/JKO
+마치/VV + 려는/ETM
+것/NNB + 을/JKO
+알/VV + 게/EC
+되/VV + 었/EP + 다/EF + ./SF
+"/SS + 처음/NNG + 에/JKB + ㄴ/JX
+음식점/NNG
+부근/NNG + 에/JKB
+탁아소/NNG + 를/JKO
+열/VV + 어/EC
+아르바이트/NNG
+주부/NNG + 들/XSN + 의/JKG
+아이/NNG + 들/XSN + 을/JKO
+맡/VV + 아/EC
+주/VX + 었/EP + 죠/EF + ./SF
+실비/NNG + 만/JX
+받/VV + 고서/EC
+맡/VV + 았/EP + 지만/EC + ,/SP
+그때/NNG
+보육원/NNG + 이/JKS
+비즈니스/NNG + 로/JKB
+가능/NNG + 하/XSA + 다는/ETM
+것/NNB + 을/JKO
+직감/NNG + 하/XSV + ㄴ/ETM
+셈/NNB + 이/VCP + 죠/EF + ./SF + "/SS
+지나/VV + ㄴ/ETM
+'/SS + 75/SN + 년/NNB
+처음/NNG
+열/VV + ㄴ/ETM
+지비코엔/NNP + 은/JX
+대/XPN + 도시/NNG + 가/JKC
+아니/VCN + 라/EC + ,/SP
+도야마/NNP + 이/VCP + 라는/ETM
+중형/NNG
+도시/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+마에카와/NNP
+사장/NNG + 이/JKS
+도야마/NNP + 를/JKO
+선택/NNG + 하/XSV + ㄴ/ETM
+이유/NNG + 는/JX
+인구/NNG
+밀도/NNG + 가/JKS
+높/VA + 고/EC
+중년/NNG
+가정/NNG + 이/JKS
+많/VA + 다는/ETM
+'/SS + 시장/NNG
+판단/NNG + '/SS + 에/JKB
+따르/VV + ㄴ/ETM
+것/NNB + 이/VCP + 었/EP + 다/EF + ./SF
+그/MM
+후/NNG
+진짜/NNG
+보육원/NNG
+사업/NNG + 이/JKS
+성공/NNG + 하/XSV + 리라는/ETM
+확신/NNG + 을/JKO
+갖/VV + 게/EC
+되/VV + ㄴ/ETM
+곳/NNG + 은/JX
+나고야/NNP + 이/VCP + 었/EP + 다/EF + ./SF
+역시/MAG
+대/XPN + 도시/NNG
+쪽/NNB + 에/JKB
+어린이/NNG + 를/JKO
+맡기/VV + 려는/ETM
+주부/NNG + 들/XSN + 이/JKS
+많/VA + 으리라는/ETM
+막연/XR + 하/XSA + ㄴ/ETM
+생각/NNG + 이/JKS
+적중/NNG + 하/XSV + 았/EP + 다고/EC
+그/NP + 는/JX
+회고/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+체인점/NNG + 을/JKO
+늘리/VV + 면서/EC
+그/NP + 는/JX
+보육원/NNG
+입지/NNG + 의/JKG
+핵심/NNG
+포인트/NNG + 를/JKO
+잊/VV + 지/EC
+않/VX + 고/EC
+챙기/VV + ㄴ다/EF + ./SF
+주변/NNG
+출생/NNG
+인구/NNG + 와/JC
+아파트/NNG
+건설/NNG
+호수/NNG + ,/SP
+지하철/NNG
+역/NNG + 의/JKG
+손/NNG + 님/XSN
+수/NNG + ,/SP
+야간/NNG
+근무/NNG
+여성/NNG + 의/JKG
+동향/NNG
+등/NNB + 이/VCP + 다/EF + ./SF
+특히/MAG
+주부/NNG + 들/XSN + 이/JKS
+직장/NNG + 을/JKO
+오가/VV + 는/ETM
+도중/NNG + 에/JKB
+쉽/VA + 게/EC
+들르/VV + ㄹ/ETM
+수/NNB
+있/VV + 도록/EC
+지하철/NNG
+역/NNG + 에서/JKB
+2/SN + 3/SN + 분/NNB
+거리/NNG
+이내/NNG + 에/JKB
+보육원/NNG + 을/JKO
+설립/NNG + 하/XSV + ㄴ다/EF + ./SF
+또/MAG
+하나/NR
+중요/NNG + 하/XSA + ㄴ/ETM
+것/NNB + 은/JX
+반드시/MAG
+신축/NNG
+빌딩/NNG
+1/SN + ～/SO + 2/SN + 층/NNG + 을/JKO
+빌리/VV + 어/EC
+화려/XR + 하/XSA + 게/EC
+내부/NNG + 를/JKO
+장식/NNG + 하/XSV + ㄴ다는/ETM
+점/NNB + ./SF
+허술/XR + 하/XSA + ㄴ/ETM
+시설/NNG + 에/JKB + 는/JX
+주부/NNG + 들/XSN + 이/JKS
+'/SS + 나/NP + 의/JKG
+아이/NNG + 를/JKO
+저런/MM
+곳/NNG + 에/JKB
+맡기/VV + ㄹ/ETM + 수/NNB
+있/VV + 나/EC + '/SS + 이/VCP + 라는/ETM
+죄의식/NNG + 이/JKS
+생기/VV + 기/ETN
+때문/NNB + 이/VCP + 라고/EC
+그/NP + 는/JX
+설명/NNG + 하/XSV + ㄴ다/EF + ./SF
+주변/NNG + 에/JKB
+공원/NNG + 이/JKS
+있/VV + 으면/EC
+보모/NNG + 들/XSN + 이/JKS
+아이/NNG + 들/XSN + 과/JKB
+야외/NNG + 로/JKB
+나가/VV + ㄹ/ETM
+수/NNB
+있/VV + 어/EC
+더욱/MAG
+좋/VA + 다는/ETM
+귀띔/NNG + 이/VCP + 다/EF + ./SF
+전국/NNG
+체인점/NNG + 을/JKO
+만들/VV + ㄴ/ETM
+후/NNG + 에/JKB + 는/JX
+보모/NNG + 들/XSN + 을/JKO
+이끌/VV + 고/EC
+미국/NNP
+유명/NNG
+보육/NNG
+체인점/NNG + 을/JKO
+시찰/NNG + 하/XSV + 고/EC + ,/SP
+영어/NNP
+교실/NNG + 과/JC
+숫자/NNG
+교실/NNG + 을/JKO
+열/VV + 어/EC
+주부/NNG + 들/XSN + 의/JKG
+교육/NNG
+욕구/NNG + 를/JKO
+충족/NNG + 시키/XSV + 어/EC
+주/VX + 고/EC
+있/VX + 다/EF + ./SF
+"/SS + 가사/NNG + 와/JC
+보육/NNG + 에서/JKB
+벗어나/VV + 아/EC
+직장/NNG + 으로/JKB
+나가/VV + 는/ETM
+주부/NNG + 들/XSN + 이/JKS
+늘/VV + ㄹ수록/EC
+보육/NNG
+비즈니스/NNG + 는/JX
+성장/NNG + 하/XSV + ㄹ/ETM
+것/NNB + "/SS + 이라고/JKQ
+장래/NNG
+시장/NNG + 을/JKO
+낙관/NNG + 하/XSV + ㄴ다/EF + ./SF
+10/SN + ./SP + 베이비/NNG
+비즈니스/NNG
+도쿄/NNP + (/SS + 동경/NNP + )/SS + 에/JKB
+베이비/NNG
+스낵/NNG + 이/JKS
+등장/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+어린애/NNG + 만/JX + 을/JKO
+고객/NNG + 으로/JKB
+삼/VV + 는/ETM
+레스토랑/NNG + 이/VCP + 다/EF + ./SF
+세이부/NNP + (/SS + 西武/SH + )/SS
+백화점/NNG
+후나바시/NNP
+점/NNB + 에/JKB
+들어서/VV + ㄴ/ETM
+베이비/NNG
+스낵/NNG + 은/JX
+13/SN + 종류/NNG + 의/JKG
+특별/NNG
+메뉴/NNG + 를/JKO
+팔/VV + 고/EC
+있/VX + 다/EF + ./SF
+모두/NNG + 가/JKS
+어린이/NNG
+성장/NNG
+과정/NNG + 을/JKO
+감안/NNG + ,/SP
+조리/NNG + 하/XSV + ㄴ/ETM
+음식/NNG + 들/XSN + ./SF
+식탁/NNG + 과/JC
+의자/NNG + 도/JX
+어리/VA + ㄴ/ETM
+손/NNG + 님/XSN + 을/JKO
+위하/VV + 아/EC
+고안/NNG + 되/XSV + ㄴ/ETM
+것/NNB + 이/VCP + 고/EC + ,/SP
+맞은편/NNG + 에/JKB + 는/JX
+엄마/NNG
+아빠/NNG + 가/JKS
+앉/VV + 아/EC
+음식/NNG + 을/JKO
+먹이/VV + ㄹ/ETM
+수/NNB
+있/VV + 도록/EC
+좌석/NNG + 을/JKO
+배치/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+신혼/NNG
+부부/NNG + 가/JKS
+많/VA + 은/ETM
+지역/NNG + 에서/JKB
+판단/NNG
+능력/NNG + 이/JKS
+없/VA + 는/ETM
+어린이/NNG
+고객/NNG + 보다/JKB + 는/JX
+젊/VA + 은/ETM
+주부/NNG + 를/JKO
+겨냥/NNG + 하/XSV + ㄴ/ETM
+사업/NNG + 이/VCP + 다/EF + ./SF
+점심/NNG
+때/NNG + 이/VCP + 면/EC
+손/NNG + 님/XSN + 이/JKS
+줄/NNG + 을/JKO
+서/VV + 어야/EC
+하/VX + ㄹ/ETM
+정도/NNG + 로/JKB
+밀리/VV + 고/EC
+있/VX + 다/EF + ./SF
+쇼핑/NNG + 과/JKB
+함께/MAG
+갓난애/NNG + 들/XSN + 에게/JKB
+외식/NNG + 을/JKO
+시키/VV + 어/EC
+주/VX + 는/ETM
+기회/NNG + 를/JKO
+제공/NNG + 하/XSV + 는/ETM
+셈/NNB + 이/VCP + 다/EF + ./SF
+베이비/NNG
+비즈니스/NNG + 는/JX
+어느/MM
+나라/NNG + ,/SP
+어느/MM
+때/NNG + 나/JX
+인기/NNG
+있/VV + 는/ETM
+사업/NNG + 이/VCP + 다/EF + ./SF
+그러나/MAJ
+1/SN + 자녀/NNG
+시대/NNG + 에/JKB
+더욱/MAG
+번창/NNG + 하/XSV + 는/ETM
+업종/NNG + 이/JKC
+되/VV + 고/EC
+있/VX + 다/EF + ./SF
+예/NNG + 를/JKO
+들/VV + 어/EC
+어린이/NNG + 용/XSN
+워드/NNG
+프로세서/NNG + 가/JKS
+속속/MAG
+등장/NNG + 하/XSV + 고/EC + ,/SP
+국민/NNG
+학생/NNG + 용/XSN
+여행/NNG
+잡지/NNG + 도/JX
+찍히/VV + 어/EC
+나오/VV + 고/EC
+있/VX + 다/EF + ./SF
+이발소/NNG
+풍경/NNG + 도/JX
+변하/VV + 았/EP + 다/EF + ./SF
+이발소/NNG
+좌석/NNG + 에/JKB
+앉/VV + 으면/EC
+눈/NNG
+높이/NNG + 에/JKB
+설치/NNG + 하/XSV + ㄴ/ETM
+비디오/NNG + 에서/JKB
+만화/NNG
+영화/NNG + 가/JKS
+나오/VV + 고/EC + ,/SP
+만화/NNG
+영화/NNG + 가/JKS
+끝나/VV + ㄹ/ETM
+때/NNG + 이/VCP + 면/EC
+이발/NNG + 도/JX
+끝나/VV + 는/ETM
+식/NNB + 이/VCP + 다/EF + ./SF
+기쓰쇼지/NNP + (/SS + 吉祥寺/SH + )/SS
+부근/NNG + 에/JKB
+등장/NNG + 하/XSV + ㄴ/ETM
+비디오/NNG
+이발소/NNG + 에/JKB + 는/JX
+어리/VA + ㄴ/ETM
+손/NNG + 님/XSN + 들/XSN + 이/JKS
+일요일/NNG + 에/JKB + ㄴ/JX
+예약/NNG + 을/JKO
+하/VV + 아야/EC
+하/VX + ㄹ/ETM
+지경/NNB + 이/VCP + 라고/EC
+하/VV + ㄴ다/EF + ./SF
+파마/NNG + 를/JKO
+주문/NNG + 하/XSV + 는/ETM
+고객/NNG + 들/XSN + 도/JX
+점점/MAG
+늘/VV + 고/EC
+있/VX + 어/EC
+비즈니스/NNG
+가능/NNG + 성/XSN + 을/JKO
+예고/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+탁아/NNG
+서비스/NNG
+업/NNG + 도/JX
+같/VA + 은/ETM
+맥락/NNG + 이/VCP + 다/EF + ./SF
+스키장/NNG + 과/JC
+영화관/NNG + ,/SP
+식당/NNG + ,/SP
+연주회장/NNG + 에/JKB + 는/JX
+어린애/NNG + 를/JKO
+맡/VV + 아/EC
+주/VX + 는/ETM
+곳/NNG + 이/JKS
+늘/VV + 고/EC
+있/VX + 다/EF + ./SF
+하나/NR + 뿐/JX + 이/VCP + ㄴ/ETM
+자녀/NNG
+때문/NNB + 에/JKB
+레저/NNG + 와/JC
+오락/NNG + 을/JKO
+즐기/VV + 지/EC
+못하/VX + 는/ETM
+젊/VA + 은/ETM
+부부/NNG + 들/XSN + 이/JKS
+고객/NNG + 이/VCP + 다/EF + ./SF
+갓난애/NNG + 를/JKO
+잠시/MAG
+맡기/VV + 러/EC
+놓/VX + 고/EC
+둘/NR + 만/JX + 의/JKG
+시간/NNG + 을/JKO
+갖/VV + 는/ETM
+것/NNB + ./SF
+여행지/NNG
+호텔/NNG + 에서/JKB
+실비/NNG + 만/JX
+받/VV + 고/EC
+고객/NNG + 들/XSN + 에게/JKB
+서비스/NNG + 하/XSV + 는/ETM
+곳/NNG + 도/JX
+있/VV + 지만/EC + ,/SP
+대개/NNG + 는/JX
+본격/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+탁아/NNG
+사업/NNG + 이/VCP + 다/EF + ./SF
+관광지/NNG + 에서/JKB + 는/JX
+낮/NNG + 시간/NNG + 만/JX
+어린애/NNG + 를/JKO
+맡/VV + 아/EC + 주/VX + ㄴ다/EF + ./SF
+여름/NNG
+휴가/NNG
+때/NNG + 이/VCP + 면/EC
+여행사/NNG + 들/XSN + 이/JKS
+판매/NNG
+경쟁/NNG + 을/JKO
+벌이/VV + 는/ETM
+것/NNB + 은/JX
+보모/NNG
+동행/NNG
+해외/NNG
+여행/NNG + ./SF
+젊/VA + 은/ETM
+부부/NNG + 를/JKO
+해외/NNG
+여행/NNG + 에/JKB
+끌어들이/VV + 기/ETN
+위하/VV + 아/EC
+아예/MAG
+보모/NNG + 를/JKO
+동행/NNG + 시키/XSV + 어/EC
+단체/NNG
+여행객/NNG + 을/JKO
+모집/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+아직/MAG
+자리/NNG + 잡/VV + 은/ETM
+비즈니스/NNG + 는/JX
+아니/VCN + 지만/EC
+고객/NNG + 들/XSN
+반응/NNG + 은/JX
+만점/NNG + ./SF
+어린애/NNG + 에게/JKB
+시달리/VV + ㄹ/ETM
+것/NNB + 을/JKO
+걱정/NNG + 하/XSV + 아/EC
+마음/NNG + 을/JKO
+내/VV + 지/EC
+못하/VX + 는/ETM
+부부/NNG + 에게/JKB + 는/JX
+편리/NNG + 하/XSA + ㄴ/ETM
+서비스/NNG + 이/VCP + 다/EF + ./SF
+보모/NNG + 를/JKO
+전문/NNG + 적/XSN + 으로/JKB
+공급/NNG + 하/XSV + 는/ETM
+회사/NNG + 까지/JX
+성업/NNG
+중/NNB + 이/VCP + 니/EC + ,/SP
+자녀/NNG + 에게서/JKB
+해방/NNG + 되/XSV + 는/ETM
+레저/NNG
+시대/NNG + 가/JKS
+다가오/VV + 고/EC
+있/VX + 다/EF + ./SF
+이/NP
+밖/NNG + 에/JKB
+일본/NNP + 에/JKB
+선보이/VV + ㄴ/ETM
+베이비/NNG
+비즈니스/NNG + 는/JX
+장식/NNG + 용/XSN
+귀금속품/NNG + ,/SP
+베이비/NNG
+향수/NNG + ,/SP
+베이비/NNG
+홍차/NNG + ,/SP
+가라오케/NNG
+등/NNB + ./SF
+베이비/NNG
+디스코테크/NNG + 도/JX
+들어서/VV + 었/EP + 으나/EC + ,/SP
+역시/MAG
+젊/VA + 은/ETM
+주부/NNG + 들/XSN + 이/JKS
+학생/NNG
+시절/NNG
+드나들/VV + 었/EP + 던/ETM
+디스고테크/NNG
+기분/NNG + 을/JKO
+더/MAG
+즐기/VV + 는/ETM
+경향/NNG + 이/VCP + 어서/EC
+주/MM + 고객/NNG + 은/JX
+주부/NNG + 이/VCP + 라는/ETM
+평가/NNG + 이/VCP + 다/EF + ./SF
+어린이/NNG
+디스코테크/NNG + 에/JKB + 는/JX
+대개/MAG
+어른/NNG + 들/XSN + 이/JKS
+디스코/NNG
+복장/NNG + 을/JKO
+하/VV + 고서/EC
+자녀/NNG + 들/XSN + 과/JKB
+찾아오/VV + ㄴ다는/ETM
+것/NNB + ./SF
+2/SN + 세/NNB
+이하/NNG
+어린애/NNG + 들/XSN + 에게/JKB
+일본어/NNP + 를/JKO
+가르치/VV + 는/ETM
+학원/NNG + 도/JX
+5/SN + 년/NNB
+만/NNB + 에/JKB
+수강자/NNG + 가/JKS
+5/SN + 배/NNG + 로/JKB
+늘/VV + 었/EP + 다/EF + ./SF
+외동딸/NNG + ./SP + 외동아들/NNG
+시대/NNG + 의/JKG
+비즈니스/NNG
+감각/NNG + 은/JX
+달라지/VV + ㄹ/ETM
+수/NNB + 밖에/JX
+없/VA + 다/EF + ./SF
+11/SN + ./SF
+화장지/NNG
+배달/NNG
+배달/NNG + 이/VCP + 라면/EC
+중국집/NNG
+자장면/NNG
+정도/NNG + 를/JKO
+생각/NNG + 하/XSV + 는/ETM
+한국/NNP + 이/VCP + 다/EF + ./SF
+기껏/MAG
+발전/NNG + 하/XSV + 아야/EC
+명절/NNG
+선물/NNG
+배달/NNG + 이나/JC
+백화점/NNG
+주문/NNG
+배달/NNG + 이/VCP + 다/EF + ./SF
+그러나/MAJ
+오사카/NNP + 에/JKB + 는/JX
+화장실/NNG
+휴지/NNG + 만/JX + 을/JKO
+가정/NNG
+배달/NNG + ,/SP
+짭짤/XR + 하/XSA + 게/EC
+돈/NNG + 을/JKO
+벌/VV + 고/EC
+있/VX + 는/ETM
+회사/NNG + 가/JKS
+있/VV + 다/EF + ./SF
+오사카/NNP
+홈/NNG
+사이/NNG + 이/VCP + 다/EF + ./SF
+아오야마/NNP + (/SS + 靑山隆之/SH + )/SS
+사장/NNG + 의/JKG
+아이디어/NNG + 는/JX
+얼핏/MAG
+단순/NNG + 하/XSA + 아/EC
+보이/VV + ㄴ다/EF + ./SF
+"/SS + 화장실/NNG
+휴지/NNG + 는/JX
+생활/NNG
+필수품/NNG
+중/NNB + 에서/JKB + 도/JX
+빼놓/VV + 기/ETN
+힘들/VA + ㄴ/ETM
+필수품/NNG + ./SF
+하지만/MAJ
+쇼핑/NNG
+때/NNG + 마다/JX
+부피/NNG + 가/JKS
+크/VA + 어서/EC
+귀찮/VA + 은/ETM
+존재/NNG + 이/VCP + 다/EF + ./SF
+들/VV + 고/EC
+다니/VV + 기/ETN
+불편/NNG + 하/XSA + 고/EC
+그것/NP + ㄹ/JKO
+챙기/VV + 다/EC
+보/VX + 면/EC
+다른/MM
+물건/NNG + 은/JX
+깜박/MAG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 다/EF + ./SF + "/SS
+그래서/MAJ
+집/NNG + 에/JKB
+배달/NNG + 하/XSV + 아/EC
+주/VX + 면/EC
+돈벌이/NNG + 가/JKC
+되/VV + 리라고/EC
+판단/NNG + 하/XSV + 았/EP + 다는/ETM
+것/NNB + ./SF
+화장실/NNG
+휴지/NNG
+사업/NNG + 의/JKG
+핵심/NNG + 은/JX
+배달/NNG
+비용/NNG + ,/SP
+휴지/NNG + 야말로/JX
+바겐/NNG
+세일/NNG
+단골/NNG
+상품/NNG + 이/VCP + 어서/EC
+원가/NNG + 를/JKO
+낮추/VV + 는/ETM
+데/NNB + 는/JX
+한계/NNG + 가/JKS
+있/VV + 다는/ETM
+것/NNB + ./SF
+경쟁자/NNG + 가/JKS
+많/VA + 아/EC
+상품/NNG
+자체/NNG + 에서/JKB
+나오/VV + 는/ETM
+이윤/NNG + 은/JX
+극히/MAG
+낮/VA + 은/ETM
+편/NNB + 이/VCP + 다/EF + ./SF
+아오야마/NNP
+사장/NNG + 은/JX
+부근/NNG
+운송/NNG + 회사/NNG + 를/JKO
+찾/VV + 아/EC
+다니/VV + 며/EC
+싼값/NNG + 에/JKB
+수송/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+영세/NNG
+배달/NNG + 업자/NNG + 를/JKO
+물색/NNG + ,/SP
+독자/NNG
+배달/NNG
+시스템/NNG + 을/JKO
+조직/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+수송료/NNG + 를/JKO
+낮추/VV + 지/EC
+않/VX + 으면/EC
+도저히/MAG
+바겐/NNG
+세일/NNG
+가격/NNG + 으로/JKB
+주부/NNG + 들/XSN + 을/JKO
+만족/NNG + 시키/XSV + ㄹ/ETM
+수/NNB
+없/VA + 다고/EC
+보/VV + 았/EP + 던/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+두/MM
+번/NNB + 째/XSN + 는/JX
+고정/NNG
+고객/NNG
+확보/NNG + 이/VCP + 다/EF + ./SF
+4/SN + 인/NNG
+가족/NNG + ,/SP
+3/SN + 인/NNG
+가족/NNG + 의/JKG
+소비량/NNG + 을/JKO
+측정/NNG + ,/SP
+정기/NNG + 적/XSN + 으로/JKB
+배달/NNG + 하/XSV + 아/EC
+주/VX + 는/ETM
+제도/NNG + 를/JKO
+도입/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+현재/MAG
+단골/NNG + 은/JX
+4/SN + 만/NR
+가구/NNG + ./SF
+한/MM
+달/NNG
+사용량/NNG + 을/JKO
+따지/VV + 어/EC
+대강/MAG
+2/SN + ,/SP + 700/SN + 엔/NNB + 씩/XSN
+받/VV + 고/EC
+자동/NNG
+공급/NNG + 하/XSV + 는/ETM
+식/NNB + 이/VCP + 다/EF + ./SF
+한꺼번에/MAG
+너무/MAG
+많/VA + 은/ETM
+양/NNG + 을/JKO
+배달/NNG + 하/XSV + 아/EC
+주/VX + 면/EC
+보관/NNG + 에/JKB
+애/NNG + 를/JKO
+먹/VV + 고/EC + ,/SP
+부족/NNG + 하/XSA + 면/EC
+비상/NNG
+걸리/VV + 는/ETM
+것/NNB + 이/JKS
+화장실/NNG
+휴지/NNG + 이/VCP + 다/EF + ./SF
+따라서/MAJ
+컴퓨터/NNG + 로/JKB
+각/MM
+가정/NNG
+소비량/NNG + 을/JKO
+정확히/MAG
+예측/NNG + 하/XSV + 는/ETM
+것/NNB + 도/JX
+중요/NNG + 하/XSA + ㄴ/ETM
+일/NNG + 이/VCP + 라고/EC
+하/VV + ㄴ다/EF + ./SF
+다음/NNG
+그/NP + 가/JKS
+착안/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 은/JX
+원가/NNG
+절감/NNG + ,/SP
+그/NP + 는/JX
+화장실/NNG
+휴지/NNG
+길이/NNG + 를/JKO
+두/MM
+배/NNG + 로/JKB
+늘리/VV + 어/EC
+원가/NNG + 를/JKO
+절감/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+정확히/MAG
+말/NNG + 하/XSV + 면/EC
+원가/NNG
+절감/NNG + 이/JKC
+아니/VCN + 라/EC + ,/SP
+배달/NNG
+비용/NNG
+절감/NNG
+전략/NNG + 이/VCP + 다/EF + ./SF
+길이/NNG + 가/JKS
+두/MM
+배/NNG + 로/JKB
+늘어나/VV + 는/ETM
+화장실/NNG
+휴지/NNG
+덕분/NNG + 에/JKB
+두/MM
+번/NNB
+배달/NNG + 길/NNG + 을/JKO
+한/MM
+번/NNB + 으로/JKB
+줄이/VV + 었/EP + 던/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+지금/NNG + 은/JX
+다른/MM
+회사/NNG
+제품/NNG + 보다/JKB
+2/SN + 배/NNG
+길이/NNG + 의/JKG
+고급/NNG
+화장실/NNG
+휴지/NNG + 를/JKO
+공장/NNG + 에/JKB
+주문/NNG + ,/SP
+자기/NP
+상표/NNG + 로/JKB
+공급/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+화장실/NNG
+휴지/NNG
+배달업/NNG + 은/JX
+주부/NNG + 들/XSN + 의/JKG
+인기/NNG + 를/JKO
+불러일으키/VV + 었/EP + 다/EF + ./SF
+지나/VV + ㄴ/ETM
+'/SS + 83/SN + 년/NNB
+첫해/NNG
+연간/NNG
+2/SN + ,/SP + 000/SN + 만/NR
+엔/NNB
+정도/NNG
+매출/NNG + 을/JKO
+예상/NNG + 하/XSV + 았/EP + 으나/EC + ,/SP
+의외로/MAG
+1/SN + 억/NR
+엔/NNB
+이상/NNG
+매상/NNG + 을/JKO
+올리/VV + 었/EP + 다/EF + ./SF
+3/SN + 년/NNB
+전/NNG + 부터/JX + 는/JX
+화장실/NNG
+휴지/NNG
+외/NNB + 에/JKB
+화장지/NNG + ,/SP
+세제/NNG + ,/SP
+종이/NNG
+기저귀/NNG + ,/SP
+생리/NNG + 용품/NNG + 까지/JX
+사업/NNG
+영역/NNG + 을/JKO
+확대/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+고객/NNG + 들/XSN + 의/JKG
+주문/NNG
+때문/NNB + 에/JKB
+확대/NNG + 하/XSV + 지/EC
+않/VX + 을/ETM
+수/NNB
+없/VA + 을/ETM
+지경/NNB + 이/VCP + 었/EP + 다고/EC
+하/VV + ㄴ다/EF + ./SF
+그/NP + 는/JX
+원래/NNG
+사무실/NNG + 과/JC
+공장/NNG + 에/JKB
+화장실/NNG
+휴지/NNG + 를/JKO
+공급/NNG + 하/XSV + 다가/EC + ,/SP
+한계/NNG + 를/JKO
+느끼/VV + 고/EC
+가정/NNG
+배달/NNG + 을/JKO
+시작/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+26/SN + 세/NNB
+때/NNG + 부터/JX
+화장실/NNG
+휴지/NNG + 만/JX + 을/JKO
+취급/NNG + 하/XSV + ㄴ/ETM
+'/SS + 휴지/NNG
+인생/NNG + '/SS + 이/VCP + 라지만/EC + ,/SP
+사업/NNG + 은/JX
+매년/MAG
+급성장/NNG + ,/SP
+10/SN + 명/NNB + 의/JKG
+종업원/NNG + 이/JKS
+10/SN + 억/NR
+엔/NNB
+매출/NNG + 을/JKO
+올리/VV + 고/EC
+있/VX + 다/EF + ./SF
+화장실/NNG
+휴지/NNG + 는/JX
+계절/NNG + 과/JC
+유행/NNG + 을/JKO
+타/VV + 지/EC
+않/VX + 는다는/ETM
+점/NNB + 이/JKS
+그/NP + 가/JKS
+이/MM
+사업/NNG + 의/JKG
+장래/NNG + 를/JKO
+확신/NNG + 하/XSV + 는/ETM
+근거/NNG + 이/VCP + 다/EF + ./SF
+사장/NNG
+임기/NNG + 는/JX
+몇/MM
+년/NNB + 이/JKS
+적합/NNG + 하/XSA + ㄹ까/EF + ./SF
+종합/NNG
+전자/NNG
+메이커/NNG
+히타치/NNP
+제작소/NNG + 가/JKS
+10/SN + 년/NNB
+만/NNB + 에/JKB
+사장/NNG + 을/JKO
+교체/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+히타치/NNP + 의/JKG
+미타/NNP + (/SS + 三田勝茂/SH + )/SS
+사장/NNG + 은/JX
+'/SS + 91/SN + 년/NNB
+봄/NNG
+후임/NNG
+사장/NNG + 에/JKB
+가나이/NNP + (/SS + 金井務/SH + )/SS
+부사장/NNG + 을/JKO
+지명/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+미타/NNP
+사장/NNG + 은/JX
+"/SS + 10/SN + 년/NNB
+전/NNG + 에/JKB
+비하/VV + 아/EC
+회사/NNG + 의/JKG
+역점/NNG
+제품/NNG + 도/JX
+달라지/VV + 었/EP + 다/EF + ./SF
+일/NNG + 하/XSV + 는/ETM
+방식/NNG + 이나/JC
+생각/NNG + 하/XSV + 는/ETM
+방식/NNG + 이/JKS
+달라지/VV + 지/EC
+않/VX + 으면/EC
+안/MAG
+되/VV + ㄴ다/EC + "/SS + 고/JKQ
+사임/NNG
+이유/NNG + 를/JKO
+밝히/VV + 었/EP + 다/EF + ./SF
+히타치/NNP + 의/JKG
+사장/NNG
+정년/NNG + 으로/JKB
+통용/NNG + 되/XSV + 어/EC
+오/VX + ㄴ/ETM
+70/SN + 세/NNB + 를/JKO
+3/SN + 년/NNB
+앞두/VV + 고/EC
+10/SN + 년/NNB
+만/NNB + 에/JKB
+물러나/VV + ㄹ/ETM
+것/NNB + 을/JKO
+선언/NNG + 하/XSV + 았/EP + 던/ETM
+것/NNB + ./SF
+이/NP + 로써/JKB
+'/SS + 사장/NNG
+임기/NNG + 는/JX
+10/SN + 년/NNB + 이/JKS
+적합/NNG + '/SS + 이/VCP + 라는/ETM
+히타치/NNP + 의/JKG
+전통/NNG + 은/JX
+다시/MAG
+확인/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+후임/NNG
+사장/NNG + 에/JKB
+취임/NNG + 하/XSV + ㄴ/ETM
+가나이/NNP
+사장/NNG + 은/JX
+미타/NNP
+전임/NNG
+사장/NNG + 과/JKB
+콤비/NNG + 로/JKB
+경영/NNG
+전선/NNG + 에서/JKB
+활약/NNG + 하/XSV + 아/EC
+오/VX + ㄴ/ETM
+기술자/NNG
+출신/NNG + ./SF
+그/NP + 는/JX
+히타치/NNP
+연구소/NNG + 에서/JKB
+원자로/NNG
+국산/NNG + 화/XSN
+작업/NNG + 을/JKO
+맡/VV + 았/EP + 던/ETM
+공학/NNG
+박사/NNG
+기술자/NNG + 이/VCP + 었/EP + 으나/EC + ,/SP
+10/SN + 년/NNB
+전/NNG
+미타/NNP
+사장/NNG + 이/JKS
+공장장/NNG + 으로/JKB
+발탁/NNG + 하/XSV + 면서/EC
+경영인/NNG + 으로/JKB
+변신/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이후/NNG
+전력/NNG
+사업/NNG
+본부장/NNG + 과/JKB
+해외/NNG
+사업/NNG
+총괄/NNG
+본부장/NNG
+등/NNB + 을/JKO
+역임/NNG + 하/XSV + 면서/EC
+경영/NNG
+수완/NNG + 을/JKO
+익히/VV + 었/EP + 고/EC
+5/SN + 년/NNB
+전/NNG + 부터/JX
+선배/NNG
+임원/NNG + 들/XSN + 을/JKO
+제치/VV + 고/EC
+사장/NNG
+후보/NNG
+물망/NNG + 에/JKB
+오르/VV + 았/EP + 다/EF + ./SF
+취미/NNG + 는/JX
+드라이빙/NNG + 이/VCP + 며/EC + ,/SP
+토도어/NNG
+스카이라인/NNG + 을/JKO
+몰/VV + 고/EC
+다니/VV + 는/ETM
+것/NNB + 을/JKO
+특히/MAG
+좋아하/VV + ㄴ다/EF + ./SF
+12/SN + ./SF
+투어컨/NNG + 과/JC
+여행/NNG
+보조원/NNG
+외국인/NNG + ,/SP + 이/JKS
+듣/VV + 어서/EC
+잘/MAG
+모르/VV + ㄹ/ETM
+일본어/NNP
+중/NNB
+하나/NR + 가/JKS
+투어컨/NNG + ./SF
+투어/NNG
+컨덕터/NNG + (/SS + tour/SL
+conductor/SL + )/SS + ,/SP
+여행/NNG
+연출가/NNG + 를/JKO
+그렇/VA + 게/EC
+부르/VV + ㄴ다/EF + ./SF
+매년/MAG
+1/SN + ,/SP + 000/SN + 만/NR
+명/NNB + 이/JKS
+출국/NNG + 하/XSV + 는/ETM
+해외/NNG
+여행/NNG
+시대/NNG + 를/JKO
+맞/VV + 아/EC
+각광/NNG + 을/JKO
+받/VV + 고/EC
+있/VX + 는/ETM
+직업/NNG + 이/VCP + 다/EF + ./SF
+투어컨/NNG + 은/JX
+단순/NNG + 하/XSA + ㄴ/ETM
+가이드/NNG + 와/JKB + 는/JX
+다르/VA + 다/EF + ./SF
+고객/NNG + 들/XSN + 의/JKG
+의견/NNG + 을/JKO
+듣/VV + 고/EC
+자신/NNG + 의/JKG
+아이디어/NNG + 를/JKO
+섞/VV + 어/EC
+독특/NNG + 하/XSA + ㄴ/ETM
+여행/NNG
+상품/NNG + 을/JKO
+제공/NNG + 하/XSV + 는/ETM
+일/NNG + 이/VCP + 다/EF + ./SF
+판/NNG + 에/JKB
+박히/VV + ㄴ/ETM
+단체/NNG
+여행/NNG + 보다/JKB + 는/JX
+다른/MM
+분위기/NNG + 를/JKO
+기대/NNG + 하/XSV + 는/ETM
+여행자/NNG
+심리/NNG + 를/JKO
+판매/NNG
+전략/NNG + 에/JKB
+채용/NNG + 하/XSV + ㄴ/ETM
+것/NNB + ./SF
+연령/NNG + 과/JC
+직업/NNG + 에/JKB
+따르/VV + 아/EC
+고객/NNG + 을/JKO
+분류/NNG + ,/SP
+해외/NNG
+여행/NNG
+때/NNG
+통역/NNG + 은/JX
+물론/MAG + ,/SP
+관광지/NNG
+설명/NNG + ,/SP
+여행/NNG
+중/NNB
+생일/NNG
+파티/NNG + ,/SP
+골프장/NNG
+순회/NNG
+등/NNB
+기억/NNG + 에/JKB
+남/VV + 을/ETM
+스케줄/NNG + 을/JKO
+만들/VV + 어/EC
+실현/NNG + 시키/XSV + ㄴ다/EF + ./SF
+물론/MAG
+대형/NNG
+여행사/NNG
+가이드/NNG + 들/XSN + 은/JX
+대부분/NNG
+투어컨/NNG + 이/VCP + 랄/ETM
+수/NNB
+있/VV + 지만/EC + ,/SP
+보통/NNG
+사람/NNG + 들/XSN + 이/JKS
+자격/NNG + 을/JKO
+얻/VV + 어/EC + (/SS + 자격/NNG
+시험/NNG + 이/JKS
+있/VV + 다/EC + )/SS
+아르바이트/NNG + 로/JKB
+이/MM
+사업/NNG + 을/JKO
+택하/VV + 기/ETN + 도/JX
+하/VX + ㄴ다/EF + ./SF
+예/NNG + 를/JKO
+들/VV + 어/EC
+휴가/NNG + 를/JKO
+이용/NNG + 하/XSV + 아/EC
+주변/NNG
+사람/NNG + 들/XSN + 을/JKO
+모으/VV + 아/EC
+해외/NNG
+여행/NNG + 을/JKO
+떠나/VV + 는/ETM
+준/XPN
+프로/NNG
+사업/NNG + 이/VCP + 다/EF + ./SF
+투어컨/NNG
+사업/NNG + 의/JKG
+최고/NNG
+중요/NNG + 하/XSA + ㄴ/ETM
+재산/NNG + 은/JX
+고객/NNG
+명단/NNG + ,/SP
+해외/NNG
+여행/NNG + 을/JKO
+떠나/VV + ㄹ/ETM
+정도/NNG + 의/JKG
+상류/NNG + 층/XSN
+명단/NNG + 은/JX
+한/MM
+곳/NNG + 에서/JKB
+한꺼번에/MAG
+구하/VV + 기/ETN
+힘들/VA + ㄴ/ETM
+보물/NNG + 이/VCP + 다/EF + ./SF
+유명/NNG + 하/XSA + ㄴ/ETM
+투어컨/NNG + 들/XSN + 은/JX
+여행사/NNG + 를/JKO
+옮기/VV + ㄹ/ETM
+때/NNG + 마다/JX
+자기/NP
+고객/NNG
+명단/NNG + 을/JKO
+옮기/VV + 어/EC + 가/VX + ㄴ다/EF + ./SF
+회사/NNG + 들/XSN + 끼리/XSN
+투어컨/NNG
+스카우트/NNG
+목적/NNG + 도/JX
+바로/MAG
+단골/NNG
+여행객/NNG
+명단/NNG + 이/VCP + 다/EF + ./SF
+'/SS + 처음/NNG
+출발/NNG + 시키/XSV + 기/ETN + 는/JX
+어렵/VA + 어도/EC
+두/MM
+번/NNB + 째/XSN + 부터/JX + 는/JX
+정말/MAG
+팔/VV + 기/ETN
+쉽/VA + ㄴ/ETM
+것/NNB + 이/JKS
+여행/NNG
+상품/NNG + '/SS + 이/VCP + 라는/ETM
+판단/NNG
+때문/NNB + 이/VCP + 다/EF + ./SF
+일본/NNP + 에서/JKB + 는/JX
+대형/NNG
+여행사/NNG + 들/XSN + 은/JX
+모두/MAG
+투어컨/NNG + 을/JKO
+채용/NNG + 하/XSV + 고/EC
+있/VX + 지만/EC + ,/SP
+두세/MM
+명/NNB
+직원/NNG + 을/JKO
+데리/VV + 고/EC
+투어컨/NNG
+사업/NNG + 을/JKO
+하/VV + 는/ETM
+미니/NNG
+업자/NNG + 도/JX
+적/VA + 지/EC
+않/VX + 다/EF + ./SF
+여행사/NNG + 가/JKS
+전국/NNG + 에/JKB
+2/SN + ,/SP + 000/SN + 개/NNB + 가/JKS
+넘/VV + 는/ETM
+이유/NNG + 도/JX
+이/MM
+때문/NNB + 이/VCP + 다/EF + ./SF
+해외/NNG
+여행/NNG + 과/JKB
+관련/NNG + 하/XSV + ㄴ/ETM
+또/MAG
+다른/MM
+비즈니스/NNG + 는/JX
+투어/NNG
+어시스턴트/NNG + ./SF
+굳이/MAG
+번역/NNG + 하/XSV + 자면/EC
+여행/NNG
+보조/NNG + 사업/NNG + 이/VCP + 랄까/EF + ./SF
+보통/NNG
+여행사/NNG + 이/VCP + 라면/EC
+비행기/NNG
+표/NNG + 와/JC
+호텔/NNG
+예약/NNG + ,/SP
+교통편/NNG
+제공/NNG + ,/SP
+관광지/NNG
+가이드/NNG + ,/SP
+단체/NNG
+식사/NNG
+정도/NNG + 에서/JKB
+서비스/NNG + 가/JKS
+끝나/VV + ㄴ다/EF + ./SF
+하지만/MAJ
+문제/NNG + 는/JX
+예/NNG + 를/JKO
+들/VV + 어/EC
+사고/NNG + 가/JKS
+나/VV + 았/EP + 을/ETM
+때/NNG + ,/SP
+여권/NNG + 을/JKO
+잃/VV + 어/EC
+버리/VX + 거나/EC
+병/NNG + 이/JKS
+나/VV + 았/EP + 을/ETM
+때/NNG + ,/SP
+개인/NNG
+여행/NNG
+중/NNB
+호텔/NNG
+예약/NNG + 이/JKS
+곤란/NNG + 하/XSA + ㄹ/ETM
+때/NNG + ,/SP
+통역/NNG + 이/JKS
+없/VA + 어/EC
+상담/NNG + 이/JKC
+안/MAG
+되/VV + ㄹ/ETM
+때/NNG
+등/NNB + ,/SP
+이런/MM
+여행/NNG
+중/NNB
+'/SS + 비상/NNG
+사태/NNG + '/SS + 를/JKO
+상품/NNG + 화/XSN + 하/XSV + ㄴ/ETM
+것/NNB + 이/JKS
+투어/NNG
+어시스턴트/NNG
+업종/NNG + 이/VCP + 다/EF + ./SF
+프레스티지/NNP
+인터내셔널/NNG
+사/NNG + 는/JX
+세계/NNG
+12/SN + 개/NNB
+지역/NNG + 에/JKB
+지점/NNG + 을/JKO
+갖/VV + 고/EC + ,/SP
+여행객/NNG + 들/XSN + 에게/JKB
+통역사/NNG
+제공/NNG + ,/SP
+호텔/NNG + ·/SP + 식당/NNG
+예약/NNG + ,/SP
+긴급/NNG
+번역/NNG
+등/NNB + 의/JKG
+사업/NNG + 을/JKO
+전개/NNG
+중/NNB + 이/VCP + 다/EF + ./SF
+구급/NNG
+의료/NNG + 와/JC
+시체/NNG
+처리/NNG
+등/NNB
+개인/NNG + 이나/JC
+회사/NNG
+차원/NNG + 에서/JKB
+처리/NNG + 하/XSV + 기/ETN
+곤란/NNG + 하/XSA + ㄴ/ETM
+일/NNG + 들/XSN + 도/JX
+맡/VV + 아/EC
+처리/NNG + 하/XSV + 아/EC
+주/VX + 고/EC
+있/VX + 다/EF + ./SF
+투어/NNG
+어시스턴트/NNG
+회사/NNG + 는/JX
+해외/NNG
+부임자/NNG + 들/XSN + 에게/JKB
+현지/NNG
+생활/NNG
+풍습/NNG + 과/JC
+법률/NNG + 을/JKO
+조언/NNG + 하/XSV + 는/ETM
+일/NNG + 도/JX
+맡/VV + 고/EC
+있/VX + 다/EF + ./SF
+특히/MAG
+주재지/NNG + 에서/JKB
+주택/NNG + 을/JKO
+구하/VV + 아/EC
+주/VX + 고/EC
+계약/NNG + 을/JKO
+완료/NNG + 하/XSV + 아/EC
+주/VX + 는/ETM
+서비스/NNG + 까지/JX
+영업/NNG
+범위/NNG + 는/JX
+점점/MAG
+넓/VA + 어/EC + 지/VX + 고/EC
+있/VX + 다/EF + ./SF
+중소/NNG
+여행사/NNG + 들/XSN + 이/JKS
+난립/NNG + 하/XSV + ㄴ/ETM
+한국/NNP + 에서/JKB
+이/NP
+같/VA + 은/ETM
+사업/NNG + 을/JKO
+누구/NP + 나/JX
+하/VV + ㄹ/ETM
+수/NNB
+있/VV + 을/ETM
+것/NNB
+같/VA + 지만/EC + ,/SP
+일본/NNP + 에서/JKB + 는/JX
+일본/NNP
+교통/NNG
+공사/NNG
+회사/NNG + (/SS + JTB/SL + )/SS + 가/JKS
+부대/NNG
+사업/NNG + 으로/JKB
+투어/NNG
+어시스턴트/NNG
+업/NNG + 을/JKO
+하/VV + 는/ETM
+상황/NNG + 이/VCP + 다/EF + ./SF
+국제/NNG
+네트워크/NNG + 가/JKS
+필요/NNG + 하/XSA + ㄴ/ETM
+사업/NNG + 이/VCP + 다/EF + ./SF
+13/SN + ./SF
+짐/NNG
+보관/NNG + ,/SP
+트렁크/NNG
+룸/NNG
+뉴/NNG
+비즈니스/NNG + 이/VCP + 라기/ETN
+어렵/VA + ㄴ/ETM
+뉴/NNG
+비즈니스/NNG + 가/JKS
+있/VV + 다/EF + ./SF
+창고업/NNG + 이/VCP + 다/EF + ./SF
+일본/NNP + 에서/JKB + 는/JX
+트렁크/NNG
+룸/NNG + 이/VCP + 라고/EC
+부르/VV + 는/ETM
+사업/NNG + 이/VCP + 다/EF + ./SF
+대형/NNG
+회사/NNG + 만/JX
+150/SN + 개/NNB + 나/JX
+되/VV + ㄴ다/EF + ./SF
+트렁크/NNG
+룸/NNG
+사업/NNG + 의/JKG
+성장/NNG + 성/XSN + 은/JX
+이례/NNG + 적/XSN + 이/VCP + 다/EF + ./SF
+'/SS + 90/SN + 년/NNB
+성장/NNG + 률/XSN
+32/SN + %/SW + 이/VCP + 었/EP + 다/EF + ./SF
+취급/NNG
+건수/NNG + 는/JX
+26/SN + 만/NR
+3/SN + ,/SP + 600/SN + 건/NNB + ./SF
+내용/NNG + 을/JKO
+분석/NNG + 하/XSV + 아/EC
+보/VX + 면/EC
+재미있/VA + 다/EF + ./SF
+이/MM
+중/NNB
+85/SN + %/SW
+이상/NNG + 은/JX
+법인/NNG
+고객/NNG + 이/JKS
+맡기/VV + ㄴ/ETM
+것/NNB + 이/VCP + 고/EC + ,/SP
+나머지/NNG + 는/JX
+개인/NNG + 이/VCP + 다/EF + ./SF
+회사/NNG + 에서/JKB
+트렁크/NNG
+룸/NNG + 에/JKB
+맡기/VV + 는/ETM
+것/NNB + 은/JX
+대부분/NNG
+서류/NNG + ./SF
+사무실/NNG
+서류/NNG + 는/JX
+쌓이/VV + 는데/EC + ,/SP
+중심지/NNG
+임대료/NNG + 는/JX
+폭등/NNG + 하/XSV + 는/ETM
+현실/NNG + 이/VCP + 다/EF + ./SF
+누구/NP + 이/VCP + ㄴ가/EC
+변두리/NNG + 와/JC
+지방/NNG + 에/JKB
+거대/NNG + 하/XSA + ㄴ/ETM
+창고/NNG + 를/JKO
+설비/NNG + ,/SP
+이곳/NP + 에서/JKB
+서류/NNG + 를/JKO
+맡/VV + 아/EC
+주/VX + 면/EC
+서류/NNG
+보관/NNG + 에/JKB
+필요/NNG + 하/XSA + ㄴ/ETM
+비용/NNG + 을/JKO
+절감/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 다/EF + ./SF
+이/MM
+때문/NNB + 에/JKB
+대/XPN + 기업/NNG + 들/XSN
+중/NNB
+상당수/NNG + 는/JX
+트렁크/NNG
+룸/NNG
+회사/NNG + 를/JKO
+설립/NNG + ,/SP
+회사/NNG
+서류/NNG + 를/JKO
+싼값/NNG + 에/JKB
+보관/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+트렁크/NNG
+룸/NNG
+회사/NNG + 를/JKO
+개인/NNG + 이/JKS
+운용/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+여지/NNB + 는/JX
+많/VA + 다/EF + ./SF
+의외/NNG + 의/JKG
+고객/NNG + 층/XSN + 이/JKS
+강/XR + 하/XSA + 다/EF + ./SF
+장기/NNG
+해외/NNG
+근무/NNG + 하/XSV + 는/ETM
+사람/NNG + 이/JKS
+이삿짐/NNG + ,/SP
+지방/NNG
+근무/NNG + 를/JKO
+떠나/VV + 는/ETM
+월급/NNG + 쟁이/XSN + ,/SP
+경비/NNG + 가/JKS
+허술/XR + 하/XSA + ㄴ/ETM
+아파트/NNG + 에/JKB
+그냥/MAG
+두/VV + 기/ETN
+어렵/VA + ㄴ/ETM
+골동품/NNG + 과/JC
+미술품/NNG + ./SF
+이런/MM
+것/NNB + 들/XSN + 이/JKS
+트렁크/NNG
+룸/NNG
+시장/NNG + 의/JKG
+수요자/NNG + 이/VCP + 다/EF + ./SF
+근무지/NNG + 를/JKO
+옮기/VV + 는/ETM
+샐러리맨/NNG + 들/XSN + 은/JX
+누구/NP + 나/JX
+버리/VV + ㄹ/ETM
+수/NNB + 도/JX
+팔/VV + ㄹ/ETM
+수/NNB + 도/JX
+없/VA + 고/EC + ,/SP
+그렇/VA + 다고/EC
+거대/NNG + 하/XSA + ㄴ/ETM
+짐/NNG + 을/JKO
+친구/NNG + 와/JC
+친척/NNG
+집/NNG + 에/JKB
+보관/NNG + 하/XSV + 아/EC
+달/VX + 라고/EC
+부탁/NNG + 하/XSV + 기/ETN
+힘들/VA + ㄴ/ETM
+처지/NNG + 이/VCP + 다/EF + ./SF
+트렁크/NNG
+룸/NNG
+사업/NNG + 은/JX
+보관/NNG
+장소/NNG + 를/JKO
+물색/NNG + 하/XSV + 는/ETM
+것/NNB + 이/JKS
+무엇/NP + 보다/JKB
+중요/NNG + 하/XSA + 다/EF + ./SF
+거대/NNG
+자본/NNG + 을/JKO
+투입/NNG + ,/SP
+창고/NNG + 를/JKO
+건설/NNG + 하/XSV + 면/EC
+좋/VA + 지만/EC + ,/SP
+그렇/VA + ㄹ/ETM
+만/NNB + 하/XSA + ㄴ/ETM
+자본/NNG + 이/JKS
+없/VA + 을/ETM
+때/NNG + 는/JX
+비/VV + ㄴ/ETM
+집/NNG + 과/JC
+비/VV + ㄴ/ETM
+창고/NNG + 를/JKO
+구하/VV + 아야/EC
+하/VX + ㄴ다/EF + ./SF
+문/NNG
+닫/VV + 은/ETM
+공장/NNG + 도/JX
+좋/VA + 고/EC + ,/SP
+가족/NNG
+수/NNG
+적/VA + 은/ETM
+가정/NNG + 의/JKG
+비/VV + ㄴ/ETM
+방/NNG + 을/JKO
+찾/VV + 아도/EC
+좋/VA + 다/EF + ./SF
+그렇지만/MAJ
+화재/NNG + 와/JC
+도난/NNG + ,/SP
+온도/NNG
+등/NNB + 의/JKG
+대책/NNG + 이/JKS
+있/VV + 어야/EC
+하/VX + ㄴ다/EF + ./SF
+맡/VV + 은/ETM
+짐/NNG + 이/JKS
+없/VA + 어/EC + 지/VX + 었/EP + 을/ETM
+때/NNG + 를/JKO
+대비/NNG + 하/XSV + ㄴ/ETM
+보험/NNG + 도/JX
+필수/NNG + 적/XSN + 이/VCP + 다/EF + ./SF
+이/NP
+같/VA + 은/ETM
+골치/NNG
+아프/VA + ㄴ/ETM
+문제/NNG + 가/JKS
+한국/NNP + 에서/JKB
+본격/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+트렁크/NNG
+룸/NNG
+회사/NNG + 의/JKG
+출현/NNG + 을/JKO
+막/VV + 고/EC
+있/VX + 다/EF + ./SF
+하지만/MAJ
+수익/NNG + 성/XSN + 은/JX
+무척/MAG
+높/VA + 다/EF + ./SF
+보관료/NNG + 는/JX
+주택/NNG + 이나/JC
+사무실/NNG
+임대료/NNG + 보다/JKB
+조금/NNG + 만/JX
+싸/VA + 면/EC
+맡기/VV + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+예/NNG + 를/JKO
+들/VV + 어/EC
+해외/NNG
+근무/NNG + 를/JKO
+떠나/VV + 면서/EC
+자기/NP
+아파트/NNG
+방/NNG
+하나/NR + 에/JKB
+짐/NNG + 을/JKO
+넣/VV + 어/EC
+두/VX + 는/ETM
+것/NNB + 보다/JKB
+보관료/NNG + 가/JKS
+조금/NNG + 만/JX
+싸/VA + 아도/EC
+트렁크/NNG
+룸/NNG + 을/JKO
+찾/VV + 게/EC
+되/VV + 어/EC
+있/VX + 다/EF + ./SF
+따라서/MAJ
+트렁크/NNG
+룸/NNG
+회사/NNG + 들/XSN + 은/JX
+창고/NNG + 를/JKO
+값싸/VA + 게/EC
+구하/VV + ㄹ수록/EC
+수익/NNG + 성/XSN + 을/JKO
+높이/VV + ㄹ/ETM
+수/NNB
+있/VV + 게/EC
+되/VV + ㄴ다/EF + ./SF
+본격/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+트렁크/NNG
+룸/NNG + 은/JX
+미쓰이/NNP
+그룹/NNG
+등/NNB + 이/JKS
+경영/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+안전/NNG
+장치/NNG + 가/JKS
+완벽/NNG + 하/XSA + 아/EC
+값비싸/VA + ㄴ/ETM
+그림/NNG + 과/JC
+보석/NNG + 류/XSN + 를/JKO
+보관/NNG + 하/XSV + 아/EC
+주/VX + 고/EC
+수수료/NNG + 를/JKO
+받/VV + 는/ETM
+식/NNB + 이/VCP + 다/EF + ./SF
+이삿짐/NNG + 을/JKO
+컨테이너/NNG + 에/JKB
+넣/VV + 어/EC
+통째/NNG + 로/JKB
+보관/NNG + 하/XSV + ㄴ/ETM
+뒤/NNG
+해외/NNG
+근무/NNG + 를/JKO
+마치/VV + 고/EC
+귀국/NNG + 하/XSV + 면/EC
+원래/NNG
+포장/NNG
+그대로/MAG
+꺼내/VV + 어/EC
+주/VX + 는/ETM
+서비스/NNG
+업/NNG + 이/VCP + 다/EF + ./SF
+해외/NNG
+근무자/NNG + 가/JKS
+늘/VV + 고/EC + ,/SP
+주택/NNG + ·/SP + 사무실/NNG
+임대료/NNG + 가/JKS
+상승/NNG + 하/XSV + ㄹ수록/EC
+사업/NNG + 화/XSN
+가능/NNG + 성/XSN + 이/JKS
+높/VA + 은/ETM
+비즈니스/NNG + 이/VCP + 다/EF + ./SF
+14/SN + ./SF
+어른/NNG + 을/JKO
+위하/VV + ㄴ/ETM
+독서실/NNG
+회원/NNG + 제/XSN
+유료/NNG
+도서관/NNG + 은/JX
+일종/NNG + 의/JKG
+성인/NNG
+독서실/NNG + 이/VCP + 다/EF + ./SF
+조그맣/VA + ㄴ/ETM
+공간/NNG + 을/JKO
+성인/NNG + 들/XSN + 에게/JKB
+빌리/VV + 어/EC
+주/VX + 고/EC
+이용료/NNG + (/SS + 회비/NNG + )/SS + 를/JKO
+징수/NNG + 하/XSV + 는/ETM
+사업/NNG + 이/VCP + 다/EF + ./SF
+오사카/NNP + 에/JKB
+회원/NNG + 제/XSN
+유료/NNG
+도서관/NNG + 이/JKS
+처음/NNG
+등장/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 은/JX
+'/SS + 91/SN + 년/NNB
+5/SN + 월/NNB + ./SF
+MS/SL
+스파티오구마다/NNP + 이/VCP + 라는/ETM
+회사/NNG + 가/JKS
+부동산/NNG
+임대업/NNG + 으로/JKB
+개발/NNG + 하/XSV + ㄴ/ETM
+신/XPN + 상품/NNG + 이/VCP + 다/EF + ./SF
+5/SN + 층/NNG + 짜리/XSN
+빌딩/NNG
+130/SN + 평/NNB + 은/JX
+이름/NNG
+그대로/MAG
+신간/NNG
+서적/NNG
+수백/NR
+권/NNB + 이/JKS
+준비/NNG + 되/XSV + ㄴ/ETM
+도서관/NNG + 이/VCP + 다/EF + ./SF
+1/SN + 층/NNG + 은/JX
+로비/NNG
+겸/NNB
+휴게실/NNG + ,/SP
+슬리퍼/NNG + 를/JKO
+신고서/NNG
+카펫/NNG
+깔리/VV + ㄴ/ETM
+방/NNG + 에서/JKB
+조용히/MAG
+잡지/NNG + 와/JC
+신문/NNG + 을/JKO
+읽/VV + 을/ETM
+수/NNB
+있/VV + 다/EF + ./SF
+2/SN + 층/NNG + 은/JX
+도서/NNG
+대출실/NNG + ,/SP
+최신/NNG
+서적/NNG + 을/JKO
+책꽂이/NNG + 에서/JKB
+마음대로/MAG
+꺼내/VV + 어/EC
+읽/VV + 을/ETM
+수/NNB
+있/VV + 게/EC
+배치/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+3/SN + 층/NNG + 부터/JX
+5/SN + 층/NNG + 에/JKB + 는/JX
+독실/NNG + 이/JKS
+44/SN + 개/NNB
+있/VV + 다/EF + ./SF
+1/SN + 평/NNB
+남짓/NNB + 하/XSA + ㄴ/ETM
+면적/NNG + 을/JKO
+칸막이/NNG
+하/VV + 아/EC
+놓/VX + 고서/EC
+혼자/NNG + 서/JKS
+조용히/MAG
+책/NNG + 을/JKO
+읽/VV + 을/ETM
+수/NNB
+있/VV + 게/EC
+만들/VV + 었/EP + 다/EF + ./SF
+물론/MAG
+조명/NNG + 은/JX
+완비/NNG + ,/SP
+책상/NNG
+앞/NNG + 에서/JKB
+글/NNG + 을/JKO
+쓰/VV + ㄹ/ETM
+수/NNB + 도/JX
+있/VV + 다/EF + ./SF
+성인/NNG
+회원/NNG + 을/JKO
+감안/NNG + ,/SP
+방/NNG + 마다/JX
+울리/VV + 지/EC
+않/VX + 는/ETM
+전화/NNG + 를/JKO
+가설/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+얼핏/MAG
+학생/NNG + 용/XSN
+독서실/NNG + 이/JKS
+호화/NNG + 롭/XSA + 게/EC
+장식/NNG + 되/XSV + ㄴ/ETM
+것/NNB + 을/JKO
+연상/NNG + 시키/XSV + 는/ETM
+분위기/NNG + 이/VCP + 다/EF + ./SF
+가입비/NNG + 는/JX
+6/SN + 만/NR
+엔/NNB + 이/VCP + 고/EC + ,/SP
+월/NNG
+회비/NNG + 는/JX
+6/SN + ,/SP + 000/SN + 엔/NNB + 이/VCP + 다/EF + ./SF
+도서관/NNG
+내/NNB + 에서/JKB
+책/NNG + 의/JKG
+대출/NNG
+요금/NNG + 은/JX
+받/VV + 지/EC
+않/VX + 는다/EF + ./SF
+다만/MAG
+집/NNG + 으로/JKB
+대출/NNG + 하/XSV + 아/EC
+가/VV + 면/EC
+1/SN + 주일/NNB + 에/JKB
+1/SN + 권/NNB + 당/XSN
+200/SN + 엔/NNB + ./SF
+유료/NNG
+도서관/NNG
+내/NNB + 에/JKB + 는/JX
+워드/NNG
+프로세서/NNG + ,/SP
+비디오/NNG
+등/NNB + 이/JKS
+있/VV + 어/EC
+이/NP + 를/JKO
+이용/NNG + 하/XSV + 면/EC
+별도/NNG
+요금/NNG + 을/JKO
+받/VV + 는다/EF + ./SF
+사업/NNG + 성/XSN + 은/JX
+나름/NNB + 대로/JX
+고객/NNG + 층/XSN + 이/JKS
+튼튼/XR + 하/XSA + 아/EC
+충분/XR + 하/XSA + 다는/ETM
+것/NNB + 이/JKS
+모리모토/NNP + (/SS + 森本明良/SH + )/SS
+사장/NNG + 의/JKG
+설명/NNG + 이/VCP + 다/EF + ./SF
+"/SS + 갈수록/MAG
+은행원/NNG + ·/SP + 회사원/NNG
+등/NNB
+집/NNG + 에서/JKB
+독서/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+없/VA + 는/ETM
+사람/NNG + 들/XSN + 이/JKS
+많/VA + 아/EC + 지/VX + ㅂ니다/EF + ./SF
+아이/NNG + 들/XSN
+챙기/VV + 랴/EC + ,/SP
+청소/NNG + 하/XSV + 랴/EC
+바쁘/VA + ㄴ/ETM
+월급/NNG + 쟁이/XSN + 들/XSN + 을/JKO
+회사/NNG + 일/NNG + 과/JC
+집안일/NNG + 에서/JKB
+해방/NNG + 시키/XSV + 는/ETM
+지/NNG + 적/XSN
+공간/NNG + 을/JKO
+제공/NNG + 하/XSV + 는/ETM
+사업/NNG + 이/VCP + ㅂ니다/EF + ./SF + "/SS
+승진/NNG
+시험/NNG
+공부/NNG + 하/XSV + 는/ETM
+공무원/NNG + ,/SP
+자서전/NNG
+집필자/NNG + ,/SP
+자유/NNG
+기고가/NNG + (/SS + 프리라이터/NNG + )/SS + 들/XSN + 이/JKS
+단골/NNG
+회원/NNG + 이/VCP + 다/EF + ./SF
+"/SS + 집/NNG + 에/JKB
+서재/NNG + 를/JKO
+만들/VV + ㄹ/ETM
+수/NNB
+없/VA + 는/ETM
+것/NNB + 이/JKS
+일본/NNP + 의/JKG
+주거/NNG
+형편/NNG + 이/VCP + ㅂ니다/EF + ./SF
+서재/NNG + 가/JKS
+있/VV + 어도/EC
+책/NNG
+정리/NNG + 는/JX
+주부/NNG + 들/XSN + 의/JKG
+불평/NNG
+중/NNB
+불평/NNG + 거리/NNB + 이/VCP + ㅂ니다/EF + ./SF
+그렇/VA + 다고/EC
+공공/NNG
+도서관/NNG + 에/JKB
+가/VV + 면/EC
+도시락/NNG + 을/JKO
+먹/VV + 을/ETM
+수/NNB
+없/VA + 고/EC + ,/SP
+그/NP + 보다/JKB
+학생/NNG + 들/XSN + 이/JKS
+새벽/NNG + 부터/JX
+자리/NNG + 를/JKO
+차지/NNG + 하/XSV + 기/ETN
+때문/NNB + 에/JKB
+어른/NNG + 들/XSN + 은/JX
+얼씬거리/VV + 기/ETN
+힘들/VA + ㅂ니다/EF + ./SF + "/SS
+좁/VA + 고/EC
+번잡/NNG + 하/XSA + ㄴ/ETM
+주거/NNG
+공간/NNG + 과/JC
+공공/NNG
+도서관/NNG
+사이/NNG + 를/JKO
+비집/VV + 고/EC
+유료/NNG
+도서관/NNG
+사업/NNG + 이/JKS
+등장/NNG + 하/XSV + ㄴ/ETM
+셈/NNB + 이/VCP + 다/EF + ./SF
+이/MM
+회사/NNG
+연간/NNG
+매출/NNG
+목표/NNG + 는/JX
+5/SN + ,/SP + 000/SN + 만/NR
+엔/NNB + ./SF
+큰돈/NNG
+벌/VV + ㄹ/ETM
+생각/NNG + 은/JX
+없/VA + 다지만/EC + ,/SP
+서비스/NNG
+종류/NNG + 는/JX
+확대/NNG + 하/XSV + ㄹ/ETM
+구상/NNG + 이/VCP + 다/EF + ./SF
+독실/NNG + 에/JKB
+들어가/VV + 지/EC
+않/VX + 고/EC
+책/NNG + 만/JX
+대출/NNG + 하/XSV + 아/EC
+가/VV + 는/ETM
+특별/NNG
+회원/NNG + 제/XSN + 를/JKO
+신설/NNG + ,/SP
+가정/NNG + 에/JKB
+신간/NNG
+서적/NNG + 을/JKO
+빌리/VV + 어/EC
+주/VX + 는/ETM
+서비스/NNG + 를/JKO
+시작/NNG + 하/XSV + ㄴ다/EF + ./SF
+또/MAG
+가족/NNG
+회원/NNG + 제/XSN + 를/JKO
+만들/VV + 어/EC
+낮/NNG + 에/JKB + 는/JX
+어머니/NNG + ,/SP
+초저녁/NNG + 에/JKB + 는/JX
+아버지/NNG + ,/SP
+밤/NNG + 에/JKB + 는/JX
+수험/NNG + 생/XSN
+자녀/NNG + 가/JKS
+돌아가/VV + 며/EC
+이용/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 게/EC
+하/VX + ㄴ다는/ETM
+것/NNB + ./SF
+공공/NNG
+도서관/NNG + 과/JC
+대형/NNG
+데이터/NNG
+뱅크/NNG + 에/JKB
+컴퓨터/NNG + 를/JKO
+연결/NNG + ,/SP
+데이터/NNG
+뱅크/NNG
+서비스/NNG + 도/JX
+개시/NNG + 하/XSV + ㄹ/ETM
+예정/NNG + 이/VCP + 다/EF + ./SF
+머리/NNG + 를/JKO
+짜내/VV + 면/EC
+무궁/NNG
+무진/MAG + 하/XSA + ㄴ/ETM
+사업/NNG
+감각/NNG + 이/JKS
+솟/VV + 아/EC
+나오/VV + ㄴ다/EF + ./SF
+15/SN + ./SF
+인재/NNG
+파견/NNG
+회사/NNG
+"/SS + 사람/NNG + 을/JKO
+소개/NNG + 하/XSV + ㄴ다/EF + ./SF + "/SS
+부동산/NNG
+중개/NNG + 처럼/JKB
+사람/NNG + 을/JKO
+소개/NNG + 하/XSV + 아/EC
+주/VX + 고/EC
+돈/NNG + 을/JKO
+벌/VV + 는/ETM
+회사/NNG + 가/JKS
+일본/NNP + 에/JKB + 도/JX
+등장/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+조금/MAG
+거창/XR + 하/XSA + 게/EC
+이름/NNG
+붙이/VV + 어/EC
+인재/NNG
+파견/NNG
+회사/NNG + 이/VCP + 다/EF + ./SF
+시간/NNG + 제/XSN + 로/JKB
+비서/NNG + 나/JC
+통역사/NNG + ,/SP
+기술자/NNG + ,/SP
+컴퓨터/NNG
+전문가/NNG + ,/SP
+필경사/NNG
+등/NNB + 을/JKO
+파견/NNG + 하/XSV + 아/EC
+주/VX + 는/ETM
+것/NNB + 이/JKS
+주/MM + 업무/NNG + 이/VCP + 다/EF + ./SF
+일본/NNP
+최대/NNG + 의/JKG
+인재/NNG
+파견/NNG
+회사/NNG + 는/JX
+템퍼러리/NNP
+센터/NNG
+사/NNG + ./SF
+16/SN + 년/NNB
+전/NNG
+창업/NNG + ,/SP
+매출액/NNG + 이/JKS
+벌써/MAG
+1/SN + ,/SP + 000/SN + 억/NR
+엔/NNB + 을/JKO
+넘/VV + 었/EP + 다/EF + ./SF
+형식/NNG + 상/XSN
+아버지/NNG + 를/JKO
+사장/NNG
+자리/NNG + 에/JKB
+앉히/VV + 고/EC + ,/SP
+창업자/NNG
+난부/NNP + (/SS + 南部靖之/SH + )/SS + 가/JKS
+전무/NNG + 직/NNG + 을/JKO
+맡/VV + 고/EC
+있/VX + 는/ETM
+실질/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+오너/NNG + 이/VCP + 다/EF + ./SF
+그/NP + 의/JKG
+성공/NNG
+비결/NNG + 은/JX
+사무실/NNG
+입지/NNG + ./SF
+창업지/NNG
+오사카/NNP + 에서/JKB + 나/JX + ,/SP
+도쿄/NNP + (/SS + 동경/NNP + )/SS + 로/JKB
+본거지/NNG + 를/JKO
+옮기/VV + 어서/EC + 나/JX
+최/XPN + 고급/NNG
+빌딩/NNG + 에/JKB
+사무실/NNG + 을/JKO
+차리/VV + 었/EP + 다/EF + ./SF
+인재/NNG
+파견/NNG
+회사/NNG + 는/JX
+신뢰감/NNG + 이/JKS
+중요/NNG + 하/XSA + 다는/ETM
+것/NNB + 을/JKO
+그/NP + 는/JX
+간파/NNG + 하/XSV + ㄴ/ETM
+셈/NNB + 이/VCP + 다/EF + ./SF
+신뢰/NNG + 를/JKO
+굳히기/NNG
+위하/VV + 아서/EC + 는/JX
+고객/NNG
+관리/NNG + 도/JX
+중요/NNG + 하/XSA + 지만/EC + ,/SP
+첫/MM
+대면/NNG
+고객/NNG + 에게/JKB + 는/JX
+사무실/NNG
+보이/VV + 어/EC + 주/VX + ㅁ/ETN + 으로써/JKB
+'/SS + 기본/NNG
+신뢰/NNG + '/SS + 를/JKO
+획득/NNG + 하/XSV + ㄴ다는/ETM
+전략/NNG + 이/VCP + 다/EF + ./SF
+"/SS + 인재/NNG + 이/VCP + 라는/ETM
+상품/NNG + 의/JKG
+핵심/NNG + 은/JX
+전문/NNG + 성/XSN + 과/JC
+성실/NNG + 성/XSN + 이/VCP + 다/EF + ./SF
+이런/MM
+이미지/NNG + 를/JKO
+심/VV + 어/EC
+주/VX + 려면/EC
+임대료/NNG + 가/JKS
+낮/VA + 은/ETM
+장소/NNG + 를/JKO
+찾/VV + 아서/EC + 는/JX
+안/MAG
+되/VV + ㄴ다/EF + ./SF + "/SS
+난부/NNP
+전무/NNG + 는/JX
+일본/NNP + 에서/JKB
+뉴/NNG
+비즈니스/NNG + 의/JKG
+선구자/NNG + 로/JKB
+알리/VV + 어/EC + 지/VX + 어/EC
+있/VX + 다/EF + ./SF
+조각품/NNG + 을/JKO
+사무실/NNG + 에/JKB
+임대/NNG + 하/XSV + 아/EC
+주/VX + 는/ETM
+회사/NNG + 도/JX
+있/VV + 고/EC
+사무실/NNG
+간/NNB + 에/JKB
+서류/NNG
+운송/NNG
+업무/NNG + 를/JKO
+하/VV + 아/EC + 주/VX + 는/ETM
+계열/NNG
+회사/NNG + 도/JX
+번창/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+사무실/NNG + 에서/JKB
+요구/NNG + 하/XSV + 는/ETM
+서비스/NNG + 이/VCP + 라면/EC
+무엇/NP + 이/VCP + 든/EC
+사업/NNG + 성/XSN + 을/JKO
+증명/NNG + 하/XSV + 아/EC
+보이/VV + 었/EP + 다/EF + ./SF
+그/NP + 가/JKS
+인재/NNG
+파견/NNG
+회사/NNG + 를/JKO
+구상/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 은/JX
+대학/NNG
+4/SN + 년/NNB + 생/XSN
+시절/NNG + ./SF
+취직/NNG + 을/JKO
+위하/VV + 아/EC
+이/MM
+회사/NNG + ,/SP
+저/MM
+회사/NNG + 를/JKO
+기웃거리/VV + 다가/EC
+어느/MM
+회사/NNG + 에서/JKB
+면박/NNG + 을/JKO
+받/VV + 았/EP + 다/EF + ./SF
+"/SS + 회사/NNG + 가/JKS
+한/MM
+사람/NNG + 을/JKO
+채용/NNG + 하/XSV + ㄴ다는/ETM
+것/NNB + 은/JX
+몇/MM
+억/NR
+엔/NNB + 을/JKO
+투자/NNG + 하/XSV + ㄴ다는/ETM
+의미/NNG + 이/VCP + 다/EF + ./SF + "/SS
+채용/NNG
+거절/NNG + 의/JKG
+이유/NNG + 를/JKO
+듣/VV + 는/ETM
+순간/NNG + ,/SP
+머릿속/NNG + 에/JKB
+번뜩이/VV + 는/ETM
+것/NNB + 이/JKS
+있/VV + 었/EP + 다/EF + ./SF
+사람/NNG + 을/JKO
+소개/NNG + 하/XSV + 는/ETM
+사업/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+템퍼러리/NNP
+센터/NNG + 에서/JKB
+가장/MAG
+중시/NNG + 하/XSV + 는/ETM
+것/NNB + 은/JX
+역시/MAG
+인재/NNG
+확보/NNG + ./SF
+인재/NNG + 를/JKO
+요청/NNG + 하/XSV + 는/ETM
+사무실/NNG
+입장/NNG + 에서/JKB
+면접/NNG + 하/XSV + 고/EC + ,/SP
+인재/NNG + 를/JKO
+컴퓨터/NNG + 에/JKB
+등록/NNG
+시키/VV + 는/ETM
+것/NNB + 은/JX
+기초/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+업무/NNG + 이/VCP + 다/EF + ./SF
+고객/NNG + 들/XSN + 에게/JKB
+인재/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+사후/NNG
+평가/NNG + 를/JKO
+받/VV + 는/ETM
+것/NNB + 도/JX
+기본/NNG
+중/NNB + 의/JKG
+기본/NNG + 이/VCP + 다/EF + ./SF
+성실/NNG + 하/XSA + 지/EC
+못하/VX + ㄴ/ETM
+'/SS + 불량품/NNG + '/SS + 은/JX
+골라내/VV + 어야/EC
+하/VX + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+그러나/MAJ
+회사/NNG + 가/JKS
+결정/NNG + 적/XSN + 으로/JKB
+번창/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 은/JX
+전국/NNG
+네트워크/NNG + 를/JKO
+형성/NNG + 하/XSV + 고/EC + ,/SP
+해외/NNG + 에/JKB
+19/SN + 개/NNB + 나/JX
+되/VV + 는/ETM
+거점/NNG + 을/JKO
+확보/NNG + 하/XSV + ㄴ/ETM
+이후/NNG + 부터/JX + ./SF
+일본/NNP
+국내/NNG
+인재/NNG + 뿐/JX
+아니/VCN + 라/EC
+외국/NNG
+인재/NNG + 까지/JX
+확보/NNG + 되/XSV + 어/EC
+'/SS + 다양/NNG + 하/XSA + ㄴ/ETM
+상품/NNG + '/SS + 을/JKO
+제공/NNG + 하/XSV + 게/EC
+되/VV + ㄴ/ETM
+것/NNB + ./SF
+지금/NNG + 은/JX
+일본어/NNP
+교사/NNG + 를/JKO
+영국/NNP + 에/JKB
+보내/VV + 는/ETM
+식/NNB + 으로/JKB
+인재/NNG + 를/JKO
+국제/NNG
+무대/NNG + 에서/JKB
+주고받/VV + 는/ETM
+다국적/NNG
+사업/NNG + 이/JKC
+되/VV + 어/EC
+버리/VX + 었/EP + 다/EF + ./SF
+창업자/NNG + 는/JX
+말/NNG + 하/XSV + ㄴ다/EF + ./SF
+"/SS + 뉴/NNG
+비즈니스/NNG + 는/JX
+혼자/NNG + 서/JKS
+외톨이/NNG + 이/VCP + 라는/ETM
+생각/NNG + 을/JKO
+가지/VV + 어야/EC
+하/VX + ㄴ다/EF + ./SF
+공동/NNG
+창업/NNG + 에/JKB + 는/JX
+책임/NNG
+회피/NNG + 가/JKS
+뒤따르/VV + 고/EC + ,/SP
+회의/NNG + 에/JKB
+시간/NNG + 만/JX
+허비/NNG + 하/XSV + ㄴ다/EF + ./SF + "/SS
+그/NP + 가/JKS
+뉴/NNG
+비즈니스/NNG
+지망/NNG + 생/XSN + 들/XSN + 에게/JKB
+어음/NNG
+거래/NNG + 는/JX
+단연코/MAG
+기피/NNG + ,/SP
+현금/NNG
+거래/NNG + 만/JX + 을/JKO
+권고/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 도/JX
+업자/NNG + 의/JKG
+필사/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+각오/NNG + 를/JKO
+강조/NNG + 하/XSV + ㄴ/ETM
+부분/NNG + 이/VCP + 다/EF + ./SF
+16/SN + ./SF
+이동/NNG
+즉석/NNG
+인쇄/NNG
+공장/NNG
+인쇄업/NNG + 은/JX
+낡/VA + 은/ETM
+업종/NNG + 이/VCP + 다/EF + ./SF
+어디/NP
+가/VV + 나/EC
+인쇄소/NNG + 는/JX
+출입구/NNG + 에/JKB
+이런/MM
+저런/MM
+인쇄물/NNG + 이/JKS
+다닥다닥/MAG
+붙/VV + 어/EC
+있/VX + 다/EF + ./SF
+안/NNG + 에/JKB
+들어가/VV + 아도/EC
+정리/NNG + 되/XSV + 지/EC
+않/VX + 은/ETM
+상황/NNG + 이/VCP + 라고/EC
+그나마/MAG
+인사장/NNG + 이나/JC
+명함/NNG
+인쇄/NNG + 에/JKB
+며칠/NNG + 이/JKS
+걸리/VV + 기/ETN + 도/JX
+하/VX + ㄴ다/EF + ./SF
+급하/VA + 게/EC
+부탁/NNG + 하/XSV + 면/EC
+실수/NNG + 가/JKS
+발생/NNG + 하/XSV + 곤/EC
+하/VX + ㄴ다/EF + ./SF
+이런/MM
+불평/NNG + 을/JKO
+뛰어넘/VV + 는/ETM
+아이디어/NNG
+인쇄소/NNG + 가/JKS
+등장/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이동식/NNG
+즉석/NNG
+인쇄/NNG
+공장/NNG + 이/VCP + 다/EF + ./SF
+전화/NNG
+한/MM
+통/NNG
+받/VV + 으면/EC
+인쇄기/NNG + 를/JKO
+끌/VV + 고/EC
+가/VV + 아/EC
+명함/NNG + 과/JC
+팸플릿/NNG + ,/SP
+모집/NNG + ·/SP + 안내/NNG + ·/SP + 선전/NNG
+전단/NNG + 을/JKO
+즉석/NNG + 에서/JKB
+찍/VV + 어/EC
+주/VX + 는/ETM
+사업/NNG + 이/VCP + 다/EF + ./SF
+이/MM
+사업/NNG + 을/JKO
+고안/NNG + 하/XSV + ㄴ/ETM
+회사/NNG + 는/JX
+인쇄기/NNG
+메이커/NNG
+세이키/NNP
+공업/NNG + ./SF
+복사기/NNG + ,/SP
+워드/NNG
+프로세서/NNG + ,/SP
+컴퓨터/NNG
+등/NNB
+첨단/NNG
+제품/NNG
+등장/NNG + 으로/JKB
+인쇄기/NNG + 가/JKS
+사양길/NNG + 에/JKB
+접어들/VV + ㄴ/ETM
+것/NNB + 을/JKO
+만회/NNG + 하/XSV + 기/ETN
+위하/VV + 아/EC
+창안/NNG + 하/XSV + ㄴ/ETM
+뉴/NNG
+비즈니스/NNG + 이/VCP + 다/EF + ./SF
+인쇄기/NNG + 이/VCP + 라면/EC
+장소/NNG + 를/JKO
+차지/NNG + 하/XSV + 고/EC + ,/SP
+손/NNB + 을/JKO
+더럽히/VV + 는/ETM
+기계/NNG + 로/JKB
+기피/NNG + 하/XSV + 는/ETM
+경향/NNG + 이/VCP + ㄴ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+손/NNG + 이/JKS
+많이/MAG
+가/VV + 는/ETM
+불편/NNG + 하/XSA + ㅁ/ETN + 도/JX
+인쇄기/NNG + 의/JKG
+약점/NNG
+중/NNB
+하나/NR + ./SF
+이/NP + 를/JKO
+극복/NNG + 하/XSV + 기/ETN
+위하/VV + 아/EC
+이/MM
+회사/NNG + 가/JKS
+착안/NNG + 하/XSV + 아/EC
+내/VX + ㄴ/ETM
+것/NNB + 은/JX
+자동차/NNG + 와/JC
+오토바이/NNG + 이/VCP + 다/EF + ./SF
+자동차/NNG + 와/JC
+오토바이/NNG + 에/JKB
+인쇄기/NNG + 를/JKO
+싣/VV + 고/EC
+고객/NNG + 이/JKS
+원하/VV + 는/ETM
+곳/NNG + 까지/JX
+출장/NNG + 하/XSV + ㄴ다/EF + ./SF
+물론/MAG
+휴대/NNG
+전화/NNG + 가/JKS
+완비/NNG + 되/XSV + 어/EC
+있/VX + 어/EC
+이동/NNG
+인쇄소/NNG + 는/JX
+전화/NNG
+한/MM
+통/NNB + 에/JKB
+따르/VV + 아/EC
+시내/NNG + 를/JKO
+누비/VV + 고/EC
+있/VX + 다/EF + ./SF
+인쇄/NNG + 를/JKO
+맡/VV + 는/ETM
+직원/NNG + 은/JX
+처녀/NNG
+사원/NNG + ,/SP
+섬세/XR + 하/XSA + 고/EC
+깨끗/XR + 하/XSA + ㄴ/ETM
+이미지/NNG + 를/JKO
+심/VV + 어/EC
+주/VX + 기/ETN
+위하/VV + 아/EC
+여성/NNG
+직원/NNG + 들/XSN + 을/JKO
+현장/NNG + 에/JKB
+내보내/VV + 고/EC
+있/VX + 다/EF + ./SF
+인쇄/NNG
+서비스/NNG + 는/JX
+단순/NNG + 하/XSA + ㄴ/ETM
+안내/NNG
+포스터/NNG
+10/SN + 매/NNB + 부터/JX
+광고/NNG
+전단/NNG
+수백/NR
+장/NNB + 까지/JX
+다양/NNG + 하/XSA + 다/EF + ./SF
+명함/NNG + 은/JX
+매/MM + 분/NNB
+50/SN + 장/NNB + 을/JKO
+고속/NNG
+인쇄/NNG + 하/XSV + 아/EC
+주/VX + 고/EC + ,/SP
+연하장/NNG + 과/JKB
+성탄/NNG
+카드/NNG + 도/JX
+현장/NNG
+서비스/NNG + 하/XSV + 아/EC
+주/VX + ㄴ다/EF + ./SF
+다만/MAG
+자동차/NNG + 와/JC
+오토바이/NNG + 는/JX
+기능/NNG + 이/JKS
+다르/VA + 다/EF + ./SF
+오토바이/NNG + 에/JKB + 는/JX
+명함/NNG + 이나/JC
+카드/NNG + 를/JKO
+찍/VV + 는/ETM
+인쇄기/NNG + 밖에/JX
+없/VA + 다/EF + ./SF
+컬러/NNG
+인쇄/NNG + 가/JKS
+가능/NNG + 하/XSA + ㄴ/ETM
+인쇄기/NNG + 는/JX
+자동차/NNG + 에/JKB
+설치/NNG + 되/XSV + 어/EC
+있/VX + 다/EF + ./SF
+새로/MAG
+개점/NNG + 하/XSV + 는/ETM
+점포/NNG + 나/JC
+바겐/NNG
+세일/NNG + 하/XSV + 는/ETM
+가게/NNG + ,/SP
+일시/NNG + 적/XSN + 으로/JKB
+안내/NNG
+포스터/NNG + 를/JKO
+붙이/VV + 어야/EC
+하/VX + 는/ETM
+중소/NNG
+상인/NNG + 들/XSN + 이/JKS
+주요/NNG
+고객/NNG + 이/VCP + 다/EF + ./SF
+작년/NNG
+가을/NNG
+고베/NNP + 에서/JKB
+처음/NNG
+사업/NNG + 을/JKO
+시작/NNG + 하/XSV + ㄴ/ETM
+수/NNG
+현재/MAG
+30/SN + 대/NNB + 가/JKS
+전국/NNG
+시장/NNG + 을/JKO
+장악/NNG + 하/XSV + 겠/EP + 다는/ETM
+포부/NNG + 이/VCP + 다/EF + ./SF
+가격/NNG + 은/JX
+명함/NNG
+100/SN + 장/NNB + 에/JKB
+2/SN + ,/SP + 000/SN + 엔/NNB + ,/SP
+흑백/NNG
+팸플릿/NNG + 이/JKS
+100/SN + 장/NNB + 에/JKB
+800/SN + 엔/NNB + ./SF
+물론/MAG
+글자체/NNG + 와/JC
+종이/NNG + 는/JX
+고객/NNG + 이/JKS
+선택/NNG + 하/XSV + 고/EC
+고급/NNG
+종이/NNG + 를/JKO
+선택/NNG + 하/XSV + 면/EC
+값/NNG + 은/JX
+상승/NNG + 하/XSV + 지만/EC
+대체로/MAG
+동네/NNG
+인쇄/NNG
+가게/NNG + 와/JKB
+엇비슷/XR + 하/XSA + ㄴ/ETM
+것/NNB + 이/JKS
+사업/NNG
+번창/NNG + 의/JKG
+배경/NNG + 이/VCP + 다/EF + ./SF
+비슷/XR + 하/XSA + ㄴ/ETM
+가격/NNG + 으로/JKB
+즉석/NNG + 에서/JKB
+원하/VV + 는/ETM
+인쇄물/NNG + 을/JKO
+얻/VV + 을/ETM
+수/NNB
+있/VV + 는/ETM
+셈/NNB + 이/VCP + 다/EF + ./SF
+예/NNG + 를/JKO
+들/VV + 어/EC
+여행/NNG + 용/XSN
+팸플릿/NNG + 을/JKO
+10/SN + 분/NNB + 에/JKB
+1/SN + ,/SP + 000/SN + 매/NNB
+인쇄/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+속도/NNG + 이/VCP + 다/EF + ./SF
+기동/NNG + 성/XSN + 을/JKO
+주되/VV + ㄴ/ETM
+무기/NNG + 로/JKB
+발/NNG + 로/JKB
+뛰/VV + 는/ETM
+전략/NNG + 이/JKS
+사라지/VV + 어/EC
+가/VX + 는/ETM
+업종/NNG + 을/JKO
+되살리/VV + 고/EC
+있/VX + 는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+명함/NNG + 만/JX + 을/JKO
+전문/NNG
+제조/NNG + 하/XSV + 는/ETM
+고속/NNG
+복사기/NNG + 가/JKS
+나오/VV + 았/EP + 다/EF + ./SF
+인쇄/NNG
+기기/NNG
+메이커/NNG
+신코디바이스/NNP
+사/NNG + 는/JX
+명함/NNG + 을/JKO
+자동/NNG
+복사/NNG + ,/SP
+판매/NNG + 하/XSV + 는/ETM
+'/SS + 명함군/NNG + (/SS + 君/SH + )/SS + '/SS + 을/JKO
+내놓/VV + 았/EP + 다/EF + ./SF
+명함/NNG
+자동/NNG
+복사기/NNG + 는/JX
+명함/NNG
+1/SN + 장/NNB + 을/JKO
+넣/VV + 고서/EC
+1/SN + ,/SP + 000/SN + 엔/NNB + 짜리/XSN
+지폐/NNG + 를/JKO
+지불/NNG + 하/XSV + 면/EC
+3/SN + 분/NNB
+안/NNG + 에/JKB
+명함/NNG
+20/SN + 장/NNB + 이/JKS
+자동/NNG
+복사/NNG + 되/XSV + 어/EC
+나오/VV + 는/ETM
+장치/NNG + 이/VCP + 다/EF + ./SF
+회사/NNG + 측/NNB + 은/JX
+명함/NNG
+자동/NNG
+판매기/NNG + 는/JX
+백화점/NNG + 과/JC
+호텔/NNG
+·/SP
+서점/NNG
+·/SP
+문방구/NNG
+·/SP
+역/NNG
+대합실/NNG
+등/NNB + 에/JKB
+설치/NNG + ,/SP
+명함/NNG + 을/JKO
+급하/VA + 게/EC
+만들/VV + 어야/EC
+하/VX + 는/ETM
+사람/NNG + 들/XSN + 에게/JKB
+서비스/NNG + 하/XSV + ㄴ다/EF + ./SF
+사방/NNG
+40/SN + cm/SL
+면적/NNG + 에/JKB
+설치/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+소형/NNG + 이/VCP + 어서/EC
+어느/MM
+곳/NNG + 에/JKB + 나/JX
+쉽/VA + 게/EC
+배치/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 으나/EC + ,/SP
+가격/NNG + 은/JX
+170/SN + 만/NR
+엔/NNB
+수준/NNG + ./SF
+흑백/NNG
+명함/NNG
+제작/NNG + 은/JX
+가능/NNG + 하/XSA + 지만/EC
+컬러/NNG
+명함/NNG + 은/JX
+복사/NNG + 가/JKS
+안/MAG
+되/VV + ㄴ다/EF + ./SF
+그러나/MAJ
+그/MM
+동안/NNG
+영문/NNG + 으로/JKB + 만/JX
+가능/NNG + 하/XSA + 았/EP + 던/ETM
+간이/NNG
+명함/NNG
+제조기/NNG + 보다/JKB
+훨씬/MAG
+발전/NNG + 되/XSV + ㄴ/ETM
+것/NNB + 이/VCP + 어서/EC + ,/SP
+회사/NNG + 측/NNB + 은/JX
+연간/NNG
+1/SN + ,/SP + 000/SN + 대/NNB
+이상/NNG
+판매/NNG + 되/XSV + ㄹ/ETM
+것/NNB + 을/JKO
+낙관/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+17/SN + ./SF
+세일즈/NNG
+성공학/NNG
+제/XPN + 1/SN + 장/NNG
+"/SS + 인간/NNG + 은/JX
+죽/VV + 는/ETM
+날/NNG + 까지/JX
+참/VV + 는/ETM
+것/NNB + ./SF + "/SS
+이/MM
+한/MM
+문장/NNG + 을/JKO
+경영/NNG
+신조/NNG + 로/JKB
+삼/VV + 고/EC + 있/VX + 는/ETM
+임무지/NNP + (/SS + 林武志/SH + ./SF + 41/SN + 세/NNB + )/SS
+사장/NNG + ./SF
+교포/NNG
+2/SN + 세/NNB
+경영인/NNG + 이/VCP + 다/EF + ./SF
+일본/NNP
+태양열/NNG
+온수기/NNG
+업계/NNG + 에서/JKB
+가장/MAG
+크/VA + ㄴ/ETM
+회사/NNG + 를/JKO
+운영/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+아사히/NNP
+솔라/NNP
+사/NNG + 의/JKG
+시장/NNG
+점유/NNG + 율/XSN + 은/JX
+30/SN + %/SW
+내외/NNG + ./SF
+회사/NNG
+출범/NNG
+8/SN + 년/NNB
+만/NNB + 에/JKB
+280/SN + 억/NR
+엔/NNB + 의/JKG
+매출/NNG + 을/JKO
+기록/NNG + 하/XSV + ㄴ/ETM
+초/XPN + 고속/NNG
+성장/NNG
+회사/NNG + 이/VCP + 다/EF + ./SF
+니혼/NNP
+게이자이/NNG
+신문/NNG + 이/JKS
+'/SS + 조그맣/VA + ㄴ/ETM
+톱/NNG
+기업/NNG + '/SS + 에/JKB
+아사히/NNP
+솔라/NNP + 를/JKO
+소개/NNG + 하/XSV + ㄴ/ETM
+데/NNB + 는/JX
+그렇/VA + ㄹ/ETM
+만/NNB + 하/XSA + ㄴ/ETM
+이유/NNG + 가/JKS
+있/VV + 다/EF + ./SF
+경쟁/NNG
+회사/NNG + 는/JX
+대부분/NNG
+쟁쟁/XR + 하/XSA + ㄴ/ETM
+대/XPN + 기업/NNG + 들/XSN + 이/VCP + 다/EF + ./SF
+마쓰시타/NNP + ,/SP
+히타치/NNP
+등/NNB
+기술/NNG + 과/JC
+자본/NNG + 이/JKS
+든든/XR + 하/XSA + ㄴ/ETM
+대/XPN + 기업/NNG + 을/JKO
+제치/VV + ㄴ/ETM
+비결/NNG + 은/JX
+공격/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+세일즈/NNG + ./SF
+"/SS + 대/XPN + 기업/NNG
+사원/NNG + 들/XSN + 은/JX
+우수/NNG + 하/XSA + ㄴ/ETM
+학교/NNG + 를/JKO
+나오/VV + 아/EC
+세일즈/NNG + 에/JKB + 는/JX
+약점/NNG + 이/JKS
+많/VA + 습니다/EF + ./SF
+집집/NNG + 마다/JX
+방문/NNG + 하/XSV + 며/EC
+온수기/NNG + 를/JKO
+권유/NNG + 하/XSV + 는/ETM
+것/NNB + 을/JKO
+꺼리/VV + 게/EC
+마련/NNB + 이/VCP + 죠/EF + ./SF + "/SS
+아사히/NNP
+솔라/NNP
+세일즈맨/NNG + 들/XSN + 은/JX
+2/SN + 인/NNG
+1/SN + 조/NNG + 로/JKB
+대문/NNG + 을/JKO
+두들기/VV + 는/ETM
+세일즈/NNG + 를/JKO
+선택/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+세일즈맨/NNG
+출신/NNG + 이/VCP + ㄴ/ETM
+임/NNP
+사장/NNG + 은/JX
+사원/NNG + 들/XSN + 을/JKO
+다그치/VV + 는/ETM
+연설/NNG + 도/JX
+색다르/VA + 다/EF + ./SF
+"/SS + 도쿄/NNP + (/SS + 동경/NNP + )/SS
+대/NNG + 를/JKO
+졸업/NNG + 하/XSV + 아/EC
+대/XPN + 기업/NNG + 에/JKB
+들어가/VV + ㄴ/ETM
+엘리트/NNG + 는/JX
+학창/NNG
+시절/NNG
+새벽/NNG + 까지/JX
+잠자/VV + 지/EC
+않/VX + 고/EC
+공부/NNG + 하/XSV + ㄴ/ETM
+학구/NNG + 파/NNG + ./SF
+우리/NP + 는/JX
+담배/NNG
+피우/VV + 고/EC + ,/SP
+싸우/VV + 고/EC + ,/SP
+술/NNG
+마시/VV + 고/EC + ,/SP
+춤추/VV + 고/EC + …/SE + …/SE
+하/VV + 고/EC
+싶/VX + 은/ETM
+대로/NNB
+즐기/VV + ㄴ/ETM
+사람/NNG + 들/XSN + ./SF
+그/NP + 들/XSN + 이/JKS
+컴퓨터/NNG
+앞/NNG + 에서/JKB
+머리/NNG + 를/JKO
+굴리/VV + ㄹ/ETM
+때/NNG
+우리/NP + 는/JX
+발/NNG + 로/JKB
+뛰/VV + 는/ETM
+수/NNB + 밖에/JX + ./SF
+인생/NNG
+종착역/NNG + 에서/JKB
+일류대/NNG
+출신/NNG + 과/JKB
+똑같/VA + 으려면/EC
+직접/MAG
+뛰/VV + 는/ETM
+외/NNB + 에/JKB
+다른/MM
+방도/NNG + 는/JX
+없/VA + 다/EF + ./SF + "/SS
+선배/NNG
+두들기/VV + 어/EC
+패/VV + 기/ETN + ,/SP
+패싸움/NNG + 을/JKO
+일삼/VV + 아/EC
+고교/NNG + 를/JKO
+중퇴/NNG + 하/XSV + ㄴ/ETM
+그/NP + 는/JX
+중국집/NNG
+배달원/NNG + 이/JKS
+첫/MM
+직업/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+이어/MAG
+트럭/NNG
+운전사/NNG + ./SF
+화장품/NNG
+세일즈맨/NNG + 에/JKB
+취직/NNG + 하/XSV + 았/EP + 을/ETM
+때/NNG + 는/JX
+5/SN + 일/NNB
+동안/NNG
+굶/VV + 어/EC
+쓰러지/VV + 기/ETN + 도/JX
+하/VX + 았/EP + 다/EF + ./SF
+"/SS + 형/NNG + 님/XSN + 과/JKB
+미용/NNG
+재료/NNG + 를/JKO
+판매/NNG + 하/XSV + ㄹ/ETM
+때/NNG + 는/JX
+빌딩/NNG + 을/JKO
+짓/VV + 을/ETM
+정도/NNG + 로/JKB
+돈/NNG + 을/JKO
+벌/VV + 었/EP + 죠/EF + ./SF
+그러나/MAJ
+형제/NNG + 간/NNB
+공동/NNG
+사업/NNG + 은/JX
+사장/NNG + 이/JKS
+2/SN + 명/NNB + 이/VCP + ㄹ/ETM
+수/NNB
+없/VA + 다는/ETM
+근본/NNG
+문제/NNG + 를/JKO
+안/VV + 고/EC
+있/VX + 어/EC
+형/NNG + 님/XSN + 과/JKB
+대판/NNG
+싸우/VV + 고/EC
+결별/NNG + 하/XSV + 았/EP + 죠/EF + ./SF + "/SS
+또다시/MAG
+실업자/NNG
+생활/NNG + 을/JKO
+거치/VV + 어/EC
+신문/NNG
+광고/NNG + 에서/JKB
+발견/NNG + 하/XSV + ㄴ/ETM
+뉴/NNG
+비즈니스/NNG + 가/JKS
+태양열/NNG
+온수기/NNG
+판매업/NNG + 이/VCP + 다/EF + ./SF
+"/SS + 처음/NNG + 에/JKB + 는/JX
+며칠/NNG
+가/VV + 아도/EC
+팔리/VV + 지/EC
+않/VX + 아/EC
+마누라/NNG + 를/JKO
+앉히/VV + 어/EC
+놓/VX + 고/EC
+밤새우/VV + 어/EC
+세일즈/NNG
+연습/NNG + 을/JKO
+하/VV + 았/EP + 습니다/EF + ./SF
+마누라/NNG + 가/JKS
+'/SS + 그/MM
+정도/NNG + 이/VCP + 면/EC
+내/NP + 가/JKS
+사/VV + 겠/EP + 다/EC + '/SS + 는/ETM
+말/NNG + 을/JKO
+하/VV + 았/EP + 을/ETM
+때/NNG
+시계/NNG + 는/JX
+아침/NNG
+6/SN + 시/NNB + 이/VCP + 었/EP + 죠/EF + ./SF + "/SS
+그/NP + 가/JKS
+세일즈/NNG
+학/NNG + 에서/JKB
+'/SS + 도/NNG + (/SS + 도/NNG + )/SS + '/SS + 를/JKO
+터득/NNG + 하/XSV + ㄴ/ETM
+에피소드/NNG + 이/VCP + 다/EF + ./SF
+그/NP + 의/JKG
+창업/NNG
+결심/NNG + 은/JX
+'/SS + 독립/NNG + 하/XSV + 라/EC + '/SS + 는/ETM
+말/NNG + 을/JKO
+남기/VV + 고/EC
+어머니/NNG + 가/JKS
+세상/NNG + 을/JKO
+뜨/VV + ㄴ/ETM
+것/NNB + 이/JKS
+계기/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+그러나/MAJ
+자본금/NNG + 은/JX
+제로/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+"/SS + 2/SN + 평/NNB
+남짓/NNB + 하/XSA + ㄴ/ETM
+방/NNG + 에서/JKB
+창업/NNG + ,/SP
+자동차/NNG
+휘발유/NNG + 값/NNG + 마저/JX
+외상/NNG + 이/VCP + 었/EP + 습니다/EF + ./SF
+다행히/MAG
+첫/MM + 번/NNB + 째/XSN
+세일/NNG + 에/JKB
+성공/NNG + ,/SP
+외상/NNG + 은/JX
+갚/VV + 았/EP + 지만/EC
+밤/NNG
+2/SN + 시/NNB + ,/SP
+3/SN + 시/NNB + 까지/JX
+세일즈/NNG + 에/JKB
+잇/VV + 어/EC
+애프터/NNG
+서비스/NNG + 를/JKO
+하/VV + 아야/EC
+하/VX + 았/EP + 습니다/EF + ./SF + "/SS
+그/NP + 가/JKS
+한국/NNP
+기업/NNG + 과/JKB
+아직/MAG
+제휴/NNG + 하/XSV + 지/EC
+않/VX + 은/ETM
+것/NNB + 은/JX
+바로/MAG
+이/MM
+때문/NNB + 이/VCP + 다/EF + ./SF
+"/SS + 매일/MAG
+새벽/NNG + 까지/JX
+마음/NNG
+졸이/VV + 며/EC
+고객/NNG + 들/XSN + 에게/JKB
+서비스/NNG + 하/XSV + 지/EC
+않/VX + 으면/EC
+되/VV + 지/EC
+않/VX + 는/ETM
+사업/NNG + 이/VCP + ㅂ니다/EF + ./SF
+운/NNG + 이/JKS
+좋/VA + 아/EC
+성공/NNG + 하/XSV + 았/EP + 다는/ETM
+투/NNB + 이/VCP + 어서/EC
+도저히/MAG
+손/NNB + 을/JKO
+잡/VV + 을/ETM
+수/NNB
+없/VA + 었/EP + 습니다/EF + ./SF + "/SS
+주력/NNG
+상품/NNG + 은/JX
+온수기/NNG
+'/SS + 아사히/NNP
+솔라/NNP + '/SS + 에서/JKB
+에너지/NNG
+절약/NNG + 형/XSN
+보일러/NNG
+'/SS + 유메타로/NNG + (/SS + 夢太郞/SH + )/SS + '/SS + 로서/JKB
+특수/NNG
+필터/NNG + 와/JC
+바이오/NNG
+원리/NNG + 로/JKB
+24/SN + 시간/NNB
+깨끗/XR + 하/XSA + ㄴ/ETM
+목욕물/NNG + 을/JKO
+공급/NNG + 하/XSV + 는/ETM
+'/SS + 환경/NNG
+대신/NNG + '/SS + 으로/JKB
+변하/VV + 았/EP + 다/EF + ./SF
+"/SS + 언제/MAG
+문/NNG + 닫/VV + 을지/EC
+알/VV + ㄹ/ETM
+수/NNB
+없/VA + 어/EC
+사원/NNG + 들/XSN + 에게/JKB
+월급/NNG + 을/JKO
+30/SN + ～/SO + 50/SN + %/SW
+정도/NNG
+많이/MAG
+주/VV + ㄴ다/EF + ./SF + "/SS + 는/JX
+임/NNP
+사장/NNG + ./SF
+그/NP + 는/JX
+도쿄/NNP + (/SS + 동경/NNP + )/SS + 나/JC
+오사카/NNP + 가/JKC
+아니/VCN + ㄴ/ETM
+규슈/NNP
+오이타/NNP
+시/NNG + 에/JKB
+본사/NNG + 를/JKO
+고집/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+여비서/NNG
+4/SN + 년/NNB
+만/NNB + 에/JKB
+사장/NNG
+젊/VA + 은/ETM
+사원/NNG + 들/XSN + 의/JKG
+싱싱/XR + 하/XSA + ㄴ/ETM
+아이디어/NNG + 를/JKO
+자극/NNG + 하/XSV + 는/ETM
+경영/NNG + 에/JKB
+뛰어나/VA + ㄴ/ETM
+일본/NNP
+후지/NNP
+제록스/NNP
+사/NNG + 가/JKS
+드디어/MAG
+중역실/NNG
+여비서/NNG + 를/JKO
+신설/NNG
+회사/NNG
+사장/NNG + 에/JKB
+임명/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+화제/NNG + 의/JKG
+장본인/NNG + 은/JX
+27/SN + 세/NNB + 의/JKG
+에토/NNP + (/SS + 江藤玲子/SH + )/SS
+양/NNB + ./SF
+그녀/NP + 는/JX
+자신/NNG + 이/JKS
+아이디어/NNG + 를/JKO
+내/VV + ㄴ/ETM
+사업/NNG + 을/JKO
+추진/NNG + 하/XSV + 기/ETN
+위하/VV + 아/EC
+동료/NNG
+2/SN + 명/NNB + 과/JKB
+함께/MAG
+새/MM
+회사/NNG + 를/JKO
+창업/NNG + ./SF
+이/NP + 들/XSN + 이/JKS
+맡/VV + 은/ETM
+사업/NNG + 은/JX
+외국인/NNG + ,/SP + 들/XSN + 에게/JKB
+일본어/NNP
+회화/NNG + 를/JKO
+훈련/NNG + 시키/XSV + 는/ETM
+교육/NNG
+서비스/NNG
+업/NNG + ./SF
+회의/NNG + 와/JC
+상담/NNG + 에서/JKB
+사용/NNG + 하/XSV + 아야/EC
+하/VX + ㄹ/ETM
+일본어/NNP + 를/JKO
+외국/NNG
+상사/NNG
+주재원/NNG + 들/XSN + 과/JC
+대학/NNG + 생/XSN + 들/XSN + 에게/JKB
+교육/NNG + 시키/XSV + 는/ETM
+전문/NNG
+회사/NNG + 이/VCP + 다/EF + ./SF
+이/NP + 들/XSN + 은/JX
+이미/MAG
+개발/NNG + 되/XSV + ㄴ/ETM
+7/SN + 만/NR
+4/SN + ,/SP + 800/SN + 엔/NNB + 짜리/XSN
+일본어/NNP
+전자/NNG
+연습/NNG
+장치/NNG + 를/JKO
+판매/NNG + ,/SP
+첫/MM
+해/NNG + 에/JKB
+4/SN + ,/SP + 000/SN + 만/NR
+달러/NNB + 의/JKG
+매출/NNG + 을/JKO
+내/VV + ㄴ다는/ETM
+목표/NNG + 를/JKO
+세우/VV + 었/EP + 다/EF + ./SF
+새/MM
+회사/NNG + 의/JKG
+자본금/NNG
+2/SN + ,/SP + 000/SN + 만/NR
+엔/NNB
+중/NNB
+85/SN + %/SW + 는/JX
+후지/NNP
+제록스/NNP
+본사/NNG + 가/JKS
+출자/NNG + 하/XSV + 았/EP + 으며/EC + ,/SP
+에토/NNP
+사장/NNG + 과/JC
+공동/NNG
+사업자/NNG
+2/SN + 명/NNB + 이/JKS
+5/SN + %/SW + 씩/XSN
+출자/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+회사/NNG + 가/JKS
+잘못/MAG + 되/XSV + 면/EC
+자신/NNG + 들/XSN + 도/JX
+적/VA + 지/EC
+않/VX + 은/ETM
+액수/NNG + 를/JKO
+잃/VV + 어야/EC
+하/VX + 는/ETM
+부담/NNG
+때문/NNB + 이/VCP + ㄴ지/EC
+"/SS + 모든/MM
+것/NNB + 이/JKS
+새롭/VA + 어/EC
+걱정/NNG + 이/JKS
+많/VA + 다/EC + "/SS + 고/JKQ
+그녀/NP + 는/JX
+소감/NNG + 을/JKO
+피력/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+그러나/MAJ
+"/SS + 내/NP + 가/JKS
+제출/NNG + 하/XSV + ㄴ/ETM
+아이디어/NNG + 로/JKB
+사업/NNG + 하/XSV + ㄴ다/EC + "/SS + 는/ETM
+자부심/NNG + 과/JC
+주변/NNG + 의/JKG
+부럽/VA + ㅁ/ETN + 이/JKS
+그녀/NP + 를/JKO
+자극/NNG + 하/XSV + ㄴ다는/ETM
+얘기/NNG + ./SF
+그녀/NP + 는/JX
+도쿄/NNP + (/SS + 동경/NNP + )/SS
+여자/NNG
+대학/NNG
+물리학/NNG + 과/NNG + 를/JKO
+졸업/NNG + 하/XSV + ㄴ/ETM
+직후/NNG
+입사/NNG + ,/SP
+상품/NNG
+개발/NNG
+기술/NNG
+연구소/NNG + 와/JC
+중역실/NNG
+비서/NNG + 를/JKO
+지내/VV + ㄴ/ETM
+뒤/NNG
+4/SN + 년/NNB
+만/NNB + 에/JKB
+사장/NNG
+자리/NNG + 에/JKB
+뛰어오르/VV + ㄴ/ETM
+셈/NNB + ./SF
+18/SN + ./SF
+펄펄/MAG
+뛰/VV + 는/ETM
+새우/NNG
+배달/NNG
+"/SS + 팔딱팔딱/MAG
+뛰/VV + 는/ETM
+생선/NNG + 을/JKO
+먹/VV + 고/EC
+싶/VX + 다/EF + ./SF + "/SS
+이런/MM
+소비자/NNG
+욕망/NNG + 을/JKO
+충족/NNG
+시키/VV + 는/ETM
+뉴/NNG
+비즈니스/NNG
+중/NNB
+하나/NR + 가/JKS
+있/VV + 다/EF + ./SF
+활어/NNG
+배달/NNG + 용/XSN
+팩/NNG + 이/JKS
+바로/MAG
+그것/NP + 이/VCP + 다/EF + ./SF
+생선/NNG
+1/SN + 마리/NNB + 부터/JX
+10/SN + kg/SL + 까지/JX
+살/VV + 아/EC
+있/VX + 는/ETM
+그대로/MAG
+부엌/NNG + 까지/JX
+운반/NNG + 하/XSV + 아/EC
+주/VX + 는/ETM
+사업/NNG + 이/VCP + 다/EF + ./SF
+비닐/NNG + 에/JKB
+밀봉/NNG + 하/XSV + 았/EP + 기/ETN
+때문/NNB + 에/JKB
+물/NNG + 이/JKS
+새/VV + 지/EC
+않/VX + 고/EC
+산소/NNG + 를/JKO
+충분히/MAG
+넣/VV + 어/EC
+생선/NNG + 이/JKS
+숨/NNG + 막히/VV + 지/EC
+않/VX + 게/EC
+만들/VV + 었/EP + 다/EF + ./SF
+소형/NNG + 에다/JKB
+디자인/NNG
+감각/NNG + 을/JKO
+가미/NNG + 하/XSV + 아/EC
+들/VV + 고/EC
+쑥스럽/VA + 지/EC
+않/VX + 다/EF + ./SF
+휴대/NNG + 용/XSN
+생선/NNG
+가방/NNG + 이/VCP + 랄까/EF + ./SF
+활어/NNG
+팩/NNG + 을/JKO
+사업/NNG + 화/XSN + 하/XSV + ㄴ/ETM
+회사/NNG + 는/JX
+우시오/NNP
+전기/NNG + ./SF
+우시오/NNP
+전기/NNG + 의/JKG
+해양/NNG
+기기/NNG
+사업부/NNG + 가/JKS
+창안/NNG + 하/XSV + ㄴ/ETM
+이/MM
+사업/NNG
+때문/NNB + 에/JKB
+이/MM
+회사/NNG + 는/JX
+이름/NNG + 을/JKO
+우시오머린/NNP
+사/NNG + 로/JKB
+바꾸/VV + 었/EP + 다/EF + ./SF
+상표명/NNG + 은/JX
+토토/NNP
+팩/NNG + 과/JC
+토토/NNP
+캐리/NNP + ./SF
+우시오/NNP + 는/JX
+3/SN + 년/NNB
+전/NNG + 부터/JX
+활어/NNG
+수송/NNG + 을/JKO
+테스트/NNG + 하/XSV + 기/ETN
+시작/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+처음/NNG + 에/JKB + 는/JX
+이런저런/MM
+포장/NNG
+용기/NNG + 에/JKB
+생선/NNG + 을/JKO
+배달/NNG + 하/XSV + 아/EC
+보/VX + 았/EP + 다/EF + ./SF
+결국/NNG
+활어/NNG
+수송/NNG + 에서/JKB
+가장/MAG
+중요/NNG + 하/XSA + ㄴ/ETM
+기술/NNG + 은/JX
+온도/NNG + 와/JC
+먹이/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+수송/NNG
+중/NNB
+수온/NNG + 이/JKS
+상승/NNG + 하/XSV + 거나/EC
+수송/NNG
+전/NNG
+먹이/NNG + 를/JKO
+많이/MAG
+주/VV + 면/EC
+시들시들/MAG
+죽/VV + 는/ETM
+확률/NNG + 이/JKS
+무척/MAG
+높/VA + 다는/ETM
+사실/NNG + 을/JKO
+확인/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+그래서/MAJ
+개발/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 이/JKS
+수온/NNG
+상승/NNG + 을/JKO
+막/VV + 는/ETM
+보온재/NNG + ,/SP
+일종/NNG + 의/JKG
+특수/NNG
+염화/NNG
+비닐/NNG + 이/VCP + 다/EF + ./SF
+물/NNG + 과/JC
+생선/NNG + 을/JKO
+담/VV + 을/ETM
+때/NNG
+보통/NNG
+온도/NNG + 를/JKO
+맞추/VV + 고/EC
+그/MM
+온도/NNG
+아래/NNG + 서/JKB
+운반/NNG + 되/XSV + 도록/EC
+만들/VV + ㄴ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+새우/NNG + 나/JC
+게/NNG + 처럼/JKB
+날카롭/VA + ㄴ/ETM
+가시/NNG + 가/JKS
+있/VV + 는/ETM
+생선/NNG + 용/XSN
+팩/NNG + 에/JKB + 는/JX
+그물망/NNG + 을/JKO
+집/VV + 어/EC
+넣/VV + 어/EC
+만들/VV + 었/EP + 다/EF + ./SF
+터지/VV + 지/EC
+않/VX + 도록/EC
+배려/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+팩/NNG + 의/JKG
+종류/NNG + 도/JX
+다양/NNG + 하/XSA + 다/EF + ./SF
+우선/MAG
+가정/NNG + 용/XSN + 과/JC
+본격/NNG
+수송/NNG + 용/XSN + 이/JKS
+구별/NNG + 되/XSV + 고/EC + ,/SP
+가정/NNG + 용/XSN + 은/JX
+15/SN + l/SL + 짜리/XSN + 와/JC
+20/SN + l/SL + 짜리/XSN
+2/SN + 종류/NNG + 를/JKO
+팔/VV + 고/EC
+있/VX + 다/EF + ./SF
+본격/NNG
+수송/NNG + 용/XSN + 은/JX
+14/SN + l/SL + 짜리/XSN
+소형/NNG + 에서/JKB
+90/SN + l/SL
+대/NNG + 형/XSN + 까지/JX
+5/SN + 종류/NNG + ./SF
+가정/NNG + 용/XSN + 이/VCP + 든/EC
+수송/NNG + 용/XSN + 이/VCP + 든/EC
+트럭/NNG + 이나/JC
+짐칸/NNG + 에/JKB
+차곡차곡/MAG
+쌓/VV + 아/EC
+두/VX + 기/ETN
+편리/NNG + 하/XSA + 게/EC
+규격/NNG + 화/XSN
+하/VV + 았/EP + 다/EF + ./SF
+토토/NNP
+팩/NNG + 과/JC
+토토/NNP
+캐리/NNP + 를/JKO
+사용/NNG + 하/XSV + 기/ETN
+때문/NNB + 에/JKB
+트럭/NNG + 을/JKO
+통째/NNG
+물탱크/NNG + 로/JKB
+개조/NNG + 하/XSV + ㄹ/ETM
+필요/NNG + 가/JKS
+없/VA + 어/EC + 지/VX + 었/EP + 다/EF + ./SF
+또/MAG
+하나/NR
+특징/NNG + 은/JX
+언제/NP + 이/VCP + 든지/EC
+산소/NNG + 를/JKO
+주입/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 다는/ETM
+점/NNB + ./SF
+밀봉/NNG + 하/XSV + ㄴ/ETM
+곳/NNG + 을/JKO
+뜯/VV + 어/EC
+산소/NNG + 를/JKO
+넣/VV + 은/ETM
+후/NNG
+다시/MAG
+밀봉/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 다/EF + ./SF
+산소/NNG
+주입기/NNG + 는/JX
+2/SN + 만/NR
+8/SN + ,/SP + 000/SN + 엔/NNB + 에/JKB
+팔/VV + 고/EC
+있/VX + 으며/EC + ,/SP
+소형/NNG + 이/VCP + 어서/EC
+중간/NNG
+도매업자/NNG + 들/XSN + 이/JKS
+주로/MAG
+구입/NNG + 하/XSV + 아/EC
+휴대/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+우시오/NNP
+머린/NNP
+사/NNG + 는/JX
+활어/NNG
+수송/NNG
+사업/NNG + 을/JKO
+확대/NNG + 하/XSV + 려고/EC
+홋카이도/NNP
+백화점/NNG + 과/JKB
+제휴/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+보니/NNP
+모리야/NNP
+백화점/NNG + 이/JKS
+고객/NNG + 들/XSN + 에게/JKB
+홋카이도/NNP
+생선/NNG + 을/JKO
+주문/NNG + 받/VV + 으면/EC
+토토/NNP
+팩/NNG + 에/JKB
+담/VV + 아/EC
+전국/NNG + 에/JKB
+배달/NNG + 하/XSV + 아/EC
+주/VX + 는/ETM
+합작/NNG
+사업/NNG + 이/VCP + 다/EF + ./SF
+가격/NNG + 은/JX
+새우/NNG + 가/JKS
+400/SN + g/SL + 에/JKB
+6/SN + ,/SP + 000/SN + 엔/NNB + ./SF
+이/MM
+사업/NNG + 은/JX
+크/VA + 게/EC
+성공/NNG + ,/SP
+홋카이도/NNP + 에서/JKB
+출발/NNG + 하/XSV + ㄴ/ETM
+푸득푸득/MAG
+튀/VV + 어/EC
+오르/VV + 는/ETM
+새우/NNG + 가/JKS
+살/VV + 아/EC
+있/VX + 는/ETM
+채/NNB
+다음/NNG
+날/NNG
+가정/NNG + 에/JKB
+도착/NNG + 하/XSV + ㄴ다/EF + ./SF
+신선도/NNG + 는/JX
+물론/MAG
+만점/NNG + ,/SP
+식탁/NNG + 에서/JKB
+바닷물/NNG
+냄새/NNG + 를/JKO
+맡/VV + 으며/EC
+새우/NNG + 를/JKO
+먹/VV + 게/EC
+되/VV + ㄴ다/EF + ./SF
+가정/NNG + 뿐/JX + 만/JX
+아니/VCN + 라/EC
+음식점/NNG + ,/SP
+파티/NNG
+장소/NNG + ,/SP
+심지어/MAG
+백화점/NNG + 에서/JKB + 도/JX
+활어/NNG
+팩/NNG + 이/JKS
+자리/NNG + 잡/VV + 고/EC
+있/VX + 다/EF + ./SF
+닛산/NNP
+자동차/NNG + 가/JKS
+45/SN + 세/NNB
+이상/NNG + 의/JKG
+중/NNG + ·/SP + 고령자/NNG + 만/JX + 으로/JKB
+구성/NNG + 되/XSV + ㄴ/ETM
+전용/NNG
+공정/NNG + 을/JKO
+모든/MM
+공장/NNG + 에/JKB
+도입/NNG + 하/XSV + ㄹ/ETM
+듯/NNB + ./SF
+닛산/NNP + 은/JX
+공장/NNG
+근로자/NNG + 의/JKG
+고령/NNG + 화/XSN + 와/JC
+인력/NNG
+부족/NNG + 을/JKO
+감안/NNG + ,/SP
+10/SN + ～/SO + 15/SN + 명/NNB + 으로/JKB
+구성/NNG + 되/XSV + ㄴ/ETM
+전용/NNG
+공정/NNG + 을/JKO
+도입/NNG + 하/XSV + 기/ETN + 로/JKB
+결정/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이/NP + 를/JKO
+위하/VV + 아/EC
+중/NNG + 고령자/NNG + 들/XSN + 의/JKG
+약점/NNG + 을/JKO
+메우/VV + 어/EC
+주/VX + ㄹ/ETM
+작업/NNG
+보조/NNG
+장치/NNG + 를/JKO
+발주/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+예/NNG + 를/JKO
+들/VV + 어/EC
+완력/NNG + 이/JKS
+약하/VA + ㄴ/ETM
+것/NNB + 을/JKO
+보조/NNG + 하/XSV + 아/EC
+주/VX + ㄹ/ETM
+조력/NNG
+장치/NNG + ,/SP
+시력/NNG
+감퇴/NNG + 를/JKO
+커버/NNG + 하/XSV + 아/EC
+주/VX + ㄹ/ETM
+특수/NNG
+조명/NNG
+장치/NNG + ,/SP
+망각증/NNG + 을/JKO
+덮/VV + 어/EC
+주/VX + ㄹ/ETM
+망각/NNG
+경보/NNG
+장치/NNG
+등/NNB + 이/VCP + 다/EF + ./SF
+닛산/NNP + 은/JX
+이/NP + 에/JKB
+앞서/VV + 어/EC
+요코스카/NNP
+공장/NNG + 에서/JKB
+실험/NNG
+과정/NNG + 을/JKO
+거치/VV + 었/EP + 으며/EC + ,/SP
+실험/NNG
+과정/NNG + 에서/JKB
+중/NNG + ·/SP + 고령자/NNG
+전용/NNG
+공정/NNG + 에/JKB
+절실/XR + 하/XSA + ㄴ/ETM
+장치/NNG + 들/XSN + 을/JKO
+완전/NNG
+파악/NNG + 하/XSV + 았/EP + 다고/EF + ./SF
+특히/MAG
+중/NNG + ·/SP + 고령/NNG
+근로자/NNG + 들/XSN + 은/JX
+망각증/NNG + 의/JKG
+현상/NNG + 이/JKS
+심하/VA + 게/EC
+두드러지/VV + 어/EC + ,/SP
+이/NP + 를/JKO
+보완/NNG + 하/XSV + 는/ETM
+아이디어/NNG + 로/JKB
+부품/NNG
+조이/VV + 기/ETN + 를/JKO
+빼먹/VV + 으면/EC
+벨/NNG + 이/JKS
+울리/VV + 는/ETM
+시스템/NNG + 을/JKO
+도입/NNG + 하/XSV + ㄹ/ETM
+계획/NNG + 이/VCP + 다/EF + ./SF
+닛산/NNP + 은/JX
+자동차/NNG
+조립/NNG
+공장/NNG
+안/NNG + 에서/JKB
+우선/MAG
+3/SN + ～/SO + 4/SN + 개/NNB
+공정/NNG + 을/JKO
+중/NNG + ·/SP + 고령자/NNG
+전용/NNG
+공정/NNG + 으로/JKB
+지정/NNG + 하/XSV + ㄹ/ETM
+예정/NNG + 이/VCP + 다/EF + ./SF
+그런데/MAJ
+닛산/NNP + 이/JKS
+중/NNG + ·/SP + 고령자/NNG + 를/JKO
+한/MM
+공정/NNG + 에/JKB
+모으/VV + 아/EC
+놓/VX + 는/ETM
+이유/NNG + 는/JX
+나이/NNG + 가/JKS
+비슷/XR + 하/XSA + ㄴ/ETM
+것/NNB + 이/JKS
+팀/NNG
+워크/NNG + 에/JKB
+도움/NNG + 이/JKC
+되/VV + 고/EC + ,/SP
+보조/NNG
+장치/NNG
+설치/NNG + 에/JKB
+경비/NNG + 가/JKS
+대폭/MAG
+절감/NNG + 되/XSV + 기/ETN
+때문/NNB + 이/VCP + 라는/ETM
+설명/NNG + 이/VCP + 다/EF + ./SF
+또/MAG
+일본/NNP + 에서/JKB + 는/JX
+공장/NNG
+근로자/NNG + 들/XSN + 의/JKG
+노령/NNG + 화/XSN + 가/JKS
+심각/XR + 하/XSA + ㄴ/ETM
+상황/NNG + 이/VCP + 다/EF + ./SF
+예/NNG + 를/JKO
+들/VV + 어/EC
+요코스카/NNP
+공장/NNG + 만/JX
+하/VV + 아도/EC
+50/SN + 세/NNB
+이상/NNG + 의/JKG
+고령자/NNG + 가/JKS
+2/SN + %/SW + 를/JKO
+상회/NNG + 하/XSV + 고/EC
+있/VX + 는/ETM
+실정/NNG + 이/VCP + 다/EF + ./SF
+19/SN + ./SF
+여행/NNG
+상품/NNG
+아이디어/NNG
+도쿄/NNP + (/SS + 동경/NNP + )/SS
+게이오/NNP
+백화점/NNG + 에서/JKB
+가장/MAG
+인기/NNG
+있/VV + 는/ETM
+건강/NNG
+식품/NNG + 은/JX
+마늘/NNG
+가루/NNG + 이/VCP + 다/EF + ./SF
+마늘/NNG + 이/JKS
+고려/NNP
+인삼/NNG + ,/SP
+두충/NNG + 차/NNG + ,/SP
+로열/NNG
+젤리/NNG
+등/NNB + 과/JKB
+함께/MAG
+건강/NNG
+상품/NNG + 화/XSN + 되/XSV + 었/EP + 다/EF + ./SF
+많/VA + 고/EC
+많/VA + 은/ETM
+라면/NNG + 집/NNG
+중/NNB + 에서/JKB
+마늘/NNG
+가루/NNG + 를/JKO
+양념/NNG + 으로/JKB
+서비스/NNG + 하/XSV + 아/EC
+주/VX + 는/ETM
+곳/NNG + 도/JX
+늘/VV + 고/EC
+있/VX + 다/EF + ./SF
+일본/NNP
+젊은이/NNG + 들/XSN + 이/JKS
+좋아하/VV + 는/ETM
+경향/NNG + 이/VCP + 어서/EC
+마늘/NNG
+냄새/NNG + 를/JKO
+없애/VV + 는/ETM
+입/NNG + 헹구/VV + ㅁ/ETN + 약/NNG + 까지/JX
+등장/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+마늘/NNG
+냄새/NNG + 에/JKB
+거부감/NNG + 을/JKO
+느끼/VV + 는/ETM
+주변/NNG
+사람/NNG + 을/JKO
+감안/NNG + 하/XSV + ㄴ/ETM
+상품/NNG + 이/VCP + 다/EF + ./SF
+아이디어/NNG
+상품/NNG
+중/NNB
+최근/NNG
+인기/NNG
+있/VV + 는/ETM
+여행/NNG + 용/XSN
+밑반찬/NNG + (/SS + 쓰케모노/NNG + )/SS + 은/JX
+해외/NNG
+여행/NNG + 을/JKO
+떠나/VV + 는/ETM
+사람/NNG + 들/XSN + 의/JKG
+필수품/NNG + 처럼/JKB
+되/VV + 어/EC
+있/VX + 다/EF + ./SF
+이/MM
+상품/NNG + 을/JKO
+개발/NNG + 하/XSV + ㄴ/ETM
+회사/NNG + 는/JX
+아사히/NNP
+푸드/NNG
+사/NNG + ./SF
+오징어/NNG
+·/SP
+오이/NNG
+·/SP
+배추/NNG
+등/NNB + 을/JKO
+냉동/NNG
+건조법/NNG + 으로/JKB
+특수/NNG
+가공/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+포장지/NNG
+속/NNG + 에/JKB + 는/JX
+간장/NNG + 과/JC
+짧/VA + 은/ETM
+젓가락/NNG
+외/NNB + 에/JKB
+조그맣/VA + ㄴ/ETM
+비닐/NNG
+봉지/NNG + 가/JKS
+들/VV + 어/EC
+있/VX + 다/EF + ./SF
+먹/VV + 고/EC
+싶/VX + 을/ETM
+때/NNG
+배추/NNG + 와/JC
+오이/NNG + 를/JKO
+비닐/NNG
+봉지/NNG
+속/NNG + 에/JKB
+넣/VV + 고서/EC
+물/NNG + 을/JKO
+붓/VV + 으면/EC
+8/SN + 분/NNB
+만/NNB + 에/JKB
+건조/NNG
+상태/NNG + 가/JKS
+해제/NNG + 되/XSV + 어/EC
+본래/NNG
+촉촉/XR + 하/XSA + ㄴ/ETM
+반찬/NNG + 으로/JKB
+돌아오/VV + ㄴ다/EF + ./SF
+비행기/NNG + 나/JC
+기차/NNG
+안/NNG + 에서/JKB
+물/NNG + 만/JX
+있/VV + 으면/EC
+그/MM
+자리/NNG + 에서/JKB
+반찬/NNG + 을/JKO
+만들/VV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+셈/NNB + 이/VCP + 다/EF + ./SF
+가격/NNG + 은/JX
+380/SN + 엔/NNB + ./SF
+몇/MM
+봉지/NNG + 를/JKO
+사/VV + 아/EC
+두/VX + 면/EC
+장기/NNG
+여행/NNG + 과/JC
+출장/NNG + 에서/JKB
+고국/NNG
+음식/NNG + 을/JKO
+즐기/VV + ㄹ/ETM
+수/NNB
+있/VV + 다/EF + ./SF
+회사/NNG + 측/NNB + 은/JX
+두/MM
+가지/NNB
+아이디어/NNG + 를/JKO
+이/MM
+상품/NNG + 에/JKB
+가미/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+하나/NR + 는/JX
+사이즈/NNG + 를/JKO
+여권/NNG
+크기/NNG + 에/JKB
+맞추/VV + ㄴ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+다시/MAG
+말/NNG + 하/XSV + 아/EC
+호주머니/NNG + 에/JKB
+들어가/VV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+크기/NNG + 이/VCP + 다/EF + ./SF
+여행/NNG
+중/NNB
+부담/NNG + 이/JKC
+되/VV + 지/EC
+않/VX + 도록/EC
+가능/NNG + 하/XSA + ㄴ/ETM
+소형/NNG + 화/XSN + 하/XSV + ㄴ/ETM
+것/NNB + ,/SP
+또/MAG
+하나/NR + 는/JX
+물/NNG + 이/JKS
+필수/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+점/NNB + 을/JKO
+배려/NNG + ,/SP
+케이스/NNG + 에/JKB
+5/SN + 개/NNB
+국어/NNG + 로/JKB
+'/SS + 물/NNG + 을/JKO
+주/VV + 시/EP + 어/EC + 요/JX + '/SS + 이/VCP + 라는/ETM
+문장/NNG + 을/JKO
+쓰/VV + 어/EC
+놓/VX + 았/EP + 다/EF + ./SF
+현지어/NNG + 를/JKO
+모르/VV + 아/EC
+반찬/NNG + 을/JKO
+먹/VV + 지/EC
+못하/VX + 는/ETM
+사태/NNG + 를/JKO
+예상/NNG + ,/SP
+불편/NNG + 하/XSA + ㅁ/ETN + 을/JKO
+덜/VV + 어/EC
+주/VX + ㄴ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+첫해/NNG
+판매/NNG
+목표/NNG + 는/JX
+5/SN + 만/NR
+개/NNB + ./SF
+1/SN + ,/SP + 000/SN + 만/NR
+명/NNB + 이/JKS
+해외/NNG
+여행/NNG + 을/JKO
+떠나/VV + 는/ETM
+가운데/NNG
+5/SN + %/SW
+이하/NNG + 만/JX + 을/JKO
+노리/VV + ㄴ/ETM
+판매/NNG
+전략/NNG + 이/VCP + 다/EF + ./SF
+그러나/MAJ
+"/SS + 한/MM + 번/NNB
+이용/NNG + 하/XSV + 아/EC
+보/VX + ㄴ/ETM
+여행객/NNG + 은/JX
+반드시/MAG
+다시/MAG
+찾/VV + 는/ETM
+상품/NNG + 이/JKC
+되/VV + 었/EP + 다/EC + "/SS + 는/JX
+것/NNB + 이/JKS
+회사/NNG + 측/NNB
+설명/NNG + 이/VCP + 다/EF + ./SF
+장기/NNG + 적/XSN + 으로/JKB
+성공/NNG + 하/XSV + ㄴ다는/ETM
+확신/NNG + 을/JKO
+갖/VV + 고/EC
+있/VX + 다/EF + ./SF
+나리타/NNP
+공항/NNG + 에서/JKB
+기오스크/NNG + (/SS + 산매/NNG
+점포/NNG + )/SS + 를/JKO
+잘/MAG
+살펴보/VV + 면/EC
+여행/NNG
+상품/NNG + 은/JX
+수없이/MAG
+개발/NNG + 되/XSV + 고/EC
+있/VX + 다/EF + ./SF
+비행기/NNG
+안/NNG + 이/JKS
+건조/NNG + 하/XSA + ㄴ/ETM
+것/NNB + 을/JKO
+계산/NNG + ,/SP
+건조/NNG + 하/XSA + ㄴ/ETM
+기분/NNG + 이/JKS
+들/VV + ㄹ/ETM
+때/NNG
+사용/NNG + 하/XSV + 는/ETM
+에어/NNG
+마스크/NNG + 가/JKS
+등장/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+전력/NNG
+주파수/NNG + 가/JKS
+다른/MM
+어느/MM
+지역/NNG + 에서/JKB + 나/JC
+듣/VV + 을/ETM
+수/NNB
+있/VV + 는/ETM
+고/XPN + 성능/NNG
+라디오/NNG + 도/JX
+소니/NNP + 가/JKS
+내놓/VV + 았/EP + 다/EF + ./SF
+여행/NNG
+상품/NNG + 뿐/JX
+아니/VCN + 다/EF + ./SF
+해외/NNG
+여행/NNG
+관련/NNG
+서비스/NNG + 도/JX
+기발/XR + 하/XSA + 다/EF + ./SF
+비디오/NNG
+카메라/NNG + 를/JKO
+빌리/VV + 어/EC
+주/VX + 는/ETM
+가게/NNG + 도/JX
+성황/NNG + 이/VCP + 고/EC + ,/SP
+덥/VA + ㄴ/ETM
+지역/NNG + 을/JKO
+여행/NNG + 하/XSV + 는/ETM
+관광객/NNG + 들/XSN + 의/JKG
+겨울/NNG
+옷/NNG + 을/JKO
+맡/VV + 아/EC
+두/VX + 는/ETM
+보관업/NNG + 도/JX
+인기/NNG + 이/VCP + 다/EF + ./SF
+공항/NNG + 에서/JKB
+가정/NNG + 까지/JX
+짐/NNG + 을/JKO
+배달/NNG + 하/XSV + 아/EC
+주/VX + 는/ETM
+탁송업/NNG + 은/JX
+완벽/NNG + 하/XSA + 게/EC
+정착/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+여행/NNG + 에서/JKB
+돌아오/VV + ㄹ/ETM
+때/NNG + 나/JC
+떠나/VV + ㄹ/ETM
+때/NNG
+무겁/VA + ㄴ/ETM
+짐/NNG + 을/JKO
+들/VV + 고/EC
+택시/NNG + 와/JC
+지하철/NNG + 을/JKO
+번갈/VV + 아/EC
+타/VV + 아야/EC
+하/VX + 는/ETM
+불편/NNG + 을/JKO
+덜/VV + 어/EC
+주/VX + 는/ETM
+서비스/NNG
+업/NNG + 이/VCP + 다/EF + ./SF
+누구/NP + 이/VCP + ㄴ가/EC
+우리/NP
+입맛/NNG + 에/JKB
+맞/VV + 는/ETM
+마늘/NNG
+요리/NNG + 와/JC
+김/NNG + ,/SP
+고추장/NNG + 을/JKO
+해외/NNG
+여행/NNG + 에/JKB
+동반/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+없/VA + 는지/EC
+연구/NNG + 하/XSV + 아/EC
+보/VX + ㄹ/ETM
+만/NNB + 하/XSA + 다/EF + ./SF
+다만/MAG
+반드시/MAG
+냄새나/VV + 지/EC
+않/VX + 는/ETM
+것/NNB + 이/VCP + 어야/EC
+하/VX + ㄴ다/EF + ./SF
+만약/NNG
+집/NNG + 에서/JKB
+먹/VV + 는/ETM
+대로/NNB + 이/VCP + 라면/EC
+어느/MM
+공항/NNG + ,/SP
+어느/MM
+호텔/NNG + 에서/JKB + 나/JX
+곤욕/NNG + 을/JKO
+치르/VV + ㄴ다는/ETM
+것/NNB + 을/JKO
+해외/NNG
+여행/NNG + 에/JKB
+나서/VV + 어/EC
+보/VX + ㄴ/ETM
+사람/NNG + 은/JX
+대개/MAG
+알/VV + 고/EC
+있/VX + 다/EF + ./SF

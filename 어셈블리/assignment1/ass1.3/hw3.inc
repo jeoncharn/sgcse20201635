@@ -1,0 +1,2 @@
+X DWORD 8
+Y DWORD 15

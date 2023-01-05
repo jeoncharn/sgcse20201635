@@ -1,0 +1,51 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "28a658253d67c2d36c08f8a39f2d432d55fe4e410ba6fcda1c92701d6760c4af"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/jeoncharn/Desktop/sgcs 20201635/2021-1/자료구조/과제5_자료구조/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/jeoncharn/Desktop/sgcs 20201635/2021-1/자료구조/과제5_자료구조/Build/Products",
+      "derivedDataPath" : "/Users/jeoncharn/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/jeoncharn/Library/Developer/Xcode/DerivedData/과제5_자료구조-besbjcvqjdmrrfddozpvcmdsusoz/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jeoncharn/Library/Developer/Xcode/DerivedData/과제5_자료구조-besbjcvqjdmrrfddozpvcmdsusoz/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/jeoncharn/Desktop/sgcs 20201635/2021-1/자료구조/과제5_자료구조/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

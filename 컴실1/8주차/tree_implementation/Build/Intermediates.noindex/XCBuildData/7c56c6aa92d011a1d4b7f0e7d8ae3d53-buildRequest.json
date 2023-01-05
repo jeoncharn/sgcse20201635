@@ -1,0 +1,51 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "953d0bc2b4026f5644bd65a14e3c5bd1b84e01ba60169f88ab22d9db0c995577"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/jeoncharn/Desktop/tree_implementation/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/jeoncharn/Desktop/tree_implementation/Build/Products",
+      "derivedDataPath" : "/Users/jeoncharn/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/jeoncharn/Library/Developer/Xcode/DerivedData/tree_implementation-eirxomgkvudlogbzxnrwpxklgfor/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jeoncharn/Library/Developer/Xcode/DerivedData/tree_implementation-eirxomgkvudlogbzxnrwpxklgfor/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/jeoncharn/Desktop/tree_implementation/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

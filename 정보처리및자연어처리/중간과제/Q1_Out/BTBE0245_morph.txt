@@ -1,0 +1,7165 @@
+最近/SH + 의/JKG
+經濟/SH
+및/MAG
+金融動向/SH
+槪況/SH
+금년/NNG
+들/VV + 어/EC
+우리/NP
+經濟/SH + 는/JX
+IMF/SL
+등/NNB
+國際金融機構/SH + 의/JKG
+자금/NNG + 지원/NNG + ,/SP
+금융/NNG + 기관/NNG
+단기/NNG + 외채/NNG + 의/JKG
+만기/NNG + 연장/NNG + ,/SP
+경상/NNG + 수지/NNG
+흑자/NNG
+지속/NNG
+등/NNB + 에/JKB
+힘입/VV + 어/EC
+換率/SH + 과/JC
+金利/SH + 가/JKS
+점진/NNG + 적/XSN + 으로/JKB
+안정/NNG + 되/XSV + 고/EC + 는/JX
+있/VX + 으나/EC
+實物部門/SH + 이/JKS
+外換危機/SH + 의/JKG
+충격/NNG + ,/SP
+信用梗塞/SH
+등/NNB + 으로/JKB
+급속히/MAG
+악화/NNG + 되/XSV + 는/ETM
+모습/NNG + 을/JKO
+보이/VV + 고/EC
+있/VX + 다/EF + ./SF
+원/NNG + 貨換率/SH + 의/JKG
+급등/NNG + 으로/JKB
+대폭/MAG
+상승/NNG + 하/XSV + ㄴ/ETM
+物價/SH + 는/JX
+3/SN + 월/NNB + 부터/JX
+오름세/NNG + 가/JKS
+다소/MAG
+진정/NNG + 되/XSV + 는/ETM
+움직임/NNG + 을/JKO
+나타내/VV + 었/EP + 으며/EC
+經常收支/SH + 는/JX
+지난해/NNG
+12/SN + 월/NNB
+이후/NNG
+크/VA + ㄴ/ETM
+폭/NNG + 의/JKG
+흑자/NNG + 기조/NNG + 를/JKO
+지속/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+國內總生産/SH + (/SS + GDP/SL + )/SS + 은/JX
+外換/SH + ·/SP + 金融危機/SH + 의/JKG
+충격/NNG + ,/SP
+信用梗塞/SH
+등/NNB + 에/JKB
+따르/VV + ㄴ/ETM
+소비/NNG
+및/MAG
+투자/NNG + 의/JKG
+현저/XR + 하/XSA + ㄴ/ETM
+감소/NNG + 와/JC
+이/NP + 로/JKB
+인하/VV + ㄴ/ETM
+산업/NNG + 활동/NNG + 의/JKG
+극심/XR + 하/XSA + ㄴ/ETM
+위축/NNG + 으로/JKB
+3/SN + ./SP + 8/SN + %/SW + 의/JKG
+마이너스/NNG
+성장/NNG + 을/JKO
+기록/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+輸出/SH + (/SS + 통관/NNG + 기준/NNG + )/SS + 은/JX
+동남아시아/NNP + 와/JC
+일본/NNP + 에/JKB
+대하/VV + ㄴ/ETM
+수출/NNG
+부진/NNG + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+원화/NNG + 가치/NNG
+하락/NNG
+등/NNB + 으로/JKB
+對先進國/SH
+수출/NNG + 이/JKS
+호조/NNG + 를/JKO
+보이/VV + ㄴ/ETM
+데/NNB + 다/JX
+金/SH + 수출/NNG + 도/JX
+가세/NNG + 하/XSV + 아/EC
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+증가/NNG + 율/XSN + 이/JKS
+전년/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG + 의/JKG
+3/SN + ./SP + 6/SN + %/SW + 에서/JKB
+8/SN + ./SP + 7/SN + %/SW + 로/JKB
+높/VA + 아/EC + 지/VX + 었/EP + 으며/EC
+4/SN + 월/NNB + 에/JKB + 도/JX
+6/SN + ./SP + 6/SN + %/SW
+증가/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+輸入/SH + (/SS + 통관/NNG + 기준/NNG + )/SS + 은/JX
+원화/NNG + 절하/NNG + ,/SP
+내수/NNG + 위축/NNG + ,/SP
+수입/NNG + 금융/NNG
+경색/NNG + ,/SP
+유가/NNG + 안정/NNG
+등/NNB + 으로/JKB
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+35/SN + ./SP + 5/SN + %/SW
+감소/NNG + 하/XSV + ㄴ/ETM
+데/NNB
+잇/VV + 어/EC
+4/SN + 월/NNB + 에/JKB + 도/JX
+35/SN + ./SP + 6/SN + %/SW
+줄어들/VV + 었/EP + 다/EF + ./SF
+이/NP + 와/JKB
+같/VA + 은/ETM
+輸出入/SH
+움직임/NNG + 에/JKB
+따르/VV + 아/EC
+商品收支/SH + 가/JKS
+크/VA + ㄴ/ETM
+폭/NNG + 의/JKG
+흑자/NNG + 를/JKO
+지속/NNG + 하/XSV + ㅁ/ETN + 으로써/JKB
+經常收支/SH + 는/JX
+1/SN + ·/SP + 4/SN + 분기/NNG + 에/JKB
+106/SN + ./SP + 2/SN + 억/NR + 달러/NNB + ,/SP
+4/SN + 월/NNB
+들/VV + 어/EC
+38/SN + ./SP + 1/SN + 억/NR + 달러/NNB + 의/JKG
+흑자/NNG + 를/JKO
+나타내/VV + 었/EP + 다/EF + ./SF
+物價/SH + 는/JX
+급속/NNG + 하/XSA + ㄴ/ETM
+원화/NNG + 절하/NNG + 로/JKB
+지난해/NNG
+12/SN + 월/NNB
+이후/NNG
+가파르/VA + ㄴ/ETM
+오름세/NNG + 를/JKO
+지속/NNG + 하/XSV + 아/EC
+금년/NNG
+1/SN + ～/SO + 4/SN + 월/NNB + 중/NNB
+生産者物價/SH + 와/JC
+消費者物價/SH + 가/JKS
+전년/NNG + 동기/NNG + 대비/NNG
+각각/MAG
+17/SN + ./SP + 0/SN + %/SW
+및/MAG
+8/SN + ./SP + 9/SN + %/SW
+상승/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+그러나/MAJ
+전반/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+수요/NNG + 부진/NNG + 이/JKS
+지속/NNG + 되/XSV + 고/EC
+원화/NNG + 환율/NNG + 도/JX
+점차/MAG
+안정/NNG + 되/XSV + 면서/EC
+3/SN + 월/NNB + 부터/JX
+상승세/NNG + 가/JKS
+다소/MAG
+진정/NNG + 되/XSV + 는/ETM
+모습/NNG + 을/JKO
+보이/VV + 었/EP + 다/EF + ./SF
+通貨金融/SH
+動向/SH + 을/JKO
+보/VV + 면/EC
+주요/NNG
+통화/NNG + 지표/NNG + 들/XSN + 의/JKG
+증가/NNG + 율/XSN + 이/JKS
+대체로/MAG
+하락세/NNG + 를/JKO
+보이/VV + 었/EP + 다/EF + ./SF
+이/NP + 는/JX
+은행/NNG + 들/XSN + 이/JKS
+BIS/SL + 기준/NNG
+자기/NNG + 자본/NNG + 비율/NNG
+관리/NNG + 와/JC
+부실/NNG + 여신/NNG
+발생/NNG
+우려/NNG + 로/JKB
+여신/NNG + 취급/NNG + 을/JKO
+억제/NNG + 하/XSV + ㄴ/ETM
+데/NNB + 다/JX
+경기/NNG + 침체/NNG + 와/JC
+고/XPN + 금리/NNG + 로/JKB
+기업/NNG
+및/MAG
+가계/NNG + 의/JKG
+차입/NNG + 수요/NNG + 가/JKS
+둔화/NNG + 되/XSV + ㄴ/ETM
+데/NNB
+주로/MAG
+기인/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+M/SL + C/SL + T/SL
+및/MAG
+M/SL + 2/SN
+增加率/SH + (/SS + 평잔/NNG + 기준/NNG + )/SS + 은/JX
+지난해/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG + 의/JKG
+13/SN + ./SP + 7/SN + %/SW + ,/SP
+19/SN + ./SP + 1/SN + %/SW + 에서/JKB
+10/SN + ./SP + 8/SN + %/SW + ,/SP
+14/SN + ./SP + 5/SN + %/SW + 로/JKB
+각각/MAG
+크/VA + 게/EC
+하락/NNG + 하/XSV + 았/EP + 으며/EC
+4/SN + 월/NNB + 중/NNB + 에/JKB + 도/JX
+각각/MAG
+9/SN + ./SP + 2/SN + %/SW + ,/SP
+13/SN + ./SP + 3/SN + %/SW + 에/JKB
+그치/VV + 어/EC
+증가세/NNG + 가/JKS
+더욱/MAG
+둔화/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+또한/MAG
+전반/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+유동/NNG + 성/XSN + 사정/NNG + 을/JKO
+나타내/VV + 는/ETM
+M/SL + 3/SN
+增加率/SH + 도/JX
+분기/NNG + 중/NNB
+14/SN + %/SW + 대/XSN + 로/JKB
+하락/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+어음/NNG + 不渡率/SH + 은/JX
+0/SN + ./SP + 54/SN + %/SW + 로/JKB
+전년/NNG
+3/SN + ·/SP + 4/SN + 분기/NNG
+이전/NNG + 에/JKB
+비하/VV + 아서/EC + 는/JX
+2/SN + 배/NNG
+이상/NNG
+높/VA + 은/ETM
+수준/NNG + 을/JKO
+보이/VV + 었/EP + 으나/EC
+금융/NNG + 기관/NNG
+부도/NNG + 금액/NNG + 이/JKS
+줄어들/VV + ㄴ/ETM
+데/NNB
+힘입/VV + 어/EC
+전년/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG + 의/JKG
+0/SN + ./SP + 80/SN + %/SW + 보다/JKB + 는/JX
+다소/MAG
+낮/VA + 아/EC + 지/VX + 었/EP + 으며/EC
+4/SN + 월/NNB + 중/NNB + 에/JKB + 는/JX
+0/SN + ./SP + 42/SN + %/SW + 로/JKB
+더욱/MAG
+하락/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+한편/NNG
+지난해/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+크/VA + ㄴ/ETM
+폭/NNG + 으로/JKB
+상승/NNG + 하/XSV + 았/EP + 던/ETM
+市場金利/SH + 는/JX
+換率/SH + 이/JKS
+점차/MAG
+안정/NNG + 되/XSV + 고/EC
+이/NP + 에/JKB
+맞추/VV + 어/EC
+한국은행/NNP + 이/JKS
+공개/NNG + 시장/NNG + 조작/NNG
+금리/NNG + 를/JKO
+점진/NNG + 적/XSN + 으로/JKB
+인하/NNG + 하/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+하락세/NNG + 를/JKO
+지속/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+4/SN + 월/NNB
+들/VV + 어서/EC + 도/JX
+이러/XR + 하/XSA + ㄴ/ETM
+추세/NNG + 가/JKS
+지속/NNG + 되/XSV + 어/EC
+회사채/NNG + 유통/NNG + 수익/NNG + 률/XSN + 의/JKG
+경우/NNG
+월말/NNG + 에/JKB + 는/JX
+17/SN + %/SW
+수준/NNG + 으로/JKB
+낮/VA + 아/EC + 지/VX + 었/EP + 다/EF + ./SF
+經濟動向/SH
+海外經濟/SH
+1998/SN + 년/NNB
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+주요/NNG
+先進國/SH + 의/JKG
+經濟動向/SH + 을/JKO
+보/VV + 면/EC
+美國/SH + 과/JC
+獨逸/SH + 은/JX
+전/MM + 분기/NNG + 에/JKB
+비하/VV + 아/EC
+성장세/NNG + 가/JKS
+크/VA + 게/EC
+확대/NNG + 되/XSV + 었/EP + 으나/EC
+日本/SH + 은/JX
+전/MM + 분기/NNG + 보다/JKB
+경기/NNG + 부진/NNG + 이/JKS
+더욱/MAG
+심화/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+美國/SH
+經濟/SH + 는/JX
+아시아/NNP
+외환/NNG + 위기/NNG + 의/JKG
+영향/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+수출/NNG
+둔화/NNG + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+민간/NNG + 소비/NNG + ,/SP
+설비/NNG + 투자/NNG
+및/MAG
+주택/NNG + 투자/NNG + 의/JKG
+대폭/MAG
+증가/NNG + 에/JKB
+힘입/VV + 어/EC
+4/SN + ./SP + 8/SN + %/SW + 의/JKG
+높/VA + 은/ETM
+성장/NNG + 률/XSN + 을/JKO
+기록/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+또한/MAG
+獨逸/SH
+經濟/SH + 도/JX
+마르크화/NNG
+약세/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+수출/NNG
+증가/NNG + 와/JC
+민간/NNG + 소비/NNG + 의/JKG
+확대/NNG
+등/NNB + 에/JKB
+힘입/VV + 어/EC
+전/MM + 분기/NNG + 에/JKB
+비하/VV + 아/EC
+성장세/NNG + 가/JKS
+크/VA + 게/EC
+확대/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+그러나/MAJ
+日本/SH
+經濟/SH + 는/JX
+일본/NNP
+및/MAG
+아시아/NNP + 의/JKG
+금융/NNG + 시장/NNG
+불안/NNG
+지속/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+투자/NNG
+및/MAG
+소비/NNG + 심리/NNG
+위축/NNG + 과/JC
+수출/NNG
+감소/NNG
+등/NNB + 으로/JKB
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+5/SN + ./SP + 3/SN + %/SW + 의/JKG
+마이너스/NNG
+성장/NNG + 을/JKO
+나타내/VV + 어/EC
+전/MM + 분기/NNG + 보다/JKB
+실질/NNG + GDP/SL + 의/JKG
+감소/NNG + 폭/NNG + 이/JKS
+크/VA + 게/EC
+확대/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+美國/SH + 의/JKG
+金利/SH + 는/JX
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+아시아/NNP
+금융/NNG + 시장/NNG + 의/JKG
+불안/NNG
+지속/NNG + 에/JKB
+따르/VV + 아/EC
+안전/NNG + 투자/NNG + 대상/NNG + 으로서/JKB
+美/SH
+국채/NNG
+매입/NNG + 세/NNG + 가/JKS
+확대/NNG + 되/XSV + 고/EC
+미국/NNP + 의/JKG
+재정/NNG + 적자/NNG
+축소/NNG + 로/JKB
+국채/NNG
+공급/NNG + 물량/NNG + 이/JKS
+감소/NNG + 하/XSV + ㅁ/ETN + 으로써/JKB
+장기/NNG + 금리/NNG + 를/JKO
+중심/NNG + 으로/JKB
+하락세/NNG + 를/JKO
+나타내/VV + 었/EP + 다/EF + ./SF
+그러나/MAJ
+4/SN + 월/NNB
+들/VV + 어서/EC + 는/JX
+美/SH
+연준/NNG + 의/JKG
+금리/NNG + 인상/NNG
+가능/NNG + 성/XSN
+및/MAG
+물가/NNG + 안정/NNG + 을/JKO
+나타내/VV + 는/ETM
+경제/NNG + 지표/NNG + 의/JKG
+발표/NNG
+등/NNB
+상승/NNG + 요인/NNG + 과/JC
+하락/NNG + 요인/NNG + 이/JKS
+교차/NNG + 하/XSV + 면서/EC
+단기/NNG + 금리/NNG + 가/JKS
+하락/NNG + 하/XSV + 았/EP + 으나/EC
+장기/NNG + 금리/NNG + 는/JX
+상승/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+외환/NNG + 시장/NNG + 에서/JKB + 는/JX
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+일본/NNP + 의/JKG
+경기/NNG + 회복/NNG
+지연/NNG
+우려/NNG
+및/MAG
+금융/NNG + 시장/NNG
+불안/NNG
+지속/NNG + ,/SP
+독일/NNP
+및/MAG
+영국/NNP + 의/JKG
+금리/NNG + 인상/NNG
+가능/NNG + 성/XSN
+퇴조/NNG
+등/NNB + 으로/JKB
+주요국/NNG
+통화/NNG + 가/JKS
+美/SH
+달러/NNG + 貨/SH + 에/JKB
+대하/VV + 아/EC
+모두/MAG
+약세/NNG + 를/JKO
+나타내/VV + 었/EP + 다/EF + ./SF
+그러나/MAJ
+4/SN + 월/NNB
+들/VV + 어서/EC + 는/JX
+Moody/SL + '/SS + s/SL + 社/SH + 가/JKS
+일본/NNP
+장기/NNG + 국채/NNG
+신용/NNG + 등급/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+전망/NNG + 을/JKO
+안정/NNG + 적/XSN + 에서/JKB
+부정/NNG + 적/XSN + 으로/JKB
+조정/NNG + 하/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+엔/NNG + 貨/SH + 가/JKS
+약세/NNG + 를/JKO
+지속/NNG + 하/XSV + ㄴ/ETM
+반면/NNG
+마르크/NNG + 貨/SH
+및/MAG
+파운드/NNB + 貨/SH + 는/JX
+EMU/SL
+출범/NNG + 에/JKB
+앞서/VV + ㄴ/ETM
+독일/NNP + 의/JKG
+금리/NNG
+인상/NNG
+가능/NNG + 성/XSN + ,/SP
+영국/NNP
+재무/NNG + 장관/NNG + 의/JKG
+파운드화/NNG
+강세/NNG
+용인/NNP
+발언/NNG
+등/NNB + 으로/JKB
+강세/NNG + 로/JKB
+돌아서/VV + 었/EP + 다/EF + ./SF
+國際原油價格/SH + 은/JX
+1/SN + 월/NNB
+하순/NNG + 경/XSN
+미/NNP + ·/SP + 이라크/NNP + 간/NNB
+무력/NNG + 충돌/NNG
+가능/NNG + 성/XSN
+고조/NNG + ,/SP
+3/SN + 월/NNB
+하순/NNG + 경/XSN
+주요/NNG
+산유국/NNG + 들/XSN + 의/JKG
+감산/NNG
+합의/NNG
+등/NNB + 으로/JKB
+일시/MAG
+급등세/NNG + 를/JKO
+나타내/VV + 기/ETN + 도/JX
+하/VX + 았/EP + 으나/EC
+아시아/NNP
+외환/NNG + 위기/NNG + 의/JKG
+영향/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+수요/NNG
+감소/NNG
+및/MAG
+원유/NNG + 재고/NNG
+증가/NNG
+등/NNB + 으로/JKB
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+크/VA + ㄴ/ETM
+폭/NNG + 으로/JKB
+하락/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+4/SN + 월/NNB
+들/VV + 어서/EC + 는/JX
+이라크/NNP + 의/JKG
+UN/SL + 에/JKB
+대하/VV + ㄴ/ETM
+경제/NNG + 제재/NNG
+조치/NNG
+해제/NNG
+촉구/NNG
+및/MAG
+주요/NNG
+산유국/NNG + 들/XSN + 의/JKG
+감산/NNG
+합의/NNG
+이행/NNG
+여부/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+회의/NNG + 론/XSN
+대두/NNG
+등/NNB
+상승/NNG
+및/MAG
+하락/NNG
+요인/NNG + 이/JKS
+교차/NNG + 하/XSV + 면서/EC
+3/SN + 월/NNB + 과/JC
+비슷/XR + 하/XSA + ㄴ/ETM
+수준/NNG + 을/JKO
+나타내/VV + 었/EP + 다/EF + ./SF
+한편/NNG
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+其他原資材價格/SH + 은/JX
+전/MM + 분기/NNG + 에/JKB
+잇/VV + 어/EC
+하락세/NNG + 를/JKO
+지속/NNG + 하/XSV + 았/EP + 는데/EC
+小麥/SH + ,/SP
+옥수수/NNG
+등/NNB
+穀物/SH + 은/JX
+생산량/NNG
+증가/NNG
+전망/NNG
+및/MAG
+주요/NNG
+재배국/NNG + 들/XSN + 의/JKG
+수출/NNG + 경쟁/NNG
+격화/NNG + 로/JKB + ,/SP
+非鐵金屬/SH + 은/JX
+아시아/NNP
+지역/NNG + 의/JKG
+수요/NNG
+둔화/NNG
+등/NNB + 으로/JKB
+각각/MAG
+하락/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+國內經濟/SH
+(/SS + 經濟成長/SH + )/SS
+금년/NNG
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+國內經濟/SH + 는/JX
+外換/SH + ·/SP + 金融危機/SH + 의/JKG
+충격/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+소비/NNG
+및/MAG
+투자/NNG + 심리/NNG + 의/JKG
+위축/NNG + ,/SP
+신용/NNG + 경색/NNG
+등/NNB + 으로/JKB
+國內總生産/SH + 이/JKS
+80/SN + 년/NNB
+4/SN + ·/SP + 4/SN + 분기/NNG + (/SS + -/SS + 7/SN + ./SP + 8/SN + %/SW + )/SS
+이후/NNG
+처음/NNG + 으로/JKB
+3/SN + ./SP + 8/SN + %/SW + 의/JKG
+負/SH + 의/JKG
+성장/NNG + 을/JKO
+기록/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+분기/NNG + 중/NNB
+消費/SH + 는/JX
+고용/NNG + 불안/NNG + ,/SP
+임금/NNG + 삭감/NNG
+등/NNB + 의/JKG
+영향/NNG + 으로/JKB
+民間消費/SH + 가/JKS
+급격히/MAG
+위축/NNG + 되/XSV + 었/EP + 으며/EC
+政府消費/SH + 도/JX
+정부/NNG + 조직/NNG + 개편/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+인력/NNG + 감축/NNG
+및/MAG
+경상/NNG + 경비/NNG + 예산/NNG + 의/JKG
+긴축/NNG + 운용/NNG + 으로/JKB
+88/SN + 년/NNB
+2/SN + ·/SP + 4/SN + 분기/NNG + (/SS + -/SS + 2/SN + ./SP + 3/SN + %/SW + )/SS
+이후/NNG
+처음/NNG + 으로/JKB
+감소/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+民間消費/SH + 를/JKO
+品目別/SH + 로/JKB
+보/VV + 면/EC
+승용차/NNG + ,/SP
+음향/NNG + 기기/NNG + ,/SP
+TV/SL
+등/NNB
+耐久財/SH + 와/JC
+의류/NNG + ,/SP
+신발/NNG
+등/NNB
+準耐久財/SH + 에/JKB
+대하/VV + ㄴ/ETM
+지출/NNG + 이/JKS
+대폭/MAG
+감소/NNG + 하/XSV + 았/EP + 으며/EC
+非耐久財/SH
+消費/SH + 도/JX
+줄어들/VV + 었/EP + 다/EF + ./SF
+서비스/NNG + 消費/SH + 는/JX
+교육/NNG + ·/SP + 문화/NNG + ·/SP + 오락/NNG
+등/NNB + 에/JKB
+대하/VV + ㄴ/ETM
+지출/NNG
+감소/NNG + 로/JKB
+증가세/NNG + 가/JKS
+크/VA + 게/EC
+둔화/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+投資/SH + 는/JX
+내수/NNG + 위축/NNG + ,/SP
+금융/NNG + 경색/NNG
+등/NNB + 의/JKG
+영향/NNG + 으로/JKB
+設備投資/SH + 와/JC
+建設投資/SH + 가/JKS
+모두/MAG
+매우/MAG
+부진/NNG + 하/XSA + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+감소세/NNG + 가/JKS
+전년/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG + 보다/JKB
+대폭/MAG
+확대/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+設備投資/SH + 는/JX
+분기/NNG + 중/NNB
+40/SN + ./SP + 7/SN + %/SW + 나/JX
+감소/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이/NP + 는/JX
+무선/NNG + 통신/NNG + 기기/NNG + 를/JKO
+제외/NNG + 하/XSV + ㄴ/ETM
+대부분/NNG
+기계/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+투자/NNG
+격감/NNG + 으로/JKB
+機械類投資/SH + 가/JKS
+39/SN + ./SP + 7/SN + %/SW
+줄어들/VV + ㄴ/ETM
+데/NNB + 다/JX
+運輸裝備投資/SH + 도/JX
+지하철/NNG
+노선/NNG + 의/JKG
+증설/NNG + 로/JKB
+증가/NNG + 하/XSV + ㄴ/ETM
+철도/NNG + 차량/NNG
+이외/NNG + 에/JKB + 는/JX
+매우/MAG
+저조/NNG + 하/XSA + ㄴ/ETM
+모습/NNG + 을/JKO
+보이/VV + ㅁ/ETN + 으로써/JKB
+44/SN + ./SP + 9/SN + %/SW + 나/JX
+감소/NNG + 하/XSV + 았/EP + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+建設投資/SH + 는/JX
+부동산/NNG + 경기/NNG + 침체/NNG
+및/MAG
+기업/NNG + 의/JKG
+구조/NNG + 조정/NNG
+등/NNB + 으로/JKB
+건물/NNG + 건설/NNG + 투자/NNG + 가/JKS
+96/SN + 년/NNB
+2/SN + ·/SP + 4/SN + 분기/NNG
+이후/NNG + 의/JKG
+감소세/NNG + 를/JKO
+지속/NNG + 하/XSV + 고/EC
+전력/NNG + 시설/NNG + ,/SP
+항만/NNG
+및/MAG
+공항/NNG + 시설/NNG + ,/SP
+상하수도/NNG
+등/NNB
+사회/NNG + 간접/NNG + 자본/NNG + 시설/NNG
+등/NNB + 에/JKB
+대하/VV + ㄴ/ETM
+투자/NNG + 도/JX
+감소/NNG + 로/JKB
+반전/NNG + 하/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+전체/NNG + 적/XSN + 으로/JKB
+7/SN + ./SP + 7/SN + %/SW
+줄어들/VV + 었/EP + 다/EF + ./SF
+輸出/SH + (/SS + 實質/SH + )/SS + 은/JX
+27/SN + ./SP + 3/SN + %/SW
+늘어나/VV + 아/EC
+신장세/NNG + 가/JKS
+전년/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG + (/SS + 20/SN + ./SP + 8/SN + %/SW + )/SS + 보다/JKB
+확대/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+商品輸出/SH + 은/JX
+金/SH + 수출/NNG + 이/JKS
+크/VA + 게/EC
+증가/NNG + 하/XSV + 고/EC
+화학제품/NNG + ,/SP
+철강/NNG + ,/SP
+반도체/NNG + ,/SP
+정밀/NNG + 기기/NNG
+등/NNB + 의/JKG
+수출/NNG + 물량/NNG + 도/JX
+원화/NNG + 환율/NNG
+상승/NNG
+등/NNB + 으로/JKB
+크/VA + ㄴ/ETM
+폭/NNG + 으로/JKB
+늘어나/VV + ㄴ/ETM
+데/NNB
+힘입/VV + 어/EC
+30/SN + ./SP + 5/SN + %/SW + 나/JX
+증가/NNG + 하/XSV + 았/EP + 으며/EC
+用役輸出/SH + 도/JX
+외국인/NNG + ,/SP + 의/JKG
+국내/NNG + 여행/NNG
+증가/NNG + 로/JKB
+호조/NNG + 를/JKO
+보이/VV + 었/EP + 다/EF + ./SF
+輸入/SH + (/SS + 實質/SH + )/SS + 은/JX
+25/SN + ./SP + 4/SN + %/SW
+감소/NNG + 하/XSV + 아/EC
+전년/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG + (/SS + -/SS + 4/SN + ./SP + 0/SN + %/SW + )/SS + 보다/JKB
+감소/NNG + 폭/NNG + 이/JKS
+크/VA + 게/EC
+확대/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+이/NP + 는/JX
+소비/NNG
+및/MAG
+투자/NNG + 심리/NNG + 의/JKG
+급격/XR + 하/XSA + ㄴ/ETM
+위축/NNG + 으로/JKB
+소비재/NNG + 는/JX
+물론/MAG
+자본재/NNG + 와/JC
+원자재/NNG
+수입/NNG + 도/JX
+크/VA + 게/EC
+줄어들/VV + 어/EC
+商品輸入/SH + 이/JKS
+27/SN + ./SP + 6/SN + %/SW
+감소/NNG + 하/XSV + ㄴ/ETM
+데/NNB + 다/JX
+用役輸入/SH + 도/JX
+현지/NNG + 운항/NNG + 경비/NNG
+및/MAG
+해외여행/NNG + 경비/NNG
+등/NNB + 이/JKS
+줄어들/VV + 면서/EC
+10/SN + ./SP + 8/SN + %/SW
+감소/NNG + 하/XSV + 았/EP + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+경제/NNG + 활동/NNG + 을/JKO
+부문/NNG + 별/XSN + 로/JKB
+보/VV + 면/EC
+農業/SH + ,/SP
+電氣業/SH + ,/SP
+通信業/SH
+등/NNB + 은/JX
+전년/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG + 에/JKB
+잇/VV + 어/EC
+높/VA + 은/ETM
+성장세/NNG + 를/JKO
+유지/NNG + 하/XSV + 았/EP + 으나/EC
+製造業/SH + ,/SP
+建設業/SH + ,/SP
+都小賣業/SH
+등/NNB
+주요/NNG
+산업/NNG + 은/JX
+상당/NNG + 폭/NNG + 의/JKG
+負/SH + 의/JKG
+성장/NNG + 을/JKO
+나타내/VV + 었/EP + 다/EF + ./SF
+製造業/SH + 은/JX
+분기/NNG + 중/NNB
+6/SN + ./SP + 4/SN + %/SW
+줄어들/VV + 어/EC
+建設業/SH + 과/JKB
+함께/MAG
+負/SH + 의/JKG
+GDP/SL + 성장/NNG + 을/JKO
+주도/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+업종/NNG + 별/XSN + 로/JKB + 는/JX
+輸出/SH + 이/JKS
+호조/NNG + 를/JKO
+보이/VV + ㄴ/ETM
+전기/NNG + 전자/NNG + ,/SP
+화학제품/NNG
+등/NNB
+일부/NNG
+중화학/NNG + 공업/NNG
+생산/NNG + 만/JX
+증가세/NNG + 를/JKO
+유지/NNG + 하/XSV + 았/EP + 을/ETM
+뿐/NNB
+내수/NNG + 부진/NNG + 으로/JKB
+경공업/NNG + 의/JKG
+감소세/NNG + 가/JKS
+대폭/MAG
+확대/NNG + 되/XSV + 고/EC
+산업/NNG + 기계/NNG + ,/SP
+수송/NNG + 장비/NNG
+등/NNB
+대다수/NNG
+중화학/NNG + 공업/NNG + 의/JKG
+생산/NNG + 도/JX
+크/VA + ㄴ/ETM
+폭/NNG + 으로/JKB
+감소/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+建設業/SH + 은/JX
+민간/NNG
+및/MAG
+정부/NNG
+건설/NNG + 이/JKS
+다/MAG + 같이/MAG
+부진/NNG + 하/XSA + 아/EC
+7/SN + ./SP + 6/SN + %/SW
+감소/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+民間建設/SH + 은/JX
+주택/NNG
+등/NNB
+주거/NNG + 용/XSN
+건물/NNG + 건설/NNG + 과/JC
+공장/NNG + ·/SP + 사무실/NNG
+등/NNB
+비/XPN + 주거/NNG + 용/XSN
+건물/NNG + 건설/NNG + 이/JKS
+모두/MAG
+줄어들/VV + ㄴ/ETM
+데/NNB + 다/JX
+토목/NNG + 건설/NNG + 도/JX
+전력/NNG + 시설/NNG + 과/JC
+농림/NNG + 수산/NNG + 부문/NNG + 이/JKS
+특히/MAG
+부진/NNG + 하/XSA + 아/EC
+전체/NNG + 적/XSN + 으로/JKB
+8/SN + ./SP + 1/SN + %/SW
+감소/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+政府建設/SH + 은/JX
+정부/NNG + 투자/NNG + 예산/NNG + 의/JKG
+긴축/NNG + 운용/NNG + 으로/JKB
+공공건물/NNG + ,/SP
+일반/NNG + 도로/NNG + ,/SP
+도시/NNG + 토목/NNG
+등/NNB
+대부분/NNG + 의/JKG
+건축/NNG
+및/MAG
+토목/NNG + 공사/NNG + 가/JKS
+부진/NNG + 하/XSA + 아/EC
+6/SN + ./SP + 2/SN + %/SW
+감소/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+서비스/NNG + 業/SH + 은/JX
+통신업/NNG + 을/JKO
+제외/NNG + 하/XSV + ㄴ/ETM
+대부분/NNG + 의/JKG
+업종/NNG + 이/JKS
+감소/NNG + 를/JKO
+보이/VV + 어/EC
+전년/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG + 의/JKG
+3/SN + ./SP + 7/SN + %/SW
+성장/NNG + 에서/JKB
+3/SN + ./SP + 3/SN + %/SW
+감소/NNG + 로/JKB
+돌아서/VV + 었/EP + 다/EF + ./SF
+業種別/SH + 로/JKB + 는/JX
+먼저/MAG
+都小賣/SH
+및/MAG
+飮食/SH + ·/SP + 宿泊業/SH + 이/JKS
+외국/NNG + 관광객/NNG
+증가/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+숙박업/NNG + 의/JKG
+호조/NNG + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+공산품/NNG
+및/MAG
+수입/NNG + 상품/NNG + 의/JKG
+거래/NNG
+급감/NNG + ,/SP
+경기/NNG + 불황/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+음식업/NNG
+부진/NNG
+등/NNB + 으로/JKB
+전년/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG + 의/JKG
+3/SN + ./SP + 2/SN + %/SW
+성장/NNG + 에서/JKB
+5/SN + ./SP + 0/SN + %/SW
+감소/NNG + 로/JKB
+반전/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+運輸/SH + ·/SP + 倉庫/SH
+및/MAG
+通信業/SH + 은/JX
+통신업/NNG + 이/JKS
+이동/NNG + 전화/NNG + ,/SP
+PCS/SL + (/SS + 개인/NNG + 휴대/NNG + 통신/NNG + )/SS + ,/SP
+시외/NNG + 전화/NNG
+등/NNB + 의/JKG
+꾸준/XR + 하/XSA + ㄴ/ETM
+증가/NNG + 로/JKB
+호조/NNG + 를/JKO
+보이/VV + 었/EP + 으나/EC
+운수업/NNG + 이/JKS
+경기/NNG + 침체/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+물동량/NNG
+및/MAG
+여행객/NNG
+감소/NNG + 로/JKB + ,/SP
+창고업/NNG + 이/JKS
+공산품/NNG
+및/MAG
+냉장/NNG + 상품/NNG + 의/JKG
+보관량/NNG
+감소/NNG + 로/JKB
+부진/NNG + 하/XSA + ㄴ/ETM
+모습/NNG + 을/JKO
+나타내/VV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+전체/NNG + 적/XSN + 으로/JKB
+전년/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG + (/SS + 15/SN + ./SP + 9/SN + %/SW + )/SS + 보다/JKB
+낮/VA + 은/ETM
+7/SN + ./SP + 2/SN + %/SW + 의/JKG
+성장/NNG + 에/JKB
+그치/VV + 었/EP + 다/EF + ./SF
+金融/SH + ·/SP + 保險/SH + ·/SP + 不動産/SH
+및/MAG
+事業/SH + 서비스/NNG + 業/SH + 은/JX
+금융/NNG + 보험업/NNG + 이/JKS
+金融機關/SH + 의/JKG
+危險資産/SH
+감축/NNG + 을/JKO
+위하/VV + ㄴ/ETM
+여신/NNG + 공급/NNG
+억제/NNG
+등/NNB + 으로/JKB
+이자/NNG + 수입/NNG + 이/JKS
+크/VA + 게/EC
+감소/NNG + 하/XSV + ㄴ/ETM
+데/NNB + 다/JX
+사업/NNG + 서비스업/NNG + 도/JX
+경기/NNG + 불황/NNG + 으로/JKB
+기계/NNG
+및/MAG
+장비/NNG + 임대업/NNG + 과/JC
+광고업/NNG + 이/JKS
+크/VA + 게/EC
+위축/NNG + 되/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+전년/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG + 의/JKG
+2/SN + ./SP + 6/SN + %/SW + 에서/JKB
+0/SN + ./SP + 8/SN + %/SW + 로/JKB
+성장/NNG + 률/XSN + 이/JKS
+낮/VA + 아/EC + 지/VX + 었/EP + 다/EF + ./SF
+한편/NNG
+電氣/SH + ·/SP + 가스/NNG
+및/MAG
+水道事業/SH + 은/JX
+분기/NNG + 중/NNB
+9/SN + ./SP + 6/SN + %/SW + 의/JKG
+상당히/MAG
+높/VA + 은/ETM
+성장세/NNG + 를/JKO
+지속/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이/NP + 는/JX
+그동안/NNG
+높/VA + 은/ETM
+성장/NNG + 을/JKO
+지속/NNG + 하/XSV + 았/EP + 던/ETM
+가스/NNG
+및/MAG
+熱供給業/SH + 이/JKS
+발전/NNG + 용/XSN
+LNG/SL
+공급량/NNG
+감소/NNG + 의/JKG
+영향/NNG + 으로/JKB
+2/SN + ./SP + 0/SN + %/SW
+성장/NNG + 에/JKB
+그치/VV + 었/EP + 으나/EC
+수력/NNG
+및/MAG
+원자력/NNG + 의/JKG
+발전/NNG + 비중/NNG
+상승/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+발전/NNG + 원가/NNG
+절감/NNG + 에/JKB
+힘입/VV + 어/EC
+電氣業/SH
+附加價値/SH + 가/JKS
+12/SN + ./SP + 0/SN + %/SW + 나/JX
+증가/NNG + 하/XSV + 았/EP + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+農林漁業/SH + 은/JX
+연근해/NNG + 어업/NNG
+생산/NNG + 감소/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+漁業/SH + 의/JKG
+부진/NNG + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+農業/SH + 이/JKS
+화훼/NNG + 작물/NNG + ,/SP
+돈육/NNG
+등/NNB + 의/JKG
+수출/NNG
+증가/NNG + 에/JKB
+힘입/VV + 어/EC
+호조/NNG + 를/JKO
+보이/VV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+4/SN + ./SP + 4/SN + %/SW + 의/JKG
+비교/NNG + 적/XSN
+높/VA + 은/ETM
+증가세/NNG + 를/JKO
+나타내/VV + 었/EP + 다/EF + ./SF
+(/SS + 雇傭/SH
+및/MAG
+賃金/SH + )/SS
+全産業/SH
+就業者數/SH + 는/JX
+내수/NNG + 침체/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+취업/NNG + 기회/NNG
+감소/NNG + ,/SP
+기업/NNG + 구조/NNG + 조정/NNG
+과정/NNG + 에서/JKB + 의/JKG
+인력/NNG + 감축/NNG
+확산/NNG
+등/NNB + 으로/JKB
+1/SN + ～/SO + 4/SN + 월/NNB + 중/NNB
+4/SN + ./SP + 1/SN + %/SW
+감소/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+經濟活動人口/SH + 도/JX
+구직/NNG + 난/NNG
+심화/NNG + 로/JKB
+취업/NNG + 기회/NNG + 가/JKS
+크/VA + 게/EC
+줄어들/VV + 면서/EC
+고령/NNG + 층/XSN
+및/MAG
+여성/NNG + 들/XSN + 이/JKS
+구직/NNG + 활동/NNG + 을/JKO
+포기/NNG + 하/XSV + 는/ETM
+사례/NNG + 가/JKS
+크/VA + 게/EC
+늘어나/VV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+1/SN + ./SP + 1/SN + %/SW
+감소/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+失業率/SH + (/SS + 季節變動調整値/SH + )/SS + 은/JX
+취업자/NNG + 수/NNG + 의/JKG
+급격/XR + 하/XSA + ㄴ/ETM
+감소/NNG + 로/JKB
+전년/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG + 의/JKG
+2/SN + ./SP + 8/SN + %/SW + 에서/JKB
+5/SN + ./SP + 1/SN + %/SW + 로/JKB
+급상승/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+就業動向/SH + 을/JKO
+産業別/SH + 로/JKB
+보/VV + 면/EC
+1/SN + ～/SO + 4/SN + 월/NNB + 중/NNB
+農林漁業/SH
+취업자/NNG + 수/NNG + 는/JX
+도시/NNG + 지역/NNG
+실직자/NNG + 의/JKG
+歸農/SH
+現象/SH
+등/NNB + 으로/JKB
+6/SN + ./SP + 3/SN + %/SW
+증가/NNG + 하/XSV + 았/EP + 으나/EC
+製造業/SH
+就業者數/SH + 는/JX
+경기/NNG + 침체/NNG + ,/SP
+인력/NNG + 감축/NNG
+등/NNB + 의/JKG
+영향/NNG + 으로/JKB
+11/SN + ./SP + 2/SN + %/SW
+줄어들/VV + 었/EP + 으며/EC
+建設業/SH
+就業者數/SH + 도/JX
+건설/NNG + 경기/NNG
+부진/NNG
+및/MAG
+건설업체/NNG
+부도/NNG
+증가/NNG + 에/JKB
+기인/NNG + 하/XSV + 아/EC
+12/SN + ./SP + 6/SN + %/SW
+감소/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+한편/NNG
+1/SN + ～/SO + 2/SN + 월/NNB + 중/NNB
+全産業/SH
+名目賃金/SH
+上昇率/SH + 은/JX
+경기/NNG + 부진/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+기업/NNG + 의/JKG
+임금/NNG + 지급/NNG + 여력/NNG
+감퇴/NNG + ,/SP
+고용/NNG + 불안/NNG
+등/NNB + 을/JKO
+반영/NNG + 하/XSV + 아/EC
+전년/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG + 의/JKG
+0/SN + ./SP + 9/SN + %/SW
+상승/NNG + 에서/JKB
+0/SN + ./SP + 2/SN + %/SW
+하락/NNG + 으로/JKB
+돌아서/VV + 었/EP + 다/EF + ./SF
+業種別/SH + 로/JKB + 는/JX
+運輸/SH + ·/SP + 倉庫/SH + ·/SP + 通信業/SH + 이/JKS
+상대/NNG + 적/XSN + 으로/JKB
+높/VA + 은/ETM
+상승세/NNG + 를/JKO
+보이/VV + 었/EP + 으나/EC
+업황/NNG + 부진/NNG + ,/SP
+구조/NNG + 조정/NNG
+등/NNB + 으로/JKB
+고용/NNG + 사정/NNG + 이/JKS
+크/VA + 게/EC
+악화/NNG + 되/XSV + ㄴ/ETM
+製造業/SH + ,/SP
+建設業/SH + ,/SP
+金融/SH + ·/SP + 保險/SH + ·/SP + 不動産業/SH
+등/NNB + 의/JKG
+임금/NNG + 은/JX
+감소/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+(/SS + 對外去來/SH + )/SS
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+輸出/SH + 은/JX
+반도체/NNG
+등/NNB
+주종/NNG
+수출/NNG + 품목/NNG + 의/JKG
+호조/NNG + 와/JC
+「/SS + 금/NNG + 모으/VV + 기/ETN
+운동/NNG + 」/SS + 을/JKO
+통하/VV + 아/EC
+수집/NNG + 되/XSV + ㄴ/ETM
+金/SH + 수출/NNG + 에/JKB
+힘입/VV + 어/EC
+8/SN + ./SP + 7/SN + %/SW
+늘어나/VV + 았/EP + 으며/EC
+4/SN + 월/NNB + 에/JKB + 도/JX
+6/SN + ./SP + 6/SN + %/SW
+증가/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+品目別/SH + 로/JKB + 는/JX
+重化學工業製品/SH + 이/JKS
+화공품/NNG + ,/SP
+철강/NNG + ,/SP
+반도체/NNG + ,/SP
+선박/NNG
+등/NNB + 의/JKG
+호조/NNG + 로/JKB
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+6/SN + ./SP + 4/SN + %/SW
+증가/NNG + 하/XSV + ㄴ/ETM
+데/NNB
+잇/VV + 어/EC
+4/SN + 월/NNB + 에/JKB + 는/JX
+증가/NNG + 율/XSN + 이/JKS
+10/SN + ./SP + 8/SN + %/SW + 로/JKB
+높/VA + 아/EC + 지/VX + 었/EP + 다/EF + ./SF
+輕工業製品/SH + 은/JX
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+타이어/NNG + ·/SP + 튜브/NNG + 를/JKO
+제외/NNG + 하/XSV + ㄴ/ETM
+대부분/NNG
+품목/NNG + 이/JKS
+부진/NNG + 하/XSA + 았/EP + 음/ETN + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+金/SH + 수출/NNG + (/SS + 22/SN + 억/NR + 달러/NNB + )/SS + 로/JKB
+12/SN + ./SP + 6/SN + %/SW + 의/JKG
+높/VA + 은/ETM
+증가/NNG + 율/XSN + 을/JKO
+기록/NNG + 하/XSV + 았/EP + 으나/EC
+4/SN + 월/NNB
+들/VV + 어서/EC + 는/JX
+0/SN + ./SP + 2/SN + %/SW
+늘어나/VV + 는/ETM
+데/NNB
+그치/VV + 었/EP + 다/EF + ./SF
+地域別/SH + 로/JKB + 는/JX
+對先進國/SH
+수출/NNG + 이/JKS
+미국/NNP
+및/MAG
+EU/SL + 에/JKB
+대하/VV + ㄴ/ETM
+수출/NNG
+호조/NNG + 로/JKB
+높/VA + 은/ETM
+증가세/NNG + 를/JKO
+보이/VV + ㄴ/ETM
+반면/NNG
+對開途國/SH
+수출/NNG + 은/JX
+동남아/NNP + ,/SP
+중국/NNP
+등/NNB + 에/JKB
+대하/VV + ㄴ/ETM
+수출/NNG
+부진/NNG + 으로/JKB
+전년/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG
+이후/NNG + 의/JKG
+감소세/NNG + 가/JKS
+지속/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+輸入/SH + 은/JX
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+내수/NNG
+침체/NNG + ,/SP
+환율/NNG
+상승/NNG + ,/SP
+원유/NNG
+등/NNB
+국제/NNG + 원자재/NNG + 가격/NNG
+하락/NNG + ,/SP
+수입/NNG + 신용/NNG
+경색/NNG
+등/NNB + 으로/JKB
+35/SN + ./SP + 5/SN + %/SW
+감소/NNG + 하/XSV + 았/EP + 으며/EC
+이/NP + 같/VA + 은/ETM
+감소세/NNG + 는/JX
+4/SN + 월/NNB + 에/JKB + 도/JX
+이어지/VV + 었/EP + 다/EF + ./SF
+모든/MM
+품목/NNG + 의/JKG
+수입/NNG + 이/JKS
+크/VA + 게/EC
+감소/NNG + 하/XSV + 았/EP + 는데/EC
+특히/MAG
+기호품/NNG + ·/SP + 고가품/NNG + 을/JKO
+중심/NNG + 으로/JKB
+消費財/SH
+輸入/SH + 의/JKG
+감소/NNG + 율/XSN + 이/JKS
+40/SN + %/SW + 를/JKO
+넘어서/VV + 었/EP + 다/EF + ./SF
+지역/NNG + 별/XSN + 로/JKB + 는/JX
+선진국/NNG
+및/MAG
+개도국/NNG + 으로부터/JKB + 의/JKG
+수입/NNG + 이/JKS
+각각/MAG
+37/SN + ./SP + 0/SN + %/SW
+및/MAG
+33/SN + ./SP + 2/SN + %/SW + 의/JKG
+감소/NNG + 를/JKO
+기록/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+經常收支/SH + 는/JX
+수입/NNG
+급감/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+상품/NNG + 수지/NNG + 의/JKG
+대폭/MAG
+흑자/NNG + 로/JKB
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+106/SN + ./SP + 2/SN + 억/NR + 달러/NNB + 의/JKG
+흑자/NNG + 를/JKO
+기록/NNG + 하/XSV + ㄴ/ETM
+데/NNB
+잇/VV + 어/EC
+4/SN + 월/NNB + 에/JKB + 도/JX
+38/SN + ./SP + 1/SN + 억/NR + 달러/NNB + 의/JKG
+흑자/NNG + 를/JKO
+나타내/VV + 었/EP + 다/EF + ./SF
+서비스/NNG + 수지/NNG + 는/JX
+운수/NNG + 수지/NNG + ,/SP
+여행/NNG + 수지/NNG
+등/NNB + 의/JKG
+흑자/NNG + 로/JKB
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+5/SN + ./SP + 7/SN + 억/NR + 달러/NNB + 의/JKG
+흑자/NNG + 를/JKO
+보이/VV + 었/EP + 으나/EC
+4/SN + 월/NNB + 에/JKB + 는/JX
+外國換平衡基金債券/SH
+발행/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+수수료/NNG
+지급/NNG
+등/NNB + 으로/JKB
+5/SN + 백만/NR + 달러/NNB + 의/JKG
+소폭/NNG
+적자/NNG + 로/JKB
+돌아서/VV + 었/EP + 다/EF + ./SF
+1/SN + ～/SO + 4/SN + 월/NNB + 중/NNB
+所得收支/SH + 는/JX
+대외/NNG + 이자/NNG
+지급/NNG
+증가/NNG + 로/JKB
+9/SN + ./SP + 8/SN + 억/NR + 달러/NNB + 의/JKG
+적자/NNG + 를/JKO
+나타내/VV + 었/EP + 으며/EC
+經常移轉收支/SH + 는/JX
+해외/NNG + 교포/NNG + 의/JKG
+국내/NNG
+송금/NNG
+증가/NNG
+등/NNB + 으로/JKB
+14/SN + ./SP + 2/SN + 억/NR + 달러/NNB + 의/JKG
+흑자/NNG + 를/JKO
+기록/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+금년/NNG
+1/SN + ～/SO + 2/SN + 월/NNB + 중/NNB
+크/VA + ㄴ/ETM
+폭/NNG + 으로/JKB
+상승/NNG + 하/XSV + 았/EP + 던/ETM
+원/NNG + 貨/SH + 의/JKG
+對美/SH + 달러/NNG + 貨/SH
+換率/SH + 은/JX
+3/SN + 월/NNB
+이후/NNG + 에/JKB + 는/JX
+외환/NNG + 수급/NNG + 사정/NNG + 이/JKS
+호전/NNG + 되/XSV + 면서/EC
+1/SN + ,/SP + 330/SN + 원/NNB + 대/XSN + 까지/JX
+낮/VA + 아/EC + 지/VX + 었/EP + 으나/EC
+5/SN + 월/NNB
+중순/NNG
+이후/NNG
+노사/NNG + 관계/NNG
+불안/NNG + ,/SP
+엔/NNG + 貨/SH + 가치/NNG
+급락/NNG
+등/NNB + 의/JKG
+영향/NNG + 으로/JKB
+다시/MAG
+소폭/NNG
+상승/NNG + 하/XSV + 아/EC
+5/SN + 월말/NNG
+현재/MAG
+전년/NNG + 말/NNB + 대비/NNG
+0/SN + ./SP + 3/SN + %/SW
+절상/NNG + 되/XSV + ㄴ/ETM
+1/SN + ,/SP + 410/SN + ./SP + 8/SN + 원/NNB + 을/JKO
+기록/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+원/NNG + 貨/SH + 의/JKG
+對/SH + 엔/NNG + 貨/SH
+換率/SH + 은/JX
+2/SN + 월/NNB + 까지/JX + 는/JX
+절하/NNG
+추세/NNG + 를/JKO
+지속/NNG + 하/XSV + 았/EP + 으나/EC
+3/SN + 월/NNB
+이후/NNG
+국제/NNG + 금융/NNG + 시장/NNG + 에서/JKB
+엔/NNG + 貨/SH + 가/JKS
+약세/NNG + 를/JKO
+보이/VV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+절상/NNG
+추세/NNG + 로/JKB
+돌/VV + 아서/EC
+5/SN + 월말/NNG
+현재/MAG
+전년/NNG + 말/NNB + 대비/NNG
+7/SN + ./SP + 0/SN + %/SW
+절상/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+(/SS + 物價/SH + )/SS
+物價/SH + 는/JX
+원화/NNG + 환율/NNG
+급등/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+수입/NNG + 원자재/NNG + 가격/NNG
+상승/NNG + 의/JKG
+영향/NNG + 이/JKS
+이어지/VV + 면서/EC
+전년/NNG
+12/SN + 월/NNB
+이후/NNG
+2/SN + 월/NNB + 까지/JX
+높/VA + 은/ETM
+오름세/NNG + 를/JKO
+지속/NNG + 하/XSV + 았/EP + 으나/EC
+3/SN + 월/NNB
+이후/NNG + 에/JKB + 는/JX
+원화/NNG + 환율/NNG
+하향/NNG + 안정/NNG + 화/XSN
+및/MAG
+국제/NNG + 유가/NNG
+하락/NNG + ,/SP
+경기/NNG + 침체/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+전반/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+수요/NNG + 부진/NNG
+등/NNB + 의/JKG
+영향/NNG + 으로/JKB
+상승세/NNG + 가/JKS
+점차/MAG
+둔화/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+생산자/NNG + 물가/NNG + 의/JKG
+전년/NNG + 동월/NNG + 대비/NNG
+상승/NNG + 률/XSN + 은/JX
+2/SN + 월/NNB + 의/JKG
+17/SN + ./SP + 7/SN + %/SW + 에서/JKB
+3/SN + 월/NNB
+및/MAG
+4/SN + 월/NNB + 에/JKB + 는/JX
+각각/MAG
+17/SN + ./SP + 5/SN + %/SW + 로/JKB
+소폭/NNG
+하락/NNG + 하/XSV + 았/EP + 으며/EC
+소비자/NNG + 물가/NNG + 의/JKG
+상승/NNG + 률/XSN + 도/JX
+2/SN + 월/NNB + 의/JKG
+9/SN + ./SP + 5/SN + %/SW + 에서/JKB
+3/SN + 월/NNB
+9/SN + ./SP + 0/SN + %/SW + ,/SP
+4/SN + 월/NNB
+8/SN + ./SP + 8/SN + %/SW + 로/JKB
+낮/VA + 아/EC + 지/VX + 었/EP + 다/EF + ./SF
+品目別/SH + 로/JKB
+보/VV + 면/EC
+工業製品價格/SH + 은/JX
+1/SN + ～/SO + 2/SN + 월/NNB + 중/NNB + 에/JKB + 는/JX
+원자재/NNG + 의/JKG
+수입/NNG + 의존도/NNG + 가/JKS
+높/VA + 은/ETM
+석유/NNG + 제품/NNG + 과/JC
+음식료품/NNG + 을/JKO
+비롯/XR + 하/XSV + ㄴ/ETM
+대부분/NNG
+품목/NNG + 의/JKG
+가격/NNG + 이/JKS
+크/VA + ㄴ/ETM
+폭/NNG + 으로/JKB
+오르/VV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+높/VA + 은/ETM
+상승세/NNG + 를/JKO
+지속/NNG + 하/XSV + 았/EP + 으나/EC
+3/SN + 월/NNB
+이후/NNG + 에/JKB + 는/JX
+석유/NNG + 제품/NNG + ,/SP
+목재/NNG
+및/MAG
+나무/NNG + 제품/NNG
+등/NNB + 을/JKO
+중심/NNG + 으로/JKB
+상승세/NNG + 가/JKS
+둔화/NNG + 되/XSV + 는/ETM
+모습/NNG + 을/JKO
+보이/VV + 었/EP + 다/EF + ./SF
+서비스/NNG + 價格/SH + 도/JX
+전년/NNG + 말/NNB
+이후/NNG
+도시가스/NNG + ,/SP
+전기/NNG + ,/SP
+교통/NNG + ,/SP
+상수도/NNG
+등/NNB
+공공요금/NNG + 의/JKG
+인상/NNG + 조정/NNG
+및/MAG
+교육/NNG + ·/SP + 오락/NNG + ,/SP
+보건/NNG + ·/SP + 의료/NNG
+등/NNB
+개인/NNG + 서비스/NNG + 가격/NNG + 의/JKG
+상승/NNG + 으로/JKB
+2/SN + 월/NNB + 까지/JX
+오름세/NNG + 가/JKS
+확대/NNG + 되/XSV + 었/EP + 으나/EC
+3/SN + 월/NNB
+이후/NNG + 에/JKB + 는/JX
+유류/NNG + 가격/NNG
+인하/NNG + ,/SP
+집세/NNG
+안정/NNG
+등/NNB + 에/JKB
+힘입/VV + 어/EC
+상승세/NNG + 가/JKS
+낮/VA + 아/EC + 지/VX + 었/EP + 다/EF + ./SF
+農水産物價格/SH + 은/JX
+1/SN + 월/NNB + 중/NNB
+사료/NNG + 값/NNG + ,/SP
+수입/NNG + 농산물/NNG + 가격/NNG
+상승/NNG
+등/NNB + 의/JKG
+영향/NNG + 으로/JKB
+불안/NNG + 하/XSA + ㄴ/ETM
+모습/NNG + 을/JKO
+보이/VV + 다가/EC
+2/SN + 월/NNB + 에/JKB + 는/JX
+약용/NNG + 작물/NNG + ,/SP
+과실/NNG + 류/XSN
+등/NNB + 에/JKB
+대하/VV + ㄴ/ETM
+수요/NNG + 부진/NNG + 으로/JKB
+오름세/NNG + 가/JKS
+둔화/NNG + 되/XSV + 었/EP + 으나/EC
+3/SN + 월/NNB
+이후/NNG
+과실/NNG + 류/XSN + 와/JC
+채소/NNG + 류/XSN + 의/JKG
+산지/NNG
+출회/NNG
+물량/NNG
+감소/NNG + 로/JKB
+상승/NNG + 폭/NNG + 이/JKS
+다시/MAG
+확대/NNG + 되/XSV + 는/ETM
+등/NNB
+등락/NNG + 을/JKO
+거듭/MAG + 하/XSV + 았/EP + 다/EF + ./SF
+지난해/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG + 에/JKB
+내림세/NNG + 로/JKB
+돌아서/VV + ㄴ/ETM
+不動産價格/SH + 은/JX
+금년/NNG
+들/VV + 어/EC
+하락/NNG + 폭/NNG + 이/JKS
+점차/MAG
+확대/NNG + 되/XSV + 는/ETM
+모습/NNG + 을/JKO
+보이/VV + 었/EP + 다/EF + ./SF
+이/NP + 는/JX
+경기/NNG + 부진/NNG
+심화/NNG + ,/SP
+고/XPN + 금리/NNG
+지속/NNG
+등/NNB + 으로/JKB
+수요/NNG + 는/JX
+크/VA + 게/EC
+위축/NNG + 되/XSV + ㄴ/ETM
+반면/NNG
+기업/NNG + 구조/NNG + 조정/NNG
+추진/NNG + ,/SP
+높/VA + 은/ETM
+수준/NNG + 의/JKG
+기업/NNG + 부도/NNG
+지속/NNG
+등/NNB + 으로/JKB
+매물/NNG + 은/JX
+늘어나/VV + 아/EC
+공급/NNG + 초과/NNG
+현상/NNG + 이/JKS
+빚어지/VV + ㄴ/ETM
+데/NNB
+주로/MAG
+기인/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+住宅賣買價格/SH
+및/MAG
+住宅傳貰價格/SH + 은/JX
+수급/NNG + 불/XPN + 균형/NNG
+확대/NNG + ,/SP
+부동산/NNG + 가격/NNG
+약세/NNG
+기대/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+실수요자/NNG + 들/XSN + 의/JKG
+관망세/NNG
+등/NNB + 으로/JKB
+1/SN + ～/SO + 4/SN + 월/NNB + 중/NNB
+전년/NNG + 말/NNB + 대비/NNG
+7/SN + ./SP + 4/SN + %/SW + ,/SP
+12/SN + ./SP + 5/SN + %/SW
+각각/MAG
+하락/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+특히/MAG
+같/VA + 은/ETM
+기간/NNG + 중/NNB
+서울/NNP + 지역/NNG
+아파트/NNG + 의/JKG
+매매/NNG + 가격/NNG + 은/JX
+11/SN + ./SP + 6/SN + %/SW + ,/SP
+전세/NNG + 가격/NNG + 은/JX
+21/SN + ./SP + 7/SN + %/SW + 나/JX
+떨어지/VV + 었/EP + 다/EF + ./SF
+土地價格/SH + 도/JX
+서울/NNP + ,/SP
+부산/NNP
+등/NNB
+대/XPN + 도시/NNG + 지역/NNG + 을/JKO
+중심/NNG + 으로/JKB
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+전년/NNG + 말/NNB + 대비/NNG
+1/SN + ./SP + 27/SN + %/SW
+내리/VV + 어/EC
+전/MM + 분기/NNG + 보다/JKB
+하락세/NNG + 가/JKS
+확대/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+通貨金融動向/SH
+(/SS + 通貨/SH + )/SS
+금년/NNG
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+M/SL + C/SL + T/SL
+및/MAG
+M/SL + 2/SN
+增加率/SH + (/SS + 평잔/NNG + )/SS + 은/JX
+지난해/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG + 의/JKG
+13/SN + ./SP + 7/SN + %/SW + ,/SP
+19/SN + ./SP + 1/SN + %/SW + 에서/JKB
+10/SN + ./SP + 8/SN + %/SW + ,/SP
+14/SN + ./SP + 5/SN + %/SW + 로/JKB
+각각/MAG
+크/VA + 게/EC
+하락/NNG + 하/XSV + 았/EP + 으며/EC
+4/SN + 월/NNB + 중/NNB + 에/JKB + 도/JX
+각각/MAG
+9/SN + ./SP + 2/SN + %/SW + ,/SP
+13/SN + ./SP + 3/SN + %/SW + 에/JKB
+그치/VV + 어/EC
+증가세/NNG + 가/JKS
+더욱/MAG
+둔화/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+이/NP + 는/JX
+通貨政策/SH + 이/JKS
+外換市場/SH
+안정/NNG + 을/JKO
+위하/VV + 아/EC
+긴축/NNG + 적/XSN + 으로/JKB
+운용/NNG + 되/XSV + 고/EC
+BIS/SL + 자기/NNG + 자본/NNG + 비율/NNG + 을/JKO
+높이/VV + 려는/ETM
+금융/NNG + 기관/NNG + 이/JKS
+위험/NNG + 자산/NNG
+감축/NNG + 을/JKO
+위하/VV + 아/EC
+與信供給/SH + 을/JKO
+억제/NNG + 하/XSV + ㄴ/ETM
+데/NNB + 다/JX
+금융/NNG + ·/SP + 외환/NNG + 위기/NNG
+이후/NNG
+실물/NNG + 경제/NNG + 활동/NNG + 이/JKS
+급속히/MAG
+위축/NNG + 되/XSV + ㄴ/ETM
+데/NNB
+주로/MAG
+기인/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+한편/NNG
+전반/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+流動性事情/SH + 을/JKO
+나타내/VV + 는/ETM
+M/SL + 3/SN
+增加率/SH + 도/JX
+분기/NNG + 중/NNB
+14/SN + %/SW + 대/XSN + 로/JKB
+하락/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+部門別/SH
+供給內譯/SH + (/SS + 말잔/NNG + )/SS + 을/JKO
+M/SL + C/SL + T/SL
+기준/NNG + 으로/JKB
+살펴보/VV + 면/EC
+民間信用/SH + 은/JX
+영업/NNG + 정지/NNG
+종금사/NNG
+관련/NNG
+대출/NNG
+등/NNB + 으로/JKB
+대출금/NNG + 이/JKS
+늘어나/VV + 았/EP + 으나/EC
+한국은행/NNP + 의/JKG
+예금/NNG + 보험/NNG + 기금/NNG + 채권/NNG
+인수/NNG + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+주식/NNG + 시장/NNG
+침체/NNG + 와/JC
+종금사/NNG
+업무/NNG
+위축/NNG + 으로/JKB
+주식/NNG
+기업/NNG + 어음/NNG
+등/NNB + 이/JKS
+크/VA + 게/EC
+감소/NNG + 하/XSV + 아/EC
+유가/NNG + 증권/NNG
+보유/NNG + 가/JKS
+미미/XR + 하/XSA + 게/EC
+증가/NNG + 하/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+16/SN + 조/NR
+7/SN + ,/SP + 924/SN + 억/NR + 원/NNB
+공급/NNG + 에/JKB
+머무르/VV + 었/EP + 다/EF + ./SF
+政府部門/SH + 을/JKO
+통하/VV + 아서/EC + 는/JX
+부가/NNG + 가치세/NNG
+등/NNB
+稅收/SH
+요인/NNG + 으로/JKB
+3/SN + 조/NR
+1/SN + ,/SP + 739/SN + 억/NR + 원/NNB + 이/JKS
+환수/NNG + 되/XSV + 었/EP + 으나/EC
+海外部門/SH + 에서/JKB + 는/JX
+經常收支/SH
+흑자/NNG + 와/JC
+外國人/SH
+株式投資資金/SH
+유입/NNG + 이/JKS
+지속/NNG + 되/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+16/SN + 조/NR
+7/SN + ,/SP + 609/SN + 억/NR + 원/NNB + 이/JKS
+공급/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+其他部門/SH + 은/JX
+금융/NNG + 산업/NNG
+구조/NNG + 조정/NNG
+관련/NNG
+자금/NNG + 지원/NNG + 으로/JKB
+늘어나/VV + ㄴ/ETM
+유동/NNG + 성/XSN + 을/JKO
+흡수/NNG + 하/XSV + 기/ETN
+위하/VV + 아/EC
+통화/NNG + 안정/NNG + 증권/NNG
+발행/NNG + 이/JKS
+늘어나/VV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+환수/NNG + 규모/NNG + 가/JKS
+35/SN + 조/NR
+5/SN + ,/SP + 945/SN + 억/NR + 원/NNB + 으로/JKB
+확대/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+한편/NNG
+4/SN + 월/NNB + 중/NNB + 에/JKB + 는/JX
+대출금/NNG
+증가세/NNG + 가/JKS
+크/VA + 게/EC
+둔화/NNG + 되/XSV + 고/EC
+유가/NNG + 증권/NNG
+보유/NNG + 도/JX
+줄어들/VV + 면서/EC
+民間信用/SH + 이/JKS
+감소/NNG + 로/JKB
+반전/NNG + 되/XSV + 고/EC
+海外部門/SH + 의/JKG
+공급/NNG + 규모/NNG + 도/JX
+축소/NNG + 되/XSV + 었/EP + 으나/EC
+政府部門/SH + 과/JC
+其他部門/SH + 은/JX
+전/MM + 분기/NNG + 의/JKG
+환수/NNG + 에서/JKB
+공급/NNG + 으로/JKB
+돌아서/VV + 었/EP + 다/EF + ./SF
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+한국은행/NNP + 은/JX
+외환/NNG + 시장/NNG
+안정/NNG + 을/JKO
+위하/VV + 아/EC
+통화/NNG + 의/JKG
+緊縮基調/SH + 를/JKO
+유지/NNG + 하/XSV + 고/EC
+시장/NNG + 금리/NNG + 를/JKO
+높/VA + 게/EC
+유지/NNG + 하/XSV + 는/ETM
+데/NNB
+중점/NNG + 을/JKO
+두/VV + 고/EC
+流動性/SH + 을/JKO
+調節/SH + 하/XSV + 았/EP + 으며/EC
+이/NP + 를/JKO
+위하/VV + 아/EC
+공개/NNG + 시장/NNG + 조작/NNG
+금리/NNG + 를/JKO
+높/VA + 은/ETM
+수준/NNG + 으로/JKB
+유지/NNG + 하/XSV + 고/EC
+還買條件附/SH
+國公債賣買/SH + 를/JKO
+매각/NNG + 조작/NNG
+위주/NNG + 로/JKB
+실시/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이/NP + 와/JKB
+함께/MAG
+한국은행/NNP + 은/JX
+자금난/NNG + 으로/JKB
+어려움/NNG + 을/JKO
+겪/VV + 고/EC
+있/VX + 는/ETM
+중소기업/NNG
+및/MAG
+수출/NNG + 기업/NNG + 의/JKG
+자금난/NNG
+완화/NNG + 를/JKO
+위하/VV + 아/EC
+總額貸出限度/SH
+배정/NNG + 방식/NNG + 을/JKO
+변경/NNG + 하/XSV + 고/EC
+한도/NNG + 를/JKO
+증액/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+먼저/MAG
+1/SN + 월/NNB
+26/SN + 일/NNB + 에/JKB + 는/JX
+중소기업/NNG
+상업/NNG + 어음/NNG
+할인/NNG + 을/JKO
+촉진/NNG + 하/XSV + 기/ETN
+위하/VV + 아/EC
+각/MM
+은행/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+總額貸出限度/SH
+배정/NNG + 방식/NNG + 을/JKO
+총/MM + 한도/NNG + 의/JKG
+50/SN + %/SW + 는/JX
+종전/NNG
+방식/NNG + 대로/JX + ,/SP
+나머지/NNG
+50/SN + %/SW + 는/JX
+월/NNB + 중/NNB
+신규/NNG + 취급/NNG + 실적/NNG
+기준/NNG + 으로/JKB
+배정/NNG + 하/XSV + 도록/EC
+변경/NNG + 하/XSV + 았/EP + 으며/EC
+與信禁止制度/SH + 를/JKO
+폐지/NNG + 하/XSV + ㅁ/ETN + 으로써/JKB
+금융/NNG + 기관/NNG + 이/JKS
+자율/NNG + 적/XSN
+판단/NNG + 에/JKB
+의하/VV + 아/EC
+여신/NNG + 을/JKO
+운용/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 도록/EC
+하/VX + 았/EP + 다/EF + ./SF
+2/SN + 월/NNB
+19/SN + 일/NNB + 에/JKB + 는/JX
+중소기업/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+자금/NNG + 지원/NNG
+확대/NNG + 를/JKO
+위하/VV + 아/EC
+總額貸出限度/SH + 를/JKO
+4/SN + 조/NR
+6/SN + 천억/NR + 원/NNB + 에서/JKB
+5/SN + 조/NR
+6/SN + 천억/NR + 원/NNB + 으로/JKB
+1/SN + 조/NR + 원/NNB
+확대/NNG + 하/XSV + 았/EP + 다/EF + ./SF + (/SS + 3/SN + 월/NNB
+2/SN + 일/NNB
+시행/NNG + )/SS
+(/SS + 金融市場/SH + )/SS
+어음/NNG + 부도/NNG + 율/XSN + 은/JX
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+금융/NNG + 시장/NNG
+경색/NNG + 과/JC
+경기/NNG + 침체/NNG
+지속/NNG + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+금융/NNG + 기관/NNG
+부도/NNG + 금액/NNG + 이/JKS
+줄어들/VV + ㄴ/ETM
+데/NNB
+힘입/VV + 어/EC
+전년/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG + 의/JKG
+0/SN + ./SP + 80/SN + %/SW + 에/JKB
+비하/VV + 아/EC
+다소/MAG
+낮/VA + 아/EC + 지/VX + ㄴ/ETM
+0/SN + ./SP + 54/SN + %/SW + 를/JKO
+기록/NNG + 하/XSV + 았/EP + 으나/EC
+부도/NNG + 업체/NNG + 수/NNG + 는/JX
+지난해/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG + 에/JKB
+비하/VV + 아/EC
+크/VA + 게/EC
+증가/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+그러나/MAJ
+금융/NNG + ·/SP + 외환/NNG + 시장/NNG + 이/JKS
+점차/MAG
+안정/NNG + 되/XSV + 면서/EC
+3/SN + 월/NNB
+이후/NNG
+부도/NNG + 가/JKS
+줄어들/VV + 어/EC
+4/SN + 월/NNB + 에/JKB + 는/JX
+어음/NNG + 부도/NNG + 율/XSN + 이/JKS
+0/SN + ./SP + 42/SN + %/SW + 로/JKB
+하락/NNG + 하/XSV + 았/EP + 으며/EC
+부도/NNG + 업체/NNG + 수/NNG + 도/JX
+감소/NNG + 하/XSV + 는/ETM
+모습/NNG + 을/JKO
+보이/VV + 었/EP + 다/EF + ./SF
+한편/NNG
+지난해/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+크/VA + ㄴ/ETM
+폭/NNG + 으로/JKB
+상승/NNG + 하/XSV + 았/EP + 던/ETM
+市場金利/SH + 는/JX
+외국인/NNG
+주식/NNG + 투자/NNG + 자금/NNG
+유입/NNG + ,/SP
+금융/NNG + 기관/NNG
+단기/NNG + 외채/NNG + 의/JKG
+만기/NNG + 연장/NNG + 에/JKB
+관하/VV + ㄴ/ETM
+협상/NNG
+타결/NNG
+등/NNB + 으로/JKB
+金融/SH + ·/SP + 外換市場/SH + 이/JKS
+점차/MAG
+안정/NNG + 되/XSV + 고/EC
+이/NP + 에/JKB
+맞추/VV + 어/EC
+한국은행/NNP + 이/JKS
+공개/NNG + 시장/NNG + 조작/NNG + 금리/NNG + 를/JKO
+점진/NNG + 적/XSN + 으로/JKB
+인하/NNG + 하/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+하락세/NNG + 를/JKO
+지속/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+4/SN + 월/NNB
+들/VV + 어서/EC + 도/JX
+이러/XR + 하/XSA + ㄴ/ETM
+금리/NNG + 하락/NNG
+추세/NNG + 는/JX
+지속/NNG + 되/XSV + 어/EC
+회사채/NNG + 유통/NNG + 수익/NNG + 률/XSN + 의/JKG
+경우/NNG
+월말/NNG + 에/JKB + 는/JX
+17/SN + %/SW + 대/NNG + 로/JKB
+하락/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+金融機關/SH
+受信/SH
+動向/SH + 을/JKO
+보/VV + 면/EC
+投資信託會社/SH + 의/JKG
+受信/SH + 이/JKS
+증가/NNG + 로/JKB
+반전/NNG + 되/XSV + 고/EC
+預金銀行/SH
+受信/SH + 의/JKG
+증가세/NNG + 도/JX
+다소/MAG
+확대/NNG + 되/XSV + 었/EP + 으나/EC
+綜合金融會社/SH
+受信/SH + 은/JX
+크/VA + ㄴ/ETM
+폭/NNG + 의/JKG
+감소세/NNG + 를/JKO
+지속/NNG + 하/XSV + 고/EC
+金錢信託/SH + 도/JX
+감소/NNG + 로/JKB
+반전/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+預金銀行/SH
+受信/SH + 중/NNB + 에서/JKB + 는/JX
+정기/NNG + 예금/NNG + 이/JKS
+시장/NNG + 실세/NNG + 금리/NNG
+상승/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+금리/NNG + 인상/NNG + 으로/JKB
+만기/NNG
+1/SN + 년/NNB
+미만/NNG
+예금/NNG + 을/JKO
+중심/NNG + 으로/JKB
+증가세/NNG + 가/JKS
+크/VA + 게/EC
+확대/NNG + 되/XSV + ㄴ/ETM
+반면/NNG
+MMDA/SL + ,/SP
+정기/NNG + 적금/NNG
+등/NNB
+여타/NNG
+저축/NNG + 성/XSN + 예금/NNG + 은/JX
+정기/NNG + 예금/NNG
+및/MAG
+시장/NNG + 성/XSN
+금융/NNG + 상품/NNG + 으로/JKB + 의/JKG
+자금/NNG + 이탈/NNG + 로/JKB
+인하/VV + 아/EC
+크/VA + 게/EC
+감소/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+市場性/SH
+金融商品/SH + 은/JX
+RP/SL + 가/JKS
+지난해/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG + 와/JKB
+비슷/XR + 하/XSA + ㄴ/ETM
+수준/NNG + 을/JKO
+유지/NNG + 하/XSV + 았/EP + 으나/EC
+표지/NNG + 어음/NNG
+매출/NNG + 의/JKG
+감소세/NNG + 가/JKS
+둔화/NNG + 되/XSV + 었/EP + 고/EC
+CD/SL + 발행/NNG + 이/JKS
+증가/NNG + 로/JKB
+돌아서/VV + 는/ETM
+등/NNB
+전반/NNG + 적/XSN + 으로/JKB
+회복세/NNG + 를/JKO
+나타내/VV + 었/EP + 다/EF + ./SF
+綜合金融會社/SH
+受信/SH + 의/JKG
+경우/NNG + 에/JKB + 는/JX
+일부/NNG
+종금사/NNG
+영업/NNG + 정지/NNG
+등/NNB + 의/JKG
+영향/NNG + 으로/JKB
+CP/SL + 할인/NNG + 수요/NNG + 가/JKS
+증권사/NNG
+및/MAG
+은행/NNG + 신탁/NNG + 으로/JKB
+이전/NNG + 되/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+어음/NNG + 매출/NNG + 이/JKS
+감소세/NNG + 를/JKO
+지속/NNG + 하/XSV + 았/EP + 고/EC
+발행/NNG + 어음/NNG + 도/JX
+증가세/NNG + 가/JKS
+둔화/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+投資信託會社/SH
+受信/SH + 중/NNB + 에서/JKB + 는/JX
+금리/NNG + 상승/NNG + 으로/JKB
+인하/VV + ㄴ/ETM
+受信競爭力/SH
+향상/NNG + 에/JKB
+힘입/VV + 어/EC
+단기/NNG + 공사채/NNG + 형/XSN
+수익/NNG + 증권/NNG + 이/JKS
+증가세/NNG + 가/JKS
+확대/NNG + 되/XSV + 고/EC
+장기/NNG + 공사채/NNG + 형/XSN
+수익/NNG + 증권/NNG + 과/JC
+신탁/NNG + 형/XSN
+수익/NNG + 증권/NNG + 도/JX
+감소세/NNG + 가/JKS
+둔화/NNG + 되/XSV + 었/EP + 으나/EC
+주식/NNG + 시장/NNG
+부진/NNG + 으로/JKB
+주식/NNG + 형/XSN + 수익/NNG + 증권/NNG + 은/JX
+감소세/NNG + 를/JKO
+지속/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+金錢信託/SH + 중/NNB + 에서/JKB + 는/JX
+신종/NNG + 적립/NNG + 신탁/NNG + 이/JKS
+전년/NNG
+4/SN + ·/SP + 4/SN + 분기/NNG + 에/JKB
+잇/VV + 어/EC
+크/VA + ㄴ/ETM
+폭/NNG + 으로/JKB
+늘어나/VV + ㄴ/ETM
+반면/NNG
+가계/NNG + 금전/NNG + 신탁/NNG + 과/JC
+불/XPN + 특정/NNG + 금전/NNG + 신탁/NNG + 은/JX
+정기/NNG + 예금/NNG + 과/JC
+신종/NNG + 적립/NNG + 신탁/NNG + 으로/JKB
+자금/NNG + 이/JKS
+유출/NNG + 되/XSV + 면서/EC
+감소세/NNG + 가/JKS
+확대/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+4/SN + 월/NNB
+들/VV + 어서/EC + 는/JX
+預金銀行/SH
+受信/SH + 이/JKS
+여타/NNG
+저축/NNG + 성/XSN + 예금/NNG + 과/JC
+시장/NNG + 성/XSN
+금융/NNG + 상품/NNG + 의/JKG
+부진/NNG + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+정기/NNG + 예금/NNG + 이/JKS
+호조/NNG + 를/JKO
+지속/NNG + 하/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+전/MM + 분기/NNG + 와/JKB
+비슷/XR + 하/XSA + ㄴ/ETM
+추세/NNG + 를/JKO
+유지/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+綜合金融會社/SH
+受信/SH + 은/JX
+발행/NNG + 어음/NNG
+및/MAG
+CMA/SL + 가/JKS
+높/VA + 은/ETM
+수익/NNG + 률/XSN + 을/JKO
+바탕/NNG + 으로/JKB
+회복세/NNG + 를/JKO
+보이/VV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+감소/NNG + 폭/NNG + 이/JKS
+축소/NNG + 되/XSV + 고/EC
+投資信託會社/SH
+受信/SH + 도/JX
+증가세/NNG + 가/JKS
+확대/NNG + 되/XSV + 었/EP + 으나/EC
+金錢信託/SH + 은/JX
+2/SN + 월/NNB + 의/JKG
+만기/NNG + 연장/NNG
+및/MAG
+중도/NNG + 해지/NNG + 수수료/NNG
+인상/NNG
+조치/NNG
+등/NNB + 의/JKG
+영향/NNG + 으로/JKB
+신종/NNG + 적립/NNG + 신탁/NNG + 의/JKG
+증가세/NNG + 가/JKS
+현저히/MAG
+둔화/NNG + 되/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+감소/NNG + 를/JKO
+지속/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+株式市場/SH + 은/JX
+외환/NNG + 위기/NNG + 의/JKG
+조기/NNG + 수습/NNG
+기대/NNG + 와/JKB
+그/NP + 에/JKB
+따르/VV + ㄴ/ETM
+외국인/NNG + ,/SP + 투자자/NNG + 들/XSN + 의/JKG
+매수세/NNG
+확대/NNG + ,/SP
+외채/NNG + 협상/NNG
+타결/NNG
+등/NNB + 에/JKB
+힘입/VV + 어/EC
+회복세/NNG + 를/JKO
+보이/VV + 었/EP + 으나/EC
+3/SN + 월/NNB
+이후/NNG + 에/JKB + 는/JX
+환율/NNG + 안정/NNG + 으로/JKB
+추가/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+환율/NNG + 하락/NNG
+기대/NNG + 가/JKS
+사라지/VV + 면서/EC
+외국인/NNG + ,/SP + 매수세/NNG + 가/JKS
+둔화/NNG + 되/XSV + 어/EC
+하락세/NNG + 로/JKB
+돌아서/VV + 었/EP + 다/EF + ./SF
+4/SN + 월/NNB
+들/VV + 어서/EC + 도/JX
+외국환/NNG + 평형/NNG + 기금/NNG + 채권/NNG + 의/JKG
+성공/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+발행/NNG
+등/NNB + 에/JKB
+힘입/VV + 어/EC
+일시/MAG
+반등/NNG + 하/XSV + 기/ETN + 도/JX
+하/VX + 았/EP + 으나/EC
+구조/NNG + 조정/NNG
+지연/NNG
+우려/NNG + ,/SP
+노동/NNG + 계/XSN + 의/JKG
+파업/NNG + 움직임/NNG
+등/NNB + 으로/JKB
+중순/NNG
+이후/NNG
+다시/MAG
+하락세/NNG + 로/JKB
+반전/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+債券市場/SH + 에서/JKB + 는/JX
+금융/NNG + 기관/NNG + 들/XSN + 의/JKG
+보수/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+자금/NNG + 운용/NNG + 으로/JKB
+기업/NNG + 들/XSN + 이/JKS
+회사채/NNG
+발행/NNG + 을/JKO
+통하/VV + ㄴ/ETM
+자금/NNG + 조달/NNG + 을/JKO
+확대/NNG + 하/XSV + 았/EP + 으나/EC
+신용/NNG + 도/NNG + 가/JKS
+높/VA + 은/ETM
+소수/NNG + 의/JKG
+우량/NNG
+대/XPN + 기업/NNG + 에/JKB
+편중/NNG + 되/XSV + 는/ETM
+현상/NNG + 이/JKS
+두드러지/VA + 었/EP + 으며/EC
+國公債/SH + 도/JX
+예금/NNG + 보험/NNG + 기금/NNG + 채권/NNG + (/SS + 6/SN + ./SP + 5/SN + 조/NR + 원/NNB + )/SS + 의/JKG
+발행/NNG
+등/NNB + 으로/JKB
+발행/NNG + 규모/NNG + 가/JKS
+확대/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+(/SS + 決濟/SH + )/SS
+1/SN + ·/SP + 4/SN + 분기/NNG + 중/NNB
+금융/NNG + 기관/NNG + 의/JKG
+支給決濟/SH
+동향/NNG + 을/JKO
+보/VV + 면/EC
+電子方式/SH
+決濟手段/SH
+이용/NNG + 실적/NNG + 은/JX
+한은/NNP + 금융망/NNG + ,/SP
+지로/NNG + 자동/NNG + 이체/NNG + ,/SP
+타행환/NNG + ,/SP
+CD/SL + 공동/NNG + 망/NNG
+등/NNB + 의/JKG
+이용/NNG
+확대/NNG + 에/JKB
+힘입/VV + 어/EC
+전년/NNG + 동기/NNG + 보다/JKB
+금액/NNG + 기준/NNG + 으로/JKB
+63/SN + ./SP + 8/SN + %/SW + ,/SP
+건수/NNG + 기준/NNG + 으로/JKB
+18/SN + ./SP + 7/SN + %/SW + 의/JKG
+크/VA + ㄴ/ETM
+폭/NNG + 으로/JKB
+증가/NNG + 하/XSV + 았/EP + 으나/EC
+어음/NNG + ·/SP + 手票/SH
+등/NNB
+帳票方式/SH
+決濟手段/SH
+이용/NNG + 실적/NNG + 은/JX
+전년/NNG + 동기/NNG + 에/JKB
+비하/VV + 아/EC
+금액/NNG + 기준/NNG + 으로/JKB
+14/SN + ./SP + 6/SN + %/SW
+증가/NNG + 에/JKB
+그치/VV + 고/EC
+건수/NNG + 기준/NNG + 으로/JKB + 는/JX
+7/SN + ./SP + 7/SN + %/SW
+감소/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+外國人/SH
+株式投資/SH
+動向/SH + 과/JC
+政策的/SH
+示唆點/SH + */SW
+Ⅰ/SL + ./SF
+머리말/NNG
+외국인/NNG + ,/SP + 의/JKG
+국내/NNG + 주식/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+직접/NNG
+투자/NNG + 가/JKS
+허용/NNG + 되/XSV + ㄴ/ETM
+1992/SN + 년/NNB
+1/SN + 월/NNB
+이후/NNG
+국내/NNG
+주식/NNG + 시장/NNG + 에서/JKB
+외국인/NNG + ,/SP + 들/XSN + 이/JKS
+차지/NNG + 하/XSV + 는/ETM
+비중/NNG + 은/JX
+계속/MAG
+확대/NNG + 되/XSV + 어/EC
+오/VX + 았/EP + 다/EF + ./SF
+그/MM
+과정/NNG + 에서/JKB
+외국인/NNG + ,/SP + 들/XSN + 은/JX
+일정/NNG + 하/XSA + ㄴ/ETM
+규칙/NNG + (/SS + rule/SL + )/SS + 에/JKB
+따르/VV + 아/EC
+투자/NNG + 하/XSV + 면서/EC
+對象企業/SH + 의/JKG
+收益性/SH + 과/JC
+安定性/SH + 을/JKO
+중시/NNG + 하/XSV + 는/ETM
+경향/NNG + 을/JKO
+보이/VV + 었/EP + 으며/EC
+또한/MAG
+투자/NNG + 기업/NNG + 에/JKB
+대하/VV + 아서/EC + 는/JX
+경영/NNG + 의/JKG
+透明性/SH + 을/JKO
+요구/NNG + 하/XSV + ㅁ/ETN + 으로써/JKB
+國內證市/SH + 의/JKG
+質的/SH
+향상/NNG + 에/JKB
+상당/NNG + 하/XSA + ㄴ/ETM
+기여/NNG + 를/JKO
+하/VV + ㄴ/ETM
+것/NNB + 으로/JKB
+보이/VV + ㄴ다/EF + ./SF
+그러나/MAJ
+지난해/NNG
+9/SN + 월/NNB
+이후/NNG + 에/JKB + 는/JX
+우리/NP + 경제/NNG + 의/JKG
+전망/NNG + 을/JKO
+어둡/VA + 게/EC
+보/VV + ㄴ/ETM
+외국인/NNG
+투자자/NNG + 들/XSN + 이/JKS
+빠르/VA + ㄴ/ETM
+속도/NNG + 로/JKB
+證市/SH + 를/JKO
+離脫/SH + 하/XSV + ㅁ/ETN + 으로써/JKB
+주가/NNG
+폭락/NNG + ,/SP
+원화/NNG + 가치/NNG
+하락/NNG
+등/NNB + 을/JKO
+촉발/NNG + 하/XSV + 는/ETM
+요인/NNG + 의/JKG
+하나/NR + 가/JKC
+되/VV + 기/ETN + 도/JX
+하/VX + 았/EP + 다/EF + ./SF
+한편/NNG
+지난해/NNG + 말/NNB
+IMF/SL + 와/JKB
+합의/NNG + 하/XSV + ㄴ/ETM
+바/NNB + 에/JKB
+따르/VV + 아/EC
+최근/NNG
+몇/MM
+개월/NNB
+사이/NNG + 에/JKB
+외국인/NNG
+주식/NNG + 투자/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+제한/NNG + 이/JKS
+거의/MAG
+철폐/NNG + 되/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+앞/NNG + 으로/JKB
+외국인/NNG
+주식/NNG + 투자/NNG
+자금/NNG + 의/JKG
+流出入/SH
+규모/NNG + 는/JX
+더욱/MAG
+확대/NNG + 되/XSV + ㄹ/ETM
+것/NNB + 으로/JKB
+보이/VV + 며/EC
+이/NP + 로/JKB
+인하/VV + 아/EC
+우리/NP
+경제/NNG + 에/JKB
+미치/VV + 는/ETM
+영향/NNG + 도/JX
+더욱/MAG
+커지/VV + ㄹ/ETM
+것/NNB + 으로/JKB
+예상/NNG + 되/XSV + ㄴ다/EF + ./SF
+이러/XR + 하/XSA + ㄴ/ETM
+관점/NNG + 에서/JKB
+이하/NNG + 에서/JKB + 는/JX
+주식/NNG + 시장/NNG
+개방/NNG
+이후/NNG
+외국인/NNG
+주식/NNG + 투자/NNG + 의/JKG
+동향/NNG + 과/JC
+주요/NNG
+특징/NNG + ,/SP
+우리/NP
+경제/NNG + 에/JKB
+미치/VV + ㄴ/ETM
+영향/NNG
+등/NNB + 을/JKO
+살펴보/VV + 기/ETN + 로/JKB
+하/VV + ㄴ다/EF + ./SF
+Ⅱ/SL + ./SF
+外國人/SH
+株式投資/SH
+現況/SH
+및/MAG
+特徵/SH
+1/SN + ./SF
+外國人/SH
+株式投資/SH + 의/JKG
+開放推移/SH
+우리나라/NNG + 의/JKG
+주식/NNG + 시장/NNG
+개방/NNG + 은/JX
+먼저/MAG
+외국인/NNG + ,/SP + 에게/JKB
+국내/NNG + 주식/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+間接投資/SH + 를/JKO
+허용/NNG + 하/XSV + ㄴ/ETM
+후/NNG
+直接投資/SH + 를/JKO
+허용/NNG + 하/XSV + 는/ETM
+점진/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+형태/NNG + 로/JKB
+진행/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+간접/NNG + 적/XSN
+형태/NNG + 의/JKG
+외국인/NNG
+주식/NNG + 투자/NNG + 는/JX
+1981/SN + 년/NNB
+한국투자신탁/NNP + (/SS + 주/NNG + )/SS + 과/JC
+대한투자신탁/NNP + (/SS + 주/NNG + )/SS + 이/JKS
+각각/MAG
+2/SN + ,/SP + 500/SN + 만/NR + 달러/NNB
+규모/NNG + 의/JKG
+外國人專用/SH
+受益證券/SH + 을/JKO
+발매/NNG + 하/XSV + 면서/EC
+시작/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+이어/MAG
+84/SN + 년/NNB + 에/JKB + 는/JX
+외국인/NNG
+투자/NNG + 전용/NNG + 회사/NNG + (/SS + Country/SL
+Fund/SL + )/SS + 의/JKG
+국내/NNG + 증권/NNG
+매매/NNG + 가/JKS
+허용/NNG + 되/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+Korea/SL
+Fund/SL + 가/JKS
+설립/NNG + 되/XSV + 었/EP + 으며/EC
+이어/MAG
+87/SN + 년/NNB + 에/JKB
+Korea/SL
+Europe/SL
+Fund/SL + ,/SP
+그리고/MAJ
+91/SN + 년/NNB + 에/JKB + 는/JX
+Korea/SL
+Asia/SL
+Fund/SL + 가/JKS
+설립/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+한편/NNG
+85/SN + 년/NNB + 부터/JX
+우리나라/NNG
+기업/NNG + 이/JKS
+轉換社債/SH + (/SS + convertible/SL
+bond/SL + )/SS + ,/SP
+株式預託證書/SH + (/SS + depository/SL
+receipt/SL + )/SS
+등/NNB
+주식/NNG + 관련/NNG
+증권/NNG + 을/JKO
+해외/NNG + 에서/JKB
+발행/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 게/EC
+되/VV + 면서/EC
+이/NP + 들/XSN
+증권/NNG + 에/JKB
+의하/VV + ㄴ/ETM
+權利行使/SH + 를/JKO
+통하/VV + 아서/EC + 도/JX
+외국인/NNG + ,/SP + 은/JX
+국내/NNG + 주식/NNG + 을/JKO
+간접/NNG + 적/XSN + 으로/JKB
+취득/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 게/EC
+되/VV + 었/EP + 다/EF + ./SF
+이어/MAG
+90/SN + 년/NNB + 에/JKB + 는/JX
+투자/NNG + 신탁/NNG + 회사/NNG + 의/JKG
+混合型/SH
+受益證券/SH + (/SS + matching/SL
+fund/SL + )/SS
+발행/NNG + 이/JKS
+허용/NNG + 되/XSV + 었/EP + 으며/EC
+96/SN + 년/NNB
+12/SN + 월/NNB + 부터/JX + 는/JX
+외국인/NNG + ,/SP + 도/JX
+국내/NNG
+주식/NNG + 형/XSN
+수익/NNG + 증권/NNG + 을/JKO
+펀드/NNG
+純資産/SH + 의/JKG
+20/SN + %/SW
+범위/NNG + 내/NNB + 에서/JKB
+직접/MAG
+매입/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 게/EC
+되/VV + 었/EP + 다/EF + ./SF
+한편/NNG
+외국인/NNG + ,/SP + 의/JKG
+국내/NNG + 상장/NNG + 주식/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+직접/NNG + 투자/NNG + 는/JX
+1992/SN + 년/NNB
+1/SN + 월/NNB + 부터/JX
+종목/NNG + 별/XSN + 로/JKB
+발행/NNG + 주식/NNG
+총수/NNG + 의/JKG
+10/SN + %/SW + (/SS + 공공/NNG + 법인/NNG + 은/JX
+8/SN + %/SW + )/SS + ,/SP
+1/SN + 인/NNG + 당/XSN
+3/SN + %/SW + (/SS + 공공/NNG + 법인/NNG + 은/JX
+1/SN + %/SW + )/SS
+범위/NNG + 내/NNB + 에서/JKB
+허용/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+이후/NNG
+외국인/NNG
+주식/NNG + 투자/NNG + 한도/NNG + 는/JX
+단계/NNG + 적/XSN + 으로/JKB
+상향/NNG + 조정/NNG + 되/XSV + 어/EC
+97/SN + 년/NNB
+11/SN + 월/NNB + 에/JKB + 는/JX
+종목/NNG + 당/XSN
+26/SN + %/SW + (/SS + 공공/NNG + 법인/NNG
+21/SN + %/SW + )/SS + ,/SP
+1/SN + 인/NNG + 당/XSN
+7/SN + %/SW + 까지/JX
+높/VA + 아/EC + 지/VX + 었/EP + 으며/EC
+외환/NNG + 위기/NNG
+발생/NNG + 후/NNG
+IMF/SL + 와/JKB + 의/JKG
+합의/NNG + 에/JKB
+따르/VV + 아/EC
+12/SN + 월/NNB + 부터/JX + 는/JX
+종목/NNG + 당/XSN
+50/SN + %/SW + ·/SP + 1/SN + 인/NNG + 당/XSN
+50/SN + %/SW + 로/JKB + ,/SP
+그리고/MAJ
+금년/NNG
+1/SN + 월/NNB + 부터/JX + 는/JX
+종목/NNG + 당/XSN
+한도/NNG + 가/JKS
+55/SN + %/SW + (/SS + 공공/NNG + 법인/NNG
+25/SN + %/SW + )/SS + 로/JKB
+높/VA + 아/EC + 지/VX + ㄴ/ETM
+데/NNB
+잇/VV + 어/EC
+5/SN + 월/NNB + 부터/JX + 는/JX
+공공/NNG + 법인/NNG + (/SS + 30/SN + %/SW + ,/SP
+1/SN + 인/NNG + 당/XSN
+3/SN + %/SW + )/SS + 을/JKO
+제외/NNG + 하/XSV + 고/EC + 는/JX
+한도/NNG
+자체/NNG + 가/JKS
+완전/NNG
+폐지/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+또한/MAG
+1996/SN + 년/NNB
+5/SN + 월/NNB
+개장/NNG + 되/XSV + ㄴ/ETM
+주가/NNG + 지수/NNG
+先物市場/SH + 과/JC
+97/SN + 년/NNB
+7/SN + 월/NNB
+개장/NNG + 되/XSV + ㄴ/ETM
+옵션/NNG + 시장/NNG + 은/JX
+시장/NNG + 개설/NNG + 과/JKB
+동시/NNG + 에/JKB
+외국인/NNG + ,/SP + 에게/JKB
+개방/NNG + 되/XSV + 었/EP + 으며/EC
+97/SN + 년/NNB
+12/SN + 월/NNB + 부터/JX + 는/JX
+場外市場/SH + 이/VCP + ㄴ/ETM
+코스닥/NNG + (/SS + KOSDAQ/SL + )/SS + 시장/NNG + 에/JKB
+대하/VV + 아서/EC + 도/JX
+외국인/NNG + ,/SP + 투자/NNG + 를/JKO
+종목/NNG + 당/XSN
+15/SN + %/SW + (/SS + 1/SN + 인/NNG + 당/XSN
+5/SN + %/SW + )/SS
+한도/NNG + 내/NNB + 에서/JKB
+허용/NNG + 하/XSV + 았/EP + 다가/EC
+금년/NNG
+5/SN + 월/NNB + 부터/JX + 는/JX
+한도/NNG + 가/JKS
+완전/NNG
+폐지/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+2/SN + ./SF
+投資動向/SH
+가/NNG + ./SF
+投資者/SH
+증권감독원/NNP + 에/JKB
+등록/NNG + 되/XSV + ㄴ/ETM
+외국인/NNG
+투자자/NNG + 의/JKG
+수/NNG + 는/JX
+주식/NNG + 시장/NNG
+개방/NNG
+직전/NNG + 이/VCP + ㄴ/ETM
+1991/SN + 년/NNB + 말/NNB
+현재/MAG
+19/SN + 개국/NNB
+565/SN + 명/NNB + 에/JKB
+불과/MAG + 하/XSA + 았/EP + 으나/EC
+매년/MAG
+크/VA + ㄴ/ETM
+폭/NNG + 으로/JKB
+늘어나/VV + 아/EC
+98/SN + 년/NNB
+4/SN + 월말/NNG + 에/JKB + 는/JX
+66/SN + 개국/NNB
+7/SN + ,/SP + 622/SN + 명/NNB + 에/JKB
+달하/VV + 았/EP + 다/EF + ./SF
+특히/MAG
+97/SN + 년/NNB + 말/NNB
+6/SN + ,/SP + 514/SN + 명/NNB + 이/VCP + 었/EP + 던/ETM
+외국인/NNG
+투자자/NNG + 수/NNG + 가/JKS
+금년/NNG
+들/VV + 어/EC
+불과/MAG
+4/SN + 개월/NNB + 만/NNB + 에/JKB
+1/SN + ,/SP + 100/SN + 명/NNB + 이나/JX
+늘어나/VV + 았/EP + 는데/EC
+이/NP + 는/JX
+外換危機/SH
+이후/NNG
+국제/NNG + 금융/NNG + 기구/NNG
+등/NNB + 의/JKG
+신속/NNG + 하/XSA + ㄴ/ETM
+자금/NNG + 지원/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+우리/NP + 경제/NNG + 의/JKG
+조기/NNG + 정상/NNG + 화/XSN
+기대/NNG
+외/NNB + 에/JKB
+단기/NNG
+換差益/SH
+및/MAG
+時勢差益/SH + 을/JKO
+노리/VV + ㄴ/ETM
+해외/NNG + 투자자/NNG + 들/XSN + 도/JX
+가세/NNG + 하/XSV + ㄴ데/EC
+기인/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 으로/JKB
+보이/VV + ㄴ다/EF + ./SF
+등록/NNG + 되/XSV + ㄴ/ETM
+외국인/NNG
+투자자/NNG + 의/JKG
+국가/NNG + 별/XSN
+구성/NNG + 을/JKO
+보/VV + 면/EC
+미국/NNP + (/SS + 37/SN + ./SP + 9/SN + %/SW + )/SS + ,/SP
+영국/NNP + (/SS + 10/SN + ./SP + 9/SN + %/SW + )/SS + ,/SP
+일본/NNP + (/SS + 7/SN + ./SP + 7/SN + %/SW + )/SS + ,/SP
+대만/NNP + (/SS + 6/SN + ./SP + 7/SN + %/SW + )/SS
+등/NNB + 의/JKG
+순/NNG + 으로/JKB
+높/VA + 은/ETM
+비중/NNG + 을/JKO
+차지/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+또한/MAG
+말레이시아/NNP + ,/SP
+아일랜드/NNP + ,/SP
+버진/NNP
+아일랜드/NNP + ,/SP
+버뮤다/NNP + ,/SP
+바하마/NNP
+등/NNB
+租稅逃避處/SH + (/SS + tax/SL
+haven/SL + )/SS + 를/JKO
+이용/NNG + 하/XSV + ㄴ/ETM
+투자자/NNG + 도/JX
+다수/NNG
+등록/NNG + 되/XSV + 어/EC
+있/VX + 는데/EC
+이/MM
+가운데/NNG + 는/JX
+우리나라/NNG
+금융/NNG + 기관/NNG + 이/JKS
+해외/NNG + 에/JKB
+설치/NNG + 하/XSV + ㄴ/ETM
+域外/SH
+펀드/NNG + 들/XSN + 이/JKS
+다시/MAG
+국내/NNG + 주식/NNG + 시장/NNG + 에/JKB
+투자/NNG + 하/XSV + 기/ETN
+위하/VV + 아/EC
+등록/NNG + 하/XSV + ㄴ/ETM
+경우/NNG + 도/JX
+포함/NNG + 되/XSV + 어/EC
+있/VX + 다/EF + ./SF
+투자/NNG + 주체/NNG + 별/XSN + 로/JKB
+보/VV + 면/EC
+1998/SN + 년/NNB
+4/SN + 월말/NNG
+현재/MAG
+기관/NNG + 투자자/NNG + (/SS + institutional/SL
+investor/SL + )/SS + 의/JKG
+수/NNG + 가/JKS
+63/SN + ./SP + 7/SN + %/SW + 로/JKB
+대종/NNG + 을/JKO
+차지/NNG + 하/XSV + 고/EC
+있/VX + 으며/EC
+기관/NNG + 투자자/NNG + 중/NNB + 에서/JKB + 는/JX
+투자/NNG + 회사/NNG + (/SS + 44/SN + ./SP + 9/SN + %/SW + )/SS + ,/SP
+연/NNG + 기금/NNG + (/SS + 6/SN + ./SP + 5/SN + %/SW + )/SS + ,/SP
+증권/NNG + 회사/NNG + (/SS + 3/SN + ./SP + 5/SN + %/SW + )/SS
+등/NNB + 이/JKS
+많/VA + 은/ETM
+것/NNB + 으로/JKB
+나타나/VV + 았/EP + 다/EF + ./SF
+기관/NNG + 투자자/NNG + 중/NNB
+가장/MAG
+비중/NNG + 이/JKS
+높/VA + 은/ETM
+투자/NNG + 회사/NNG + 는/JX
+대부분/NNG
+會社型/SH + 으로서/JKB
+뮤추얼/NNG
+펀드/NNG + (/SS + mutual/SL
+Fund/SL + )/SS + ,/SP
+역외/NNG
+펀드/NNG
+등/NNB + 이/JKS
+포함/NNG + 되/XSV + 며/EC
+단기/NNG
+투기/NNG + 자금/NNG
+성격/NNG + 이/JKS
+강하/VA + ㄴ/ETM
+것/NNB + 으로/JKB
+알리/VV + 어/EC + 지/VX + ㄴ/ETM
+헷지/NNG
+펀드/NNG + (/SS + hedge/SL
+fund/SL + )/SS + 도/JX
+여기/NP + 에/JKB
+속하/VV + ㄴ다/EF + ./SF
+투자/NNG + 등록/NNG + 시/NNB
+펀드/NNG + 의/JKG
+성격/NNG + 이/JKS
+식별/NNG + 되/XSV + 지/EC
+않/VX + 기/ETN
+때문/NNB + 에/JKB
+국내/NNG + 에/JKB
+진출/NNG + 하/XSV + ㄴ/ETM
+헷지/NNG
+펀드/NNG + 의/JKG
+수/NNG + 나/JC
+투자/NNG + 규모/NNG + 를/JKO
+정확히/MAG
+파악/NNG + 하/XSV + 기/ETN + 는/JX
+어렵/VA + 나/EC
+가장/MAG
+규모/NNG + 가/JKS
+크/VA + ㄴ/ETM
+헷지/NNG
+펀드/NNG + 이/VCP + ㄴ/ETM
+Quantum/SL
+Fund/SL + 와/JC
+Tiger/SL
+Fund/SL
+2/SN + 개/NNB + 의/JKG
+총/MM + 투자/NNG + 규모/NNG + 는/JX
+1997/SN + 년/NNB + 말/NNB
+현재/MAG
+약/MM
+6/SN + ./SP + 2/SN + 억/NR + 달러/NNB + 로/JKB
+전체/NNG
+투자액/NNG + 의/JKG
+3/SN + ./SP + 5/SN + %/SW
+정도/NNG + 를/JKO
+점하/VV + 고/EC
+있/VX + 는/ETM
+것/NNB + 으로/JKB
+나타나/VV + 았/EP + 다/EF + ./SF
+한편/NNG
+우리나라/NNG
+금융/NNG + 기관/NNG + 이/JKS
+해외/NNG + 에/JKB
+설립/NNG + 하/XSV + ㄴ/ETM
+역외/NNG
+펀드/NNG + 는/JX
+전체/NNG
+운용/NNG + 자금/NNG + 의/JKG
+약/MM
+2/SN + //SP + 3/SN + 를/JKO
+한국/NNP + 관련/NNG
+有價證券/SH + 에/JKB
+투자/NNG + 하/XSV + 고/EC
+있/VX + 어/EC
+이/MM
+중/NNB
+국내/NNG + 주식/NNG + 에/JKB
+투자/NNG + 하/XSV + ㄴ/ETM
+규모/NNG + 도/JX
+적/VA + 지/EC
+않/VX + 을/ETM
+것/NNB + 으로/JKB
+추정/NNG + 되/XSV + ㄴ다/EF + ./SF
+나/NNG + ./SF
+投資規模/SH
+외국인/NNG + ,/SP + 들/XSN + 의/JKG
+주식/NNG + 투자/NNG + 규모/NNG + 는/JX
+연도/NNG + 별/XSN + 로/JKB
+다소/NNG + 의/JKG
+기복/NNG + 은/JX
+있/VV + 었/EP + 으나/EC
+投資限度/SH + 의/JKG
+상향/NNG + 조정/NNG + 과/JKB
+함께/MAG
+꾸준히/MAG
+늘어나/VV + 았/EP + 다/EF + ./SF
+외국인/NNG + ,/SP + 의/JKG
+주식/NNG + 순/MM + 매수/NNG
+규모/NNG + 를/JKO
+연도/NNG + 별/XSN + 로/JKB
+보/VV + 면/EC
+개방/NNG
+첫해/NNG + 이/VCP + ㄴ/ETM
+1992/SN + 년/NNB + 에/JKB + 는/JX
+1/SN + 조/NR
+5/SN + ,/SP + 083/SN + 억/NR + 원/NNB + 에/JKB
+그치/VV + 었/EP + 으나/EC
+이듬해/NNG + 에/JKB + 는/JX
+4/SN + 조/NR
+3/SN + ,/SP + 294/SN + 억/NR + 원/NNB + 으로/JKB
+늘어나/VV + 았/EP + 다/EF + ./SF
+94/SN + ～/SO + 95/SN + 년/NNB + 중/NNB + 에/JKB + 는/JX
+그동안/NNG
+발생/NNG + 하/XSV + ㄴ/ETM
+資本利得/SH + 을/JKO
+실현/NNG + 하/XSV + 고/EC
+금리/NNG + 가/JKS
+상승/NNG + 하/XSV + ㄴ/ETM
+미국/NNP
+등/NNB + 으로/JKB
+투자/NNG + 대상/NNG + 을/JKO
+전환/NNG + 하/XSV + 기/ETN
+위하/VV + ㄴ/ETM
+매도/NNG
+확대/NNG + 로/JKB
+주식/NNG + 순/MM + 매수/NNG
+규모/NNG + 가/JKS
+각각/MAG
+1/SN + 조/NR + 원/NNB
+내외/NNG + 로/JKB
+줄어들/VV + 었/EP + 다/EF + ./SF
+96/SN + 년/NNB + 에/JKB + 는/JX
+외국/NNG
+투자자/NNG + 들/XSN + 이/JKS
+3/SN + 조/NR
+1/SN + ,/SP + 615/SN + 억/NR + 원/NNB + 의/JKG
+주식/NNG + 을/JKO
+순/MM + 매수/NNG + 하/XSV + 아/EC
+일시/NNG + 적/XSN + 으로/JKB
+회복세/NNG + 를/JKO
+보이/VV + 기/ETN + 도/JX
+하/VX + 았/EP + 으나/EC
+97/SN + 년/NNB + 에/JKB + 는/JX
+금융/NNG
+및/MAG
+외환/NNG + 시장/NNG
+불안/NNG + 으로/JKB
+보유/NNG + 주식/NNG + 을/JKO
+대량/NNG
+매각/NNG + 하/XSV + ㅁ/ETN + 으로써/JKB
+주식/NNG + 순/MM + 매수/NNG
+규모/NNG + 가/JKS
+5/SN + ,/SP + 609/SN + 억/NR + 원/NNB + 으로/JKB
+대폭/MAG
+축소/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+한편/NNG
+금년/NNG
+들/VV + 어서/EC + 는/JX
+新政府/SH
+출범/NNG
+등/NNB + 에/JKB
+따르/VV + ㄴ/ETM
+외환/NNG + 위기/NNG + 의/JKG
+조기/NNG + 해결/NNG
+및/MAG
+원/NNG + 貨切上/SH
+期待/SH
+등/NNB + 으로/JKB
+1/SN + 월/NNB
+이후/NNG
+불과/MAG
+3/SN + 개월/NNB + 만/NNB + 에/JKB
+순/MM + 매수/NNG + 규모/NNG + 가/JKS
+4/SN + 조/NR
+4/SN + ,/SP + 800/SN + 억/NR + 원/NNB + 을/JKO
+기록/NNG + 하/XSV + 는/ETM
+등/NNB
+외국인/NNG + ,/SP + 의/JKG
+주식/NNG + 시장/NNG
+참여/NNG + 가/JKS
+활발/XR + 하/XSA + 았/EP + 다/EF + ./SF
+그러나/MAJ
+4/SN + 월/NNB + 에/JKB + 는/JX
+환율/NNG + 이/JKS
+1/SN + ,/SP + 300/SN + 원/NNB + 대/XSN + 에서/JKB
+안정/NNG + 되/XSV + 는/ETM
+기미/NNG + 를/JKO
+보이/VV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+換差益期待/SH + 가/JKS
+줄어들/VV + 고/EC
+構造調整/SH + 의/JKG
+지연/NNG
+등/NNB + 에/JKB
+대하/VV + ㄴ/ETM
+비판/NNG + 이/JKS
+일/VV + 면서/EC
+순/MM + 매수/NNG
+규모/NNG + 가/JKS
+대폭/MAG
+줄/VV + 어/EC
+들/VV + 었/EP + 으며/EC
+5/SN + 월/NNB
+들/VV + 어서/EC + 는/JX
+주식/NNG + 투자/NNG + 한도/NNG + 가/JKS
+전면/NNG
+철폐/NNG + 되/XSV + 었/EP + 음/ETN + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+오히려/MAG
+매도액/NNG + 이/JKS
+매수액/NNG + 을/JKO
+상회/NNG + 하/XSV + 는/ETM
+등/NNB
+不振/SH + 하/XSA + ㄴ/ETM
+모습/NNG + 을/JKO
+보이/VV + 었/EP + 다/EF + ./SF
+외국인/NNG
+주식/NNG + 매매/NNG + (/SS
+전체/NNG
+주식/NNG + 거래/NNG + 에서/JKB
+차지/NNG + 하/XSV + 는/ETM
+比重/SH + 은/JX
+개방/NNG
+원년/NNG + 이/VCP + ㄴ/ETM
+1992/SN + 년/NNB + 중/NNB
+1/SN + ./SP + 8/SN + %/SW + 에/JKB
+불과/MAG + 하/XSA + 았/EP + 으나/EC
+이후/NNG
+꾸준히/MAG
+상승/NNG + 하/XSV + 아/EC
+97/SN + 년/NNB + 에/JKB + 는/JX
+6/SN + ./SP + 7/SN + %/SW + 로/JKB
+높/VA + 아/EC + 지/VX + 었/EP + 으며/EC
+특히/MAG
+금년/NNG
+1/SN + ～/SO + 4/SN + 월/NNB + 중/NNB + 에/JKB + 는/JX
+9/SN + ./SP + 1/SN + %/SW + 로/JKB
+급상승/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+한편/NNG
+주식/NNG + 거래/NNG + 에/JKB
+수반/NNG + 되/XSV + 어/EC
+발생/NNG + 하/XSV + 는/ETM
+주식/NNG + 투자/NNG + 자금/NNG + 의/JKG
+流出入/SH + 은/JX
+외국인/NNG
+순/MM + 매수/NNG + 와/JKB
+비슷/XR + 하/XSA + ㄴ/ETM
+추세/NNG + 를/JKO
+보이/VV + 었/EP + 다/EF + ./SF
+개방/NNG + 이후/NNG
+1998/SN + 년/NNB
+4/SN + 월/NNB + 까지/JX
+국내/NNG + 에/JKB
+순/MM + 유입/NNG + 되/XSV + ㄴ/ETM
+외국인/NNG
+주식/NNG + 투자/NNG + 자금/NNG + 은/JX
+총/MM
+207/SN + 억/NR + 달러/NNB + 이/VCP + 었/EP + 는데/EC
+이/NP + 는/JX
+같/VA + 은/ETM
+기간/NNG + 중/NNB
+純資本導入額/SH + (/SS + 누계/NNG + )/SS + 의/JKG
+30/SN + ./SP + 8/SN + %/SW + 에/JKB
+달하/VV + 는/ETM
+높/VA + 은/ETM
+비중/NNG + 을/JKO
+차지/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+외국인/NNG
+주식/NNG + 투자/NNG + 자금/NNG + 의/JKG
+순/MM + 유입액/NNG + 을/JKO
+국가/NNG + 별/XSN + 로/JKB
+보/VV + 면/EC
+美國/SH + 이/JKS
+94/SN + 억/NR + 달러/NNB + 로/JKB
+가장/MAG
+많/VA + 았/EP + 으며/EC
+다음/NNG + 으로/JKB
+영국/NNP + (/SS + 28/SN + 억/NR + 달러/NNB + )/SS + ,/SP
+말레이시아/NNP + (/SS + 20/SN + 억/NR + 달러/NNB + )/SS + ,/SP
+아일랜드/NNP + (/SS + 15/SN + 억/NR + 달러/NNB + )/SS
+등/NNB + 의/JKG
+順/SH + 이/VCP + 었/EP + 다/EF + ./SF
+외국인/NNG
+주식/NNG + 투자/NNG + 의/JKG
+국/NNG + 별/XSN
+특징/NNG + 을/JKO
+보/VV + 면/EC
+미국/NNP + 은/JX
+우리나라/NNG + 의/JKG
+외환/NNG + 위기/NNG + 가/JKS
+발생/NNG + 하/XSV + 았/EP + 던/ETM
+1997/SN + 년/NNB + 중/NNB + 에/JKB + 도/JX
+비교/NNG + 적/XSN
+안정/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+경향/NNG + 을/JKO
+보이/VV + 었/EP + 으나/EC
+영국/NNP + ,/SP
+말레이시아/NNP + ,/SP
+아일랜드/NNP
+등/NNB + 의/JKG
+경우/NNG + 에/JKB + 는/JX
+한보/NNP + 사태/NNG + ,/SP
+기아/NNP + 사태/NNG
+등/NNB + 이/JKS
+발생/NNG + 하/XSV + ㄹ/ETM
+때/NNG + 마다/JX
+순/MM + 유출/NNG + 을/JKO
+보이/VV + ㅁ/ETN + 으로써/JKB
+市場狀況/SH + 에/JKB
+비교/NNG + 적/XSN
+민감/XR + 하/XSA + 게/EC
+반응/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 으로/JKB
+나타나/VV + 았/EP + 다/EF + ./SF
+한편/NNG
+日本/SH + 은/JX
+등록자/NNG + 수/NNG + (/SS + 3/SN + 위/NNB + )/SS + 가/JKS
+많/VA + 음/ETN + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+자금/NNG + 유입액/NNG + 은/JX
+미미/XR + 하/XSA + 았/EP + 는데/EC
+이/NP + 는/JX
+최근/NNG + 까지/JX
+두/MM
+나라/NNG
+사이/NNG + 에/JKB
+주식/NNG + 양도/NNG + 차익/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+二重課稅/SH
+防止協定/SH + 이/JKS
+체결/NNG + 되/XSV + 지/EC
+않/VX + 아/EC
+일본/NNP
+투자자/NNG + 들/XSN + 의/JKG
+세금/NNG + 부담/NNG + 이/JKS
+상대/NNG + 적/XSN + 으로/JKB
+무겁/VA + 었/EP + 던/ETM
+데/NNB + 다/JX
+일본/NNP + 의/JKG
+금융/NNG + 산업/NNG
+불안/NNG + 과/JC
+경기/NNG + 침체/NNG
+등/NNB + 으로/JKB
+우리나라/NNG + 의/JKG
+주식/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+투자/NNG
+여력/NNG + 이/JKS
+적/VA + 었/EP + 던/ETM
+데/NNB
+기인/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 으로/JKB
+보이/VV + ㄴ다/EF + ./SF
+다/NNG + ./SF
+株式保有比重/SH
+외국인/NNG + ,/SP + 이/JKS
+보유/NNG + 하/XSV + 고/EC
+있/VX + 는/ETM
+주식/NNG + 의/JKG
+수/NNG + (/SS + 직접/NNG + 투자/NNG + 에/JKB
+의하/VV + ㄴ/ETM
+보유/NNG + 주식/NNG
+포함/NNG + )/SS + 가/JKS
+전체/NNG
+주식/NNG + 수/NNG + 에서/JKB
+차지/NNG + 하/XSV + 는/ETM
+비중/NNG + 은/JX
+1992/SN + 년/NNB + 말/NNB
+4/SN + ./SP + 1/SN + %/SW + 에/JKB
+불과/MAG + 하/XSA + 았/EP + 으나/EC
+94/SN + 년/NNB + 말/NNB + 에/JKB + 는/JX
+당시/NNG
+투자/NNG + 한도/NNG + (/SS + 10/SN + %/SW + )/SS + 에/JKB
+근접/NNG + 하/XSV + 는/ETM
+9/SN + ./SP + 2/SN + %/SW + 로/JKB
+크/VA + 게/EC
+높/VA + 아/EC + 지/VX + 었/EP + 다/EF + ./SF
+이후/NNG
+외국인/NNG
+주식/NNG + 투자/NNG + 한도/NNG + 의/JKG
+지속/NNG + 적/XSN
+확대/NNG + 에/JKB
+힘입/VV + 어/EC
+96/SN + 년/NNB + 말/NNB + 에/JKB + 는/JX
+동/MM
+비중/NNG + 이/JKS
+11/SN + ./SP + 5/SN + %/SW + 까지/JX
+상승/NNG + 하/XSV + 았/EP + 다가/EC
+97/SN + 년/NNB
+들/VV + 어/EC
+금융/NNG
+및/MAG
+외환/NNG + 시장/NNG
+불안/NNG + 의/JKG
+영향/NNG + 으로/JKB
+낮/VA + 아/EC + 지/VX + 어/EC
+98/SN + 년/NNB
+4/SN + 월말/NNG
+현재/NNG + 로/JKB + 는/JX
+10/SN + ./SP + 6/SN + %/SW + 를/JKO
+나타내/VV + 고/EC
+있/VX + 다/EF + ./SF
+한편/NNG
+時價/SH + 를/JKO
+기준/NNG + 으로/JKB
+하/VV + ㄴ/ETM
+외국인/NNG + ,/SP + 의/JKG
+주식/NNG + 보유/NNG + 비중/NNG + (/SS + 직접/NNG + 투자/NNG + 에/JKB
+의하/VV + ㄴ/ETM
+보유/NNG + 주식/NNG
+포함/NNG + )/SS + 은/JX
+지속/NNG + 적/XSN + 으로/JKB
+높/VA + 아/EC + 지/VX + 어/EC
+1992/SN + 년/NNB + 말/NNB + 의/JKG
+4/SN + ./SP + 9/SN + %/SW + 에서/JKB
+97/SN + 년/NNB + 말/NNB + 에/JKB + 는/JX
+14/SN + ./SP + 6/SN + %/SW + 로/JKB
+상승/NNG + 하/XSV + 았/EP + 으며/EC
+특히/MAG
+금년/NNG
+들/VV + 어서/EC + 는/JX
+집중/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+매수/NNG + 에/JKB
+힘입/VV + 어/EC
+98/SN + 년/NNB
+4/SN + 월말/NNG
+현재/MAG
+20/SN + ./SP + 3/SN + %/SW + 까지/JX
+급등/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+주식/NNG + 수/NNG + 기준/NNG
+보유/NNG + 비중/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+시가/NNG + 기준/NNG
+보유/NNG + 비중/NNG + 의/JKG
+비율/NNG + 을/JKO
+보/VV + 면/EC
+주식/NNG + 시장/NNG + 이/JKS
+개방/NNG + 되/XSV + ㄴ/ETM
+1992/SN + 년/NNB
+이후/NNG
+지속/NNG + 적/XSN + 으로/JKB
+1/SN + 을/JKO
+초과/NNG + 하/XSV + 았/EP + 으며/EC
+특히/MAG
+97/SN + 년/NNB
+이후/NNG
+동/MM
+비율/NNG + 이/JKS
+크/VA + 게/EC
+높/VA + 아/EC + 지/VX + 어/EC
+98/SN + 년/NNB
+4/SN + 월말/NNG + 에/JKB + 는/JX
+1/SN + ./SP + 9/SN + 에/JKB
+달하/VV + 았/EP + 는데/EC
+이/NP + 는/JX
+외국인/NNG + ,/SP + 투자자/NNG + 들/XSN + 이/JKS
+優良株式/SH + 에/JKB
+많이/MAG
+투자/NNG + 하/XSV + 았/EP + 음/ETN + 을/JKO
+나타내/VV + ㄴ다/EF + ./SF
+라/NNG + ./SF
+投資種目/SH
+개방/NNG
+이후/NNG
+외국인/NNG + ,/SP + 들/XSN + 은/JX
+금융/NNG + 주/NNG + ,/SP
+포항제철/NNP
+및/MAG
+한국전력/NNP
+등/NNB
+국민주/NNG + ,/SP
+삼성전자/NNP
+등/NNB
+전자/NNG + 관련/NNG + 주/NNG
+등/NNB
+流動性/SH + 이/JKS
+높/VA + 으면서/EC
+收益性/SH + 이/JKS
+좋/VA + 은/ETM
+소위/MAG
+블루칩/NNG + (/SS + blue/SL
+CHIP/SL + )/SS + 을/JKO
+집중/NNG
+매입/NNG + 하/XSV + 아/EC
+오/VX + 았/EP + 다/EF + ./SF
+다만/MAG
+1997/SN + 년/NNB + 에/JKB + 는/JX
+금융/NNG + 기관/NNG + 의/JKG
+不實化/SH + 가/JKS
+표면/NNG + 화/XSN + 되/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+은행/NNG + 주/NNG + 를/JKO
+대량/NNG
+매도/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+1997/SN + 년/NNB + 말/NNB
+현재/MAG
+외국인/NNG + ,/SP + 들/XSN + 의/JKG
+업종/NNG + 별/XSN
+주식/NNG + 보유/NNG
+비중/NNG + 을/JKO
+보/VV + 면/EC
+주식/NNG + 수/NNG
+기준/NNG + 으로/JKB + 는/JX
+금융업/NNG + 이/JKS
+30/SN + %/SW + 를/JKO
+차지/NNG + 하/XSV + 아/EC
+가장/MAG
+높/VA + 았/EP + 으며/EC
+전자/NNG + 회사/NNG + 가/JKS
+주축/NNG + 을/JKO
+이루/VV + 는/ETM
+영상/NNG + 음향/NNG
+및/MAG
+통신/NNG + 장비업/NNG + 이/JKS
+14/SN + %/SW + ,/SP
+한국전력/NNP + 이/JKS
+포함/NNG + 되/XSV + ㄴ/ETM
+전기/NNG + 가스업/NNG + 이/JKS
+8/SN + %/SW
+등/NNB + 으로/JKB
+그/MM
+뒤/NNG + 를/JKO
+잇/VV + 었/EP + 다/EF + ./SF
+그러나/MAJ
+時價基準/SH + 으로/JKB
+보/VV + 면/EC
+영상/NNG + 음향/NNG
+및/MAG
+통신/NNG + 장비업/NNG + 이/JKS
+23/SN + %/SW + 로서/JKB
+가장/MAG
+높/VA + 은/ETM
+비중/NNG + 을/JKO
+차지/NNG + 하/XSV + 고/EC
+있/VX + 으며/EC
+그/MM
+다음/NNG + 으로/JKB
+금융업/NNG + (/SS + 14/SN + ./SP + 3/SN + %/SW + )/SS + ,/SP
+포항제철/NNP + 이/JKS
+포함/NNG + 되/XSV + ㄴ/ETM
+제/XPN + 1/SN + 차/NNB + 금속업/NNG + (/SS + 11/SN + ./SP + 3/SN + %/SW + )/SS + ,/SP
+전기/NNG + 가스업/NNG + (/SS + 10/SN + ./SP + 7/SN + %/SW + )/SS + ,/SP
+그리고/MAJ
+이동/NNG + 통신업/NNG + 을/JKO
+포괄/NNG + 하/XSV + 는/ETM
+통신업/NNG + (/SS + 8/SN + ./SP + 8/SN + %/SW + )/SS + 의/JKG
+비중/NNG + 이/JKS
+높/VA + 은/ETM
+것/NNB + 으로/JKB
+나타나/VV + 았/EP + 다/EF + ./SF
+3/SN + ./SF
+外國人/SH
+株式投資/SH + 의/JKG
+特徵/SH
+외국인/NNG + ,/SP + 의/JKG
+주식/NNG + 투자/NNG + 는/JX
+대체로/MAG
+다음/NNG + 과/JKB
+같/VA + 은/ETM
+특성/NNG + 을/JKO
+가지/VV + 고/EC
+있/VX + 는/ETM
+것/NNB + 으로/JKB
+판단/NNG + 되/XSV + ㄴ다/EF + ./SF
+첫째/NR + ,/SP
+국제/NNG + 포트폴리오/NNG
+투자/NNG + 를/JKO
+전문/NNG + 으로/JKB
+하/VV + 는/ETM
+기관/NNG + 들/XSN + 의/JKG
+일반/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+특성/NNG + 을/JKO
+반영/NNG + 하/XSV + 아/EC
+투자/NNG + 규모/NNG
+및/MAG
+투자/NNG + 시기/NNG
+등/NNB + 에/JKB
+관하/VV + 아/EC
+내부/NNG + 적/XSN + 으로/JKB
+결정/NNG + 되/XSV + 어/EC
+있/VX + 는/ETM
+基準/SH + (/SS + rule/SL + )/SS + 에/JKB
+따르/VV + 아/EC
+투자/NNG + 를/JKO
+하/VV + 고/EC
+있/VX + 다/EF + ./SF
+외국/NNG
+기관/NNG + 투자자/NNG + 들/XSN + 은/JX
+방대/XR + 하/XSA + ㄴ/ETM
+규모/NNG + 의/JKG
+운용/NNG + 자금/NNG + 을/JKO
+전/MM + 세계/NNG + 에/JKB
+적절히/MAG
+分散投資/SH + 하/XSV + 기/ETN
+위하/VV + 아/EC
+개별/NNG + 종목/NNG + 이나/JC
+업종/NNG + 을/JKO
+선택/NNG + 하/XSV + 기/ETN + 에/JKB
+앞서/VV + 어/EC
+國際金融公社/SH + 에서/JKB
+작성/NNG + 하/XSV + 는/ETM
+투자/NNG + 유망/NNG + 종목/NNG + 지수/NNG + (/SS + IFCI/SL
+:/SP
+International/SL
+Finance/SL
+Corporation/SL
+Investable/SL + )/SS + 나/JC
+모건스탠리사/NNP + 에서/JKB
+작성/NNG + 하/XSV + 는/ETM
+국제/NNG + 자본/NNG + 지수/NNG + (/SS + MSCI/SL + :/SP + Morgan/SL
+Stanley/SL
+Capital/SL
+International/SL + )/SS
+등/NNB
+가이드라인/NNG + 을/JKO
+활용/NNG + 하/XSV + 아/EC
+地域/SH
+및/MAG
+國家/SH + 에/JKB
+대하/VV + ㄴ/ETM
+투자/NNG + 규모/NNG + 를/JKO
+결정/NNG + 하/XSV + ㄴ다/EC + (/SS + top/SL + -/SS + down/SL
+방식/NNG + )/SS + ./SF
+이/NP + 들/XSN
+指數/SH + 에서/JKB
+한국/NNP + 이/JKS
+차지/NNG + 하/XSV + 는/ETM
+비중/NNG + 은/JX
+대체로/MAG
+5/SN + %/SW
+정도/NNG + 이/VCP + ㄴ데/EC
+실제로/MAG
+아시아/NNP + 지역/NNG + 에/JKB
+투자/NNG + 하/XSV + 는/ETM
+투자/NNG + 회사/NNG + 들/XSN + 의/JKG
+포트폴리오/NNG
+구성/NNG + 을/JKO
+보/VV + 면/EC
+한국/NNP + 의/JKG
+비중/NNG + 이/JKS
+4/SN + ～/SO + 5/SN + %/SW
+정도/NNG + 로서/JKB
+가이드라인/NNG + 에서/JKB
+제시/NNG + 하/XSV + 는/ETM
+비중/NNG + 과/JKB
+비슷/XR + 하/XSA + ㄴ/ETM
+수준/NNG + 을/JKO
+보이/VV + 고/EC
+있/VX + 다/EF + ./SF
+또한/MAG
+외국/NNG
+투자/NNG + 회사/NNG + 들/XSN + 은/JX
+전문/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+펀드/NNG
+매니저/NNG + 들/XSN + 에게/JKB
+자금/NNG + 을/JKO
+운용/NNG + 하/XSV + 도록/EC
+하/VX + 면서/EC
+각/MM
+매니저/NNG + 별/XSN
+운용/NNG + 자금/NNG
+규모/NNG + ,/SP
+收益率/SH
+목표/NNG
+등/NNB + 을/JKO
+설정/NNG + 하/XSV + ㄴ다/EF + ./SF
+이/NP + 들/XSN + 은/JX
+국제/NNG + 신용/NNG + 평가/NNG + 기관/NNG + 이/JKS
+투자/NNG + 등급/NNG + (/SS + investment/SL
+grade/SL + )/SS
+이상/NNG + 으로/JKB
+평가/NNG + 하/XSV + ㄴ/ETM
+국가/NNG
+및/MAG
+종목/NNG + 에/JKB
+대하/VV + 아서/EC + 만/JX
+투자/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 으며/EC
+일정/NNG + 기간/NNG
+동안/NNG + 의/JKG
+손실/NNG + 허용/NNG + 한도/NNG + (/SS + loss/SL
+limit/SL + )/SS + 를/JKO
+정하/VV + 아/EC
+손실/NNG + 이/JKS
+허용/NNG + 한도/NNG + 에/JKB
+도달/NNG + 하/XSV + ㄹ/ETM
+경우/NNG
+반드시/MAG
+損絶賣/SH + (/SS + stop/SL + -/SS + loss/SL
+selling/SL + )/SS + 하/XSV + 도록/EC
+하/VX + 는/ETM
+엄격/XR + 하/XSA + ㄴ/ETM
+내부/NNG + 규정/NNG + 을/JKO
+두/VV + 고/EC
+있/VX + 다/EF + ./SF
+둘째/NR + ,/SP
+외국인/NNG
+투자자/NNG + 는/JX
+개별/NNG + 기업/NNG + 에/JKB
+관하/VV + ㄴ/ETM
+단기/NNG + 적/XSN
+市場情報/SH + 보다/JKB + 는/JX
+公示/SH + 되/XSV + ㄴ/ETM
+會計資料/SH + 로부터/JKB
+파악/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+수익/NNG + 성/XSN + ,/SP
+안정/NNG + 성/XSN
+등/NNB
+기업/NNG + 의/JKG
+內在價値/SH + 를/JKO
+중시/NNG + 하/XSV + 아/EC
+투자/NNG + 하/XSV + 는/ETM
+것/NNB + 이/JKS
+일반/NNG + 적/XSN + 이/VCP + ㄴ데/EC
+우리나라/NNG + 에서/JKB + 도/JX
+이러/XR + 하/XSA + ㄴ/ETM
+패턴/NNG + 이/JKS
+나타나/VV + 고/EC
+있/VX + 다/EF + ./SF
+1995/SN + ～/SO + 97/SN + 년/NNB + 의/JKG
+3/SN + 개년/NNB + 을/JKO
+대상/NNG + 으로/JKB
+외국인/NNG + ,/SP + 이/JKS
+가장/MAG
+많이/MAG
+매수/NNG + (/SS + 순/MM + 매수/NNG
+기준/NNG + )/SS + 하/XSV + 았/EP + 던/ETM
+上位/SH
+30/SN + 대/NNG
+종목/NNG + (/SS + 금융/NNG + 주/NNG
+제외/NNG + )/SS + 의/JKG
+주요/NNG
+財務比率/SH + 을/JKO
+전체/NNG
+상장/NNG + 기업/NNG
+평균/NNG + 과/JKB
+비교/NNG + 하/XSV + 아/EC
+보/VX + 면/EC
+외국인/NNG + ,/SP + 들/XSN + 이/JKS
+선호/NNG + 하/XSV + 는/ETM
+종목/NNG + 은/JX
+收益性/SH + 면/NNG + 에서/JKB
+월등/MAG + 하/XSA + 다는/ETM
+사실/NNG + 을/JKO
+알/VV + ㄹ/ETM
+수/NNB
+있/VV + 다/EF + ./SF
+즉/MAG
+株當/SH
+순이익/NNG + 은/JX
+평균/NNG + 에/JKB
+비하/VV + 아/EC
+2/SN + 3/SN + 배/NNG
+높/VA + 았/EP + 으며/EC
+자기/NNG + 자본/NNG + 이익/NNG + 률/XSN + ,/SP
+매출액/NNG + 경상/NNG + 이익/NNG + 률/XSN + 도/JX
+비슷/XR + 하/XSA + ㄴ/ETM
+정도/NNG + 로/JKB
+높/VA + 은/ETM
+수준/NNG + 을/JKO
+보이/VV + 었/EP + 다/EF + ./SF
+安定性/SH
+측면/NNG + 에서/JKB
+보/VV + 면/EC
+株當/SH
+현금/NNG + 흐름/NNG
+규모/NNG + 는/JX
+평균/NNG + 보다/JKB
+훨씬/MAG
+크/VA + 었/EP + 으나/EC
+부채/NNG + 비율/NNG + 은/JX
+크/VA + ㄴ/ETM
+차이/NNG + 가/JKS
+없/VA + 었/EP + 다/EF + ./SF
+한편/NNG
+주가/NNG + 의/JKG
+적정/NNG + 성/XSN + 을/JKO
+나타내/VV + 는/ETM
+株價收益比率/SH + (/SS + PER/SL + )/SS + 은/JX
+오히려/MAG
+평균/NNG + 보다/JKB
+높/VA + 은/ETM
+모습/NNG + 을/JKO
+보이/VV + 었/EP + 다/EF + ./SF
+이/NP + 는/JX
+개방/NNG
+초기/NNG
+외국인/NNG + ,/SP + 들/XSN + 이/JKS
+주가/NNG + 수익/NNG + 비율/NNG + 이/JKS
+낮/VA + 아/EC
+內在價値/SH + 보다/JKB
+주가/NNG + 가/JKS
+低評價/SH + 되/XSV + ㄴ/ETM
+종목/NNG + 을/JKO
+집중/NNG
+매수/NNG + 하/XSV + ㅁ/ETN + 으로써/JKB
+투자자/NNG + 들/XSN
+사이/NNG + 에/JKB
+"/SS + 低/SH + PER/SL + 株/SH
+열풍/NNG + "/SS + 을/JKO
+불러일으키/VV + 기/ETN + 도/JX
+하/VX + 았/EP + 으나/EC
+이/NP + 들/XSN
+종목/NNG
+대부분/NNG + 이/JKS
+中小型株/SH + 이/VCP + 어서/EC
+투자/NNG + 한도/NNG + 가/JKS
+쉽/VA + 게/EC
+소진/NNG + 되/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+주가/NNG + 수익/NNG + 비율/NNG + 이/JKS
+다소/MAG
+높/VA + 더라도/EC
+유동/NNG + 성/XSN + 면/NNG + 에서/JKB
+유리/NNG + 하/XSA + ㄴ/ETM
+대/NNG + 형/XSN + 우량주/NNG
+중심/NNG + 으로/JKB
+투자/NNG + 패턴/NNG + 을/JKO
+바꾸/VV + ㄴ/ETM
+데/NNB
+기인/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 으로/JKB
+보이/VV + ㄴ다/EF + ./SF
+셋째/NR + ,/SP
+외국인/NNG
+투자자/NNG + 는/JX
+국내/NNG + 투자자/NNG + 에/JKB
+비하/VV + 아/EC
+비교/NNG + 적/XSN
+中長期投資/SH + 를/JKO
+하/VV + 고/EC
+있/VX + 다/EF + ./SF
+주식/NNG + 보유/NNG + 기간/NNG + 의/JKG
+長短/SH + 을/JKO
+간접/NNG + 적/XSN + 으로/JKB
+나타내/VV + 어/EC
+주/VX + 는/ETM
+지표/NNG + 이/VCP + ㄴ/ETM
+賣買回轉率/SH + 을/JKO
+보/VV + 면/EC
+1992/SN + ～/SO + 97/SN + 년/NNB + 중/NNB
+우리나라/NNG
+주식/NNG + 시장/NNG + 의/JKG
+전체/NNG
+매매/NNG + 회전/NNG + 율/XSN + 은/JX
+1/SN + ./SP + 39/SN + 이/VCP + ㄴ/ETM
+데/NNB
+비하/VV + 아/EC
+외국인/NNG + ,/SP + 의/JKG
+평균/NNG + 매매/NNG + 회전/NNG + 율/XSN + 은/JX
+0/SN + ./SP + 73/SN + 에/JKB
+그치/VV + 어/EC
+외국인/NNG + ,/SP + 의/JKG
+평균/NNG
+주식/NNG + 보유/NNG + 기간/NNG + 이/JKS
+전체/NNG
+평균/NNG
+주식/NNG + 보유/NNG + 기간/NNG + 의/JKG
+약/MM
+2/SN + 배/NNG + 에/JKB
+달하/VV + ㄴ/ETM
+것/NNB + 으로/JKB
+나타나/VV + 았/EP + 다/EF + ./SF
+이/NP + 와/JKB
+같이/MAG
+매매/NNG + 회전/NNG + 율/XSN + 에/JKB
+차이/NNG + 가/JKS
+나/VV + 는/ETM
+것/NNB + 은/JX
+외국인/NNG + ,/SP + 투자자/NNG + 들/XSN + 이/JKS
+합리/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+기준/NNG + 에/JKB
+근거/NNG + 하/XSV + 아/EC
+투자/NNG + 대상/NNG
+종목/NNG + 을/JKO
+신중히/MAG
+선정/NNG + 하/XSV + 고/EC
+근거/NNG + 없/VA + 는/ETM
+시장/NNG + 정보/NNG
+등/NNB + 에/JKB
+따르/VV + 아/EC
+附和雷同性/SH
+매매/NNG + 를/JKO
+하/VV + 지/EC
+않/VX + 기/ETN
+때문/NNB + 이/VCP + ㄴ/ETM
+것/NNB + 으로/JKB
+보이/VV + ㄴ다/EF + ./SF
+그러나/MAJ
+97/SN + 년/NNB + 중/NNB + 에/JKB + 는/JX
+외국인/NNG + ,/SP + 의/JKG
+매매/NNG + 회전/NNG + 율/XSN + 이/JKS
+1/SN + ./SP + 08/SN + 로서/JKB
+예년/NNG + 에/JKB
+비하/VV + 아/EC
+크/VA + 게/EC
+높/VA + 아/EC + 지/VX + 어/EC
+지난해/NNG
+금융/NNG + 시장/NNG + 이/JKS
+크/VA + 게/EC
+동요/NNG + 하/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+외국인/NNG + ,/SP + 의/JKG
+투자/NNG + 패턴/NNG + 도/JX
+다소/MAG
+흔들리/VV + 었/EP + 음/ETN + 을/JKO
+보이/VV + 어/EC + 주/VX + 고/EC
+있/VX + 다/EF + ./SF
+넷째/NR + ,/SP
+지난해/NNG + 말/NNB
+외환/NNG + 위기/NNG + 를/JKO
+전후/NNG + 하/XSV + 아서/EC + 는/JX
+외국인/NNG
+주식/NNG + 투자/NNG + 가/JKS
+換率/SH + 의/JKG
+움직임/NNG + 에/JKB
+크/VA + 게/EC
+영향/NNG + 을/JKO
+받/VV + 는/ETM
+모습/NNG + 을/JKO
+보이/VV + 었/EP + 다/EF + ./SF
+우리나라/NNG + 의/JKG
+경우/NNG
+1990/SN + 년/NNB
+市場平均換率制度/SH + 를/JKO
+채택/NNG + 하/XSV + ㄴ/ETM
+이후/NNG
+환율/NNG + 의/JKG
+日日變動幅/SH + 이/JKS
+제한/NNG + 되/XSV + 어/EC
+오/VX + ㄴ/ETM
+데/NNB + 다/JX
+경상/NNG + 수지/NNG
+적자/NNG + 를/JKO
+자본/NNG + 수지/NNG
+흑자/NNG + 로/JKB
+보전/NNG + 하/XSV + 아/EC
+외환/NNG + 수급/NNG + 면/NNG + 에서/JKB
+별다르/VA + ㄴ/ETM
+문제/NNG + 가/JKS
+없/VA + 었/EP + 기/ETN
+때문/NNB + 에/JKB
+환율/NNG + 은/JX
+안정/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+움직임/NNG + 을/JKO
+보이/VV + 었/EP + 고/EC
+이/NP + 에/JKB
+따르/VV + 아/EC
+외국인/NNG + ,/SP + 의/JKG
+투자/NNG + 결정/NNG + 시/NNB
+환율/NNG + 은/JX
+크/VA + ㄴ/ETM
+고려/NNG + 요인/NNG + 이/JKC
+아니/VCN + 었/EP + 다고/EC
+보/VV + ㄹ/ETM
+수/NNB
+있/VV + 다/EF + ./SF
+그러나/MAJ
+외환/NNG + 수급/NNG + 사정/NNG + 의/JKG
+불안/NNG + 으로/JKB
+원화/NNG + 가/JKS
+계속/MAG
+切下/SH + 되/XSV + 기/ETN
+시작/NNG + 하/XSV + ㄴ/ETM
+97/SN + 년/NNB
+8/SN + 월/NNB
+이후/NNG + 에/JKB + 는/JX
+외국인/NNG
+주식/NNG + 투자자/NNG + 들/XSN + 이/JKS
+환율/NNG + 변동/NNG + 에/JKB
+매우/MAG
+민감/XR + 하/XSA + ㄴ/ETM
+반응/NNG + 을/JKO
+보이/VV + 기/ETN
+시작/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+특히/MAG
+외환/NNG + 위기/NNG + 가/JKS
+본격/NNG + 화/XSN + 되/XSV + ㄴ/ETM
+97/SN + 년/NNB
+11/SN + 월/NNB
+환율/NNG + 의/JKG
+일일/NNG + 변동/NNG + 폭/NNG + 이/JKS
+종전/NNG + 의/JKG
+±/SW + 2/SN + ./SP + 25/SN + %/SW + 에서/JKB
+±/SW + 10/SN + %/SW + 로/JKB
+크/VA + 게/EC
+확대/NNG + 되/XSV + 고/EC
+12/SN + 월/NNB + 부터/JX + 는/JX
+完全變動換率制度/SH + 로/JKB
+이행/NNG + 하/XSV + 면서/EC
+환율/NNG + 변동/NNG + 폭/NNG + 이/JKS
+커지/VV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+환율/NNG + 이/JKS
+외국인/NNG + ,/SP + 의/JKG
+투자/NNG + 결정/NNG + 에/JKB
+크/VA + ㄴ/ETM
+영향/NNG + 을/JKO
+주/VV + 게/EC
+되/VV + 었/EP + 다/EF + ./SF
+그/MM
+결과/NNG
+금년/NNG + 초/NNB
+달러/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+원화/NNG + 환율/NNG + 이/JKS
+1/SN + ,/SP + 600/SN + ～/SO + 1/SN + ,/SP + 700/SN + 원/NNB + 대/XSN + 의/JKG
+높/VA + 은/ETM
+수준/NNG + 을/JKO
+보이/VV + 자/EC
+원화/NNG + 절상/NNG + 기대/NNG + 가/JKS
+형성/NNG + 되/XSV + 면서/EC
+외국인순/NNG + 매수/NNG + 가/JKS
+활발/XR + 하/XSA + 아/EC + 지/VX + 었/EP + 고/EC
+최근/NNG
+환율/NNG + 이/JKS
+1/SN + ,/SP + 400/SN + 원/NNB
+전후/NNG + 에서/JKB
+橫步/SH + 하/XSV + 자/EC
+추가/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+절상/NNG + 이/JKS
+어렵/VA + ㄹ/ETM
+것/NNB + 으로/JKB
+판단/NNG + 하/XSV + ㄴ/ETM
+외국인/NNG
+투자자/NNG + 들/XSN + 이/JKS
+순/MM + 매수/NNG + 를/JKO
+줄이/VV + 는/ETM
+모습/NNG + 을/JKO
+보이/VV + 고/EC
+있/VX + 다/EF + ./SF
+Ⅲ/SL + ./SF
+外國人/SH
+株式投資/SH + 의/JKG
+影響/SH
+최근/NNG
+들/VV + 어/EC
+외국인/NNG + ,/SP + 의/JKG
+주식/NNG + 거래/NNG + 비중/NNG + 이/JKS
+확대/NNG + 되/XSV + 면서/EC
+외국인/NNG
+주식/NNG + 투자/NNG + 는/JX
+우리/NP
+경제/NNG + 에/JKB
+여러/MM
+가지/NNB
+면/NNG + 에서/JKB
+크/VA + ㄴ/ETM
+영향/NNG + 을/JKO
+미치/VV + 고/EC
+있/VX + 다/EF + ./SF
+외국인/NNG + ,/SP + 의/JKG
+순/MM + 매수/NNG + 동향/NNG + 이/JKS
+국내/NNG
+株價/SH + 의/JKG
+중요/NNG + 하/XSA + ㄴ/ETM
+결정/NNG + 요소/NNG + 가/JKC
+되/VV + 었/EP + 으며/EC
+외국인/NNG + ,/SP + 들/XSN + 의/JKG
+적극/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+株主權/SH
+행사/NNG + 는/JX
+기업/NNG + 경영/NNG + 에/JKB
+波長/SH + 을/JKO
+미치/VV + 기/ETN
+시작/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+또한/MAG
+1997/SN + 년/NNB
+하반기/NNG
+이후/NNG + 에/JKB + 는/JX
+외국인/NNG
+주식/NNG + 투자/NNG + 가/JKS
+外換市場/SH + 에/JKB + 도/JX
+크/VA + ㄴ/ETM
+영향/NNG + 을/JKO
+미치/VV + 고/EC
+있/VX + 다/EF + ./SF
+1/SN + ./SF
+株價/SH + 에/JKB
+대하/VV + ㄴ/ETM
+影響力/SH
+增大/SH
+1992/SN + 년/NNB + 부터/JX
+98/SN + 년/NNB
+4/SN + 월/NNB + 까지/JX
+일별/NNG + 자료/NNG + 를/JKO
+사용/NNG + 하/XSV + 아/EC
+외국인/NNG
+순/MM + 매수/NNG + 와/JKB
+종합/NNG + 주가/NNG + 지수/NNG + 간/NNB + 의/JKG
+Granger/SL
+因果關係/SH + 를/JKO
+검정/NNG + 하/XSV + ㄴ/ETM
+결과/NNG
+97/SN + 년/NNB
+11/SN + 월/NNB + 까지/JX + 는/JX
+종합/NNG + 주가/NNG + 지수/NNG + 가/JKS
+외국인/NNG
+순/MM + 매수/NNG + 에/JKB
+영향/NNG + 을/JKO
+주/VV + 는/ETM
+일방/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+인과/NNG + 관계/NNG + 만/JX
+성립/NNG + 하/XSV + 았/EP + 으나/EC
+97/SN + 년/NNB
+12/SN + 월/NNB + ～/SO + 98/SN + 년/NNB
+4/SN + 월/NNB + 중/NNB + 에/JKB + 는/JX
+이러/XR + 하/XSA + ㄴ/ETM
+기존/NNG + 의/JKG
+관계/NNG + 가/JKS
+유지/NNG + 되/XSV + 는/ETM
+가운데/NNG
+외국인/NNG
+순/MM + 매수/NNG + 가/JKS
+종합/NNG + 주가/NNG + 지수/NNG + 에/JKB
+미치/VV + 는/ETM
+영향력/NNG + 도/JX
+유의/NNG + 하/XSA + ㄴ/ETM
+수준/NNG + 으로/JKB
+커지/VV + ㄴ/ETM
+것/NNB + 으로/JKB
+나타나/VV + 았/EP + 다/EF + ./SF
+이/NP + 는/JX
+종래/NNG + 에/JKB + 는/JX
+외국인/NNG + ,/SP + 들/XSN + 이/JKS
+주식/NNG + 매매/NNG + 에/JKB
+있/VV + 어/EC
+시장/NNG + 의/JKG
+움직임/NNG + (/SS + 주가/NNG + )/SS + 을/JKO
+追隨/SH + 하/XSV + 았/EP + 고/EC
+전체/NNG
+거래/NNG + 에서/JKB
+차지/NNG + 하/XSV + 는/ETM
+비중/NNG + 도/JX
+크/VA + 지/EC
+않/VX + 아/EC
+주가/NNG + 에/JKB
+크/VA + ㄴ/ETM
+영향/NNG + 을/JKO
+미치/VV + 지/EC
+못하/VX + 았/EP + 으나/EC
+최근/NNG + 에/JKB + 는/JX
+전체/NNG
+주식/NNG + 거래/NNG + 에서/JKB
+차지/NNG + 하/XSV + 는/ETM
+외국인/NNG + ,/SP + 의/JKG
+비중/NNG + 이/JKS
+높/VA + 아/EC + 지/VX + 면서/EC
+외국인/NNG + ,/SP + 의/JKG
+순/MM + 매수/NNG + 규모/NNG + 가/JKS
+국내/NNG
+투자자/NNG + 의/JKG
+投資心理/SH + 에/JKB + 도/JX
+영향/NNG + 을/JKO
+주/VV + 기/ETN
+때문/NNB + 이/VCP + ㄴ/ETM
+것/NNB + 으로/JKB
+보이/VV + ㄴ다/EF + ./SF
+2/SN + ./SF
+企業經營/SH + 에/JKB
+대하/VV + ㄴ/ETM
+監視機能/SH
+增大/SH
+지난해/NNG
+대/XPN + 기업/NNG + 의/JKG
+연쇄/NNG + 부도/NNG + 로/JKB
+한국/NNP + 기업/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+신뢰/NNG + 가/JKS
+떨어지/VV + 면서/EC
+국내/NNG + 기업/NNG + 의/JKG
+주식/NNG + 을/JKO
+소유/NNG + 하/XSV + ㄴ/ETM
+외국인/NNG + ,/SP + 들/XSN + 은/JX
+少額株主/SH + 로서/JKB
+사외/NNG + 이사/NNG
+선임/NNG + 을/JKO
+요구/NNG + 하/XSV + 고/EC
+해외/NNG + 투자/NNG
+등/NNB
+중요/NNG + 사항/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+사전/NNG + 동의/NNG + 를/JKO
+요구/NNG + 하/XSV + 는/ETM
+등/NNB
+기업/NNG + 경영/NNG + 에/JKB
+적극/NNG
+간여/NNG + 하/XSV + 는/ETM
+모습/NNG + 을/JKO
+보이/VV + 었/EP + 다/EF + ./SF
+이러/XR + 하/XSA + ㄴ/ETM
+움직임/NNG + 은/JX
+우리/NP
+기업/NNG + 들/XSN + 의/JKG
+會計/SH
+및/MAG
+公示制度/SH + 가/JKS
+국제/NNG + 기준/NNG + 에/JKB
+미달/NNG + 하/XSV + ㄹ/ETM
+뿐/NNB
+아니/VCN + 라/EC
+경영/NNG + 의/JKG
+透明性/SH + 도/JX
+결여/NNG + 되/XSV + 어/EC
+있/VX + 어/EC
+정확/NNG + 하/XSA + ㄴ/ETM
+경영/NNG + 상황/NNG
+파악/NNG + 이/JKS
+어렵/VA + 고/EC
+그/MM
+결과/NNG
+투자/NNG + 손실/NNG + 이/JKS
+확대/NNG + 되/XSV + 고/EC
+있/VX + 다는/ETM
+인식/NNG + 이/JKS
+확산/NNG + 되/XSV + 면서/EC
+주주/NNG + 권/XSN
+행사/NNG + 를/JKO
+통하/VV + 아/EC
+기업/NNG + 의/JKG
+경영/NNG + 관행/NNG + 을/JKO
+개선/NNG + 하/XSV + ㅁ/ETN + 으로써/JKB
+투자/NNG + 수익/NNG + 을/JKO
+보호/NNG + 하/XSV + 려는/ETM
+의도/NNG + 로/JKB
+해석/NNG + 되/XSV + ㄴ다/EF + ./SF
+특히/MAG
+지나/VV + ㄴ/ETM
+5/SN + 월/NNB
+25/SN + 일/NNB
+종목/NNG + 당/XSN
+외국인/NNG
+주식/NNG + 투자/NNG + 한도/NNG
+자체/NNG + 가/JKS
+철폐/NNG + 되/XSV + 고/EC
+"/SS + 외국인/NNG + ,/SP + 투자/NNG
+및/MAG
+외자/NNG + 도입/NNG + 에/JKB
+관하/VV + ㄴ/ETM
+법률/NNG + "/SS + 의/JKG
+개정/NNG + 으로/JKB
+종래/MAG
+외국인/NNG + ,/SP + 이/JKS
+국내/NNG + 기업/NNG
+지배/NNG + 를/JKO
+위하/VV + 아/EC
+일정/NNG + 한도/NNG
+이상/NNG + 의/JKG
+주식/NNG + 을/JKO
+취득/NNG + 하/XSV + ㄹ/ETM
+경우/NNG + 에/JKB + 는/JX
+해당/NNG + 기업/NNG
+이사회/NNG + 의/JKG
+사전/NNG + 승인/NNG + 을/JKO
+받/VV + 도록/EC
+되/VV + 어/EC + 있/VX + 던/ETM
+제도/NNG + 도/JX
+폐지/NNG + 되/XSV + 어/EC
+외국인/NNG + ,/SP + 들/XSN + 이/JKS
+공개/NNG + 시장/NNG + 에서/JKB
+주식/NNG
+매입/NNG + 을/JKO
+통하/VV + 아/EC
+經營權/SH + 을/JKO
+취득/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 게/EC
+되/VV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+외형/NNG + 성장/NNG + 보다/JKB
+수익/NNG + 성/XSN + 을/JKO
+중시/NNG + 하/XSV + 고/EC
+경영자/NNG + 나/JC
+종업원/NNG + 보다/JKB + 는/JX
+株主/SH + 의/JKG
+이익/NNG + 을/JKO
+중시/NNG + 하/XSV + 는/ETM
+西歐式/SH
+경영/NNG + 방식/NNG + 이/JKS
+더욱/MAG
+확산/NNG + 되/XSV + ㄹ/ETM
+것/NNB + 으로/JKB
+보이/VV + ㄴ다/EF + ./SF
+3/SN + ./SF
+外換市場/SH + 에/JKB
+대하/VV + ㄴ/ETM
+影響力/SH
+增大/SH
+앞/NNG + 에서/JKB
+보/VV + ㄴ/ETM
+바/NNB + 와/JKB
+같이/MAG
+외국인/NNG + ,/SP + 들/XSN + 은/JX
+원화/NNG
+환율/NNG + 의/JKG
+움직임/NNG + 과/JC
+전망/NNG + 을/JKO
+고려/NNG + 하/XSV + 아/EC
+주식/NNG + 투자/NNG + 를/JKO
+결정/NNG + 하/XSV + 고/EC
+있/VX + 는데/EC
+이/MM
+과정/NNG + 에서/JKB
+유출입/NNG + 되/XSV + 는/ETM
+외국인/NNG
+주식/NNG + 투자/NNG + 자금/NNG + 이/JKS
+환율/NNG + 에/JKB
+미치/VV + 는/ETM
+영향/NNG + 이/JKS
+크/VA + 게/EC
+확대/NNG + 되/XSV + 고/EC
+있/VX + 다/EF + ./SF
+이/NP + 는/JX
+우리나라/NNG + 의/JKG
+외환/NNG + 시장/NNG
+규모/NNG + 가/JKS
+영세/NNG + 하/XSA + ㄴ/ETM
+데/NNB + 다가/JX
+최근/NNG
+외국인/NNG
+주식/NNG + 투자/NNG + 자금/NNG + 의/JKG
+유출입/NNG + 이/JKS
+크/VA + 게/EC
+늘어나/VV + ㄴ/ETM
+데/NNB
+기인/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+외국인/NNG
+투자/NNG + 자금/NNG
+유출입액/NNG + 이/JKS
+현물환/NNG + 거래액/NNG + 에서/JKB
+차지/NNG + 하/XSV + 는/ETM
+비중/NNG + 을/JKO
+보/VV + 면/EC
+97/SN + 년/NNB
+3/SN + ·/SP + 4/SN + 분기/NNG + 까지/JX
+2/SN + %/SW
+내외/NNG + 에/JKB
+머무르/VV + 었/EP + 으나/EC
+이후/NNG
+계속/MAG
+높/VA + 아/EC + 지/VX + 어/EC
+97/SN + 년/NNB
+11/SN + 월/NNB + 과/JC
+금년/NNG
+2/SN + 월/NNB + 에/JKB + 는/JX
+6/SN + %/SW + 를/JKO
+상회/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+한편/NNG
+외국인/NNG
+투자/NNG + 자금/NNG
+純流入額/SH + 이/JKS
+현물환/NNG
+거래/NNG + 에서/JKB
+차지/NNG + 하/XSV + 는/ETM
+비중/NNG + 은/JX
+대체로/MAG
+외국인/NNG
+주식/NNG + 투자/NNG + 한도/NNG
+확대/NNG
+직후/NNG + 를/JKO
+제외/NNG + 하/XSV + 고/EC + 는/JX
+크/VA + 지/EC
+않/VX + 았/EP + 으나/EC
+외환/NNG + 위기/NNG
+직전/NNG + 이/VCP + ㄴ/ETM
+97/SN + 년/NNB
+10/SN + 월/NNB + 과/JC
+11/SN + 월/NNB + 에/JKB + 는/JX
+각각/MAG
+-/SS + 2/SN + ./SP + 5/SN + %/SW
+및/MAG
+-/SS + 3/SN + ./SP + 3/SN + %/SW + 로/JKB
+나타나/VV + 아/EC + (/SS + 純流出/SH + )/SS
+환율/NNG + 상승/NNG
+요인/NNG + 으로/JKB
+작용/NNG + 하/XSV + ㄴ/ETM
+반면/NNG
+금년/NNG
+1/SN + 월/NNB
+및/MAG
+2/SN + 월/NNB + 에/JKB + 는/JX
+각각/MAG
+4/SN + ./SP + 9/SN + %/SW
+및/MAG
+7/SN + ./SP + 2/SN + %/SW + 로/JKB
+나타나/VV + 아/EC + (/SS + 純流入/SH + )/SS
+환율/NNG + 하락/NNG
+요인/NNG + 으로/JKB
+작용/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+앞/NNG + 으로/JKB + 도/JX
+우리나라/NNG
+외환/NNG + 시장/NNG + 의/JKG
+규모/NNG + 가/JKS
+단기간/NNG + 내/NNB + 에/JKB
+크/VA + 게/EC
+확대/NNG + 되/XSV + 기/ETN + 는/JX
+어렵/VA + ㄴ/ETM
+점/NNB + 에/JKB
+비추/VV + 어/EC
+외국인/NNG
+투자/NNG + 자금/NNG + 의/JKG
+유출입/NNG + 이/JKS
+외환/NNG + 시장/NNG + 에/JKB
+미치/VV + 는/ETM
+영향/NNG + 은/JX
+더욱/MAG
+커지/VV + ㄹ/ETM
+것/NNB + 으로/JKB
+예상/NNG + 되/XSV + ㄴ다/EF + ./SF
+Ⅳ/SL + ./SF
+政策的/SH
+示唆點/SH
+외국인/NNG
+주식/NNG + 투자/NNG + 는/JX
+그동안/NNG
+우리나라/NNG
+경상/NNG + 수지/NNG
+적자/NNG + 보전/NNG + 의/JKG
+중요/NNG + 하/XSA + ㄴ/ETM
+재원/NNG + 의/JKG
+하나/NR + 이/VCP + 었/EP + 을/ETM
+뿐/NNB + 만/JX
+아니/VCN + 라/EC
+合理的/SH + 이/VCP + ㄴ/ETM
+국/NNG + 별/XSN
+투자/NNG + 배분/NNG + 과/JC
+수익/NNG + 성/XSN + ,/SP
+안정/NNG + 성/XSN
+위주/NNG + 의/JKG
+투자/NNG + 종목/NNG
+선택/NNG
+등/NNB + 으로/JKB
+국내/NNG
+주식/NNG + 투자가/NNG + 들/XSN + 에게/JKB
+합리/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+투자/NNG + 기준/NNG + 을/JKO
+제공/NNG + 하/XSV + ㅁ/ETN + 으로써/JKB
+주식/NNG + 시장/NNG + 의/JKG
+質的/SH
+향상/NNG + 에/JKB
+크/VA + 게/EC
+기여/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+또한/MAG
+외국인/NNG
+투자자/NNG + 들/XSN + 은/JX
+필요/NNG + 하/XSA + ㄴ/ETM
+경우/NNG
+株主權/SH + 을/JKO
+적극/NNG + 적/XSN + 으로/JKB
+행사/NNG + 하/XSV + 아/EC
+당해/NNG
+기업/NNG + 의/JKG
+經營透明性/SH
+제고/NNG + 를/JKO
+요구/NNG + 하/XSV + ㅁ/ETN + 으로써/JKB
+국내/NNG + 기업/NNG + 의/JKG
+經營慣行/SH
+개선/NNG + 에/JKB + 도/JX
+상당/NNG + 하/XSA + ㄴ/ETM
+기여/NNG + 를/JKO
+하/VV + ㄴ/ETM
+것/NNB + 으로/JKB
+보이/VV + ㄴ다/EF + ./SF
+그러나/MAJ
+다른/MM
+한편/NNG + 으로/JKB
+외국인/NNG
+주식/NNG + 투자가/NNG + 의/JKG
+株價/SH + 나/JC
+換率/SH + 에/JKB
+미치/VV + 는/ETM
+영향력/NNG + 이/JKS
+높/VA + 아/EC + 지/VX + 고/EC
+있/VX + 어/EC
+이/NP + 들/XSN + 의/JKG
+向背/SH + 가/JKS
+거시/NNG + 경제/NNG + 변수/NNG + 의/JKG
+변동/NNG + 폭/NNG + 을/JKO
+크/VA + 게/EC
+확대/NNG + 시키/XSV + 는/ETM
+부작용/NNG + 도/JX
+나타나/VV + 고/EC
+있/VX + 다/EF + ./SF
+따라서/MAJ
+앞/NNG + 으로/JKB
+외국인/NNG
+주식/NNG + 투자/NNG + 의/JKG
+긍정/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+효과/NNG + 를/JKO
+극대/NNG + 화/XSN + 하/XSV + 고/EC
+부정/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+영향/NNG + 을/JKO
+최소/NNG + 화/XSN + 하/XSV + 기/ETN
+위하/VV + 아서/EC + 는/JX
+외국인/NNG
+주식/NNG + 투자/NNG + 자금/NNG + 의/JKG
+급격/XR + 하/XSA + ㄴ/ETM
+유출/NNG + 가능/NNG + 성/XSN + 에/JKB
+대비/NNG + 하/XSV + 아/EC
+外換保有額/SH + 을/JKO
+충분히/MAG
+쌓/VV + 아/EC
+나가/VX + 면서/EC
+장기/NNG
+안정/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+투자/NNG + 자금/NNG + 이/JKC
+유입/NNG + 되/XSV + ㄹ/ETM
+수/NNB
+있/VV + 도록/EC
+다각/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+노력/NNG + 을/JKO
+기울이/VV + 어/EC
+나가/VX + 아야/EC
+하/VX + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+이/NP + 를/JKO
+위하/VV + 아서/EC + 는/JX
+첫째/NR + ,/SP
+현재/MAG
+추진/NNG + 중/NNB + 이/VCP + ㄴ/ETM
+기업/NNG
+및/MAG
+금융/NNG + 기관/NNG + 의/JKG
+구조/NNG + 조정/NNG + 과/JC
+노동/NNG + 시장/NNG + 의/JKG
+유연/XR + 성/XSN
+제고/NNG
+등/NNB
+개혁/NNG + 조치/NNG + 를/JKO
+조속히/MAG
+마무리/NNG + 짓/VV + 어야/EC
+하/VX + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+부실기업/NNG
+및/MAG
+금융/NNG + 기관/NNG + 의/JKG
+조기/NNG + 퇴출/NNG + ,/SP
+부실/NNG + 채권/NNG + 의/JKG
+정리/NNG + ,/SP
+기업/NNG + 의/JKG
+취약/NNG + 하/XSA + ㄴ/ETM
+재무/NNG + 구조/NNG
+개선/NNG + 과/JC
+고용/NNG + 조정/NNG + 의/JKG
+유연/XR + 화/XSN
+등/NNB
+핵심/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+개혁/NNG + 과제/NNG + 들/XSN + 을/JKO
+과감/XR + 하/XSA + 고/EC
+신속/NNG + 하/XSA + 게/EC
+추진/NNG + 하/XSV + ㅁ/ETN + 으로써/JKB
+대외/NNG + 신인/NNG + 도/NNG + 를/JKO
+제고/NNG + 하/XSV + 고/EC
+외국/NNG
+투자자/NNG + 들/XSN + 의/JKG
+투자/NNG + 심리/NNG + 를/JKO
+회복/NNG + 시키/XSV + 는/ETM
+것/NNB + 이/JKS
+중요/NNG + 하/XSA + 다/EF + ./SF
+둘째/NR + ,/SP
+기업/NNG + 경영/NNG + 의/JKG
+투명/NNG + 성/XSN + 을/JKO
+제고/NNG + 하/XSV + ㅁ/ETN + 으로써/JKB
+우리나라/NNG
+기업/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+외국인/NNG
+투자자/NNG + 의/JKG
+信賴/SH + 를/JKO
+높이/VV + 어야/EC
+하/VX + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+이/NP + 를/JKO
+위하/VV + 아서/EC + 는/JX
+우리나라/NNG + 의/JKG
+企業會計制度/SH + 를/JKO
+선진국/NNG + 수준/NNG + 으로/JKB
+개선/NNG + 하/XSV + 고/EC
+기업/NNG + 경영/NNG + 을/JKO
+객관/NNG + 적/XSN + 으로/JKB
+감시/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+外部監査制度/SH + 를/JKO
+정착/NNG + 시키/XSV + 어/EC
+나가/VX + 아야/EC
+하/VX + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+셋째/NR + ,/SP
+일단/MAG
+국내/NNG + 에/JKB
+유입/NNG + 되/XSV + ㄴ/ETM
+투자/NNG + 자금/NNG + 이/JKS
+계속/MAG
+국내/NNG + 에/JKB
+머무르/VV + ㄹ/ETM
+수/NNB
+있/VV + 도록/EC
+금융/NNG + 시장/NNG + 여건/NNG + 을/JKO
+정비/NNG + 하/XSV + 아/EC
+나가/VX + 아야/EC
+하/VX + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+이/NP + 를/JKO
+위하/VV + 아서/EC + 는/JX
+우선/MAG
+외국인/NNG
+투자자/NNG + 들/XSN + 이/JKS
+주식/NNG + 시장/NNG + 과/JC
+채권/NNG + 시장/NNG + ,/SP
+단기/NNG + 금융/NNG + 시장/NNG + 에서/JKB
+裁定去來/SH + 를/JKO
+통하/VV + 아/EC
+다양/NNG + 하/XSA + ㄴ/ETM
+포트폴리오/NNG + 를/JKO
+구성/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 도록/EC
+장/NNG + 단기/NNG
+금융/NNG + 시장/NNG + 을/JKO
+정비/NNG + ·/SP + 육성/NNG + 하/XSV + 아야/EC
+하/VX + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+특히/MAG
+채권/NNG + 시장/NNG + 의/JKG
+경우/NNG
+무/XPN + 위험/NNG + 채권/NNG + 으로서/JKB
+指標債券/SH + (/SS + benchmark/SL + )/SS + 의/JKG
+역할/NNG + 을/JKO
+하/VV + 는/ETM
+국채/NNG + 시장/NNG + 이/JKS
+활성/NNG + 화/XSN + 되/XSV + ㄹ/ETM
+수/NNB
+있/VV + 도록/EC
+국채/NNG + 발행/NNG + 금리/NNG + 의/JKG
+實勢化/SH + ,/SP
+국채/NNG + 종목/NNG + 의/JKG
+표준/NNG + 화/XSN + ,/SP
+만기/NNG + 의/JKG
+다양/NNG + 화/XSN + ,/SP
+專門/SH + 딜러/NNG + (/SS + primary/SL
+dealer/SL + )/SS + 제도/NNG
+도입/NNG
+등/NNB + 을/JKO
+추진/NNG + 하/XSV + 아/EC
+나가/VX + 아야/EC
+하/VX + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+이/NP + 와/JKB
+함께/MAG
+외국인/NNG
+주식/NNG + 투자/NNG + 자금/NNG + 의/JKG
+환/NNG + 리스크/NNG + 를/JKO
+경감/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 도록/EC
+선물환/NNG + 거래/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+實需要原則/SH + 을/JKO
+완화/NNG + 하/XSV + 고/EC
+외국환/NNG + 은행/NNG + 의/JKG
+포지션/NNG + 관리/NNG + 를/JKO
+종합/NNG + 포지션/NNG + 관리/NNG + 로/JKB
+일원/NNG + 화/XSN + 하/XSV + 는/ETM
+등/NNB
+선물/NNG + 환시장/NNG + 의/JKG
+기능/NNG + 을/JKO
+활성/NNG + 화/XSN + 하/XSV + 는/ETM
+한편/NNG
+외환/NNG + 스왑/NNG + 시장/NNG + 도/JX
+지속/NNG + 적/XSN + 으로/JKB
+육성/NNG + 하/XSV + 아/EC
+나가/VX + 아야/EC
+하/VX + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+1997/SN + 年中/SH
+資金循環動向/SH + (/SS + 暫定/SH + )/SS
+Ⅰ/SL + ./SF
+槪況/SH
+1997/SN + 년/NNB + 중/NNB
+우리나라/NNG
+경제/NNG + 는/JX
+경기/NNG + 하강/NNG + 국면/NNG + 의/JKG
+지속/NNG + 과/JC
+외환/NNG + 위기/NNG + 로/JKB
+소비/NNG
+및/MAG
+투자/NNG + 가/JKS
+위축/NNG + 되/XSV + 어/EC
+성장/NNG + 률/XSN + 이/JKS
+전년/NNG + 의/JKG
+7/SN + ./SP + 1/SN + %/SW + 에서/JKB
+5/SN + ./SP + 5/SN + %/SW + 로/JKB
+낮/VA + 아/EC + 지/VX + 고/EC
+경상/NNG + 수지/NNG
+적자/NNG + 폭/NNG + 이/JKS
+크/VA + 게/EC
+축소/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+이/NP + 와/JKB
+같/VA + 은/ETM
+우리나라/NNG
+경제/NNG + 의/JKG
+움직임/NNG + 을/JKO
+배경/NNG + 으로/JKB
+1997/SN + 년/NNB + 중/NNB
+자금/NNG + 순환/NNG
+동향/NNG + 을/JKO
+개관/NNG + 하/XSV + 아/EC
+보/VX + 면/EC
+먼저/MAG
+경제/NNG + 부문/NNG + 별/XSN
+투자/NNG + 와/JC
+저축/NNG + 활동/NNG + 을/JKO
+나타내/VV + 는/ETM
+자금/NNG + 과/XPN + 부족/NNG + (/SS + 저축/NNG + ·/SP + 투자/NNG + 차액/NNG + )/SS + 에/JKB
+있/VV + 어서/EC
+企業部門/SH + 은/JX
+설비/NNG + 투자/NNG + 의/JKG
+부진/NNG + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+환율/NNG
+및/MAG
+금리/NNG + 의/JKG
+대폭/MAG
+상승/NNG
+등/NNB + 에/JKB
+따르/VV + ㄴ/ETM
+기업/NNG + 수지/NNG + 의/JKG
+악화/NNG + 로/JKB
+資金不足規模/SH + 가/JKS
+전년/NNG + 보다/JKB
+소폭/NNG
+확대/NNG + 되/XSV + 었/EP + 으며/EC + ,/SP
+個人部門/SH + 은/JX
+家計/SH + 의/JKG
+消費支出/SH + 이/JKS
+크/VA + 게/EC
+둔화/NNG + 되/XSV + 어/EC
+資金剩餘規模/SH + 가/JKS
+전년/NNG + 보다/JKB
+9/SN + ./SP + 4/SN + %/SW
+증가/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이/NP + 에/JKB
+따르/VV + 아/EC
+기업/NNG + 의/JKG
+부족/NNG + 자금/NNG + 을/JKO
+개인/NNG + 의/JKG
+잉여/NNG + 자금/NNG + 으로/JKB
+얼마나/MAG
+보전/NNG + 하/XSV + 아/EC
+주/VX + 었/EP + 는지/EC + 를/JKO
+나타내/VV + 는/ETM
+個人部門/SH + 의/JKG
+企業不足資金補塡率/SH + (/SS + 개인/NNG + 부문/NNG
+자금/NNG + 잉여액/NNG
+//SP
+기업/NNG + 부문/NNG
+자금/NNG + 부족액/NNG + )/SS + 이/JKS
+전년/NNG + 의/JKG
+54/SN + ./SP + 5/SN + %/SW + 에서/JKB
+59/SN + ./SP + 4/SN + %/SW + 로/JKB
+상승/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+한편/NNG
+각/MM
+부문/NNG + 의/JKG
+금융/NNG + 활동/NNG + 을/JKO
+나타내/VV + 는/ETM
+자금/NNG + 조달/NNG
+및/MAG
+운용/NNG + 을/JKO
+살펴보/VV + 면/EC
+企業部門/SH + 은/JX
+주식/NNG
+및/MAG
+기업/NNG + 어음/NNG + 발행/NNG + 을/JKO
+포함/NNG + 하/XSV + ㄴ/ETM
+외부/NNG + 자금/NNG + 조달/NNG + 규모/NNG + 가/JKS
+전년/NNG + 보다/JKB
+줄어들/VV + ㄴ/ETM
+가운데/NNG + ,/SP
+조달/NNG + 형태/NNG + 에/JKB
+있/VV + 어서/EC + 는/JX
+종금사/NNG
+등/NNB
+비/XPN + 은행/NNG + 금융/NNG + 기관/NNG + 차입/NNG + 이/JKS
+늘/VV + 어/EC
+間接金融/SH + 을/JKO
+통하/VV + ㄴ/ETM
+자금/NNG + 조달/NNG
+비중/NNG + 이/JKS
+높/VA + 아/EC + 지/VX + ㄴ/ETM
+반면/NNG
+直接金融/SH
+및/MAG
+海外借入/SH + 을/JKO
+통하/VV + ㄴ/ETM
+자금/NNG + 조달/NNG
+비중/NNG + 은/JX
+낮/VA + 아/EC + 지/VX + 었/EP + 다/EF + ./SF
+個人部門/SH + 은/JX
+자금/NNG + 조달/NNG + 규모/NNG + 가/JKS
+비/XPN + 은행/NNG + 금융/NNG + 기관/NNG
+및/MAG
+할부/NNG + 금융사/NNG
+차입/NNG + 을/JKO
+중심/NNG + 으로/JKB
+전년/NNG + 보다/JKB
+늘어나/VV + 았/EP + 으며/EC + ,/SP
+이/MM
+자금/NNG + 은/JX
+유동/NNG + 성/XSN + 과/JC
+수익/NNG + 성/XSN + 이/JKS
+보장/NNG + 되/XSV + ㄴ/ETM
+MMDA/SL + ,/SP
+RP/SL
+등/NNB
+은행/NNG + 의/JKG
+단기/NNG
+고/XPN + 금리/NNG + 예금/NNG + 과/JC
+투신사/NNG + 의/JKG
+공사채/NNG + 형/XSN
+수익/NNG + 증권/NNG + 을/JKO
+중심/NNG + 으로/JKB
+운용/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+政府部門/SH + 은/JX
+장기/NNG + 국공채/NNG
+발행/NNG + 이/JKS
+전년/NNG + 수준/NNG + 에/JKB
+그치/VV + 었/EP + 으나/EC
+ADB/SL
+및/MAG
+IBRD/SL + 로부터/JKB + 의/JKG
+공공/NNG + 차관/NNG + 도입/NNG + 이/JKS
+늘/VV + 어/EC
+資金調達規模/SH + 가/JKS
+전년/NNG + 보다/JKB
+두/MM + 배/NNG
+이상/NNG
+늘어나/VV + 았/EP + 으며/EC + ,/SP
+資金運用規模/SH + 도/JX
+차관/NNG + 자금/NNG + 에/JKB
+의하/VV + ㄴ/ETM
+정부/NNG + 융자/NNG + 가/JKS
+늘어나/VV + ㄴ/ETM
+데/NNB
+힘입/VV + 어/EC
+확대/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+金融部門/SH + 은/JX
+자금/NNG + 조달/NNG
+및/MAG
+운용/NNG
+규모/NNG + 가/JKS
+전년/NNG + 에/JKB
+비하/VV + 아/EC
+대폭/MAG
+확대/NNG + 되/XSV + 었/EP + 는데/EC + ,/SP
+자금/NNG + 조달/NNG + 면/NNG + 에서/JKB + 는/JX
+債券發行/SH
+및/MAG
+정부/NNG + 차입금/NNG + 을/JKO
+중심/NNG + 으로/JKB
+늘어나/VV + 았/EP + 으며/EC + ,/SP
+자금/NNG + 운용/NNG + 면/NNG + 에서/JKB + 는/JX
+기업/NNG
+부도/NNG + 사태/NNG
+및/MAG
+주식/NNG + 시장/NNG
+침체/NNG + 의/JKG
+영향/NNG + 으로/JKB
+대출/NNG
+및/MAG
+주식/NNG + 투자/NNG
+비중/NNG + 은/JX
+하락/NNG + 하/XSV + ㄴ/ETM
+반면/NNG
+금융/NNG + 기관/NNG + 간/NNB
+상호/NNG + 예치금/NNG
+비중/NNG + 은/JX
+크/VA + 게/EC
+상승/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이하/NNG + 에서/JKB + 는/JX
+1997/SN + 년/NNB + 중/NNB
+우리나라/NNG + 의/JKG
+자금/NNG + 순환/NNG + 동향/NNG + 을/JKO
+部門別/SH
+資金過不足/SH + ,/SP
+非金融部門/SH + 의/JKG
+資金調達/SH
+및/MAG
+運用/SH + ,/SP
+金融部門/SH + 의/JKG
+資金調達/SH
+및/MAG
+運用/SH + ,/SP
+金融資産/SH + 의/JKG
+蓄積/SH
+등/NNB + 으로/JKB
+나누/VV + 어/EC
+자세히/MAG
+살펴보/VV + 고자/EC
+하/VV + ㄴ다/EF + ./SF
+II/SL + ./SF
+部門別/SH
+資金過不足/SH
+1997/SN + 년/NNB + 중/NNB
+경제/NNG + 부문/NNG + 별/XSN
+資金過不足/SH + (/SS + 저축/NNG + ·/SP + 투자/NNG + 차액/NNG + )/SS
+동향/NNG + 을/JKO
+살펴보/VV + 면/EC
+국내/NNG + 부문/NNG + 에서/JKB + 는/JX
+企業/SH + ·/SP + 金融部門/SH + 이/JKS
+자금/NNG + 부족/NNG + 점/NNG + 을/JKO
+나타내/VV + ㄴ/ETM
+반면/NNG
+個人/SH + ·/SP + 政府部門/SH + 은/JX
+자금/NNG + 잉여/NNG + 를/JKO
+나타내/VV + 었/EP + 으며/EC + ,/SP
+海外部門/SH + 은/JX
+경상/NNG + 수지/NNG
+적자/NNG + 폭/NNG + 이/JKS
+축소/NNG + 되/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+資金剩餘/SH + (/SS + 국내/NNG + 부문/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+자금/NNG + 공급/NNG + )/SS + 가/JKS
+전년/NNG + 보다/JKB
+축소/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+企業部門/SH + 의/JKG
+資金不足規模/SH + 는/JX
+景氣不振/SH + 과/JC
+外換危機/SH + 에/JKB
+따르/VV + ㄴ/ETM
+設備投資/SH + 의/JKG
+감소/NNG + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+환율/NNG
+및/MAG
+금리/NNG + 의/JKG
+대폭/MAG
+상승/NNG + 과/JC
+판매/NNG + 부진/NNG + 으로/JKB
+企業收支/SH + 가/JKS
+크/VA + 게/EC
+惡化/SH + 되/XSV + 어/EC
+전년/NNG + 대비/NNG
+0/SN + ./SP + 4/SN + %/SW
+늘어나/VV + ㄴ/ETM
+69/SN + 조/NR
+1/SN + 천억/NR + 원/NNB + 을/JKO
+나타내/VV + 었/EP + 다/EF + ./SF
+個人部門/SH + 의/JKG
+資金剩餘規模/SH + 는/JX
+경기/NNG + 하강/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+소득/NNG + 증가세/NNG + 의/JKG
+둔화/NNG + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+소비/NNG + 지출/NNG
+증가세/NNG + 가/JKS
+크/VA + 게/EC
+하락/NNG + 하/XSV + ㄴ데/EC
+힘입/VV + 어/EC
+전년/NNG + 보다/JKB
+9/SN + ./SP + 4/SN + %/SW + (/SS + 3/SN + 조/NR
+5/SN + 천억/NR + 원/NNB + )/SS
+증가/NNG + 하/XSV + ㄴ/ETM
+41/SN + 조/NR + 원/NNB + 을/JKO
+나타내/VV + 었/EP + 다/EF + ./SF
+政府部門/SH + 의/JKG
+資金剩餘規模/SH + 는/JX
+경기/NNG + 부진/NNG + 으로/JKB
+稅收/SH
+증가세/NNG + 가/JKS
+둔화/NNG + 되/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+전년/NNG + 보다/JKB
+2/SN + ./SP + 9/SN + %/SW
+줄어들/VV + ㄴ/ETM
+15/SN + 조/NR
+6/SN + 천억/NR + 원/NNB + 에/JKB
+머무르/VV + 었/EP + 다/EF + ./SF
+한편/NNG
+海外部門/SH + 의/JKG
+資金剩餘規模/SH + 는/JX
+우리나라/NNG + 의/JKG
+경상/NNG + 수지/NNG
+적자/NNG + 규모/NNG + 가/JKS
+크/VA + 게/EC
+축소/NNG + 되/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+전년/NNG + 보다/JKB
+11/SN + ./SP + 1/SN + %/SW
+감소/NNG + 하/XSV + ㄴ/ETM
+16/SN + 조/NR
+3/SN + 천억/NR + 원/NNB + 을/JKO
+기록/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+III/SL + ./SF
+非金融部門/SH + 의/JKG
+資金調達/SH
+및/MAG
+運用/SH
+1/SN + ./SF
+企業部門/SH
+가/NNG + ./SF
+資金調達/SH
+1997/SN + 년/NNB + 중/NNB
+企業部門/SH + 은/JX
+금융/NNG + 시장/NNG + 에서/JKB
+117/SN + 조/NR + 원/NNB + 을/JKO
+조달/NNG + 하/XSV + 아/EC
+69/SN + 조/NR
+1/SN + 천억/NR + 원/NNB + 을/JKO
+영업/NNG + 자금원/NNG + 을/JKO
+및/MAG
+설비/NNG + 투자/NNG + 자금/NNG
+등/NNB + 에/JKB
+충당/NNG + 하/XSV + 고/EC
+47/SN + 조/NR
+9/SN + 천억/NR + 원/NNB + 을/JKO
+금융/NNG + 자산/NNG + 으로/JKB
+운용/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+企業部門/SH + 의/JKG
+資金調達規模/SH + 는/JX
+전년/NNG + 보다/JKB
+1/SN + ./SP + 5/SN + %/SW
+줄어들/VV + 었/EP + 는데/EC + ,/SP
+이/NP + 는/JX
+설비/NNG + 투자/NNG + 의/JKG
+위축/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+시설/NNG + 자금/NNG
+수요/NNG + 의/JKG
+둔화/NNG + 와/JC
+금융/NNG + ·/SP + 외환/NNG + 시장/NNG + 의/JKG
+불/XPN + 안정/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+신용/NNG + 경색/NNG + 에/JKB
+주로/MAG
+기인/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+기업/NNG + 부문/NNG + 의/JKG
+자금/NNG + 조달/NNG
+내역/NNG + 을/JKO
+보/VV + 면/EC
+금융/NNG + 기관/NNG + 으로부터/JKB + 의/JKG
+차입/NNG
+즉/MAG + ,/SP
+間接金融方式/SH + 에/JKB
+의하/VV + ㄴ/ETM
+자금/NNG + 조달/NNG + 이/JKS
+차지/NNG + 하/XSV + 는/ETM
+비중/NNG + 은/JX
+높/VA + 아/EC + 지/VX + ㄴ/ETM
+반면/NNG
+기업/NNG + 어음/NNG + ,/SP
+주식/NNG
+등/NNB
+유가/NNG + 증권/NNG
+발행/NNG + 을/JKO
+통하/VV + ㄴ/ETM
+直接金融/SH
+비중/NNG
+및/MAG
+海外借入/SH
+비중/NNG + 은/JX
+낮/VA + 아/EC + 지/VX + 었/EP + 다/EF + ./SF
+먼저/MAG
+間接金融/SH + 을/JKO
+통하/VV + ㄴ/ETM
+자금/NNG + 조달/NNG + 비중/NNG + 은/JX
+예금/NNG + 은행/NNG + 을/JKO
+통하/VV + ㄴ/ETM
+자금/NNG + 조달/NNG + 비중/NNG + 이/JKS
+하락/NNG + 하/XSV + 았/EP + 음/ETN + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+非銀行金融機關/SH + 을/JKO
+통하/VV + ㄴ/ETM
+자금/NNG + 조달/NNG
+비중/NNG + 이/JKS
+크/VA + 게/EC
+상승/NNG + 하/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+전년/NNG + 의/JKG
+29/SN + ./SP + 1/SN + %/SW + 에서/JKB
+37/SN + ./SP + 9/SN + %/SW + 로/JKB
+높/VA + 아/EC + 지/VX + 었/EP + 다/EF + ./SF
+預金銀行/SH + 으로부터/JKB + 의/JKG
+차입/NNG + 은/JX
+경기/NNG + 부진/NNG + 으로/JKB
+기업/NNG + 자금/NNG + 수요/NNG + 가/JKS
+둔화/NNG + 되/XSV + ㄴ/ETM
+데/NNB + 다/JX
+은행/NNG + 들/XSN + 이/JKS
+국제결제은행/NNP + (/SS + BIS/SL + )/SS
+자기/NNG + 자본/NNG + 비율/NNG
+준수/NNG + 를/JKO
+위하/VV + 아/EC
+대출/NNG + 을/JKO
+억제/NNG + 하/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+전년/NNG + 의/JKG
+18/SN + 조/NR + 원/NNB + 에서/JKB
+15/SN + 조/NR
+1/SN + 천억/NR + 원/NNB + 으로/JKB
+축소/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+반면/NNG
+非銀行金融機關/SH + 으로부터/JKB + 의/JKG
+차입/NNG + 은/JX
+신탁/NNG + 계정/NNG
+및/MAG
+보험사/NNG
+차입/NNG + 이/JKS
+축소/NNG + 되/XSV + 었/EP + 으나/EC
+기업/NNG + 어음/NNG
+매출/NNG + 부진/NNG + 으로/JKB
+종금사/NNG
+차입/NNG + (/SS + 할인/NNG + 어음/NNG
+자체/NNG
+보유/NNG + 물량/NNG + )/SS + 이/JKS
+늘어나/VV + ㄴ/ETM
+데/NNB + 다/JX
+부실/NNG + 채권/NNG + 정리/NNG + 기금/NNG + 의/JKG
+은행/NNG + 부실/NNG + 여신/NNG
+인수/NNG + 로/JKB
+전년/NNG + 의/JKG
+16/SN + 조/NR
+6/SN + 천억/NR + 원/NNB + 에서/JKB
+28/SN + 조/NR
+4/SN + 천억/NR + 원/NNB + 으로/JKB
+크/VA + 게/EC
+확대/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+한편/NNG
+直接金融/SH + 을/JKO
+통하/VV + ㄴ/ETM
+자금/NNG + 조달/NNG + 은/JX
+회사채/NNG
+발행/NNG + 이/JKS
+사모/NNG + 사채/NNG + 를/JKO
+중심/NNG + 으로/JKB
+늘어나/VV + 았/EP + 으나/EC
+주식/NNG
+및/MAG
+기업/NNG + 어음/NNG
+발행/NNG + 이/JKS
+크/VA + ㄴ/ETM
+폭/NNG + 으로/JKB
+축소/NNG + 되/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+전년/NNG + 의/JKG
+56/SN + 조/NR
+1/SN + 천억/NR + 원/NNB + 에서/JKB
+43/SN + 조/NR
+4/SN + 천억/NR + 원/NNB + 으로/JKB
+축소/NNG + 되/XSV + 어/EC
+기업/NNG + 의/JKG
+자금/NNG + 조달/NNG + 에서/JKB
+차지/NNG + 하/XSV + 는/ETM
+비중/NNG + 도/JX
+전년/NNG + 의/JKG
+47/SN + ./SP + 2/SN + %/SW + 에서/JKB
+37/SN + ./SP + 1/SN + %/SW + 로/JKB
+하락/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+企業/SH + 어음/NNG
+발행/NNG + 은/JX
+증권/NNG + 회사/NNG + (/SS + 97/SN + ./SP + 8/SN + 월/NNB + )/SS + ,/SP
+지방/NNG + 은행/NNG
+및/MAG
+은행/NNG + 신탁/NNG + (/SS + 97/SN + ./SP + 12/SN + 월/NNB + )/SS + 에/JKB
+대하/VV + ㄴ/ETM
+CP/SL + 할인/NNG + 업무/NNG
+허용/NNG + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+대/XPN + 기업/NNG
+부도/NNG
+등/NNB + 의/JKG
+영향/NNG + 으로/JKB
+기관/NNG + 투자가/NNG + 들/XSN + 이/JKS
+할인/NNG + 어음/NNG + 의/JKG
+매입/NNG + 을/JKO
+기피/NNG + 하/XSV + ㄴ/ETM
+데/NNB + 다/JX
+종금사/NNG + 의/JKG
+어음/NNG + 할인/NNG + 이/JKS
+일부/NNG
+종금사/NNG + 의/JKG
+업무/NNG + 정지/NNG
+등/NNB + 으로/JKB
+크/VA + 게/EC
+위축/NNG + 되/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+전년/NNG + 의/JKG
+20/SN + 조/NR
+7/SN + 천억/NR + 원/NNB + 에서/JKB
+4/SN + 조/NR
+8/SN + 천억/NR + 원/NNB + 으로/JKB
+대폭/MAG
+축소/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+株式/SH
+발행/NNG + 도/JX
+증시/NNG + 침체/NNG
+지속/NNG + 으로/JKB
+대/XPN + 기업/NNG
+유상/NNG + 증자/NNG + 가/JKS
+부진/NNG + 하/XSA + ㄴ/ETM
+데/NNB
+주로/MAG
+기인/NNG + 하/XSV + 아/EC
+전년/NNG + 의/JKG
+13/SN + 조/NR + 원/NNB + 에서/JKB
+9/SN + 조/NR + 원/NNB + 으로/JKB
+축소/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+한편/NNG
+會社債/SH + 는/JX
+기업/NNG + 어음/NNG
+및/MAG
+주식/NNG + 시장/NNG + 의/JKG
+침체/NNG + 로/JKB
+기관/NNG + 투자가/NNG + 들/XSN + 이/JKS
+채권/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+투자/NNG + 수요/NNG + 를/JKO
+늘리/VV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+사모/NNG + 사채/NNG + 를/JKO
+중심/NNG + 으로/JKB
+발행/NNG + 규모/NNG + 가/JKS
+전년/NNG + 의/JKG
+21/SN + 조/NR
+2/SN + 천억/NR + 원/NNB + 에서/JKB
+26/SN + 조/NR
+8/SN + 천억/NR + 원/NNB + 으로/JKB
+확대/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+海外/SH + 로부터/JKB + 의/JKG
+借入/SH + 은/JX
+단기/NNG + 무역/NNG + 신용/NNG
+등/NNB
+무역/NNG + 관련/NNG
+신용/NNG + 도입/NNG + 이/JKS
+감소/NNG + 하/XSV + 아/EC
+전년/NNG + 의/JKG
+12/SN + 조/NR
+4/SN + 천억/NR + 원/NNB + 보다/JKB
+줄어들/VV + ㄴ/ETM
+7/SN + 조/NR
+2/SN + 천억/NR + 원/NNB + 을/JKO
+나타내/VV + 었/EP + 다/EF + ./SF
+나/NNG + ./SF
+資金運用/SH
+1997/SN + 년/NNB + 중/NNB
+企業部門/SH + 의/JKG
+資金運用規模/SH + 는/JX
+전년/NNG + 보다/JKB
+4/SN + ./SP + 0/SN + %/SW + (/SS + 2/SN + 조/NR + 원/NNB + )/SS
+감소/NNG + 하/XSV + ㄴ/ETM
+47/SN + 조/NR
+9/SN + 천억/NR + 원/NNB + 을/JKO
+나타내/VV + 었/EP + 다/EF + ./SF
+기업/NNG + 의/JKG
+자금/NNG + 운용/NNG
+내역/NNG + 을/JKO
+형태/NNG + 별/XSN + 로/JKB
+보/VV + 면/EC
+金融機關預置金/SH + 은/JX
+기업/NNG + 의/JKG
+자금/NNG + 운용/NNG + 여력/NNG
+약화/NNG + 로/JKB
+예금/NNG + 은행/NNG
+및/MAG
+비/XPN + 은행/NNG + 금융/NNG + 기관/NNG
+예치금/NNG + 이/JKS
+모두/MAG
+줄어들/VV + 어/EC
+전년/NNG + 의/JKG
+19/SN + 조/NR + 원/NNB + 에서/JKB
+16/SN + 조/NR
+2/SN + 천억/NR + 원/NNB + 으로/JKB
+축소/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+預金銀行預置金/SH + 은/JX
+시장/NNG + 금리부/NNG + 예금/NNG + (/SS + MMDA/SL + )/SS + 의/JKG
+도입/NNG + (/SS + 97/SN + ./SP + 7/SN + 월/NNB + )/SS + 에/JKB
+따르/VV + ㄴ/ETM
+기업/NNG + 자유/NNG + 예금/NNG + 의/JKG
+증가/NNG + 로/JKB
+저축/NNG + 성/XSN + 예금/NNG + 이/JKS
+늘어나/VV + 았/EP + 음/ETN + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+요구불/NNG + 예금/NNG
+및/MAG
+2/SN + 월/NNB + 부터/JX
+지준/NNG + 이/JKS
+부과/NNG + 되/XSV + ㄴ/ETM
+양도/NNG + 성/XSN + 예금/NNG + 이/JKS
+크/VA + ㄴ/ETM
+폭/NNG + 의/JKG
+감소/NNG + 를/JKO
+나타내/VV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+전년/NNG + 의/JKG
+8/SN + 조/NR
+8/SN + 천억/NR + 원/NNB + 에서/JKB
+7/SN + 조/NR
+3/SN + 천억/NR + 원/NNB + 으로/JKB
+줄어들/VV + 었/EP + 다/EF + ./SF
+非銀行金融機關預置金/SH + 은/JX
+종금사/NNG + 예치금/NNG + 이/JKS
+자발/NNG + 어음/NNG + 을/JKO
+중심/NNG + 으로/JKB
+늘/VV + 었/EP + 으나/EC
+개발/NNG + 신탁/NNG + ,/SP
+기업/NNG + 금전/NNG + 신탁/NNG
+등/NNB
+금전/NNG + 신탁/NNG + 이/JKS
+줄어들/VV + 어/EC
+전년/NNG + 의/JKG
+10/SN + 조/NR
+3/SN + 천억/NR + 원/NNB + 에서/JKB
+9/SN + 조/NR + 원/NNB + 으로/JKB
+축소/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+한편/NNG
+有價證券/SH
+보유/NNG + 는/JX
+기업/NNG + 어음/NNG + 과/JC
+회사채/NNG + 를/JKO
+중심/NNG + 으로/JKB
+줄어들/VV + 어/EC
+전년/NNG + 의/JKG
+10/SN + 조/NR
+8/SN + 천억/NR + 원/NNB + 에서/JKB
+5/SN + 조/NR
+6/SN + 천억/NR + 원/NNB + 으로/JKB
+축소/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+企業/SH + 어음/NNG
+보유/NNG + 는/JX
+기업/NNG + 어음/NNG + 시장/NNG + 이/JKS
+위축/NNG + 되/XSV + ㄴ/ETM
+데/NNB + 다/JX
+기업/NNG + 들/XSN + 도/JX
+보유/NNG + 위험/NNG + 이/JKS
+커지/VV + ㄴ/ETM
+기업/NNG + 어음/NNG
+매입/NNG + 을/JKO
+기피/NNG + 하/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+전년/NNG + 의/JKG
+3/SN + 조/NR
+9/SN + 천억/NR + 원/NNB
+증가/NNG + 에서/JKB
+4/SN + 조/NR
+2/SN + 천억/NR + 원/NNB
+감소/NNG + 로/JKB
+반전/NNG + 되/XSV + 었/EP + 으며/EC + ,/SP
+會社債/SH
+보유/NNG + 도/JX
+전년/NNG + 보다/JKB
+축소/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+對外債權/SH + 은/JX
+해외/NNG + 직접/NNG + 투자/NNG + 가/JKS
+꾸준히/MAG
+늘어나/VV + 고/EC
+중/NNG + 장기/NNG + 연불/NNG + 수출/NNG + 관련/NNG
+신용/NNG + 공여/NNG + 도/JX
+늘어나/VV + 았/EP + 으나/EC
+해외/NNG + 예치금/NNG + 이/JKS
+크/VA + 게/EC
+줄어들/VV + 어/EC
+전년/NNG + 의/JKG
+4/SN + 조/NR
+5/SN + 천억/NR + 원/NNB + 보다/JKB
+소폭/NNG
+축소/NNG + 되/XSV + ㄴ/ETM
+4/SN + 조/NR
+3/SN + 천억/NR + 원/NNB + 을/JKO
+나타내/VV + 었/EP + 다/EF + ./SF
+2/SN + ./SF
+個人部門/SH
+가/NNG + ./SF
+資金調達/SH
+1997/SN + 년/NNB + 중/NNB
+個人部門/SH + 의/JKG
+資金調達規模/SH + 는/JX
+비/XPN + 은행/NNG + 금융/NNG + 기관/NNG
+및/MAG
+할부/NNG + 금융사/NNG
+차입/NNG + 이/JKS
+늘어나/VV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+전년/NNG + 보다/JKB
+13/SN + ./SP + 5/SN + %/SW + (/SS + 5/SN + 조/NR
+2/SN + 천억/NR + 원/NNB + )/SS
+증가/NNG + 하/XSV + ㄴ/ETM
+44/SN + 조/NR
+1/SN + 천억/NR + 원/NNB + 을/JKO
+나타내/VV + 었/EP + 다/EF + ./SF
+개인/NNG + 부문/NNG + 의/JKG
+자금/NNG + 조달/NNG + 내역/NNG + 을/JKO
+금융/NNG + 기관/NNG + 별/XSN + 로/JKB
+살펴보/VV + 면/EC
+預金銀行/SH + 으로부터/JKB + 의/JKG
+차입/NNG + 은/JX
+대출/NNG + 취급/NNG
+신중/NNG + 화/XSN
+경향/NNG + 에/JKB
+따르/VV + 아/EC
+소매/NNG + 금융/NNG + 업무/NNG
+강화/NNG + 로/JKB
+개인/NNG + 대출/NNG + 이/JKS
+크/VA + 게/EC
+늘어나/VV + 았/EP + 던/ETM
+전년/NNG + 의/JKG
+10/SN + 조/NR
+7/SN + 천억/NR + 원/NNB + 에서/JKB
+9/SN + 조/NR
+5/SN + 천억/NR + 원/NNB + 으로/JKB
+축소/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+이/NP + 에/JKB
+반/NNG + 하/XSV + 아/EC
+非銀行金融機關/SH + 으로부터/JKB + 의/JKG
+차입/NNG + 은/JX
+농/NNG + ·/SP + 수/NNG + ·/SP + 축협/NNP + 의/JKG
+상호/NNG + 금융/NNG + ,/SP
+새마을금고/NNP
+등/NNB
+서민/NNG + 금융/NNG + 기관/NNG
+차입/NNG + 을/JKO
+중심/NNG + 으로/JKB
+전년/NNG + 의/JKG
+21/SN + 조/NR + 원/NNB + 에서/JKB
+22/SN + 조/NR
+4/SN + 천억/NR + 원/NNB + 으로/JKB
+증가/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+또한/MAG
+割賦金融社/SH + 로부터/JKB + 의/JKG
+借入/SH + 도/JX
+할부/NNG + 금융사/NNG + 의/JKG
+영업/NNG + 활동/NNG + 이/JKS
+본격/NNG + 화/XSN + 되/XSV + ㄴ/ETM
+데/NNB + 다/JX
+할부/NNG + 금융사/NNG + 의/JKG
+채무/NNG + 부담/NNG + 한도/NNG + 가/JKS
+폐지/NNG + (/SS + 97/SN + ./SP + 8/SN + 월/NNB + )/SS + 되/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+전년/NNG + 의/JKG
+3/SN + 조/NR
+9/SN + 천억/NR + 원/NNB + 에서/JKB
+6/SN + 조/NR + 원/NNB + 으로/JKB
+크/VA + 게/EC
+증가/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+나/NNG + ./SF
+資金運用/SH
+1997/SN + 년/NNB + 중/NNB
+個人部門/SH + 의/JKG
+資金運用規模/SH + 는/JX
+전년/NNG + 보다/JKB
+11/SN + ./SP + 5/SN + %/SW + (/SS + 8/SN + 조/NR
+8/SN + 천억/NR + 원/NNB + )/SS
+늘어나/VV + ㄴ/ETM
+85/SN + 조/NR
+1/SN + 천억/NR + 원/NNB + 을/JKO
+나타내/VV + 었/EP + 다/EF + ./SF
+금융/NNG + 상품/NNG + 별/XSN + 로/JKB + 는/JX
+金融機關預置金/SH + 에/JKB
+대하/VV + ㄴ/ETM
+자금/NNG + 운용/NNG
+비중/NNG + 이/JKS
+전년/NNG + 보다/JKB
+낮/VA + 아/EC + 지/VX + ㄴ/ETM
+반면/NNG
+有價證券/SH
+保有比重/SH + 은/JX
+높/VA + 아/EC + 지/VX + 었/EP + 다/EF + ./SF
+金融機關預置金/SH + 은/JX
+예금/NNG + 은행/NNG + 예치금/NNG + 이/JKS
+저축/NNG + 성/XSN + 예금/NNG + 을/JKO
+중심/NNG + 으로/JKB
+늘어나/VV + 았/EP + 으나/EC
+비/XPN + 은행/NNG + 금융/NNG + 기관/NNG + 예치금/NNG + 이/JKS
+줄어들/VV + ㄴ/ETM
+데/NNB
+기인/NNG + 하/XSV + 아/EC
+전년/NNG + 의/JKG
+60/SN + 조/NR + 원/NNB + 에서/JKB
+59/SN + 조/NR
+4/SN + 천억/NR + 원/NNB + 으로/JKB
+다소/MAG
+축소/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+預金銀行預置金/SH + 은/JX
+양도/NNG + 성/XSN + 예금/NNG + 이/JKS
+지준/NNG + 부과/NNG + (/SS + 97/SN + ./SP + 2/SN + 월/NNB + )/SS + 로/JKB
+금리/NNG + 경쟁력/NNG + 이/JKS
+약화/NNG + 되/XSV + 어/EC
+크/VA + 게/EC
+감소/NNG + 하/XSV + 았/EP + 으나/EC
+제/XPN + 4/SN + 단계/NNG
+금리/NNG + 자유/NNG + 화/XSN
+조치/NNG + (/SS + 97/SN + ./SP + 7/SN + 월/NNB + )/SS + 의/JKG
+일환/NNG + 으로/JKB
+도입/NNG + 되/XSV + ㄴ/ETM
+시장/NNG + 금리부/NNG
+수시/NNG + 입출식/NNG + 예금/NNG + (/SS + MMDA/SL + )/SS + 의/JKG
+판매/NNG + 가/JKS
+호조/NNG + 를/JKO
+보이/VV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+전년/NNG + 의/JKG
+17/SN + 조/NR
+6/SN + 천억/NR + 원/NNB + 에서/JKB
+19/SN + 조/NR
+6/SN + 천억/NR + 원/NNB + 으로/JKB
+확대/NNG + 되/XSV + 었/EP + 으며/EC + ,/SP
+개인/NNG + 의/JKG
+자금/NNG + 운용액/NNG + 중/NNB + 에서/JKB
+차지/NNG + 하/XSV + 는/ETM
+비중/NNG + 도/JX
+23/SN + ./SP + 0/SN + %/SW + 에서/JKB
+23/SN + ./SP + 1/SN + %/SW + 로/JKB
+약간/MAG
+상승/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이/NP + 에/JKB
+비하/VV + 아/EC
+非銀行金融機關/SH
+預置金/SH + 은/JX
+신종/NNG + 적립/NNG + 신탁/NNG + 의/JKG
+신규/NNG + 취급/NNG + (/SS + 97/SN + ./SP + 12/SN + 월/NNB + )/SS
+허용/NNG + 으로/JKB
+금전/NNG + 신탁/NNG + 이/JKS
+늘/VV + 었/EP + 으나/EC
+상호/NNG + 신용/NNG + 금고/NNG + 의/JKG
+정기/NNG + 예금/NNG + 과/JC
+증권/NNG + 금융/NNG + 의/JKG
+공모주/NNG + 청약/NNG + 예금/NNG + 이/JKS
+감소/NNG + 하/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+전년/NNG + 의/JKG
+42/SN + 조/NR
+4/SN + 천억/NR + 원/NNB + 에서/JKB
+39/SN + 조/NR
+8/SN + 천억/NR + 원/NNB + 으로/JKB
+축소/NNG + 되/XSV + 었/EP + 으며/EC + ,/SP
+개인/NNG + 부문/NNG + 의/JKG
+자금/NNG + 운용액/NNG + 중/NNB + 에서/JKB
+차지/NNG + 하/XSV + 는/ETM
+비중/NNG + 도/JX
+55/SN + ./SP + 5/SN + %/SW + 에서/JKB
+46/SN + ./SP + 7/SN + %/SW + 로/JKB
+하락/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+한편/NNG
+有價證券/SH
+保有/SH + 는/JX
+기업/NNG + 어음/NNG + 보유/NNG + 가/JKS
+감소/NNG + 로/JKB
+반전/NNG + 되/XSV + 었/EP + 으나/EC
+투자/NNG + 수익/NNG + 증권/NNG
+및/MAG
+주식/NNG + 보유/NNG + 가/JKS
+늘어나/VV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+전년/NNG + 의/JKG
+14/SN + 조/NR
+1/SN + 천억/NR + 원/NNB + 에서/JKB
+19/SN + 조/NR
+9/SN + 천억/NR + 원/NNB + 으로/JKB
+확대/NNG + 되/XSV + 었/EP + 으며/EC + ,/SP
+개인/NNG + 부문/NNG + 의/JKG
+자금/NNG + 운용액/NNG + 중/NNB + 에서/JKB
+차지/NNG + 하/XSV + 는/ETM
+비중/NNG + 도/JX
+18/SN + ./SP + 4/SN + %/SW + 에서/JKB
+23/SN + ./SP + 4/SN + %/SW + 로/JKB
+상승/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+특히/MAG
+投資受益證券/SH
+보유/NNG + 는/JX
+신설/NNG + 투신사/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+공사채/NNG + 형/XSN
+수익/NNG + 증권/NNG
+판매/NNG
+허용/NNG + (/SS + 97/SN + ./SP + 7/SN + 월/NNB + )/SS
+등/NNB + 의/JKG
+영향/NNG + 으로/JKB
+MMF/SL
+등/NNB
+단기/NNG + 공사채/NNG + 형/XSN
+수익/NNG + 증권/NNG + 을/JKO
+중심/NNG + 으로/JKB
+전년/NNG + 의/JKG
+4/SN + 조/NR
+2/SN + 천억/NR + 원/NNB + 에서/JKB
+7/SN + 조/NR
+3/SN + 천억/NR + 원/NNB + 으로/JKB
+늘어나/VV + 았/EP + 다/EF + ./SF
+그러나/MAJ
+企業/SH + 어음/NNG
+보유/NNG + 는/JX
+대/XPN + 기업/NNG
+부도/NNG + 가/JKS
+이어지/VV + 면서/EC
+기업/NNG + 의/JKG
+발행/NNG + 물량/NNG
+규모/NNG
+자체/NNG + 가/JKS
+크/VA + 게/EC
+줄어들/VV + ㄴ/ETM
+데/NNB + 다/JX
+보유/NNG + 위험/NNG + 도/JX
+커지/VV + 어/EC
+전년/NNG + 의/JKG
+1/SN + 조/NR
+2/SN + 천억/NR + 원/NNB
+증가/NNG + 에서/JKB
+1/SN + 조/NR
+7/SN + 천억/NR + 원/NNB
+감소/NNG + 로/JKB
+반전/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+3/SN + ./SF
+政府部門/SH
+1997/SN + 年中/SH
+政府部門/SH + 의/JKG
+資金調達規模/SH + 는/JX
+국채/NNG + 관리/NNG + 기금/NNG + 채권/NNG
+등/NNB
+장기/NNG + 국공채/NNG + 의/JKG
+발행/NNG
+규모/NNG + 가/JKS
+전년/NNG + 수준/NNG + 에/JKB
+머무르/VV + 었/EP + 으나/EC
+ADB/SL
+및/MAG
+IBRD/SL + 로부터/JKB + 의/JKG
+公共借款導入/SH + (/SS + 50/SN + 억/NR + 달러/NNB + )/SS + 이/JKS
+늘어나/VV + 아/EC
+전년/NNG + 의/JKG
+4/SN + 조/NR
+1/SN + 천억/NR + 원/NNB + 보다/JKB
+대폭/MAG
+확대/NNG + 되/XSV + ㄴ/ETM
+9/SN + 조/NR
+3/SN + 천억/NR + 원/NNB + 을/JKO
+나타내/VV + 었/EP + 다/EF + ./SF
+資金運用規模/SH + 도/JX
+세수/NNG + 증가/NNG + 율/XSN
+둔화/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+자금/NNG + 운용/NNG + 여력/NNG
+저하/NNG + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+차관/NNG + 자금/NNG + 에/JKB
+의하/VV + ㄴ/ETM
+政府融資/SH + 가/JKS
+늘어나/VV + ㄴ/ETM
+데/NNB
+힘입/VV + 어/EC
+전년/NNG + 의/JKG
+20/SN + 조/NR
+1/SN + 천억/NR + 원/NNB + 에서/JKB
+24/SN + 조/NR
+9/SN + 천억/NR + 원/NNB + 으로/JKB
+확대/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+자금/NNG + 운용/NNG
+내역/NNG + 을/JKO
+보/VV + 면/EC
+金融機關預置金/SH + 은/JX
+전년/NNG + 의/JKG
+3/SN + 조/NR
+5/SN + 천억/NR + 원/NNB + 보다/JKB
+다소/MAG
+줄어들/VV + ㄴ/ETM
+3/SN + 조/NR
+3/SN + 천억/NR + 원/NNB + 에/JKB
+머무르/VV + 었/EP + 으나/EC
+政府融資/SH + 는/JX
+재정/NNG + 투융자/NNG
+및/MAG
+정부/NNG + 의/JKG
+전대/NNG + 차관/NNG
+대여/NNG + ,/SP + 가/JKS
+늘어나/VV + 아/EC
+전년/NNG + 의/JKG
+4/SN + 조/NR
+8/SN + 천억/NR + 원/NNB + 에서/JKB
+11/SN + 조/NR
+3/SN + 천억/NR + 원/NNB + 으로/JKB
+크/VA + 게/EC
+증가/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+4/SN + ./SF
+海外部門/SH
+1997/SN + 년/NNB + 중/NNB
+海外部門/SH + 은/JX
+경상/NNG + 수지/NNG
+적자/NNG + 폭/NNG + 이/JKS
+대폭/MAG
+축소/NNG + 되/XSV + ㄴ/ETM
+가운데/NNG
+資金運用規模/SH + 가/JKS
+전년/NNG + 의/JKG
+31/SN + 조/NR
+1/SN + 천억/NR + 원/NNB + 에서/JKB
+19/SN + 조/NR
+1/SN + 천억/NR + 원/NNB + 으로/JKB
+축소/NNG + 되/XSV + 었/EP + 으며/EC + ,/SP
+資金調達規模/SH + 도/JX
+전년/NNG + 의/JKG
+12/SN + 조/NR
+8/SN + 천억/NR + 원/NNB + 에서/JKB
+2/SN + 조/NR
+8/SN + 천억/NR + 원/NNB + 으로/JKB
+대폭/MAG
+축소/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+이/NP + 에/JKB
+따르/VV + 아/EC
+해외/NNG + 부문/NNG + 의/JKG
+資金剩餘額/SH + (/SS + 우리나라/NNG + 의/JKG
+순/MM + 대외/NNG + 부채/NNG
+증가/NNG + )/SS + 은/JX
+전년/NNG + 의/JKG
+18/SN + 조/NR
+3/SN + 천억/NR + 원/NNB + 에서/JKB
+16/SN + 조/NR
+3/SN + 천억/NR + 원/NNB + 으로/JKB
+줄어들/VV + 었/EP + 다/EF + ./SF
+海外部門/SH + 의/JKG
+資金運用/SH + (/SS + 우리나라/NNG + 의/JKG
+대외/NNG + 부채/NNG
+증가/NNG + )/SS + 은/JX
+IMF/SL
+지원/NNG + 자금/NNG
+및/MAG
+공공/NNG + 차관/NNG
+도입/NNG + 의/JKG
+증가/NNG + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+대외/NNG + 신인/NNG + 도/NNG
+저하/NNG + 로/JKB
+종금사/NNG + 차입/NNG + 을/JKO
+비롯/XR + 하/XSV + ㄴ/ETM
+金融機關/SH
+短期借入/SH
+및/MAG
+海外/SH + 콜머니/NNG + 가/JKS
+대/XPN + 규모/NNG + 로/JKB
+순/MM + 상환/NNG + 되/XSV + ㄴ/ETM
+데/NNB + 다/JX
+外國人/SH
+株式投資資金/SH + 이/JKS
+8/SN + 월/NNB
+이후/NNG
+순/MM + 유출/NNG + 로/JKB
+돌아서/VV + 고/EC
+무역/NNG + 신용/NNG
+도입/NNG + 도/JX
+감소/NNG + 하/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+전년/NNG + 보다/JKB
+38/SN + ./SP + 7/SN + %/SW
+감소/NNG + 하/XSV + ㄴ/ETM
+19/SN + 조/NR
+1/SN + 천억/NR + 원/NNB + 을/JKO
+기록/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+한편/NNG
+海外部門/SH + 의/JKG
+資金調達/SH + (/SS + 우리나라/NNG + 의/JKG
+대외/NNG + 자산/NNG
+증가/NNG + )/SS + 은/JX
+2/SN + 조/NR
+8/SN + 천억/NR + 원/NNB + 으로/JKB
+전년/NNG + 보다/JKB
+78/SN + ./SP + 0/SN + %/SW
+감소/NNG + 하/XSV + 았/EP + 는데/EC + ,/SP
+이/NP + 는/JX
+무역/NNG + 신용/NNG
+공여/NNG + 의/JKG
+증가/NNG + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+금융/NNG + 기관/NNG
+대외/NNG + 결제/NNG + 자금/NNG
+지원/NNG + 으로/JKB
+外換保有額/SH + 이/JKS
+전년/NNG + 의/JKG
+3/SN + 천억/NR + 원/NNB
+증가/NNG + 에서/JKB
+13/SN + 조/NR
+9/SN + 천억/NR + 원/NNB
+감소/NNG + 로/JKB
+반전/NNG + 되/XSV + ㄴ/ETM
+데/NNB
+주로/MAG
+기인/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+IV/SL + ./SF
+金融部門/SH + 의/JKG
+資金調達/SH
+및/MAG
+運用/SH
+1/SN + ./SF
+資金調達/SH
+1997/SN + 년/NNB + 중/NNB
+金融部門/SH + 의/JKG
+資金調達規模/SH + 는/JX
+209/SN + 조/NR
+5/SN + 천억/NR + 원/NNB + 으로/JKB
+전년/NNG + 의/JKG
+144/SN + 조/NR + 원/NNB
+7/SN + 천억/NR + 원/NNB + 에/JKB
+비하/VV + 아/EC
+크/VA + 게/EC
+확대/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+금융/NNG + 부문/NNG + 의/JKG
+전체/NNG
+자금/NNG + 조달/NNG + 에서/JKB
+각/MM
+금융/NNG + 기관/NNG + 이/JKS
+차지/NNG + 하/XSV + 는/ETM
+비중/NNG + 을/JKO
+살펴보/VV + 면/EC
+預金銀行/SH + 의/JKG
+비중/NNG + 은/JX
+전년/NNG + 의/JKG
+34/SN + ./SP + 8/SN + %/SW + 에서/JKB
+35/SN + ./SP + 6/SN + %/SW + 로/JKB
+높/VA + 아/EC + 지/VX + 었/EP + 으나/EC + ,/SP
+保險/SH
+및/MAG
+年金/SH + 의/JKG
+비중/NNG + 은/JX
+전년/NNG + 의/JKG
+14/SN + ./SP + 8/SN + %/SW + 에서/JKB
+9/SN + ./SP + 5/SN + %/SW + 로/JKB + ,/SP
+그리고/MAJ
+其他金融機關/SH + 의/JKG
+비중/NNG + 은/JX
+전년/NNG + 의/JKG
+52/SN + ./SP + 5/SN + %/SW + 에서/JKB
+47/SN + ./SP + 8/SN + %/SW + 로/JKB
+하락/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+預金銀行/SH + 의/JKG
+資金調達規模/SH + 는/JX
+74/SN + 조/NR
+6/SN + 천억/NR + 원/NNB + 으로/JKB
+전년/NNG + 보다/JKB
+48/SN + ./SP + 2/SN + %/SW
+늘어나/VV + 았/EP + 는데/EC + ,/SP
+이/NP + 는/JX
+MMDA/SL
+등/NNB
+저축/NNG + 성/XSN + 예금/NNG
+및/MAG
+환매/NNG + 조건부/NNG + 채권/NNG + 을/JKO
+중심/NNG + 으로/JKB
+예수금/NNG + 이/JKS
+증가/NNG + 하/XSV + ㄴ/ETM
+데/NNB + 다/JX
+한은/NNP + 차입/NNG
+및/MAG
+수탁금/NNG + 이/JKS
+늘어나/VV + ㄴ/ETM
+데/NNB
+주로/MAG
+기인/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+其他金融機關/SH + 의/JKG
+자금/NNG + 조달/NNG + 규모/NNG + 는/JX
+전년/NNG + 의/JKG
+76/SN + 조/NR + 원/NNB + 에서/JKB
+100/SN + 조/NR
+2/SN + 천억/NR + 원/NNB + 으로/JKB
+확대/NNG + 되/XSV + 었/EP + 는데/EC + ,/SP
+기관/NNG + 별/XSN + 로/JKB
+보/VV + 면/EC
+개발/NNG + 기관/NNG
+및/MAG
+투자/NNG + 기관/NNG + 의/JKG
+자금/NNG + 조달/NNG + 규모/NNG + 는/JX
+전년/NNG + 보다/JKB
+크/VA + 게/EC
+늘어나/VV + 았/EP + 으나/EC
+저축/NNG + 기관/NNG
+및/MAG
+증권/NNG + 기관/NNG + 의/JKG
+자금/NNG + 조달/NNG + 규모/NNG + 는/JX
+줄어들/VV + 었/EP + 다/EF + ./SF
+投資機關/SH + 의/JKG
+자금/NNG + 조달/NNG + 규모/NNG + 는/JX
+전년/NNG + 의/JKG
+11/SN + 조/NR
+5/SN + 천억/NR + 원/NNB + 에서/JKB
+25/SN + 조/NR
+7/SN + 천억/NR + 원/NNB + 으로/JKB
+크/VA + 게/EC
+늘어나/VV + 았/EP + 는데/EC + ,/SP
+이/NP + 는/JX
+자발/NNG + 어음/NNG + ,/SP
+CMA/SL
+등/NNB
+종금사/NNG
+예수금/NNG + 이/JKS
+크/VA + 게/EC
+증가/NNG + 하/XSV + ㄴ/ETM
+데/NNB + 다/JX
+신설/NNG + 투신사/NNG + 의/JKG
+공사채/NNG + 형/XSN
+수익/NNG + 증권/NNG
+취급/NNG
+개시/NNG
+등/NNB + 으로/JKB
+MMF/SL + 를/JKO
+중심/NNG + 으로/JKB
+단기/NNG + 공사채/NNG + 형/XSN
+수익/NNG + 증권/NNG
+발행/NNG + 이/JKS
+호조/NNG + 를/JKO
+보이/VV + ㄴ/ETM
+데/NNB
+기인/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+또한/MAG
+개발/NNG + 기관/NNG + 의/JKG
+자금/NNG + 조달/NNG + 도/JX
+금융채/NNG
+발행/NNG
+및/MAG
+정부/NNG + 차입/NNG + (/SS + ADB/SL + ,/SP
+IBRD/SL
+공공/NNG + 차관/NNG + 의/JKG
+전대/NNG + )/SS
+확대/NNG + 로/JKB
+전년/NNG + 의/JKG
+7/SN + 조/NR
+2/SN + 천억/NR + 원/NNB + 에서/JKB
+15/SN + 조/NR
+7/SN + 천억/NR + 원/NNB + 으로/JKB
+증가/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+반면/NNG
+貯蓄機關/SH + 의/JKG
+자금/NNG + 조달/NNG + 은/JX
+신탁/NNG + 예수금/NNG + 이/JKS
+신종/NNG + 적립/NNG + 신탁/NNG + 의/JKG
+호조/NNG + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+일반/NNG + 불/XPN + 특정/NNG + 금전/NNG + 신탁/NNG
+및/MAG
+가계/NNG + 금전/NNG + 신탁/NNG + 을/JKO
+중심/NNG + 으로/JKB
+감소/NNG + 하/XSV + ㄴ/ETM
+데/NNB + 다/JX
+상호/NNG + 신용/NNG + 금고/NNG
+등/NNB
+일부/NNG
+서민/NNG + 금융/NNG + 기관/NNG + 의/JKG
+예수금/NNG + 이/JKS
+둔화/NNG + 되/XSV + 어/EC
+전년/NNG + 의/JKG
+49/SN + 조/NR
+4/SN + 천억/NR + 원/NNB + 에서/JKB
+40/SN + 조/NR
+2/SN + 천억/NR + 원/NNB + 으로/JKB
+축소/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+2/SN + ./SF
+資金運用/SH
+1997/SN + 년/NNB + 중/NNB
+金融部門/SH + 의/JKG
+資金運用規模/SH + 는/JX
+205/SN + 조/NR
+8/SN + 천억/NR + 원/NNB + 으로/JKB
+전년/NNG + 의/JKG
+141/SN + 조/NR
+7/SN + 천억/NR + 원/NNB + 에/JKB
+비하/VV + 아/EC
+크/VA + 게/EC
+확대/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+금융/NNG + 부문/NNG + 의/JKG
+자금/NNG + 운용액/NNG + 중/NNB + 에서/JKB
+각/MM
+금융/NNG + 기관/NNG + 이/JKS
+차지/NNG + 하/XSV + 는/ETM
+비중/NNG + 을/JKO
+보/VV + 면/EC
+預金銀行/SH + 의/JKG
+자금/NNG + 운용/NNG
+비중/NNG + 은/JX
+전년/NNG + 과/JKB
+동일/NNG + 하/XSA + ㄴ/ETM
+35/SN + ./SP + 1/SN + %/SW + 를/JKO
+나타내/VV + 었/EP + 으나/EC + ,/SP
+保險/SH
+및/MAG
+年金/SH + 의/JKG
+비중/NNG + 은/JX
+14/SN + ./SP + 3/SN + %/SW + 에서/JKB
+9/SN + ./SP + 2/SN + %/SW + 로/JKB + ,/SP
+其他金融機關/SH + 의/JKG
+비중/NNG + 은/JX
+전년/NNG + 의/JKG
+52/SN + ./SP + 5/SN + %/SW + 에서/JKB
+47/SN + ./SP + 0/SN + %/SW + 로/JKB
+낮/VA + 아/EC + 지/VX + 었/EP + 다/EF + ./SF
+預金銀行/SH + 의/JKG
+資金運用規模/SH + 는/JX
+72/SN + 조/NR
+3/SN + 천억/NR + 원/NNB + 으로/JKB
+전년/NNG + 보다/JKB
+22/SN + 조/NR
+5/SN + 천억/NR + 원/NNB
+증가/NNG + 하/XSV + 았/EP + 는데/EC + ,/SP
+이/NNB + 는/JX
+부실/NNG + 징후/NNG + 기업/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+여신/NNG
+억제/NNG + ,/SP
+성업공사/NNP + 앞/NNG
+부실/NNG + 채권/NNG
+매각/NNG
+등/NNB + 으로/JKB
+대출금/NNG + 으로/JKB + 의/JKG
+자금/NNG + 운용/NNG + 이/JKS
+축소/NNG + 되/XSV + 었/EP + 음/ETN + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+금융채/NNG + ,/SP
+회사채/NNG
+등/NNB
+유가/NNG + 증권/NNG + 보유/NNG + 가/JKS
+증가/NNG + 하/XSV + 고/EC
+환매/NNG + 조건부/NNG + 채권/NNG + 으로/JKB + 의/JKG
+운용/NNG + 도/JX
+늘어나/VV + ㄴ/ETM + 데/NNB
+기인/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+其他金融機關/SH + 의/JKG
+자금/NNG + 운용/NNG + 규모/NNG + 는/JX
+전년/NNG + 의/JKG
+74/SN + 조/NR
+4/SN + 천억/NR + 원/NNB + 에서/JKB
+96/SN + 조/NR
+7/SN + 천억/NR + 원/NNB + 으로/JKB
+확대/NNG + 되/XSV + 었/EP + 는데/EC + ,/SP
+이/NP + 는/JX
+저축/NNG + 기관/NNG + 의/JKG
+자금/NNG + 운용/NNG + 규모/NNG + 가/JKS
+전년/NNG + 에/JKB
+비하/VV + 아/EC
+줄어들/VV + 었/EP + 음/ETN + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+투자/NNG + 기관/NNG + ,/SP
+개발/NNG + 기관/NNG
+등/NNB + 의/JKG
+자금/NNG + 운용/NNG + 규모/NNG + 가/JKS
+크/VA + 게/EC
+늘어나/VV + 았/EP + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+貯蓄機關/SH + 의/JKG
+자금/NNG + 운용/NNG + 규모/NNG + 는/JX
+기업/NNG + 어음/NNG
+보유/NNG + 가/JKS
+줄어들/VV + ㄴ/ETM
+데/NNB + 다/JX
+종금사/NNG + 예치금/NNG
+및/MAG
+대출금/NNG + 이/JKS
+줄어들/VV + 어/EC
+전년/NNG + 의/JKG
+49/SN + 조/NR
+3/SN + 천억/NR + 원/NNB + 에서/JKB
+39/SN + 조/NR
+2/SN + 천억/NR + 원/NNB + 으로/JKB
+축소/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+投資機關/SH + 의/JKG
+자금/NNG + 운용/NNG + 규모/NNG + 는/JX
+전년/NNG + 의/JKG
+10/SN + 조/NR
+6/SN + 천억/NR + 원/NNB + 에서/JKB
+23/SN + 조/NR
+1/SN + 천억/NR + 원/NNB + 으로/JKB
+크/VA + 게/EC
+확대/NNG + 되/XSV + 었/EP + 는데/EC + ,/SP
+이/NNB + 는/JX
+주식/NNG + 투자/NNG
+감소/NNG + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+채권/NNG + 투자/NNG + 가/JKS
+기업/NNG + 어음/NNG
+및/MAG
+회사채/NNG + 를/JKO
+중심/NNG + 으로/JKB
+늘어나/VV + ㄴ/ETM
+데/NNB + 다/JX
+종금사/NNG + 대출/NNG + (/SS + 할인/NNG + 어음/NNG
+자체/NNG + 보유/NNG + 물량/NNG + )/SS + 도/JX
+증가/NNG + 하/XSV + ㄴ/ETM
+데/NNB
+기인/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+開發機關/SH + 의/JKG
+자금/NNG + 운용/NNG + 규모/NNG + 도/JX
+회사채/NNG + ,/SP
+주식/NNG
+등/NNB
+유가/NNG + 증권/NNG
+보유/NNG + 규모/NNG + 가/JKS
+증가/NNG + 하/XSV + 고/EC
+대출금/NNG + 이/JKS
+늘어나/VV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+전년/NNG + 의/JKG
+7/SN + 조/NR
+1/SN + 천억/NR + 원/NNB + 에서/JKB
+15/SN + 조/NR
+4/SN + 천억/NR + 원/NNB + 으로/JKB
+크/VA + 게/EC
+확대/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+Ⅴ/SL + ./SF
+金融資産/SH + 의/JKG
+蓄積/SH
+1997/SN + 년/NNB + 말/NNB
+현재/MAG
+國內非金融部門/SH + (/SS + 政府/SH + +/SW + 企業/SH + +/SW + 個人/SH + )/SS + 이/JKS
+보유/NNG + 하/XSV + 고/EC
+있/VX + 는/ETM
+금융/NNG + 자산/NNG + 잔액/NNG + 은/JX
+1/SN + ,/SP + 171/SN + 조/NR
+8/SN + 천억/NR + 원/NNB + 으로/JKB
+전년/NNG + 말/NNB + (/SS + 997/SN + 조/NR
+8/SN + 천억/NR + 원/NNB + )/SS + 보다/JKB
+173/SN + 조/NR
+9/SN + 천억/NR + 원/NNB + (/SS + 17/SN + ./SP + 4/SN + %/SW + )/SS
+증가/NNG + 하/XSV + 아/EC
+국내/NNG + 비/XPN + 금융/NNG + 부문/NNG + 이/JKS
+보유/NNG + 하/XSV + 고/EC
+있/VX + 는/ETM
+금융/NNG + 자산/NNG + 의/JKG
+경상/NNG + GNP/SL + 에/JKB
+대하/VV + ㄴ/ETM
+비율/NNG + 은/JX
+전년/NNG + 의/JKG
+2/SN + ./SP + 58/SN + 에서/JKB
+2/SN + ./SP + 82/SN + 로/JKB
+높/VA + 아/EC + 지/VX + 었/EP + 다/EF + ./SF
+금융/NNG + 자산/NNG + 축적/NNG
+상황/NNG + 을/JKO
+경제/NNG + 주체/NNG + 별/XSN + 로/JKB
+보/VV + 면/EC
+개인/NNG + 이/JKS
+618/SN + 조/NR
+3/SN + 천억/NR + 원/NNB + 으로/JKB
+가장/MAG
+높/VA + 은/ETM
+비중/NNG + (/SS + 52/SN + ./SP + 8/SN + %/SW + )/SS + 을/JKO
+보이/VV + 었/EP + 으며/EC + ,/SP
+기업/NNG + 부문/NNG + 은/JX
+409/SN + 조/NR
+9/SN + 천억/NR + 원/NNB + (/SS + 35/SN + ./SP + 0/SN + %/SW + )/SS + ,/SP
+정부/NNG + 부문/NNG + 은/JX
+143/SN + 조/NR
+6/SN + 천억/NR + 원/NNB + (/SS + 12/SN + ./SP + 3/SN + %/SW + )/SS + 을/JKO
+차지/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+한편/NNG
+國內非金融部門/SH + 의/JKG
+金融資産中/SH + 에서/JKB
+M/SL + 2/SN + 와/JC
+M/SL + 3/SN + 가/JKS
+차지/NNG + 하/XSV + 는/ETM
+비중/NNG + 을/JKO
+보/VV + 면/EC
+M/SL + 2/SN + 의/JKG
+비중/NNG + 이/JKS
+전년/NNG + 의/JKG
+16/SN + ./SP + 0/SN + %/SW + 에서/JKB
+16/SN + ./SP + 2/SN + %/SW + 로/JKB
+소폭/NNG
+상승/NNG + 하/XSV + ㄴ/ETM
+반면/NNG
+M/SL + 3/SN + 의/JKG
+비중/NNG + 은/JX
+56/SN + ./SP + 8/SN + %/SW + 에서/JKB
+56/SN + ./SP + 2/SN + %/SW + 로/JKB
+하락/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이/NP + 처럼/JKB
+M/SL + 2/SN + 의/JKG
+비중/NNG + 이/JKS
+다소/MAG
+높/VA + 아/EC + 지/VX + ㄴ/ETM
+것/NNB + 은/JX
+단기/NNG + 금리/NNG
+자유/NNG + 화/XSN + 조치/NNG
+등/NNB + 의/JKG
+영향/NNG + 으로/JKB
+제/XPN + 2/SN + 금융/NNG + 권/XSN + 자금/NNG + 이/JKS
+유동/NNG + 성/XSN
+및/MAG
+수익/NNG + 성/XSN
+측면/NNG + 에서/JKB
+경쟁력/NNG + 을/JKO
+갖/VV + 게/EC + 되/VV + ㄴ/ETM
+예금/NNG + 은행/NNG + 으로/JKB
+이동/NNG + 되/XSV + ㄴ데/EC
+주로/MAG
+기인/NNG + 하/XSV + ㄴ다/EF + ./SF
+한편/NNG
+금융/NNG + 부문/NNG + 을/JKO
+포함/NNG + 하/XSV + 아/EC
+우리나라/NNG + 의/JKG
+총/MM + 금융/NNG + 자산/NNG + 잔액/NNG + 을/JKO
+경상/NNG + GNP/SL + 로/JKB
+나누/VV + ㄴ/ETM
+비율/NNG + 이/VCP + ㄴ/ETM
+금융/NNG + 연관/NNG + 비율/NNG + 은/JX
+전년/NNG + 의/JKG
+5/SN + ./SP + 61/SN + 에서/JKB
+6/SN + ./SP + 57/SN + 로/JKB
+상승/NNG + 하/XSV + 았/EP + 으나/EC
+아직/MAG + 도/JX
+일본/NNP + (/SS + '/SS + 96/SN + 년/NNB + ,/SP
+8/SN + ./SP + 38/SN + )/SS + 이나/JC
+미국/NNP + (/SS + '/SS + 96/SN + 년/NNB + ,/SP
+7/SN + ./SP + 65/SN + )/SS + 에/JKB
+비하/VV + 아서/EC + 는/JX
+낮/VA + 은/ETM
+수준/NNG + 이/VCP + 다/EF + ./SF
+이/NP + 를/JKO
+금융/NNG + 자산/NNG
+형태/NNG + 별/XSN + 로/JKB
+나누/VV + 어/EC
+보/VX + 면/EC
+현금/NNG + ·/SP + 예금/NNG + ·/SP + 보험/NNG + 의/JKG
+비율/NNG + 이/JKS
+1/SN + ./SP + 60/SN + 에서/JKB
+1/SN + ./SP + 72/SN + 로/JKB
+높/VA + 아/EC + 지/VX + 었/EP + 고/EC
+유가/NNG + 증권/NNG + 의/JKG
+비율/NNG + 도/JX
+1/SN + ./SP + 33/SN + 에서/JKB
+1/SN + ./SP + 47/SN + 로/JKB
+높/VA + 아/EC + 지/VX + 었/EP + 다/EF + ./SF
+1997/SN + 年/SH
+企業經營分析/SH
+結果/SH
+Ⅰ/SL + ./SF
+槪況/SH
+1997/SN + 년/NNB + 중/NNB
+우리나라/NNG
+製造業/SH + 은/JX
+금융/NNG + 기관/NNG + 차입/NNG
+증가/NNG + 와/JC
+환율/NNG + 상승/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+외화/NNG + 부채/NNG + 의/JKG
+원화/NNG + 환산/NNG + 가액/NNG
+증가/NNG
+등/NNB + 으로/JKB
+부채/NNG + 비율/NNG + 이/JKS
+높/VA + 아/EC + 지/VX + 는/ETM
+등/NNB
+전년/NNG + 에/JKB
+비하/VV + 아/EC
+財務構造/SH + 가/JKS
+악화/NNG + 되/XSV + 었/EP + 으며/EC + ,/SP
+기업/NNG + 의/JKG
+구조/NNG + 조정/NNG
+노력/NNG + 으로/JKB
+인건비/NNG
+및/MAG
+경비/NNG + 부담/NNG + 이/JKS
+완화/NNG + 되/XSV + 어/EC
+영업/NNG + 이익/NNG + 은/JX
+다소/MAG
+늘어나/VV + 았/EP + 으나/EC
+대/XPN + 규모/NNG
+환차손/NNG
+발생/NNG + 과/JC
+금융/NNG + 비용/NNG
+증가/NNG + 로/JKB
+경상/NNG + 이익/NNG + 이/JKS
+적자/NNG + 로/JKB
+전환/NNG + 되/XSV + 는/ETM
+등/NNB
+수익/NNG + 성/XSN + 도/JX
+크/VA + 게/EC
+저조/NNG + 하/XSA + ㄴ/ETM
+것/NNB + 으로/JKB
+나타나/VV + 았/EP + 다/EF + ./SF
+먼저/MAG
+제조업/NNG + 의/JKG
+財務構造面/SH + 에서/JKB + 는/JX
+수익/NNG + 성/XSN
+악화/NNG + 와/JC
+환율/NNG + 상승/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+외화/NNG + 부채/NNG + 의/JKG
+원화/NNG + 환산/NNG + 가액/NNG
+증가/NNG
+등/NNB + 으로/JKB
+負債比率/SH + 이/JKS
+지난해/NNG + 말/NNB + 의/JKG
+317/SN + ./SP + 1/SN + %/SW + 에서/JKB
+396/SN + ./SP + 3/SN + %/SW + 로/JKB
+크/VA + 게/EC
+높/VA + 아/EC + 지/VX + 었/EP + 으며/EC
+自己資本比率/SH + 도/JX
+24/SN + ./SP + 0/SN + %/SW + 에서/JKB
+20/SN + ./SP + 2/SN + %/SW + 로/JKB
+하락/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+收益性面/SH + 에서/JKB + 는/JX
+賣出額/SH
+營業利益率/SH + 이/JKS
+원가/NNG + 절감/NNG
+등/NNB + 으로/JKB
+지난해/NNG + 보다/JKB
+높/VA + 아/EC + 지/VX + 었/EP + 으나/EC + (/SS + 6/SN + ./SP + 5/SN + %/SW + →/SW + 8/SN + ./SP + 3/SN + %/SW + )/SS
+賣出額/SH
+經常利益率/SH + 은/JX
+환율/NNG + 급등/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+거액/NNG + 의/JKG
+환차손/NNG
+발생/NNG + 과/JC
+금융/NNG + 비용/NNG
+증가/NNG
+등/NNB + 으로/JKB
+영업/NNG + 외/NNB + 수지/NNG + 가/JKS
+크/VA + 게/EC
+악화/NNG + 되/XSV + ㄴ/ETM
+데/NNB
+기인/NNG + 하/XSV + 아/EC
+지난해/NNG + 의/JKG
+1/SN + ./SP + 0/SN + %/SW + 에서/JKB
+-/SS + 0/SN + ./SP + 3/SN + %/SW + 의/JKG
+손실/NNG + 로/JKB
+전환/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+成長性面/SH + 에서/JKB + 는/JX
+내수/NNG + 부진/NNG + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+수출/NNG + (/SS + 원화/NNG + 환산/NNG + 가액/NNG + )/SS + 이/JKS
+크/VA + 게/EC
+증가/NNG + 하/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+賣出額/SH
+增加率/SH + 이/JKS
+지난해/NNG + (/SS + 10/SN + ./SP + 3/SN + %/SW + )/SS + 와/JKB
+비슷/XR + 하/XSA + ㄴ/ETM
+11/SN + ./SP + 0/SN + %/SW + 를/JKO
+기록/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+한편/NNG
+건설업/NNG + 은/JX
+수익/NNG + 성/XSN
+저하/NNG
+및/MAG
+금융/NNG + 기관/NNG + 차입/NNG
+증가/NNG
+등/NNB + 으로/JKB
+부채/NNG + 비율/NNG + 이/JKS
+지난해/NNG + 말/NNB + 의/JKG
+562/SN + ./SP + 7/SN + %/SW + 에서/JKB
+655/SN + ./SP + 7/SN + %/SW + 로/JKB
+높/VA + 아/EC + 지/VX + 었/EP + 으며/EC
+매출액/NNG
+경상/NNG + 이익/NNG + 률/XSN + 도/JX
+지난해/NNG + 의/JKG
+0/SN + ./SP + 7/SN + %/SW + 에서/JKB
+-/SS + 0/SN + ./SP + 1/SN + %/SW + 의/JKG
+손실/NNG + 로/JKB
+전환/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+매출액/NNG
+증가/NNG + 율/XSN + 은/JX
+공공/NNG + 부문/NNG + 의/JKG
+사회/NNG + 간접/NNG + 자본/NNG + 투자/NNG
+확대/NNG + 와/JC
+해외/NNG + 건설/NNG + 수주/NNG
+증가/NNG
+등/NNB + 으로/JKB
+지난해/NNG + (/SS + 16/SN + ./SP + 5/SN + %/SW + )/SS + 와/JKB
+비슷/XR + 하/XSA + ㄴ/ETM
+16/SN + ./SP + 3/SN + %/SW + 를/JKO
+나타내/VV + 었/EP + 다/EF + ./SF
+도/NNG + ·/SP + 소매업/NNG + 의/JKG
+경우/NNG + 에/JKB + 도/JX
+부채/NNG
+비율/NNG + 이/JKS
+지난해/NNG
+말/NNB + 의/JKG
+510/SN + ./SP + 5/SN + %/SW + 에서/JKB
+612/SN + ./SP + 6/SN + %/SW + 로/JKB
+크/VA + 게/EC
+높/VA + 아/EC + 지/VX + 었/EP + 으며/EC
+매출액/NNG
+경상/NNG + 이익/NNG + 률/XSN + 도/JX
+지난해/NNG + 의/JKG
+0/SN + ./SP + 6/SN + %/SW + 에서/JKB
+-/SS + 0/SN + ./SP + 3/SN + %/SW + 의/JKG
+손실/NNG + 로/JKB
+전환/NNG + 되/XSV + 는/ETM
+등/NNB
+전반/NNG + 적/XSN + 으로/JKB
+경영/NNG + 성과/NNG + 가/JKS
+부진/NNG + 하/XSA + ㄴ/ETM
+모습/NNG + 을/JKO
+보이/VV + 었/EP + 다/EF + ./SF
+이하/NNG + 에서/JKB + 는/JX
+우리나라/NNG
+법인/NNG + 기업/NNG + 의/JKG
+1997/SN + 년/NNB + 중/NNB
+경영/NNG + 성과/NNG + 를/JKO
+재무/NNG + 구조/NNG + ,/SP
+수익/NNG + 성/XSN + ,/SP
+성장/NNG + 성/XSN
+및/MAG
+생산/NNG + 성/XSN
+등/NNB + 의/JKG
+면/NNG + 에서/JKB
+자세히/MAG
+분석/NNG + 하/XSV + 아/EC
+보/VX + 고자/EC
+하/VV + ㄴ다/EF + ./SF
+Ⅱ/SL + ./SF
+財務構造/SH
+分析/SH
+1/SN + ./SF
+製造業/SH
+1997/SN + 년/NNB + 말/NNB
+현재/MAG
+제조업/NNG + 의/JKG
+負債比率/SH + (/SS + 부채/NNG + //SP + 자기/NNG + 자본/NNG + )/SS + 은/JX
+396/SN + ./SP + 3/SN + %/SW + 로/JKB
+지난해/NNG + 말/NNB + 의/JKG
+317/SN + ./SP + 1/SN + %/SW + 보다/JKB
+크/VA + 게/EC
+상승/NNG + 하/XSV + 았/EP + 으며/EC
+자기/NNG + 자본/NNG + 비율/NNG + 은/JX
+24/SN + ./SP + 0/SN + %/SW + 에서/JKB
+20/SN + ./SP + 2/SN + %/SW + 로/JKB
+하락/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이/NP + 는/JX
+수익/NNG + 성/XSN
+악화/NNG + 와/JC
+주식/NNG + 시장/NNG
+침체/NNG + 로/JKB
+인하/VV + ㄴ/ETM
+주식/NNG + 발행/NNG
+부진/NNG
+등/NNB + 으로/JKB
+자기/NNG + 자본/NNG + 이/JKS
+1/SN + ./SP + 1/SN + %/SW
+증가/NNG + 에/JKB
+그치/VV + ㄴ/ETM
+반면/NNG
+환율/NNG + 상승/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+외화/NNG + 부채/NNG + 의/JKG
+원화/NNG + 환산/NNG + 가액/NNG
+급증/NNG
+등/NNB + 으로/JKB
+부채/NNG + 는/JX
+29/SN + ./SP + 1/SN + %/SW + 나/JX
+증가/NNG + 하/XSV + 았/EP + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+이/NP + 에/JKB
+따르/VV + 아/EC
+차입금/NNG + 의존도/NNG + (/SS + 차입금/NNG + //SP + 총/MM + 자본/NNG + )/SS + 도/JX
+지난해/NNG + 말/NNB + 의/JKG
+47/SN + ./SP + 7/SN + %/SW + 에서/JKB
+54/SN + ./SP + 2/SN + %/SW + 로/JKB
+크/VA + 게/EC
+상승/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+한편/NNG
+기업/NNG + 의/JKG
+단기/NNG + 지급/NNG + 능력/NNG + 을/JKO
+나타내/VV + 는/ETM
+유동/NNG + 비율/NNG + (/SS + 유동/NNG + 자산/NNG + //SP + 유동/NNG + 부채/NNG + )/SS + 은/JX
+자금/NNG + 사정/NNG
+악화/NNG + 로/JKB
+미/XPN + 회수/NNG + 되/XSV + ㄴ/ETM
+매출/NNG + 채권/NNG + 이/JKS
+일시/NNG + 적/XSN + 으로/JKB
+크/VA + 게/EC
+증가/NNG + 하/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+지난해/NNG + (/SS + 91/SN + ./SP + 9/SN + %/SW + )/SS + 와/JKB
+비슷/XR + 하/XSA + ㄴ/ETM
+91/SN + ./SP + 8/SN + %/SW + 를/JKO
+유지/NNG + 하/XSV + 았/EP + 으나/EC
+고정/NNG + 비율/NNG + (/SS + 고정/NNG + 자산/NNG + //SP + 자기/NNG + 자본/NNG + )/SS + 은/JX
+지난해/NNG + 말/NNB + 의/JKG
+237/SN + ./SP + 0/SN + %/SW + 에서/JKB
+261/SN + ./SP + 1/SN + %/SW + 로/JKB
+상승/NNG + 하/XSV + 아/EC
+기업/NNG + 재무/NNG + 구조/NNG + 의/JKG
+장기/NNG + 적/XSN
+안정/NNG + 성/XSN + 이/JKS
+더욱/MAG
+악화/NNG + 되/XSV + ㄴ/ETM
+것/NNB + 으로/JKB
+나타나/VV + 았/EP + 다/EF + ./SF
+부문/NNG + 별/XSN + 로/JKB
+보/VV + 면/EC
+차입금/NNG + 의존도/NNG + 가/JKS
+높/VA + 은/ETM
+대/XPN + 기업/NNG + 과/JC
+중화학/NNG + 공업/NNG + 이/JKS
+중소기업/NNG + 과/JC
+경공업/NNG + 에/JKB
+비하/VV + 아/EC
+재무/NNG + 관련/NNG
+비율/NNG + 의/JKG
+악화/NNG
+정도/NNG + 가/JKS
+더/MAG
+크/VA + ㄴ/ETM
+것/NNB + 으로/JKB
+나타나/VV + 았/EP + 다/EF + ./SF
+즉/MAG + ,/SP
+대/XPN + 기업/NNG + 의/JKG
+자기/NNG + 자본/NNG + 비율/NNG + 은/JX
+지난해/NNG + 의/JKG
+24/SN + ./SP + 9/SN + %/SW + 에서/JKB
+20/SN + ./SP + 4/SN + %/SW + 로/JKB
+하락/NNG + 하/XSV + 아/EC
+중소기업/NNG + (/SS + 20/SN + ./SP + 5/SN + %/SW + →/SW + 19/SN + ./SP + 3/SN + %/SW + )/SS + 보다/JKB
+하락/NNG + 폭/NNG + 이/JKS
+더/MAG
+크/VA + 었/EP + 으며/EC + ,/SP
+대/XPN + 기업/NNG + 의/JKG
+비중/NNG + 이/JKS
+높/VA + 은/ETM
+중화학/NNG + 공업/NNG + 의/JKG
+자기/NNG + 자본/NNG + 비율/NNG + 도/JX
+지난해/NNG + 의/JKG
+25/SN + ./SP + 2/SN + %/SW + 에서/JKB
+20/SN + ./SP + 8/SN + %/SW + 로/JKB
+하락/NNG + 하/XSV + 아/EC
+경공업/NNG + (/SS + 20/SN + ./SP + 2/SN + %/SW + →/SW + 17/SN + ./SP + 5/SN + %/SW + )/SS + 보다/JKB
+더/MAG
+크/VA + 게/EC
+하락/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+업종/NNG + 별/XSN + 로/JKB + 는/JX
+대부분/NNG + 의/JKG
+제조/NNG + 업종/NNG + 에서/JKB
+자기/NNG + 자본/NNG + 비율/NNG + 이/JKS
+지난해/NNG + 보다/JKB
+낮/VA + 아/EC + 지/VX + ㄴ/ETM
+것/NNB + 으로/JKB
+나타나/VV + 았/EP + 다/EF + ./SF
+특히/MAG
+사무기기/NNG
+영상/NNG + ·/SP + 음향/NNG + 장비/NNG
+고무/NNG + ·/SP + 플라스틱업/NNG + 의/JKG
+자기/NNG + 자본/NNG + 비율/NNG
+하락/NNG + 이/JKS
+현저/XR + 하/XSA + 았/EP + 는데/EC + ,/SP
+이/NP + 는/JX
+수익/NNG + 성/XSN
+악화/NNG + 와/JC
+환율/NNG + 상승/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+외화/NNG + 부채/NNG + 의/JKG
+원화/NNG + 환산/NNG + 가액/NNG + 이/JKS
+증가/NNG + 하/XSV + ㄴ/ETM
+데/NNB
+주로/MAG
+기인/NNG + 되/XSV + ㄴ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+반면/NNG
+의료/NNG + 정밀/NNG + 기기업/NNG + 은/JX
+수익/NNG + 성/XSN
+향상/NNG + 과/JC
+주식/NNG + 발행/NNG
+증가/NNG + 로/JKB
+자기/NNG + 자본/NNG + 비율/NNG + 이/JKS
+지난해/NNG + 말/NNB + 의/JKG
+18/SN + ./SP + 8/SN + %/SW + 에서/JKB
+19/SN + ./SP + 4/SN + %/SW + 로/JKB
+높/VA + 아/EC + 지/VX + 었/EP + 으며/EC
+기타/NNG + 전기/NNG + 기계업/NNG + 도/JX
+자산/NNG + 재/XPN + 평가/NNG
+실시/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+자본/NNG + 잉여금/NNG + 의/JKG
+증가/NNG + 로/JKB
+자기/NNG + 자본/NNG + 비율/NNG + 이/JKS
+지난해/NNG + 말/NNB + 의/JKG
+23/SN + ./SP + 7/SN + %/SW + 에서/JKB
+25/SN + ./SP + 7/SN + %/SW + 로/JKB
+높/VA + 아/EC + 지/VX + 었/EP + 다/EF + ./SF
+2/SN + ./SF
+非製造業/SH
+비/XPN + 제조업/NNG + 중/NNB + 에서/JKB + 는/JX
+전기/NNG + ·/SP + 가스업/NNG + (/SS + 47/SN + ./SP + 3/SN + %/SW + →/SW + 36/SN + ./SP + 7/SN + %/SW + )/SS + 과/JC
+운수업/NNG + (/SS + 10/SN + ./SP + 8/SN + %/SW + →/SW + 7/SN + ./SP + 1/SN + %/SW + )/SS
+등/NNB
+외화/NNG + 부채/NNG + 가/JKS
+많/VA + 은/ETM
+업종/NNG + 의/JKG
+자기/NNG + 자본/NNG + 비율/NNG
+하락/NNG + 이/JKS
+현저/XR + 하/XSA + 았/EP + 다/EF + ./SF
+이/NP + 는/JX
+환율/NNG + 상승/NNG + 으로/JKB
+외화/NNG + 부채/NNG + 의/JKG
+원화/NNG + 환산/NNG + 가액/NNG + 이/JKS
+크/VA + 게/EC
+증가/NNG + 하/XSV + ㄴ/ETM
+데/NNB + 다/JX
+크/VA + ㄴ/ETM
+폭/NNG + 의/JKG
+환차손/NNG
+발생/NNG + 으로/JKB
+인하/VV + ㄴ/ETM
+이익/NNG + 잉여금/NNG
+감소/NNG
+등/NNB + 으로/JKB
+내부/NNG + 유보/NNG + 가/JKS
+부진/NNG + 하/XSA + 았/EP + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+建設業/SH + 의/JKG
+경우/NNG + 에/JKB + 는/JX
+수익/NNG + 성/XSN
+저하/NNG
+및/MAG
+금융/NNG + 기관/NNG + 차입/NNG
+증가/NNG
+등/NNB + 으로/JKB
+자기/NNG + 자본/NNG + 비율/NNG + 이/JKS
+지난해/NNG + 말/NNB + 의/JKG
+15/SN + ./SP + 1/SN + %/SW + 에서/JKB
+13/SN + ./SP + 2/SN + %/SW + 로/JKB
+하락/NNG + 하/XSV + 았/EP + 으며/EC
+都/SH + ·/SP + 小賣業/SH + 의/JKG
+자기/NNG + 자본/NNG + 비율/NNG + 도/JX
+지난해/NNG + 말/NNB + 의/JKG
+16/SN + ./SP + 4/SN + %/SW + 에서/JKB
+14/SN + ./SP + 0/SN + %/SW + 로/JKB
+하락/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+3/SN + ./SF
+製造業/SH
+財務構造/SH + 의/JKG
+國際比較/SH
+제조업/NNG + 의/JKG
+재무/NNG + 구조/NNG + 를/JKO
+주요국/NNG + 과/JKB
+비교/NNG + 하/XSV + 아/EC
+보/VX + 면/EC
+1997/SN + 년/NNB + 말/NNB
+현재/MAG
+우리나라/NNG
+제조업/NNG + 의/JKG
+자기/NNG + 자본/NNG + 비율/NNG + 은/JX
+20/SN + ./SP + 2/SN + %/SW + 로/JKB
+美國/SH + (/SS + 96/SN + 년/NNB + )/SS
+39/SN + ./SP + 4/SN + %/SW + ,/SP
+日本/SH + (/SS + 96/SN + 년/NNB + )/SS
+34/SN + ./SP + 1/SN + %/SW + ,/SP
+臺灣/SH + (/SS + 95/SN + 년/NNB + )/SS
+53/SN + ./SP + 9/SN + %/SW + 에/JKB
+비하/VV + 아/EC
+현저히/MAG
+낮/VA + 다/EF + ./SF
+또한/MAG
+부채/NNG + 비율/NNG + (/SS + 부채/NNG + //SP + 자기/NNG + 자본/NNG + )/SS + 은/JX
+396/SN + ./SP + 3/SN + %/SW + 로/JKB
+미국/NNP + (/SS + 153/SN + ./SP + 5/SN + %/SW + )/SS + 의/JKG
+2/SN + ./SP + 6/SN + 배/NNG
+대만/NNP + (/SS + 85/SN + ./SP + 7/SN + %/SW + )/SS + 의/JKG
+4/SN + ./SP + 6/SN + 배/NNG
+수준/NNG + 이/VCP + 며/EC
+차입금/NNG
+의존도/NNG + 도/JX
+주요국/NNG + 보다/JKB
+약/MM
+60/SN + ～/SO + 100/SN + %/SW
+높/VA + 은/ETM
+수준/NNG + 이/VCP + 다/EF + ./SF
+이/NP + 처럼/JKB
+우리나라/NNG
+제조업/NNG + 의/JKG
+재무/NNG + 구조/NNG + 가/JKS
+상대/NNG + 적/XSN + 으로/JKB
+취약/NNG + 하/XSA + ㄴ/ETM
+것/NNB + 은/JX
+기업/NNG
+성장/NNG + 과정/NNG + 에서/JKB
+생산/NNG + 능력/NNG
+확충/NNG + 을/JKO
+위하/VV + ㄴ/ETM
+시설/NNG + 투자/NNG
+등/NNB + 의/JKG
+소요/NNG + 자금/NNG + 을/JKO
+내부/NNG + 유보/NNG + 나/JC
+주식/NNG + 발행/NNG + 을/JKO
+통하/VV + ㄴ/ETM
+자체/NNG
+자금/NNG + 조달/NNG + 보다/JKB + 는/JX
+주로/MAG
+외부/NNG + 차입/NNG + 에/JKB
+의존/NNG + 하/XSV + 아/EC
+오/VX + ㄴ/ETM
+데/NNB + 다/JX
+지난해/NNG
+원화/NNG + 환율/NNG + 의/JKG
+급격/XR + 하/XSA + ㄴ/ETM
+상승/NNG + 으로/JKB
+외화/NNG + 부채/NNG + 의/JKG
+원화/NNG + 환산/NNG + 가액/NNG + 이/JKS
+크/VA + 게/EC
+증가/NNG + 하/XSV + 았/EP + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+Ⅲ/SL + ./SF
+收益性/SH
+分析/SH
+1/SN + ./SF
+製造業/SH
+1997/SN + 년/NNB + 중/NNB
+제조업/NNG + 의/JKG
+賣出額/SH
+營業利益率/SH + 은/JX
+8/SN + ./SP + 3/SN + %/SW + 로/JKB
+지난해/NNG + (/SS + 6/SN + ./SP + 5/SN + %/SW + )/SS + 보다/JKB
+높/VA + 아/EC + 지/VX + 었/EP + 는데/EC
+이/NP + 는/JX
+인력/NNG + 조정/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+인원/NNG + 감축/NNG + 과/JC
+임금/NNG + 인상/NNG + 률/XSN
+둔화/NNG
+등/NNB + 으로/JKB
+인건비/NNG + 가/JKS
+절감/NNG + (/SS + 매출액/NNG + 의/JKG
+12/SN + ./SP + 9/SN + %/SW + →/SW + 11/SN + ./SP + 4/SN + %/SW + )/SS + 되/XSV + ㄴ/ETM
+데/NNB + 다/JX
+감가상각비/NNG + 와/JC
+광고/NNG + 선전비/NNG + ,/SP
+접대비/NNG
+등/NNB
+기타/NNG
+경비/NNG + 가/JKS
+투자/NNG + 부진/NNG
+및/MAG
+기업/NNG + 의/JKG
+비용/NNG + 감축/NNG
+노력/NNG + 으로/JKB
+절감/NNG + 되/XSV + 었/EP + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+한편/NNG
+제조업/NNG + 의/JKG
+賣出額/SH
+經常利益率/SH + 은/JX
+환율/NNG
+급등/NNG + 으로/JKB
+환차손/NNG + 이/JKS
+대폭/MAG
+증가/NNG + (/SS + 매출액/NNG + 의/JKG
+0/SN + ./SP + 4/SN + %/SW + →/SW + 3/SN + ./SP + 1/SN + %/SW + )/SS + 하/XSV + ㄴ/ETM
+데/NNB + 다/JX
+금리/NNG
+상승/NNG + 과/JC
+차입금/NNG + 의존도/NNG
+심화/NNG + 로/JKB
+금융/NNG + 비용/NNG
+부담/NNG + 도/JX
+증가/NNG + (/SS + 5/SN + ./SP + 8/SN + %/SW + →/SW + 6/SN + ./SP + 4/SN + %/SW + )/SS + 하/XSV + 아/EC
+지난해/NNG + 의/JKG
+1/SN + ./SP + 0/SN + %/SW + 에서/JKB
+-/SS + 0/SN + ./SP + 3/SN + %/SW + 의/JKG
+손실/NNG + 로/JKB
+전환/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+기업/NNG + 규모/NNG + 별/XSN + 로/JKB + 는/JX
+대/XPN + 기업/NNG + 의/JKG
+수익/NNG + 성/XSN + 이/JKS
+중소기업/NNG + 보다/JKB
+크/VA + 게/EC
+악화/NNG + 되/XSV + ㄴ/ETM
+것/NNB + 으로/JKB
+나타나/VV + 았/EP + 는데/EC
+이/NP + 는/JX
+대/XPN + 기업/NNG + 의/JKG
+경우/NNG
+차입금/NNG + 의존도/NNG + 와/JC
+외환/NNG + 거래/NNG + 비중/NNG + 이/JKS
+상대/NNG + 적/XSN + 으로/JKB
+높/VA + 아/EC
+금융/NNG + 비용/NNG
+및/MAG
+환차손/NNG
+규모/NNG + 가/JKS
+더/MAG
+크/VA + 게/EC
+나타나/VV + 았/EP + 기/ETN
+때문/NNB + 이/VCP + ㄴ/ETM
+것/NNB + 으로/JKB
+보이/VV + ㄴ다/EF + ./SF
+한편/NNG
+공업/NNG + 구조/NNG + 별/XSN + 로/JKB + 는/JX
+중화학/NNG + 공업/NNG + 보다/JKB
+경공업/NNG + 의/JKG
+수익/NNG + 성/XSN + 이/JKS
+더욱/MAG
+저조/NNG + 하/XSA + ㄴ/ETM
+것/NNB + 으로/JKB
+나타나/VV + 았/EP + 는데/EC
+이/NP + 는/JX
+경공업/NNG + 의/JKG
+경우/NNG
+매출액/NNG
+영업/NNG + 이익/NNG + 률/XSN + 에/JKB
+비하/VV + 아/EC
+상대/NNG + 적/XSN + 으로/JKB
+높/VA + 은/ETM
+금융/NNG + 비용/NNG + 을/JKO
+부담/NNG + 하/XSV + 고/EC
+있/VX + 는/ETM
+데/NNB + 다/JX
+환차손/NNG
+발생/NNG + 도/JX
+크/VA + 게/EC
+늘어나/VV + 았/EP + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+중화학/NNG + 공업/NNG + 의/JKG
+경우/NNG + 에/JKB + 는/JX
+매출액/NNG
+영업/NNG + 이익/NNG + 률/XSN + 이/JKS
+크/VA + 게/EC
+호전/NNG + 되/XSV + 었/EP + 음/ETN + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+거액/NNG + 의/JKG
+환차손/NNG
+발생/NNG + 과/JC
+금융/NNG + 비용/NNG + 부담/NNG
+증가/NNG + 로/JKB
+매출액/NNG
+경상/NNG + 이익/NNG + 률/XSN + 은/JX
+지난해/NNG + 의/JKG
+1/SN + ./SP + 5/SN + %/SW + 에서/JKB
+-/SS + 0/SN + ./SP + 1/SN + %/SW + 의/JKG
+손실/NNG + 로/JKB
+전환/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+업종/NNG + 별/XSN + 로/JKB + 는/JX
+조선/NNG
+등/NNB
+일부/NNG
+업종/NNG + 을/JKO
+제외/NNG + 하/XSV + ㄴ/ETM
+대부분/NNG + 의/JKG
+업종/NNG + 에서/JKB
+지난해/NNG + 보다/JKB
+수익/NNG + 성/XSN + 이/JKS
+크/VA + 게/EC
+악화/NNG + 되/XSV + ㄴ/ETM
+가운데/NNG
+자동차/NNG
+의복/NNG + ·/SP + 모피/NNG
+등/NNB
+내수/NNG + 가/JKS
+특히/MAG
+부진/NNG + 하/XSA + 았/EP + 던/ETM
+산업/NNG + 과/JC
+반도체/NNG
+철강/NNG
+등/NNB
+차입금/NNG + 의존도/NNG + 가/JKS
+높/VA + 고/EC
+외화/NNG + 부채/NNG + 가/JKS
+많/VA + 은/ETM
+산업/NNG + 의/JKG
+수익/NNG + 성/XSN
+악화/NNG + 가/JKS
+현저/XR + 하/XSA + 았/EP + 다/EF + ./SF
+한편/NNG
+조선/NNP + 의/JKG
+경우/NNG + 에/JKB + 는/JX
+환율/NNG + 상승/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+원화/NNG + 수출/NNG + 가액/NNG
+증가/NNG + 와/JC
+인건비/NNG
+절감/NNG
+등/NNB + 에/JKB
+힘입/VV + 어/EC
+경상/NNG + 이익/NNG + 이/JKS
+지난해/NNG + 의/JKG
+적자/NNG + 에서/JKB
+흑자/NNG + 로/JKB
+전환/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+2/SN + ./SF
+非製造業/SH
+建設業/SH + 의/JKG
+매출액/NNG
+경상/NNG + 이익/NNG + 률/XSN + 은/JX
+시멘트/NNG
+등/NNB
+원재료/NNG + 가격/NNG + 의/JKG
+상승/NNG + 과/JKB
+함께/MAG
+수주/NNG + 경쟁/NNG
+심화/NNG + 로/JKB
+매출/NNG + 마진/NNG + 이/JKS
+줄어들/VV + ㄴ/ETM
+데/NNB + 다/JX
+차입금/NNG
+증가/NNG + 와/JC
+중도금/NNG
+납입/NNG
+부진/NNG + 으로/JKB
+금융/NNG + 비용/NNG + 부담/NNG + 이/JKS
+증대/NNG + 되/XSV + ㄴ/ETM
+데/NNB
+기인/NNG + 하/XSV + 아/EC
+지난해/NNG + 의/JKG
+0/SN + ./SP + 7/SN + %/SW + 에서/JKB
+-/SS + 0/SN + ./SP + 1/SN + %/SW + 의/JKG
+손실/NNG + 로/JKB
+전환/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+都/SH + ·/SP + 小賣業/SH + 의/JKG
+경우/NNG + 에/JKB + 도/JX
+내수/NNG + 부진/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+할인/NNG + 판매/NNG
+실시/NNG + ,/SP
+점포/NNG
+신설/NNG + ·/SP + 확장/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+고정/NNG + 비용/NNG
+증가/NNG + 와/JC
+종합/NNG + 상사/NNG + 의/JKG
+환차손/NNG
+증가/NNG
+등/NNB + 에/JKB
+기인/NNG + 하/XSV + 아/EC
+매출액/NNG
+경상/NNG + 이익/NNG + 률/XSN + 이/JKS
+지난해/NNG + 의/JKG
+0/SN + ./SP + 6/SN + %/SW + 에서/JKB
+-/SS + 0/SN + ./SP + 3/SN + %/SW + 의/JKG
+손실/NNG + 로/JKB
+전환/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+또한/MAG
+운수/NNG + ·/SP + 창고/NNG + ·/SP + 통신업/NNG + 의/JKG
+매출액/NNG
+경상/NNG + 이익/NNG + 률/XSN + 도/JX
+-/SS + 2/SN + ./SP + 6/SN + %/SW + 로/JKB
+지난해/NNG + (/SS + 1/SN + ./SP + 8/SN + %/SW + )/SS + 보다/JKB
+크/VA + 게/EC
+악화/NNG + 되/XSV + 었/EP + 는데/EC + ,/SP
+이/NP + 는/JX
+해운/NNG + ·/SP + 항공업/NNG + 의/JKG
+대/XPN + 규모/NNG
+환차손/NNG
+발생/NNG + 과/JC
+외화/NNG + 리스료/NNG + 의/JKG
+원화/NNG + 환산/NNG + 가액/NNG
+증가/NNG + ,/SP
+통신업/NNG + 의/JKG
+과당/NNG + 경쟁/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+수익/NNG + 성/XSN
+하락/NNG
+등/NNB + 에/JKB
+주로/MAG
+기인/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+3/SN + ./SF
+製造業/SH
+收益性/SH + 의/JKG
+國際比較/SH
+제조업/NNG + 의/JKG
+수익/NNG + 성/XSN + 을/JKO
+美國/SH + ,/SP
+日本/SH
+및/MAG
+臺灣/SH + 과/JKB
+비교/NNG + 하/XSV + 아/EC
+보/VX + 면/EC
+97/SN + 년/NNB + 중/NNB
+우리나라/NNG
+제조업/NNG + 의/JKG
+매출액/NNG
+영업/NNG + 이익/NNG + 률/XSN + 은/JX
+8/SN + ./SP + 3/SN + %/SW + 로/JKB
+미국/NNP + (/SS + 96/SN + 년/NNB + )/SS
+7/SN + ./SP + 4/SN + %/SW + ,/SP
+일본/NNP + (/SS + 96/SN + 년/NNB + )/SS
+3/SN + ./SP + 6/SN + %/SW + ,/SP
+대만/NNP + (/SS + 95/SN + 년/NNB + )/SS
+7/SN + ./SP + 3/SN + %/SW + 보다/JKB
+높/VA + 지만/EC
+매출액/NNG
+경상/NNG + 이익/NNG + 률/XSN + 은/JX
+-/SS + 0/SN + ./SP + 3/SN + %/SW + 로/JKB
+미국/NNP
+8/SN + ./SP + 3/SN + %/SW + ,/SP
+대만/NNP
+5/SN + ./SP + 1/SN + %/SW + ,/SP
+일본/NNP
+3/SN + ./SP + 4/SN + %/SW + 에/JKB
+비하/VV + 아/EC
+크/VA + 게/EC
+낮/VA + 은/ETM
+것/NNB + 으로/JKB
+나타나/VV + 았/EP + 다/EF + ./SF
+이/NP + 는/JX
+우리나라/NNG
+기업/NNG + 이/JKS
+영업/NNG + 활동/NNG + 에서/JKB + 는/JX
+이/NP + 들/XSN
+국가/NNG + 들/XSN + 보다/JKB
+양호/NNG + 하/XSA + ㄴ/ETM
+수익/NNG + 성/XSN + 을/JKO
+나타내/VV + 었/EP + 으나/EC
+높/VA + 은/ETM
+외부/NNG + 자금/NNG
+의존도/NNG + 와/JC
+고/XPN + 금리/NNG + 로/JKB
+인하/VV + 아/EC
+금융/NNG + 비용/NNG
+부담/NNG + 이/JKS
+크/VA + 었/EP + 던/ETM
+데/NNB + 다/JX
+환율/NNG + 급등/NNG + 으로/JKB
+대/XPN + 규모/NNG + 의/JKG
+환차손/NNG + 이/JKS
+발생/NNG + 하/XSV + 아/EC
+영업/NNG + 외/NNB + 수지/NNG + 가/JKS
+크/VA + 게/EC
+악화/NNG + 되/XSV + 었/EP + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+Ⅳ/SL + ./SF
+成長性/SH
+分析/SH
+1/SN + ./SF
+製造業/SH
+1997/SN + 년/NNB + 중/NNB
+製造業/SH + 의/JKG
+賣出額/SH
+增加率/SH + 은/JX
+11/SN + ./SP + 0/SN + %/SW + 로/JKB
+지난해/NNG + (/SS + 10/SN + ./SP + 3/SN + %/SW + )/SS + 와/JKB
+비슷/XR + 하/XSA + ㄴ/ETM
+수준/NNG + 을/JKO
+유지/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 으로/JKB
+나타나/VV + 았/EP + 는데/EC + ,/SP
+이/NP + 는/JX
+경기/NNG + 부진/NNG + 으로/JKB
+내수/NNG + 증가/NNG + 율/XSN + 은/JX
+지난해/NNG + 의/JKG
+11/SN + ./SP + 7/SN + %/SW + 에서/JKB
+7/SN + ./SP + 2/SN + %/SW + 로/JKB
+둔화/NNG + 되/XSV + 었/EP + 으나/EC
+수출/NNG + 증가/NNG + 율/XSN + 이/JKS
+화공품/NNG
+철강/NNG
+등/NNB
+중화학/NNG + 제품/NNG + 의/JKG
+수출/NNG + 호조/NNG + 와/JC
+환율/NNG + 상승/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+원화/NNG + 환산/NNG + 가액/NNG
+증대/NNG + 효과/NNG
+등/NNB + 으로/JKB
+지난해/NNG + 의/JKG
+7/SN + ./SP + 3/SN + %/SW + 에서/JKB
+19/SN + ./SP + 2/SN + %/SW + 로/JKB
+크/VA + 게/EC
+상승/NNG + 하/XSV + 았/EP + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+한편/NNG
+有形資産/SH
+增加率/SH + 은/JX
+경기/NNG + 부진/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+설비/NNG + 투자/NNG
+둔화/NNG + 로/JKB
+지난해/NNG + 의/JKG
+18/SN + ./SP + 2/SN + %/SW + 에서/JKB
+13/SN + ./SP + 7/SN + %/SW + 로/JKB
+낮/VA + 아/EC + 지/VX + 었/EP + 다/EF + ./SF
+부문/NNG + 별/XSN + 로/JKB
+보/VV + 면/EC
+중소기업/NNG + 과/JC
+경공업/NNG + 이/JKS
+대/XPN + 기업/NNG + 과/JC
+중화학/NNG + 공업/NNG + 보다/JKB
+매출/NNG + 신장세/NNG + 가/JKS
+부진/NNG + 하/XSA + 았/EP + 을/ETM
+뿐/NNB + 만/JX
+아니/VCN + 라/EC
+유형/NNG + 자산/NNG
+증가/NNG + 율/XSN + 도/JX
+상대/NNG + 적/XSN + 으로/JKB
+낮/VA + 은/ETM
+수준/NNG + 을/JKO
+기록/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+업종/NNG + 별/XSN + 로/JKB
+보/VV + 면/EC
+섬유/NNG
+영상/NNG + ·/SP + 음향/NNG + 장비업/NNG
+등/NNB + 은/JX
+매출액/NNG
+신장세/NNG + 가/JKS
+확대/NNG + 되/XSV + ㄴ/ETM
+반면/NNG
+자동차/NNG
+사무기기/NNG
+기계/NNG + 장비업/NNG
+등/NNB + 의/JKG
+업종/NNG + 에서/JKB + 는/JX
+그/MM
+신장세/NNG + 가/JKS
+크/VA + 게/EC
+둔화/NNG + 되/XSV + ㄴ/ETM
+것/NNB + 으로/JKB
+나타나/VV + 았/EP + 다/EF + ./SF
+2/SN + ./SF
+非製造業/SH
+비/XPN + 제조업/NNG + 의/JKG
+매출액/NNG + 은/JX
+운수업/NNG
+등/NNB
+일부/NNG
+업종/NNG + 을/JKO
+제외/NNG + 하/XSV + 고/EC + 는/JX
+대부분/NNG + 의/JKG
+업종/NNG + 이/JKS
+지난해/NNG + 보다/JKB
+그/MM
+신장세/NNG + 가/JKS
+둔화/NNG + 되/XSV + ㄴ/ETM
+가운데/NNG
+부동산/NNG
+및/MAG
+사업/NNG + 서비스업/NNG + (/SS + 28/SN + ./SP + 6/SN + %/SW + →/SW + 14/SN + ./SP + 0/SN + %/SW + )/SS
+통신업/NNG + (/SS + 27/SN + ./SP + 9/SN + %/SW + →/SW + 17/SN + ./SP + 5/SN + %/SW + )/SS
+도/NNG + ·/SP + 소매업/NNG + (/SS + 18/SN + ./SP + 6/SN + %/SW + →/SW + 15/SN + ./SP + 2/SN + %/SW + )/SS
+등/NNB + 이/JKS
+특히/MAG
+부진/NNG + 하/XSA + 았/EP + 던/ETM
+것/NNB + 으로/JKB
+나타나/VV + 았/EP + 다/EF + ./SF
+건설업/NNG + 의/JKG
+경우/NNG + 에/JKB + 는/JX
+주택/NNG
+등/NNB
+민간/NNG + 건설/NNG
+부진/NNG + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+공공/NNG + 부문/NNG + 의/JKG
+사회/NNG + 간접/NNG + 자본/NNG + 투자/NNG
+확대/NNG + 와/JC
+해외/NNG + 건설/NNG + 수주/NNG
+증가/NNG
+등/NNB + 으로/JKB
+지난해/NNG + 와/JKB
+비슷/XR + 하/XSA + ㄴ/ETM
+매출액/NNG
+증가/NNG + 율/XSN + (/SS + 16/SN + ./SP + 5/SN + %/SW + →/SW + 16/SN + ./SP + 3/SN + %/SW + )/SS + 을/JKO
+유지/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+Ⅴ/SL + ./SF
+生産性/SH
+分析/SH
+1/SN + ./SF
+製造業/SH
+1997/SN + 년/NNB + 중/NNB
+제조업/NNG + 의/JKG
+從業員/SH + 1/SN + 人當/SH
+附加價値/SH
+增加率/SH + 은/JX
+지난해/NNG + 의/JKG
+1/SN + ./SP + 1/SN + %/SW + 에서/JKB
+4/SN + ./SP + 7/SN + %/SW + 로/JKB
+상승/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 으로/JKB
+나타나/VV + 았/EP + 는데/EC + ,/SP
+이/NP + 는/JX
+수익/NNG + 성/XSN
+악화/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+부가/NNG + 가치/NNG + 율/XSN + 의/JKG
+하락/NNG + (/SS + 24/SN + ./SP + 4/SN + %/SW + →/SW + 21/SN + ./SP + 9/SN + %/SW + )/SS + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+인력/NNG + 조정/NNG + 으로/JKB
+종업원/NNG + 수/NNG + 가/JKS
+감소/NNG + 하/XSV + ㄴ/ETM
+데/NNB
+주로/MAG
+기인/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 으로/JKB
+보이/VV + ㄴ다/EF + ./SF
+제조업/NNG + 의/JKG
+勞動裝備率/SH + 은/JX
+지속/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+설비/NNG + 투자/NNG + 와/JC
+종업원/NNG + 수/NNG + 의/JKG
+감소/NNG + 로/JKB
+크/VA + 게/EC
+증가/NNG + (/SS + 63/SN + 백만/NR + 원/NNB + →/SW + 77/SN + ./SP + 5/SN + 백만/NR + 원/NNB + )/SS + 하/XSV + ㄴ/ETM
+반면/NNG
+설비/NNG + 투자/NNG + 효율/NNG + 은/JX
+수익/NNG + 성/XSN
+악화/NNG + 로/JKB
+인하/VV + ㄴ/ETM
+부가/NNG + 가치/NNG + 율/XSN + 의/JKG
+하락/NNG
+등/NNB + 으로/JKB
+지난해/NNG + 의/JKG
+64/SN + ./SP + 5/SN + %/SW + 에서/JKB
+56/SN + ./SP + 4/SN + %/SW + 로/JKB
+낮/VA + 아/EC + 지/VX + 었/EP + 다/EF + ./SF
+한편/NNG
+제조업/NNG + 의/JKG
+從業員/SH + 1/SN + 人當/SH
+人件費/SH
+增加率/SH + 은/JX
+지난해/NNG + 의/JKG
+12/SN + ./SP + 2/SN + %/SW + 에서/JKB
+4/SN + ./SP + 3/SN + %/SW + 로/JKB
+크/VA + 게/EC
+둔화/NNG + 되/XSV + ㄴ/ETM
+것/NNB + 으로/JKB
+나타나/VV + 았/EP + 다/EF + ./SF
+2/SN + ./SF
+非製造業/SH
+건설업/NNG + 의/JKG
+종업원/NNG + 1/SN + 인/NNG + 당/XSN
+부가/NNG + 가치/NNG
+증가/NNG + 율/XSN + 은/JX
+상반기/NNG + 중/NNB
+공공/NNG + 부문/NNG + 의/JKG
+사회/NNG + 간접/NNG + 자본/NNG + 투자/NNG
+확대/NNG
+등/NNB + 에/JKB
+따르/VV + ㄴ/ETM
+종업원/NNG + 수/NNG
+증가/NNG + 와/JC
+수익/NNG + 성/XSN
+악화/NNG
+등/NNB + 으로/JKB
+지난해/NNG + 의/JKG
+10/SN + ./SP + 8/SN + %/SW + 에서/JKB
+2/SN + ./SP + 7/SN + %/SW + 로/JKB
+둔화/NNG + 되/XSV + 었/EP + 으며/EC
+도/NNG + ·/SP + 소매업/NNG + 은/JX
+매출/NNG
+둔화/NNG + 와/JC
+수익/NNG + 성/XSN + 의/JKG
+악화/NNG + 로/JKB
+종업원/NNG + 1/SN + 인/NNG + 당/XSN
+부가/NNG + 가치/NNG
+증가/NNG + 율/XSN + 이/JKS
+지난해/NNG + 보다/JKB
+오히려/MAG
+하락/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 으로/JKB
+나타나/VV + 았/EP + 다/EF + ./SF
+Ⅵ/SL + ./SF
+政策的/SH
+示唆點/SH
+그동안/NNG
+우리나라/NNG
+기업/NNG + 들/XSN + 은/JX
+수익/NNG + 성/XSN + 보다/JKB + 는/JX
+성장/NNG + 위주/NNG + 의/JKG
+경영/NNG + 을/JKO
+지속/NNG + 하/XSV + 아/EC
+오/VX + 았/EP + 으며/EC
+이/NP + 에/JKB
+소요/NNG + 되/XSV + 는/ETM
+자금/NNG + 을/JKO
+주로/MAG
+외부/NNG + 차입/NNG + 에/JKB
+의존/NNG + 하/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+미국/NNP
+일본/NNP
+등/NNB
+주요국/NNG + 에/JKB
+비하/VV + 아/EC
+부채/NNG + 비율/NNG + 이/JKS
+높/VA + 은/ETM
+수준/NNG + 을/JKO
+지속/NNG + 하/XSV + 는/ETM
+등/NNB
+재무/NNG + 구조/NNG + 가/JKS
+취약/NNG + 하/XSA + ㄴ/ETM
+모습/NNG + 을/JKO
+보이/VV + 고/EC
+있/VX + 다/EF + ./SF
+1997/SN + 년/NNB + 만/JX
+보/VV + 더라도/EC
+우리나라/NNG
+제조업/NNG + 의/JKG
+부채/NNG + 비율/NNG + 은/JX
+396/SN + ./SP + 3/SN + %/SW + 로/JKB
+미국/NNP + (/SS + 153/SN + ./SP + 5/SN + %/SW + )/SS
+일본/NNP + (/SS + 193/SN + ./SP + 2/SN + %/SW + )/SS
+대만/NNP + (/SS + 85/SN + ./SP + 7/SN + %/SW + )/SS
+등/NNB + 에/JKB
+비하/VV + 아/EC
+매우/MAG
+높/VA + 은/ETM
+실정/NNG + 이/VCP + 다/EF + ./SF
+우리나라/NNG
+제조업/NNG + 의/JKG
+부채/NNG + 비율/NNG + 이/JKS
+높/VA + 은/ETM
+것/NNB + 은/JX
+지난해/NNG
+환율/NNG + 상승/NNG + 으로/JKB
+인하/VV + 아/EC
+외화/NNG + 부채/NNG + 의/JKG
+원화/NNG + 환산/NNG + 가액/NNG + 이/JKS
+증가/NNG + 하/XSV + ㄴ/ETM
+데/NNB + 에/JKB + 도/JX
+일부/NNG
+기인/NNG + 하/XSV + 지만/EC + ,/SP
+근본/NNG + 적/XSN + 으로/JKB + 는/JX
+과거/NNG + 의/JKG
+높/VA + 은/ETM
+인플레이션/NNG
+하/NNG + 에서/JKB
+금융/NNG + 비용/NNG + 의/JKG
+손비/NNG + 인정/NNG + 제도/NNG + 와/JC
+금리/NNG + 규제/NNG
+등/NNB + 으로/JKB
+기업/NNG + 이/JKS
+차입/NNG + 을/JKO
+선호/NNG + 하/XSV + 는/ETM
+경향/NNG + 이/JKS
+강/XR + 하/XSA + 았/EP + 던/ETM
+데/NNB + 다/JX
+기업/NNG
+스스로/NNG + 도/JX
+재무/NNG + 구조/NNG + 를/JKO
+개선/NNG + 하/XSV + 려는/ETM
+노력/NNG + 이/JKS
+미흡/NNG + 하/XSA + 았/EP + 기/ETN
+때문/NNB + 이/VCP + ㄴ/ETM
+것/NNB + 으로/JKB
+보이/VV + ㄴ다/EF + ./SF
+이/NP + 와/JKB
+같/VA + 은/ETM
+기업/NNG + 의/JKG
+타인/NNG + 자본/NNG + 의존/NNG
+경영/NNG + 은/JX
+금리/NNG + 상승/NNG + 과/JC
+수익/NNG + 성/XSN
+악화/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+대외/NNG + 경쟁력/NNG
+저하/NNG + 의/JKG
+주요/NNG
+요인/NNG + 으로/JKB
+작용/NNG + 하/XSV + ㄹ/ETM
+뿐/NNB + 만/JX
+아니/VCN + 라/EC
+기업/NNG + 의/JKG
+경영/NNG + 부실/NNG + 을/JKO
+초래/NNG + 하/XSV + 아/EC
+국민/NNG + 경제/NNG + 에/JKB
+커다랗/VA + ㄴ/ETM
+부담/NNG + 으로/JKB
+작용/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+따라서/MAJ
+기업/NNG
+퇴출/NNG
+및/MAG
+인수/NNG + ·/SP + 합병/NNG + 제도/NNG + 의/JKG
+개선/NNG + ,/SP
+금융/NNG + 기관/NNG
+여신/NNG + 심사/NNG + 기능/NNG + 의/JKG
+강화/NNG
+등/NNB
+기업/NNG + 의/JKG
+재무/NNG + 구조/NNG
+개선/NNG + 을/JKO
+위하/VV + ㄴ/ETM
+여건/NNG + 마련/NNG + 이/JKS
+무엇/NP + 보다/JKB
+시급/XR + 하/XSA + ㄴ/ETM
+것/NNB + 으로/JKB
+보이/VV + 며/EC + ,/SP
+기업/NNG
+스스로/NNG + 도/JX
+강도/NNG
+높/VA + 은/ETM
+구조/NNG + 조정/NNG
+등/NNB + 을/JKO
+통하/VV + 아/EC
+재무/NNG + 구조/NNG + 를/JKO
+획기적/NNG + 으로/JKB
+개선/NNG + 하/XSV + 지/EC
+않/VX + 으면/EC
+안/MAG + 되/XSV + ㄹ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+한편/NNG
+지난해/NNG
+우리나라/NNG
+제조업/NNG + 이/JKS
+환율/NNG + 변동/NNG + 으로/JKB
+입/VV + 은/ETM
+순환/NNG + 차손/NNG + 은/JX
+매출액/NNG + 의/JKG
+3/SN + ./SP + 1/SN + %/SW + 에/JKB
+달하/VV + 아/EC
+매출액/NNG
+경상/NNG + 이익/NNG + 률/XSN + 을/JKO
+크/VA + ㄴ/ETM
+폭/NNG + 으로/JKB
+떨어뜨리/VV + 는/ETM
+요인/NNG + 이/JKC
+되/VV + 었/EP + 다/EF + ./SF
+이/NP + 처럼/JKB
+환차손/NNG
+비중/NNG + 이/JKS
+높/VA + 아/EC + 지/VX + ㄴ/ETM
+것/NNB + 은/JX
+기업/NNG + 들/XSN + 이/JKS
+타인/NNG + 자본/NNG
+이용/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+비용/NNG + 을/JKO
+절감/NNG + 하/XSV + 기/ETN
+위하/VV + 아/EC
+명목/NNG + 금리/NNG + 가/JKS
+낮/VA + 은/ETM
+해외/NNG + 자금/NNG + 을/JKO
+많이/MAG
+조달/NNG + 하/XSV + 아/EC
+외화/NNG + 부채/NNG + 비중/NNG + 이/JKS
+높/VA + 아/EC + 지/VX + 었/EP + 음/ETN + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+환/NNG + 위험/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+관리/NNG + 를/JKO
+소홀히/MAG
+하/VV + 아/EC
+오/VX + 았/EP + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+따라서/MAJ
+기업/NNG + 들/XSN + 은/JX
+금융/NNG + 비용/NNG + 부담/NNG
+완화/NNG + 를/JKO
+위하/VV + ㄴ/ETM
+부채/NNG + 상환/NNG
+노력/NNG + 과/JKB
+병행/NNG + 하/XSV + 아/EC
+환율/NNG + 변동/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+위험/NNG + 을/JKO
+회피/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+선물환/NNG + 거래/NNG + 나/JC
+스왑/NNG + 거래/NNG
+등/NNB
+선진/NNG + 금융/NNG + 기법/NNG + 을/JKO
+보다/MAG
+적극/NNG + 적/XSN + 으로/JKB
+활용/NNG + 하/XSV + 아야/EC
+하/VX + ㄹ/ETM
+것/NNB + 으로/JKB
+보이/VV + ㄴ다/EF + ./SF
+(/SS + 調査部/SH
+經濟統計室/SH
+調査役/SH
+崔倉福/SH + ,/SP
+行員/SH
+徐元錫/SH + )/SS

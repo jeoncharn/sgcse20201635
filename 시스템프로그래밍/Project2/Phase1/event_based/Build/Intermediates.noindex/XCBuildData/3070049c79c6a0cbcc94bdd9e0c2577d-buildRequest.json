@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "f10d26d3cc205bd6b7b74b7164286f10638b4993d7b66e2b9397fbee684fc14a"
+    }
+  ],
+  "containerPath" : "/Users/jeoncharn/Desktop/sgcs 20201635/2022-1/시스템프로그래밍/Project2/Phase1/event_based/event_based.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/jeoncharn/Desktop/sgcs 20201635/2022-1/시스템프로그래밍/Project2/Phase1/event_based/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/jeoncharn/Desktop/sgcs 20201635/2022-1/시스템프로그래밍/Project2/Phase1/event_based/Build/Products",
+      "derivedDataPath" : "/Users/jeoncharn/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/jeoncharn/Library/Developer/Xcode/DerivedData/event_based-fqtbtprofncbbsearesnfxtzsjgr/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jeoncharn/Library/Developer/Xcode/DerivedData/event_based-fqtbtprofncbbsearesnfxtzsjgr/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/jeoncharn/Desktop/sgcs 20201635/2022-1/시스템프로그래밍/Project2/Phase1/event_based/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

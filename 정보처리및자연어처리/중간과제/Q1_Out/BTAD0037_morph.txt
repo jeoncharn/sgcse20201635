@@ -1,0 +1,7416 @@
+현황/NNG
+//SP
+보/VV + ㄹ/ETM + 만/NNB + 하/XSA + ㄴ/ETM
+프로/NNG
+없/VA + 는/ETM + 것/NNB + 이/JKS
+문제/NNG
+(/SS + 케이블/NNG + TV/SL
+결산/NNG + :/SP
+상/NNG + )/SS
+96/SN + ./SP + 03/SN + ./SP + 01/SN
+◎/SW
+지상파/NNG
+방송/NNG
+'/SS + 재탕/NNG + '/SS + …/SE
+시청자/NNG
+식상/NNG
+//SP
+일부/NNG
+프로그램/NNG
+작품/NNG + 성/XSN
+인정받/VV + 기/ETN + 도/JX
+오늘/NNG + 자/NNG + 로/JKB
+케이블/NNG + TV/SL + 가/JKS
+개국/NNG
+1/SN + 주년/NNB + 을/JKO
+맞/VV + 았/EP + 다/EF + ./SF
+[/SS + 취향/NNG + 과/JC
+적성/NNG + 대로/JX
+고르/VV + 아/EC + 보/VX + 는/ETM + ]/SS
+다매체/NNG
+영상/NNG + 시대/NNG + 의/JKG
+시작/NNG + 을/JKO
+알리/VV + 며/EC
+출범/NNG + 하/XSV + ㄴ/ETM
+케이블/NNG + TV/SL + 의/JKG
+현황/NNG + 과/JC
+전망/NNG + 을/JKO
+2/SN + 회/NNB + 에/JKB
+걸치/VV + 어/EC
+살펴보/VV + ㄴ다/EF + ./SF
+현재/MAG
+케이블/NNG + TV/SL
+시청/NNG + 가구/NNG + 는/JX
+70/SN + 만/NR + ./SF
+우리/NP
+나라/NNG
+전체/NNG
+가구/NNG + 수/NNG + 의/JKG
+8/SN + ./SP + 7/SN + %/SW + 이/VCP + 다/EF + ./SF
+이웃/NNG + 나라/NNG
+일본/NNP + 이/JKS
+시청/NNG + 가구/NNG
+6/SN + %/SW
+확보/NNG + 에/JKB
+8/SN + 년/NNB + 이/JKS
+걸리/VV + ㄴ/ETM
+것/NNB + 에/JKB
+비하/VV + 면/EC
+엄청나/VA + 게/EC
+빠르/VA + ㄴ/ETM
+속도/NNG + 이/VCP + 다/EF + ./SF
+그러나/MAJ
+이/NP + 같/VA + 은/ETM
+외형/NNG + 적/XSN
+팽창/NNG + 과/JKB + 는/JX
+달리/MAG
+방송/NNG + 내용/NNG + 은/JX
+[/SS + 기대/NNG + 이하/NNG + ]/SS + 이/VCP + 었/EP + 다/EF + ./SF
+최근/NNG
+들/VV + 어/EC
+많/VA + 은/ETM
+가입자/NNG + 들/XSN + 이/JKS
+케이블/NNG + TV/SL
+시청/NNG + 을/JKO
+중단/NNG + 하/XSV + 겠/EP + 다고/EC
+밝히/VV + ㄴ/ETM
+것/NNB + 도/JX
+이/MM
+때문/NNB + 이/VCP + 다/EF + ./SF
+지난해/NNG
+10/SN + 월/NNB
+종합/NNG + 유선/NNG + 방송/NNG + 위원회/NNG + 가/JKS
+케이블/NNG + TV/SL
+시청자/NNG
+1/SN + 천/NR + 명/NNB + 을/JKO
+설문/NNG + 조사/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+그중/NNG
+23/SN + ./SP + 9/SN + %/SW + 가/JKS
+[/SS + 시청/NNG + 을/JKO
+중지/NNG + 하/XSV + 겠/EP + 다/EC + ]/SS + 고/JKQ
+대답/NNG + 하/XSV + 았/EP + 고/EC
+그/MM
+이유/NNG + 는/JX
+[/SS + 보/VV + ㄹ/ETM + 만/NNB + 하/XSA + ㄴ/ETM
+프로그램/NNG + 이/JKS
+없/VA + 어서/EC + ]/SS + (/SS + 32/SN + ./SP + 2/SN + %/SW + )/SS + 이/VCP + 었/EP + 다/EF + ./SF
+상당수/NNG + 의/JKG
+프로그램/NNG + 들/XSN + 이/JKS
+이미/MAG
+지상파/NNG + 에서/JKB
+방송/NNG + 되/XSV + 었/EP + 던/ETM
+것/NNB + 의/JKG
+[/SS + 재탕/NNG + ]/SS + 이/VCP + 라는/ETM
+것/NNB + 도/JX
+시청자/NNG + 를/JKO
+식상/NNG + 하/XSV + 게/EC + 하/VX + 았/EP + 다/EF + ./SF
+이/NP + 는/JX
+지상파/NNG + 방송/NNG + 에/JKB
+익숙/XR + 하/XSA + ㄴ/ETM
+시청자/NNG + 들/XSN + 이/JKS
+[/SS + 프로그램/NNG + 을/JKO
+여러/MM
+시간대/NNG + 에/JKB
+내보내/VV + 어/EC
+그중/NNG
+편리/NNG + 하/XSA + ㄴ/ETM
+시간/NNG + 을/JKO
+택하/VV + 아/EC
+보/VX + 도록/EC
+하/VV + ㄴ다/EC + ]/SS + 는/ETM
+케이블/NNG + TV/SL + 의/JKG
+특성/NNG + 에/JKB
+아직/MAG
+동화/NNG + 되/XSV + 지/EC
+않/VX + 은/ETM
+탓/NNG + 도/JX
+있/VV + 다/EF + ./SF
+프로그램/NNG + 의/JKG
+질/NNG
+문제/NNG + 는/JX
+각/MM
+채널/NNG + 들/XSN + 의/JKG
+광고/NNG + 실적/NNG + 에/JKB
+그대로/MAG
+반영/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+MBN/SL + 과/JC
+HSTV/SL + 가/JKS
+흑자/NNG + 를/JKO
+내/VV + 었/EP + 다지만/EC
+다른/MM
+25/SN + 개/NNB
+프로그램/NNG
+공급/NNG + 업체/NNG + 들/XSN + 은/JX
+적/VA + 게/EC + 는/JX
+10/SN + 억/NR + 원/NNB + 에서/JKB
+많/VA + 게/EC + 는/JX
+1/SN + 백/NR + 50/SN + 억/NR + 원/NNB + 까지/JX
+적자/NNG + 를/JKO
+기록/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+공보처/NNG
+관계자/NNG + 는/JX
+{/SS + 예상/NNG + 보다/JKB
+적자/NNG + 폭/NNG + 이/JKS
+작/VA + 다/EC + }/SS + 이/VCP + 라며/EC
+{/SS + 7/SN + 년/NNB + 으로/JKB
+내다보/VV + 았/EP + 던/ETM
+흑자/NNG
+전환/NNG + 시기/NNG + 가/JKS
+2/SN + ∼/SO + 3/SN + 년/NNB
+당기/VV + 어/EC + 지/VX + ㄹ/ETM
+전망/NNG + }/SS + 이라고/JKQ
+말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+그러나/MAJ
+주관/NNG + 부처/NNG + 의/JKG
+낙관/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+전망/NNG + 과/JKB + 는/JX
+달리/MAG
+일부/NNG
+프로그램/NNG + 공급/NNG + 업체/NNG + (/SS + PP/SL + )/SS + 는/JX
+앞/NNG + 으로/JKB + 의/JKG
+광고/NNG
+전망/NNG + 에/JKB
+대하/VV + 아/EC
+위기감/NNG + 까지/JX
+느끼/VV + 고/EC
+있/VX + 다/EF + ./SF
+최근/NNG
+몇몇/MM
+PP/SL + 들/XSN + 이/JKS
+시청료/NNG + 중/NNB
+PP/SL + 할당/NNG + 분/XSN + (/SS + 현재/NNG
+32/SN + ./SP + 5/SN + %/SW + )/SS + 의/JKG
+인상/NNG + 을/JKO
+주장/NNG + 하/XSV + 고/EC
+나서/VV + ㄴ/ETM
+것/NNB + 도/JX
+이/MM
+때문/NNB + 이/VCP + 다/EF + ./SF
+물론/MAG
+케이블/NNG + TV/SL + 의/JKG
+앞날/NNG + 이/JKS
+온통/MAG
+비관/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+것/NNB + 만/JX + 은/JX
+아니/VCN + 다/EF + ./SF
+몇몇/MM
+채널/NNG + 의/JKG
+눈부시/VA + ㄴ/ETM
+활약/NNG + 은/JX
+케이블/NNG + TV/SL
+활성/NNG + 화/XSN + 의/JKG
+전망/NNG + 을/JKO
+밝/VA + 게/EC
+하/VX + 았/EP + 다/EF + ./SF
+YTN/SL + 은/JX
+삼풍백화점/NNP
+붕괴/NNG
+등/NNB
+대형/NNG + 참사/NNG + 에서/JKB
+24/SN + 시간/NNG
+보도/NNG + 채널/NNG + 의/JKG
+위력/NNG + 을/JKO
+유감/NNG + 없이/MAG
+발휘/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+지상파/NNG
+방송/NNG + 이/JKS
+끝나/VV + ㄴ/ETM
+뒤/NNG + 에/JKB + 도/JX
+계속/NNG + 되/XSV + ㄴ/ETM
+YTN/SL + 의/JKG
+구조/NNG + 상황/NNG + 중계/NNG + 는/JX
+전/MM
+국민/NNG + 의/JKG
+이목/NNG + 을/JKO
+집중/NNG + 시키/XSV + 었/EP + 다/EF + ./SF
+일부/NNG
+프로그램/NNG + 들/XSN + 은/JX
+작품/NNG + 성/XSN + 을/JKO
+인정받/VV + 아/EC
+지상파/NNG
+방송/NNG + 으로/JKB
+[/SS + 수출/NNG + ]/SS + 까지/JX
+되/VV + 었/EP + 다/EF + ./SF
+영화/NNG
+·/SP
+음반/NNG
+등/NNB
+세계/NNG + 문화/NNG + 사업/NNG + 의/JKG
+현장/NNG + 을/JKO
+진단/NNG + 하/XSV + ㄴ/ETM
+Q/SL + 채널/NNG + 의/JKG
+다큐멘터리/NNG
+{/SS + 제/XPN + 3/SN + 의/JKG
+전쟁/NNG + ,/SP
+이제/NNG + 는/JX
+문화/NNG + 이/VCP + 다/EC + }/SS + 는/JX
+KBS/SL + 에서/JKB
+사들이/VV + 었/EP + 다/EF + ./SF
+AAC/SL
+{/SS + 민화이야기/NNP + }/SS + 와/JC
+국내/NNG
+미술가/NNG + 들/XSN + 의/JKG
+작품/NNG
+세계/NNG + 를/JKO
+조명/NNG + 하/XSV + ㄴ/ETM
+센추리/NNP + TV/SL
+{/SS + CTN/SL + 문화/NNG + 산책/NNG + }/SS + 은/JX
+지난해/NNG
+10/SN + 월/NNB
+SBS/SL + 가/JKS
+방영/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+또/MAG
+m/SL + ./SP + net/SL
+{/SS + 최할리/NNP + 의/JKG
+뮤직/NNG
+쇼/NNG + }/SS + 는/JX
+부산방송/NNP + 에서/JKB
+방영/NNG + 중/NNB + 이/VCP + 다/EF + ./SF
+최초/NNG + 의/JKG
+유선/NNG + 방송/NNG
+자체/NNG + 제작/NNG
+드라마/NNG
+HBS/SL
+{/SS + 작/VA + 은/ETM
+영웅/NNG + 들/XSN + }/SS + 은/JX
+홍콩/NNP
+ATV/SL + 와/JC
+국내/NNG
+지역/NNG + 민방/NNG + 에서/JKB
+구입/NNG
+의사/NNG + 를/JKO
+내비치/VV + 고/EC
+있/VX + 다/EF + ./SF
+그러나/MAJ
+이/NP + 같/VA + 은/ETM
+성공작/NNG + 이/JKS
+27/SN + 개/NNB
+채널/NNG + 의/JKG
+수많/VA + 은/ETM
+프로그램/NNG + 들/XSN + 중/NNB
+극히/MAG
+일부/NNG + 뿐/JX + 이/VCP + 라는데/EC
+문제/NNG + 가/JKS
+있/VV + 다/EF + ./SF
+DTV/SL + (/SS + 1/SN + 일/NNB
+오전/NNG + 11/SN + 시/NNB + )/SS + 와/JC
+HBS/SL + (/SS + 2/SN + 일/NNB
+저녁/NNG + 6/SN + 시/NNB + 50/SN + 분/NNB + )/SS + 의/JKG
+개국/NNG + 축하/NNG
+생/XPN + 방송/NNG + 을/JKO
+비롯/XR + ,/SP
+PP/SL + 들/XSN + 은/JX
+다양/NNG + 하/XSA + ㄴ/ETM
+개국/NNG
+축하/NNG
+프로그램/NNG + 을/JKO
+준비/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+그러나/MAJ
+자축/NNG + 에/JKB
+앞서/VV + 어/EC
+방송/NNG + 시간/NNG
+메우/VV + 기에/EC + 만/JX
+급급/XR + 하/XSA + 았/EP + 던/ETM
+지나/VV + ㄴ/ETM
+1/SN + 년/NNB + 을/JKO
+반성/NNG + 하/XSV + 아야/EC
+하/VX + ㄴ다는/ETM
+자성/NNG + 의/JKG
+목소리/NNG + 가/JKS
+높/VA + 다/EF + ./SF
+</SS + 권혁주/NNP
+기자/NNG + >/SS
+38/SN + 회/NNB
+그래미상/NNG
+시상/NNG
+//SP
+이변/NNG + 의/JKG
+연속/NNG + …/SE
+신인/NNG
+모리세트/NNP
+돌풍/NNG
+96/SN + ./SP + 03/SN + ./SP + 01/SN
+◎/SW
+록/NNG + 음반/NNG + 상/NNG
+등/NNB
+4/SN + 개/NNB
+독식/NNG + …/SE
+머라이어/NNP
+캐리/NNP
+모두/MAG
+탈락/NNG
+지난달/NNG
+29/SN + 일/NNB + (/SS + 현지/NNG + 시간/NNG
+28/SN + 일/NNB + )/SS
+화려/XR + 하/XSA + ㄴ/ETM
+공연/NNG + 과/JKB
+함께/MAG
+폐막/NNG + 되/XSV + ㄴ/ETM
+제/XPN + 38/SN + 회/NNB
+그래미상/NNG
+시상식/NNG + 은/JX
+이변/NNG + 의/JKG
+연속/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+캐나다/NNP
+출신/NNG
+신인/NNG
+여/NNG + 가수/NNG
+앨라니스/NNP
+모리세트/NNP + 가/JKS
+본상/NNG + 격/NNB + 이/VCP + ㄴ/ETM
+[/SS + 올해/NNG + 의/JKG
+음반/NNG + ]/SS + 상/NNG + 과/JC
+록/NNG + 음반/NNG + 상/NNG
+·/SP
+록/NNG + 여자/NNG + 가창/NNG + 상/NNG
+·/SP
+록/NNG + 부문/NNG
+최/XPN + 우수곡/NNG
+등/NNB
+4/SN + 개/NNB + 부문/NNG + 을/JKO
+휩쓸/VV + 었/EP + 다/EF + ./SF
+반면/NNG
+6/SN + 개/NNB + 부문/NNG + 에서/JKB
+최종/NNG + 후보/NNG + 에/JKB
+오르/VV + 아/EC
+기대/NNG + 를/JKO
+모으/VV + 았/EP + 던/ETM
+[/SS + 팝/NNG + 의/JKG
+신데렐라/NNP + ]/SS
+머라이어/NNP
+캐리/NNP + 는/JX
+모두/MAG
+탈락/NNG + 하/XSV + 는/ETM
+쓰라리/VA + ㅁ/ETN + 을/JKO
+맛보/VV + 아야/EC
+하/VX + 았/EP + 다/EF + ./SF
+또/MAG
+4/SN + 개/NNB + 부문/NNG + 에서/JKB
+후보/NNG + 에/JKB
+오르/VV + 았/EP + 던/ETM
+[/SS + 팝/NNG + 의/JKG
+황제/NNG + ]/SS
+마이클/NNP
+잭슨/NNP + 도/JX
+누이/NNG
+재닛/NNP
+잭슨/NNP + 과/JKB
+함께/MAG
+부르/VV + ㄴ/ETM
+{/SS + 스크림/NNP + }/SS + 으로/JKB
+단편/NNG + 뮤직/NNG + 비디오/NNG
+부문/NNG + 상/NNG + 을/JKO
+받/VV + 는/ETM
+것/NNB + 으로/JKB
+간신히/MAG
+체면/NNG + 을/JKO
+유지/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+최/XPN + 우수/NNG
+싱글곡/NNG + 에/JKB
+주어지/VV + 는/ETM
+[/SS + 올해/NNG + 의/JKG
+레코드/NNG + ]/SS + 상/NNG + 은/JX
+영화/NNG
+{/SS + 배트맨포에버/NNP + }/SS + 의/JKG
+삽입곡/NNG
+{/SS + 키스/NNG
+프럼/NNP
+어/NNG
+로즈/NNP + }/SS + 를/JKO
+부르/VV + ㄴ/ETM
+실/NNP + 에게/JKB
+돌아가/VV + 았/EP + 다/EF + ./SF
+실/NNP + 은/JX
+이/MM
+노래/NNG + 로/JKB
+작곡/NNG + 상/NNG + 에/JKB
+해당/NNG + 하/XSV + 는/ETM
+[/SS + 올해/NNG + 의/JKG
+노래/NNG + ]/SS + 상/NNG + 과/JC
+팝/NNG + 부문/NNG + (/SS + 록/NNG
+·/SP
+랩/NNG
+·/SP
+RRB/SL
+등/NNB + 을/JKO
+제외/NNG + 하/XSV + ㄴ/ETM
+스탠더드/NNG
+팝/NNG + 분야/NNG + )/SS + 에서/JKB
+남자/NNG + 가창/NNG + 상/NNG + 을/JKO
+함께/MAG
+받/VV + 아/EC
+그래미/NNG
+3/SN + 관왕/NNG + 이/JKC
+되/VV + 었/EP + 다/EF + ./SF
+이/NP + 밖에/JX
+지난해/NNG
+데뷔/NNG + 앨범/NNG + 으로/JKB
+미국/NNP + 내/NNB + 에서/JKB
+1/SN + 천만/NR + 장/NNB + 이/JKS
+넘/VV + 는/ETM
+판매/NNG + 기록/NNG + 을/JKO
+세우/VV + ㄴ/ETM
+후티/NNP
+앤드/NNG
+블로피시/NNP + 가/JKS
+최고/NNG + 신인/NNG + 상/NNG + 과/JC
+팝/NNG + 부문/NNG
+그룹/NNG + 상/NNG + 을/JKO
+받/VV + 았/EP + 다/EF + ./SF
+한편/NNG
+얼터너티브/NNG
+전성기/NNG + 를/JKO
+이끌/VV + ㄴ/ETM
+그룹/NNG
+니르바나/NNP + 는/JX
+리더/NNG
+커트/NNG
+코베인/NNP + 이/JKS
+사망/NNG + 직전/NNG
+완성/NNG + 하/XSV + ㄴ/ETM
+{/SS + MTV/SL
+언플러그드/NNG + }/SS + 로/JKB
+록/NNG + 부문/NNG
+얼터너티브/NNG
+음악/NNG + 상/NNG + 을/JKO
+수상/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+또/MAG
+프랭크/NNP
+시내트라/NNP + 가/JKS
+지난해/NNG
+12/SN + 월/NNB
+80/SN + 회/NNB
+생일/NNG + 을/JKO
+맞/VV + 아/EC
+테너/NNG
+루치아노/NNP
+파바로티/NNP + 와/JKB + 의/JKG
+듀엣/NNG + 으로/JKB
+팝/NNG + 부문/NNG
+전통/NNG + 가창/NNG + 상/NNG + 을/JKO
+받/VV + 았/EP + 다/EF + ./SF
+이/NP + 는/JX
+베테랑/NNG
+시내트라/NNP + 가/JKS
+그래미상/NNG
+경쟁/NNG + 부문/NNG + 에서/JKB
+처음/NNG + 으로/JKB
+받/VV + 는/ETM
+상/NNG + 이/VCP + 다/EF + ./SF
+머라이어/NNP
+캐리/NNP + 에/JKB
+비하/VV + 면/EC
+무명/NNG + 에/JKB
+가깝/VA + ㄴ/ETM
+신예/NNG
+모리세트/NNP + 가/JKS
+상/NNG + 을/JKO
+휩쓸/VV + ㄴ/ETM
+이변/NNG + 에/JKB
+대하/VV + 아/EC
+음악/NNG + 계/XSN + 에서/JKB + 는/JX
+{/SS + 그래미상/NNG + 이/JKS
+머라이어/NNP
+캐리/NNP + 의/JKG
+달콤/XR + 하/XSA + ㄴ/ETM
+노래/NNG + 보다/JKB + 는/JX
+거칠/VA + 고/EC
+분노/NNG + 와/JC
+열정/NNG + 에/JKB
+가득/MAG + 차/VV + ㄴ/ETM
+모리세트/NNP + 의/JKG
+록/NNG + 음악/NNG + 을/JKO
+선택/NNG + 하/XSV + ㄴ/ETM
+것/NNB + }/SS + 이/VCP + 라며/EC
+{/SS + 다른/MM
+음악/NNG + 상/NNG + 과/JKB
+차별/NNG + 되/XSV + 는/ETM
+그래미상/NNG + 의/JKG
+진보/NNG + 성/XSN + 이/JKS
+반영/NNG + 되/XSV + ㄴ/ETM
+결과/NNG + }/SS + 로/JKB
+분석/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+한편/NNG
+이날/NNG
+시상식/NNG
+실황/NNG + 은/JX
+오늘/NNG
+밤/NNG + 8/SN + 시/NNB
+케이블/NNG + TV/SL
+m/SL + ./SP + net/SL + 에서/JKB
+3/SN + 시간/NNG + 동안/NNG
+녹화/NNG + 방송/NNG + 되/XSV + ㄴ다/EF + ./SF
+</SS + 예영준/NNP
+기자/NNG + >/SS
+MBC/SL
+영화/NNG + 사업/NNG
+참여/NNG
+//SP
+5/SN + 월/NNB + 중/NNB
+촬영/NNG
+시작/NNG + …/SE
+연말/NNG + 에/JKB
+극장/NNG
+개봉/NNG
+96/SN + ./SP + 03/SN + ./SP + 01/SN
+앞/NNG + 으로/JKB
+시청자/NNG + 들/XSN + 은/JX
+TV/SL + 를/JKO
+통하/VV + 아서/EC + 도/JX
+영화/NNG + 같/VA + 은/ETM
+영상미/NNG + 를/JKO
+만끽/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 게/EC
+되/VV + 었/EP + 다/EF + ./SF
+MBC/SL + 가/JKS
+국내/NNG
+방송사/NNG + 상/XSN
+최초/NNG + 로/JKB
+영화/NNG + 사업/NNG + 에/JKB
+진출/NNG + 하/XSV + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+MBC/SL + 측/NNB + 은/JX
+지난달/NNG
+29/SN + 일/NNB
+자체/NNG
+영화/NNG
+제작/NNG + 을/JKO
+선언/NNG + 하/XSV + 고/EC
+이달/NNG + 말/NNB
+시나리오/NNG + 를/JKO
+선정/NNG + 하/XSV + ㄴ/ETM
+뒤/NNG
+5/SN + 월/NNB + 중/NNB
+촬영/NNG + 을/JKO
+시작/NNG + ,/SP
+12/SN + 월/NNB + 에/JKB + 는/JX
+극장/NNG + 에서/JKB
+개봉/NNG + 하/XSV + ㄴ다는/ETM
+계획/NNG + 이/VCP + 다/EF + ./SF
+첫/MM
+작품/NNG + 의/JKG
+감독/NNG + 은/JX
+지난해/NNG + 말/NNB
+인기리/NNG + 에/JKB
+방영/NNG + 되/XSV + 었/EP + 던/ETM
+드라마/NNG
+{/SS + 연애/NNG + 의/JKG
+기초/NNG + }/SS + 를/JKO
+통하/VV + 아/EC
+[/SS + 영상/NNG + 과/JC
+스토리/NNG
+모두/MAG
+수채화/NNG
+같이/MAG
+맑/VA + 은/ETM
+드라마/NNG + 를/JKO
+만들/VV + 었/EP + 다/EC + ]/SS + 는/JX
+평/NNG + 을/JKO
+받/VV + 은/ETM
+황인뢰/NNP
+PD/SL + 가/JKS
+맡/VV + 았/EP + 다/EF + ./SF
+영화/NNG + 제작/NNG
+경험/NNG + 이/JKS
+전혀/MAG
+없/VA + 는/ETM
+만큼/NNB
+첫/MM
+작품/NNG + 은/JX
+외부/NNG + 독립/NNG + 영화/NNG + 제작사/NNG + 와/JKB
+함께/MAG
+만들/VV + ㄴ다/EF + ./SF
+현재/MAG
+제작진/NNG + 은/JX
+젊/VA + 고/EC
+실험/NNG + 성/XSN + 이/JKS
+강하/VA + ㄴ/ETM
+영화사/NNG
+몇/MM
+곳/NNG + 을/JKO
+저울/NNG + 질/XSN + 중/NNB + 이/VCP + 다/EF + ./SF
+제작비/NNG + 는/JX
+국내/NNG
+영화/NNG
+평균/NNG + 수준/NNG + 이/VCP + ㄴ/ETM
+10/SN + 억/NR + 원/NNB
+정도/NNG + 가/JKS
+투입/NNG + 되/XSV + ㄹ/ETM
+것/NNB + 으로/JKB
+알리/VV + 어/EC + 지/VX + 었/EP + 다/EF + ./SF
+MBC/SL
+유수열/NNP
+TV/SL + 제작국장/NNG + 은/JX
+{/SS + 영화/NNG + 사업/NNG + 을/JKO
+통하/VV + 아/EC
+MBC/SL + 가/JKS
+영화/NNG + 의/JKG
+조명/NNG + 기법/NNG + 과/JC
+촬영/NNG + 감각/NNG + 을/JKO
+익히/VV + ㄴ다면/EC
+한/MM + 차원/NNG
+높/VA + 은/ETM
+영상미/NNG + 의/JKG
+TV/SL + 드라마/NNG + 를/JKO
+만들/VV + ㄹ/ETM
+수/NNB
+있/VV + 을/ETM
+것/NNB + }/SS + 이/VCP + 라고/EC
+말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이/NP + 를/JKO
+위하/VV + 아/EC
+MBC/SL + 는/JX
+매년/MAG
+2/SN + ∼/SO + 3/SN + 개/NNB + 의/JKG
+영화/NNG + 를/JKO
+만들/VV + ㄹ/ETM
+계획/NNG + 이/VCP + 다/EF + ./SF
+감독/NNG + 은/JX
+MBC/SL
+PD/SL + 를/JKO
+위주/NNG + 로/JKB
+하/VV + 되/EC
+필요/NNG + 에/JKB
+따르/VV + 아/EC
+전문/NNG + 영화감독/NNG + 도/JX
+참가/NNG + 하/XSV + 게/EC
+되/VV + ㄴ다/EF + ./SF
+MBC/SL + 가/JKS
+영화/NNG + 사업/NNG + 에/JKB
+뛰어들/VV + ㄴ/ETM
+데/NNB + 는/JX
+멀티미디어/NNG + 시대/NNG + 를/JKO
+맞/VV + 아/EC
+사업/NNG + 의/JKG
+다각/NNG + 화/XSN + 를/JKO
+노리/VV + 는/ETM
+측면/NNG + 도/JX
+있/VV + 다/EF + ./SF
+방송/NNG + 뿐/JX
+아니/VCN + 라/EC
+인터네트/NNG + 를/JKO
+통하/VV + 아서/EC + 도/JX
+동화상/NNG + ·/SP + 음성/NNG + 정보/NNG + 를/JKO
+받/VV + 을/ETM
+수/NNB
+있/VV + 게/EC
+되/VV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+방송/NNG + 의/JKG
+위력/NNG + 이/JKS
+점점/MAG
+떨어지/VV + 고/EC
+있/VX + 다는/ETM
+판단/NNG + 에서/JKB + 이/VCP + 다/EF + ./SF
+따라서/MAJ
+미래/NNG + 의/JKG
+위기/NNG + 를/JKO
+극복/NNG + 하/XSV + 려면/EC
+단순히/MAG
+프로그램/NNG + 을/JKO
+전달/NNG + 하/XSV + 는/ETM
+[/SS + 매체/NNG + ]/SS + 보다/JKB
+[/SS + 영상/NNG
+소프트웨어/NNG
+공급업자/NNG + ]/SS + 로/JKB
+완전히/MAG
+탈바꿈/NNG + 하/XSV + 아야/EC
+하/VX + ㄴ다는/ETM
+것/NNB + ./SF
+MBC/SL
+조승필/NNP
+영상/NNG + 프로젝트/NNG + 팀장/NNG + 은/JX
+{/SS + 소프트웨어/NNG
+제작자/NNG + 로서/JKB
+경쟁력/NNG + 을/JKO
+갖추/VV + 려면/EC
+영화/NNG + 제작/NNG + 기법/NNG + 을/JKO
+익히/VV + 는/ETM
+것/NNB + 은/JX
+필수/NNG + 요건/NNG + }/SS + 이라고/JKQ
+말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+</SS + 권혁주/NNP
+기자/NNG + >/SS
+부분/NNG + 모델/NNG + 들/XSN
+"/SS + 바쁘/VA + 다/EC
+바쁘/VA + 아/EC + "/SS
+//SP
+성우/NNG
+권희덕/NNP + 씨/NNB
+등/NNB
+CF/SL + 요청/NNG
+밀물/NNG
+96/SN + ./SP + 03/SN + ./SP + 03/SN
+◎/SW
+최진실/NNP
+'/SS + 목소리/NNG + '/SS
+·/SP
+이승연/NNP
+'/SS + 다리/NNG + '/SS
+빌리/VV + 어/EC + 드리/VX + 어요/EC
+//SP
+'/SS + 손/NNG + '/SS
+모델료/NNG
+50/SN + 만/NR + 원/NNB + ,/SP
+'/SS + 모발/NNG + '/SS
+200/SN + 만/NR + 원/NNB
+국내/NNG + 에서/JKB + 도/JX
+얼굴/NNG + 없/VA + 는/ETM
+[/SS + 부분/NNG + ]/SS + 모델/NNG + 시장/NNG + 이/JKS
+점차/MAG
+자리/NNG + 를/JKO
+잡아가/VV + 고/EC
+있/VX + 다/EF + ./SF
+부분/NNG + 모델/NNG + 은/JX
+손/NNG + 이나/JC
+다리/NNG
+·/SP
+머리카락/NNG
+·/SP
+눈/NNG
+·/SP
+입술/NNG
+등/NNB
+신체/NNG + 의/JKG
+특정/NNG + 부위/NNG + 만/JX
+나오/VV + 는/ETM
+모델/NNG + ./SF
+외국/NNG + 에서/JKB + 는/JX
+진작/MAG
+활성/NNG + 화/XSN + 되/XSV + ㄴ/ETM
+상태/NNG + 이/VCP + 나/EC
+국내/NNG + 에서/JKB + 는/JX
+7/SN + ∼/SO + 8/SN + 년/NNB + 전/NNG + 부터/JX
+등장/NNG + 하/XSV + 기/ETN
+시작/NNG + 하/XSV + 아/EC
+최근/NNG + 들/VV + 어/EC
+자주/MAG
+동원/NNG + 되/XSV + 고/EC
+있/VX + 다/EF + ./SF
+이/NP + 들/XSN
+부분/NNG + 모델/NNG + 의/JKG
+모델료/NNG + 는/JX
+20/SN + 만/NR + ∼/SO + 60/SN + 만/NR + 원/NNB + 이/JKS
+고작/MAG + 이/VCP + 다/EF + ./SF
+어쩌다/MAG
+2/SN + 백만/NR + ∼/SO + 3/SN + 백만/NR + 원/NNB + 을/JKO
+받/VV + 기/ETN + 도/JX
+하/VX + 지만/EC
+극히/MAG
+드물/VA + 다/EF + ./SF
+정식/NNG + 모델/NNG + 이/JKS
+수천만/NR + ∼/SO + 수억/NR + 원/NNB + 을/JKO
+받/VV + 는/ETM
+것/NNB + 에/JKB
+비하/VV + 면/EC
+보/VV + 잘/ETM
+것/NNB
+없/VA + 는/ETM
+수준/NNG + 에/JKB
+불과/MAG + 하/XSA + 다/EF + ./SF
+대신/NNG
+이/NP + 들/XSN + 은/JX
+겹치/VV + 기/ETN
+출연/NNG + 이/JKS
+가능/NNG + 하/XSA + 아/EC
+수입/NNG + 은/JX
+그런대로/MAG
+짭짤/XR + 하/XSA + ㄴ/ETM
+편/NNB + 이/VCP + 다/EF + ./SF
+광고주/NNG + 로서/JKB + 도/JX
+비용/NNG + 부담/NNG + 이/JKS
+적/VA + 은/ETM
+부분/NNG + 모델/NNG + 을/JKO
+선호/NNG + 하/XSV + 아/EC
+모델/NNG + 라인/NNG
+·/SP
+모델콤/NNP
+·/SP
+7/SN + 월/NNB + 기획/NNG
+·/SP
+모델/NNG + Q/SL
+·/SP
+여인방/NNP
+·/SP
+PMC/SL
+등/NNB
+모델/NNG
+에이전시/NNG + 에/JKB + 는/JX
+부분/NNG + 모델/NNG + 을/JKO
+찾/VV + 는/ETM
+요청/NNG + 이/JKS
+몰리/VV + 고/EC
+있/VX + 다/EF + ./SF
+부분/NNG + 모델/NNG + 들/XSN + 은/JX
+대부분/NNG
+모델/NNG
+전문/NNG + 양성/NNG + 기관/NNG + 을/JKO
+나오/VV + 아/EC
+패션모델/NNG + 로/JKB
+활동/NNG + 하/XSV + 면서/EC
+그때그때/MAG
+신청/NNG + 이/JKS
+들어오/VV + 면/EC
+[/SS + 부업/NNG + ]/SS + 을/JKO
+하/VV + 는/ETM
+경우/NNG + 가/JKS
+많/VA + 다/EF + ./SF
+독특/NNG + 하/XSA + ㄴ/ETM
+부분/NNG + 모델/NNG + 로/JKB + 는/JX
+목소리/NNG + 를/JKO
+빌리/VV + 어/EC + 주/VX + 는/ETM
+권희덕/NNP + 씨/NNB + 가/JKS
+꼽히/VV + ㄴ다/EF + ./SF
+권/NNP + 씨/NNB + 는/JX
+삼성/NNP + 세탁기/NNG
+광고/NNG + 에서/JKB
+탤런트/NNG
+최진실/NNP + 이/JKS
+나오/VV + 아/EC
+{/SS + 남자/NNG + 는/JX
+여자/NNG + 하/VV + 기/ETN
+나름/NNB + }/SS + 이/VCP + 라며/EC
+톡톡/MAG
+튀/VV + 는/ETM
+장면/NNG + 의/JKG
+실제/NNG
+목소리/NNG
+주인공/NNG + 이/VCP + 다/EF + ./SF
+권/NNP + 씨/NNB + 는/JX
+최진실/NNP + 이/JKS
+출연/NNG + 하/XSV + 는/ETM
+대부분/NNG + 의/JKG
+CF/SL + 에서/JKB
+목소리/NNG + 를/JKO
+대신/NNG + 하/XSV + 아/EC + 주/VX + 는/ETM
+[/SS + 분신/NNG + ]/SS + 으로/JKB
+통하/VV + 는데/EC
+현재/MAG
+음성/NNG + 전문/NNG + 회사/NNG + 이/VCP + ㄴ/ETM
+서울사운드디자인/NNP
+대표/NNG + 를/JKO
+맡/VV + 고/EC
+있/VX + 다/EF + ./SF
+부분/NNG + 모델/NNG + 이/JKS
+가장/MAG
+흔하/VA + ㄴ/ETM
+경우/NNG + 는/JX
+손/NNG
+모델/NNG + 이/VCP + 다/EF + ./SF
+제일제당/NNP
+세제/NNG + 류/XSN
+참그린/NNG + 광고/NNG + 에/JKB + 는/JX
+탤런트/NNG
+정애리/NNP + 가/JKS
+나오/VV + 지만/EC
+손/NNB + 을/JKO
+부각/NNG + 시키/XSV + 는/ETM
+장면/NNG + 에서/JKB + 는/JX
+차미숙/NNP + 씨/NNB + 의/JKG
+손/NNG + 으로/JKB
+잽싸/VA + 게/EC
+바뀌/VV + ㄴ다/EF + ./SF
+모델/NNG + 경력/NNG
+8/SN + 년/NNB + 째/XSN + 이/VCP + ㄴ/ETM
+차/NNP + 씨/NNB + 는/JX
+패션모델/NNG + 로/JKB
+활약/NNG + 하/XSV + 다/EC
+유난히/MAG
+길/VA + 고/EC
+희/VA + ㄴ/ETM
+손/NNG + 이/JKS
+눈/NNG + 에/JKB
+띄/VV + 어/EC
+손/NNG
+부분/NNG + 모델/NNG + 로/JKB
+발탁/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+모델료/NNG + 는/JX
+CF/SL
+한편/NNG + 에/JKB
+30/SN + 만/NR + ∼/SO + 50/SN + 만/NR + 원/NNB
+수준/NNG + 이/VCP + 다/EF + ./SF
+제일제당/NNP
+백설표/NNP
+참기름/NNG
+광고/NNG + 에/JKB
+나오/VV + 는/ETM
+탤런트/NNG
+김혜자/NNP + 는/JX
+김경화/NNP + 씨/NNB + 의/JKG
+손/NNB + 을/JKO
+빌리/VV + 었/EP + 고/EC
+리바트/NNP + 가구/NNG
+광고/NNG + 에/JKB + 는/JX
+최혜경/NNP + 씨/NNB + 의/JKG
+손/NNG + 이/JKS
+모델/NNG
+노릇/NNG + 을/JKO
+대신/NNG + 하/XSV + 아/EC + 주/VX + 고/EC
+있/VX + 다/EF + ./SF
+최/NNP + 씨/NNB + 의/JKG
+손/NNG + 은/JX
+삼성/NNP + 그린/NNG + 컴퓨터/NNG
+·/SP
+농협/NNP + 김치/NNG
+·/SP
+LG/SL + 액상/NNG + 세제/NNG
+·/SP
+알로에마인/NNG
+광고/NNG + 에/JKB + 도/JX
+선보이/VV + 었/EP + 다/EF + ./SF
+최/NNP + 씨/NNB + 의/JKG
+모델료/NNG + 는/JX
+한편/NNG + 에/JKB
+30/SN + 만/NR + ∼/SO + 40/SN + 만/NR + 원/NNB + ./SF
+냉장고/NNG
+문/NNG + 을/JKO
+열/VV + 거나/EC
+컴퓨터/NNG
+자판/NNG + 을/JKO
+두드리/VV + ㄴ다든지/EC
+티슈/NNG + 를/JKO
+뽑/VV + 는/ETM
+장면/NNG + 이/JKS
+클로즈업/NNG + 되/XSV + 는/ETM
+순간/NNG + 에/JKB + 도/JX
+부분/NNG + 모델/NNG + 의/JKG
+손/NNG + 은/JX
+어김없이/MAG
+등장/NNG + 하/XSV + 고/EC
+주방/NNG + 용/XSN + 세제/NNG + 를/JKO
+사용/NNG + 하/XSV + 는/ETM
+최명길/NNP + 의/JKG
+손/NNG + 도/JX
+자신/NNG + 의/JKG
+것/NNB + 이/JKC
+아니/VCN + 다/EF + ./SF
+쭉쭉/MAG
+뻗/VV + 은/ETM
+다리/NNG + 를/JKO
+자랑/NNG + 하/XSV + 는/ETM
+다리/NNG + 모델/NNG + 도/JX
+각광/NNG + 받/VV + 는다/EF + ./SF
+비너스/NNP
+스타킹/NNG + 이나/JC
+금강제화/NNP
+비제바노/NNP + 의/JKG
+데땅뜨/NNP + 와/JC
+미스미스터/NNP
+구두/NNG + 광고/NNG + 에/JKB
+등장/NNG + 하/XSV + 는/ETM
+다리/NNG + 는/JX
+박수민/NNP + 씨/NNB + 의/JKG
+것/NNB + 이/VCP + 다/EF + ./SF
+박/NNP + 씨/NNB + 는/JX
+또/MAG
+에스콰이아/NNP
+레스모아/NNP
+광고/NNG + 에/JKB + 도/JX
+다리/NNG + 를/JKO
+선보이/VV + 고/EC
+40/SN + 만/NR + 원/NNB + 의/JKG
+모델료/NNG + 를/JKO
+받/VV + 은/ETM
+것/NNB + 으로/JKB
+알리/VV + 어/EC + 지/VX + 었/EP + 다/EF + ./SF
+탤런트/NNG
+이승연/NNP + 이/JKS
+수억/NR + 원/NNB + 을/JKO
+받/VV + 고/EC
+모델/NNG + 로/JKB
+나오/VV + ㄴ/ETM
+슈발리에/NNP
+광고/NNG + 에서/JKB
+구두/NNG + 를/JKO
+신/VV + 고/EC
+걷/VV + 다/EC
+뒤/NNG + 로/JKB
+획/MAG
+돌/VV + 는/ETM
+장면/NNG + 의/JKG
+늘씬/XR + 하/XSA + ㄴ/ETM
+다리/NNG + 의/JKG
+주인공/NNG + 은/JX
+임진숙/NNP + 씨/NNB + 이/VCP + 다/EF + ./SF
+모델료/NNG + 는/JX
+50/SN + 만/NR + ∼/SO + 60/SN + 만/NR + 원/NNB + ./SF
+메이폴/NNP
+·/SP
+삼성/NNP + 마이컴퓨터/NNG
+·/SP
+에스콰이아/NNP
+·/SP
+영에이지/NNP
+광고/NNG + 에/JKB + 는/JX
+한은산/NNP + 씨/NNB + 의/JKG
+다리/NNG + 가/JKS
+모습/NNG + 을/JKO
+드러내/VV + ㄴ다/EF + ./SF
+제일제당/NNP + 의/JKG
+슈슈/NNG + 샴푸/NNG
+광고/NNG + 에/JKB + 는/JX
+탤런트/NNG
+신애라/NNP + 가/JKS
+모델/NNG + 로/JKB
+나오/VV + 아/EC
+윤기/NNG + 나/VV + 는/ETM
+머릿결/NNG + 을/JKO
+뽐내/VV + ㄴ다/EF + ./SF
+하지만/MAJ
+그/MM
+머릿결/NNG + 은/JX
+모발/NNG + 모델/NNG + 이/VCP + ㄴ/ETM
+박진심/NNP + 씨/NNB + 의/JKG
+것/NNB + 이/VCP + 다/EF + ./SF
+박/NNP + 씨/NNB + 는/JX
+트리시스/NNG + ·/SP + 선실크/NNG + 를/JKO
+비롯/XR + 하/XSV + ㄴ/ETM
+10/SN + 여/XSN + 개/NNB
+샴푸/NNG + 광고/NNG + 에서/JKB
+물결치/VV + 듯/EC
+부드럽/VA + 고/EC
+윤기/NNG + 나/VV + 는/ETM
+머리카락/NNG + 을/JKO
+휘날리/VV + 었/EP + 다/EF + ./SF
+박/NNP + 씨/NNB + 는/JX
+CF/SL
+1/SN + 회/NNB
+출연/NNG + 에/JKB
+1/SN + 백/NR + 50/SN + 만/NR + ∼/SO + 2/SN + 백만/NR + 원/NNB + 을/JKO
+받/VV + 고/EC
+있/VX + 다/EF + ./SF
+여성/NNG + 용/XSN
+청결/NNG + 세제/NNG + 이/VCP + ㄴ/ETM
+피죤/NNG
+마프러스/NNG
+광고/NNG + 에/JKB + 는/JX
+등/NNB + 이/JKS
+예쁘/VA + 기/ETN + 로/JKB
+소문나/VV + ㄴ/ETM
+진희경/NNP + 씨/NNB + 의/JKG
+등/NNB
+모습/NNG + 이/JKS
+등장/NNG + 하/XSV + ㄴ다/EF + ./SF
+라면/NNG + 이나/JC
+과자/NNG
+광고/NNG + 에/JKB
+가끔/MAG
+등장/NNG + 하/XSV + 는/ETM
+강은선/NNP + 씨/NNB + 는/JX
+눈/NNG + 을/JKO
+빌리/VV + 어/EC + 주/VX + 는/ETM
+모델/NNG + 로/JKB + 도/JX
+유명/NNG + 하/XSA + 다/EF + ./SF
+이/NP + 밖에/JX
+다이어트/NNG + 제품/NNG + 이나/JC
+화장품/NNG
+광고/NNG + 에/JKB
+나오/VV + 는/ETM
+몸매/NNG + 모델/NNG + ,/SP
+치약/NNG
+광고/NNG + 의/JKG
+치아/NNG + 모델/NNG + ,/SP
+속옷/NNG + 광고/NNG + 의/JKG
+가슴/NNG + 모델/NNG + ,/SP
+루주/NNG + 제품/NNG + 의/JKG
+입술/NNG + 모델/NNG + 처럼/JKB
+신체/NNG + 의/JKG
+특정/NNG + 부위/NNG + 만/JX
+빌리/VV + 어/EC + 주/VX + 는/ETM
+부분/NNG + 모델/NNG + 들/XSN + 도/JX
+20/SN + 만/NR + ∼/SO + 40/SN + 만/NR + 원/NNB + 의/JKG
+모델료/NNG + 를/JKO
+받/VV + 고/EC
+있/VX + 다/EF + ./SF
+</SS + 이종태/NNP
+기자/NNG + >/SS
+판권료/NNG
+광고/NNG + 쟁점/NNG
+부상/NNG
+//SP
+패러디/NNG + 방식/NNG
+점차/MAG
+늘/VV + 면서/EC
+96/SN + ./SP + 03/SN + ./SP + 03/SN
+◎/SW
+외국/NNG + 영화사/NNG
+요구/NNG
+커지/VV + ㄹ/ETM + 듯/NNB
+최근/NNG
+유명/NNG + 영화/NNG
+{/SS + 로미오/NNP + 와/JC
+줄리엣/NNP + }/SS
+{/SS + 원초/NNG + 적/XSN
+본능/NNG + }/SS
+{/SS + 사랑/NNG + 과/JC
+영혼/NNG + }/SS
+등/NNB
+주요/NNG + 장면/NNG + 을/JKO
+고스란히/MAG
+광고/NNG + 에/JKB
+사용/NNG + 하/XSV + 거나/EC
+익살/NNG + 스럽/XSA + 게/EC
+모방/NNG + 하/XSV + ㄴ/ETM
+패러디/NNG + 광고/NNG + 가/JKS
+늘/VV + 면서/EC
+모델료/NNG + 와/JC
+판권료/NNG + 에/JKB
+관심/NNG + 이/JKS
+쏠리/VV + 고/EC
+있/VX + 다/EF + ./SF
+동양제과/NNP + 는/JX
+최근/NNG
+영화/NNG
+{/SS + 로미오/NNP + 와/JC
+줄리엣/NNP + }/SS + 의/JKG
+주요/NNG + 장면/NNG + 을/JKO
+그대로/MAG
+사용/NNG + 하/XSV + ㄴ/ETM
+초콜릿/NNG
+[/SS + 줌/NNG + ]/SS + 의/JKG
+TV/SL
+광고/NNG + 를/JKO
+제작/NNG + ,/SP
+방영/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+이/MM
+영화/NNG + 의/JKG
+남녀/NNG
+주인공/NNG + 이/VCP + ㄴ/ETM
+레오나르도/NNP
+화이팅/NNP + 과/JC
+올리비아/NNP
+허시/NNP + 에게/JKB
+지급/NNG + 되/XSV + ㄴ/ETM
+모델료/NNG + 는/JX
+각각/MAG
+1/SN + 만/NR + 달러/NNB + 로/JKB
+모델료/NNG + 이/VCP + 라기/ETN + 보다/JKB
+초상/NNG + 권/XSN
+명목/NNG + ./SF
+그러나/MAJ
+이/MM
+영화/NNG + 의/JKG
+판권/NNG + 을/JKO
+갖/VV + 고/EC
+있/VX + 는/ETM
+파라마운트영화사/NNP + 는/JX
+모델료/NNG + 보다/JKB
+훨씬/MAG
+많/VA + 은/ETM
+4/SN + 만/NR + 달러/NNB + 의/JKG
+판권료/NNG + 를/JKO
+받/VV + 았/EP + 다/EF + ./SF
+이/MM
+영화/NNG + 는/JX
+제작/NNG + 하/XSV + ㄴ지/EC
+오래/MAG
+되/VV + 었/EP + 기/ETN
+때문/NNB + 에/JKB
+그나마/MAG
+헐값/NNG + (/SS + ?/SF + )/SS + 에/JKB
+판권/NNG + 을/JKO
+사/VV + ㄹ/ETM
+수/NNB
+있/VV + 었/EP + 던/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+한편/NNG
+{/SS + 원초/NNG + 적/XSN
+본능/NNG + }/SS
+{/SS + 사랑/NNG + 과/JC
+영혼/NNG + }/SS + 은/JX
+TV/SL + 광고/NNG + 에/JKB
+인용/NNG + 되/XSV + 고/EC
+있/VX + 으나/EC
+이/MM
+광고/NNG + 들/XSN + 은/JX
+아직/MAG
+판권료/NNG + 를/JKO
+지급/NNG + 하/XSV + 지/EC
+않/VX + 고/EC
+있/VX + 다/EF + ./SF
+이/NP + 에/JKB
+대하/VV + 아/EC
+업계/NNG + 의/JKG
+한/MM
+관계자/NNG + 는/JX
+{/SS + 최근/NNG
+지/NNG + 적/XSN + 재산/NNG + 권/XSN + 에/JKB
+대하/VV + ㄴ/ETM
+권리/NNG + 의식/NNG + 이/JKS
+점차/MAG
+확산/NNG + 되/XSV + 면서/EC
+패러디/NNG + 광고/NNG + 의/JKG
+판권료/NNG
+지급/NNG + 문제/NNG + 가/JKS
+머지않/VA + 아/EC
+광고업/NNG + 계/XSN + 의/JKG
+논란거리/NNG + 가/JKC
+되/VV + ㄹ/ETM
+것/NNB + }/SS + 으로/JKB
+내다보/VV + 았/EP + 다/EF + ./SF
+</SS + 정보경/NNP
+기자/NNG + >/SS
+광고주/NNG + ,/SP
+매체/NNG + 차별/NNG + 화/XSN
+나서/VV + 었/EP + 다/EC
+//SP
+효과/NNG + 따르/VV + 아/EC
+물량/NNG + 배분/NNG + …/SE
+백화점/NNG
+선도/NNG
+96/SN + ./SP + 03/SN + ./SP + 03/SN
+광고주/NNG + 들/XSN + 의/JKG
+매체/NNG + 계획/NNG + 이/JKS
+달라지/VV + 고/EC
+있/VX + 다/EF + ./SF
+종전/NNG + 에/JKB + 는/JX
+특히/MAG
+신문/NNG + 광고/NNG + 의/JKG
+경우/NNG
+신문사/NNG + 와/JKB + 의/JKG
+원만/XR + 하/XSA + ㄴ/ETM
+관계/NNG + 를/JKO
+위하/VV + 아/EC
+주먹구구식/NNG + 으로/JKB
+광고/NNG + 물량/NNG + 을/JKO
+배분/NNG + 하/XSV + 는/ETM
+것/NNB + 이/JKS
+관례/NNG + 이/VCP + 었/EP + 으나/EC
+최근/NNG
+들/VV + 어서/EC + 는/JX
+TV/SL + 시청/NNG + 률/XSN
+조사/NNG + 를/JKO
+방불/XR + 하/XSA + 게/EC + 하/VX + 는/ETM
+자체/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+광고/NNG + 효과/NNG + 측정/NNG
+활동/NNG + 을/JKO
+벌이/VV + 어/EC
+매체/NNG + 를/JKO
+차별/NNG + 화/XSN + 하/XSV + 아/EC
+나가/VX + 고/EC
+있/VX + 다/EF + ./SF
+광고/NNG + 예산/NNG + 은/JX
+한정/NNG + 되/XSV + 어/EC
+있/VX + 는데/EC
+매체/NNG + 는/JX
+늘어나/VV + 는/ETM
+등/NNB
+광고/NNG + 환경/NNG + 변화/NNG + 에/JKB
+대처/NNG + ,/SP
+광고/NNG + 효과/NNG + 를/JKO
+극대/NNG + 화/XSN + 하/XSV + 기/ETN
+위하/VV + 아서/EC + 는/JX
+합리/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+매체/NNG + 선정/NNG + 이/JKS
+불가피/XR + 하/XSA + 아/EC + 지/VX + ㄴ/ETM
+까닭/NNG + 이/VCP + 다/EF + ./SF
+세일/NNG + 광고/NNG + 의/JKG
+대부분/NNG + 을/JKO
+신문/NNG + 에/JKB
+내/VV + 는/ETM
+백화점/NNG + 들/XSN + 이/JKS
+이/NP + 같/VA + 은/ETM
+추세/NNG + 를/JKO
+선도/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+롯데백화점/NNP + 은/JX
+광고/NNG + 대행사/NNG + 이/VCP + ㄴ/ETM
+대홍기획/NNP + 에/JKB
+지나/VV + ㄴ/ETM
+1/SN + 월/NNB + 말/NNB + 부터/JX
+[/SS + 고객/NNG
+행태/NNG + 조사/NNG + ]/SS + 를/JKO
+의뢰/NNG + ,/SP
+현재/MAG
+마무리/NNG
+단계/NNG + 에/JKB
+들어가/VV + 아/EC
+있/VX + 다/EF + ./SF
+그간/NNG
+3/SN + 년/NNB + 에/JKB
+한/MM + 번/NNB + 씩/XSN
+하/VV + 아/EC + 오/VX + 던/ETM
+조사/NNG + 이/VCP + 기/ETN + ㄴ/JX
+하/VV + 나/EC
+이번/NNG + 에/JKB + 는/JX
+전국/NNG
+5/SN + 개/NNB + 점/NNG + 을/JKO
+찾/VV + 는/ETM
+고객/NNG + 들/XSN + 을/JKO
+대상/NNG + 으로/JKB
+[/SS + 어느/MM
+신문/NNG + 에/JKB
+실리/VV + ㄴ/ETM
+세일/NNG + 광고/NNG + 를/JKO
+보/VV + 고/EC
+찾/VV + 아/EC
+오/VX + 았/EP + 는지/EC + ]/SS
+등/NNB
+매체/NNG + 접촉/NNG + 실태/NNG + 조사/NNG + 에/JKB
+초점/NNG + 을/JKO
+맞추/VV + 었/EP + 다/EF + ./SF
+대홍기획/NNP
+관계자/NNG + 는/JX
+{/SS + 지금/NNG + 까지/JX + 는/JX
+미디어/NNG + 리서치/NNG + 업체/NNG + 들/XSN + 에서/JKB
+발행/NNG + 부수/NNG
+등/NNB + 의/JKG
+자료/NNG + 를/JKO
+제공/NNG + 받/VV + 아/EC
+이/NP + 를/JKO
+참고/NNG + 하/XSV + 는/ETM
+수준/NNG + 에/JKB
+그치/VV + 었/EP + 으나/EC
+앞/NNG + 으로/JKB + 는/JX
+자체/NNG + 조사/NNG
+결과/NNG + 를/JKO
+토대/NNG + 로/JKB
+합리/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+매체/NNG + 집행/NNG
+계획/NNG + 을/JKO
+세우/VV + 어/EC + 나가/VX + ㄹ/ETM
+것/NNB + }/SS + 이/VCP + 라고/EC
+밝히/VV + 었/EP + 다/EF + ./SF
+여행사/NNG + 들/XSN + 의/JKG
+여행객/NNG
+모집/NNG + 광고/NNG + 는/JX
+당일/NNG + 로/JKB
+광고/NNG + 효과/NNG + 가/JKS
+바로/MAG
+나타나/VV + 는/ETM
+대표/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+광고/NNG + ./SF
+연간/NNG
+신문/NNG + 광고비/NNG + 만/JX
+50/SN + 억/NR + 원/NNB + 에/JKB
+가깝/VA + ㄴ/ETM
+씨에프랑스/NNP
+항공/NNG + 여행사/NNG + 의/JKG
+경우/NNG
+전국/NNG
+16/SN + 개/NNB
+지점/NNG + 에서/JKB
+고객/NNG + 상담/NNG + 을/JKO
+통하/VV + 아/EC
+그날/NNG
+그날/NNG + 의/JKG
+광고/NNG + 효과/NNG
+측정/NNG + 표/NNG + 를/JKO
+작성/NNG + 하/XSV + ㄴ다/EF + ./SF
+이/NP + 를/JKO
+한/MM
+달/NNB + 간/NNG
+집계/NNG + 하/XSV + 아/EC
+다음/NNG + 달/NNG + 의/JKG
+매체/NNG + 계획/NNG + 에/JKB
+그대로/MAG
+반영/NNG + 하/XSV + 고/EC
+있/VX + 는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+결과/NNG + 적/XSN + 으로/JKB
+이/MM
+업체/NNG + 의/JKG
+광고/NNG + 는/JX
+배낭여행/NNG + 은/JX
+스포츠지/NNG
+·/SP
+대학/NNG + 학보/NNG
+등/NNB + 에/JKB + 만/JX + ,/SP
+단체/NNG + 여행/NNG + 은/JX
+4/SN + 개/NNB
+일간지/NNG + 에/JKB + 만/JX
+나가/VV + 고/EC
+있/VX + 으며/EC
+광고/NNG + 단가/NNG + 도/JX
+광고/NNG + 효과/NNG + 에/JKB
+비례/NNG + 하/XSV + 아/EC
+차별/NNG + 화/XSN
+되/VV + 어/EC + 있/VX + 다/EF + ./SF
+영화사/NNG + 는/JX
+입장객/NNG + 들/XSN + 을/JKO
+상대/NNG + 로/JKB
+광고/NNG + 접촉/NNG
+조사/NNG + 를/JKO
+벌이/VV + ㄴ다/EF + ./SF
+연간/NNG
+1/SN + ∼/SO + 2/SN + 차례/NNG + 씩/XSN
+5/SN + 백/NR + 명/NNB
+안팎/NNG + 의/JKG
+입장객/NNG
+조사/NNG + 를/JKO
+벌이/VV + 고/EC
+있/VX + 는/ETM
+UIP/SL + 사/NNG + 는/JX
+이/MM + 밖/NNG + 에/JKB + 도/JX
+미디어/NNG + 리서치/NNG
+업체/NNG + 들/XSN + 로부터/JKB
+구독/NNG + 률/XSN + 조사/NNG
+결과/NNG + 를/JKO
+제공/NNG + 받/VV + 아/EC
+매체/NNG + 계획/NNG + 을/JKO
+짜/VV + ㄴ다/EF + ./SF
+</SS + 정기환/NNP
+기자/NNG + >/SS
+신/XPN + 세대/NNG + 과자/NNG
+광고/NNG + 에/JKB
+"/SS + 쉬/VV + ㄴ/ETM + 세대/NNG + "/SS
+등장/NNG
+96/SN + ./SP + 03/SN + ./SP + 03/SN
+◎/SW
+잘/MAG
+나가/VV + 는/ETM
+청춘/NNG + 모델/NNG
+불문율/NNG
+깨/VV + 고/EC
+54/SN + 세/NNB
+주현/NNP + 씨/NNB
+기용/NNG
+과자/NNG + 광고/NNG + 에/JKB
+신/XPN + 세대/NNG + 스타/NNG + 를/JKO
+쓰/VV + 는/ETM
+불문율/NNG + 을/JKO
+깨/VV + 고/EC
+흰머리/NNG + 가/JKS
+듬성듬성/MAG + 하/XSA + ㄴ/ETM
+중년/NNG + 남자/NNG
+모델/NNG + 을/JKO
+기용/NNG + 하/XSV + ㄴ/ETM
+CF/SL + 가/JKS
+등장/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+제일기획/NNP + 이/JKS
+제작/NNG + ,/SP
+지난주/NNG + 부터/JX
+방영/NNG + 되/XSV + 고/EC
+있/VX + 는/ETM
+동양제과/NNP + 의/JKG
+베이직크래커/NNG
+광고/NNG + 로/JKB
+54/SN + 세/NNB + 의/JKG
+탤런트/NNG
+주현/NNP + 을/JKO
+등장/NNG + 시키/XSV + ㄴ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+과자/NNG + 광고/NNG + 에서/JKB + 는/JX
+최/XPN + 고령/NNG + 모델/NNG + 을/JKO
+쓰/VV + ㄴ/ETM
+셈/NNB + 이/VCP + 다/EF + ./SF
+과자/NNG + 광고/NNG + 는/JX
+대부분/NNG + 의/JKG
+수요/NNG + 계층/NNG + 이/JKS
+학생/NNG + ·/SP + 여성/NNG + ·/SP + 직장인/NNG + 이/VCP + 기/ETN
+때문/NNB + 에/JKB
+잘/MAG
+나가/VV + 는/ETM
+신/XPN + 세대/NNG
+모델/NNG + 을/JKO
+쓰/VV + 는/ETM
+것/NNB + 이/JKS
+보통/NNG + 이/VCP + ㄴ데/EC
+현재/MAG
+경쟁/NNG + 업체/NNG + 이/VCP + ㄴ/ETM
+롯데제과/NNP + 와/JC
+해태제과/NNP + 는/JX
+1/SN + 억/NR + ∼/SO + 2/SN + 억/NR + 원/NNB + 을/JKO
+호가/NNG + 하/XSV + 는/ETM
+신/XPN + 세대/NNG + 스타/NNG
+이승연/NNP
+·/SP
+심은하/NNP
+·/SP
+배용준/NNP
+등/NNB + 을/JKO
+모델/NNG + 로/JKB
+쓰/VV + 고/EC
+있/VX + 다/EF + ./SF
+그러나/MAJ
+제일기획/NNP + 과/JC
+동양제과/NNP + 는/JX
+1/SN + 년/NNB + 전/NNG
+제품/NNG + 개발/NNG + ·/SP + 광고/NNG + 를/JKO
+기획/NNG + 하/XSV + 는/ETM
+과정/NNG + 에서/JKB
+성수대교/NNP + ·/SP + 삼풍백화점/NNP
+붕괴/NNG + 사고/NNG + 가/JKS
+잇따르/VV + 아/EC
+터지/VV + 자/EC
+이/NP + 를/JKO
+소재/NNG + 로/JKB
+[/SS + 기본/NNG + 을/JKO
+지키/VV + 자/EC + ]/SS + 로/JKB
+내용/NNG + 을/JKO
+설정/NNG + 하/XSV + 고/EC
+과자/NNG + 이름/NNG + 을/JKO
+아예/MAG
+[/SS + 베이직/NNG + ]/SS + (/SS + BASIC/SL
+·/SP
+기본/NNG + 이/VCP + 란/ETM
+뜻/NNG + 의/JKG
+영어/NNP + )/SS + 으로/JKB
+정하/VV + 았/EP + 다/EF + ./SF
+광고/NNG + 모델/NNG + 도/JX
+순간/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+인기/NNG + 를/JKO
+업/VV + 고/EC
+거들먹거리/VV + 는/ETM
+일부/NNG
+신/XPN + 세대/NNG + 스타/NNG + 보다/JKB
+30/SN + 여/XSN + 년/NNB + 간/NNG
+기본/NNG + 을/JKO
+지키/VV + 며/EC
+존경/NNG + 받/VV + 는/ETM
+탤런트/NNG + 로/JKB
+{/SS + 옥이이모/NNP + }/SS
+{/SS + 서울깍두기/NNP + }/SS
+{/SS + 한강뻐꾸기/NNP + }/SS
+등/NNB + 의/JKG
+드라마/NNG + 에서/JKB
+인기/NNG + 를/JKO
+얻/VV + 고/EC
+있/VX + 는/ETM
+주현/NNP + 을/JKO
+선정/NNG + ,/SP
+9/SN + 천만/NR + 원/NNB + 에/JKB
+계약/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이/MM
+광고/NNG + 는/JX
+시리즈/NNG + 로/JKB
+나오/VV + ㄹ/ETM
+예정/NNG + 이/VCP + ㄴ데/EC
+1/SN + 편/NNB + (/SS + 발효/NNG + 편/NNB + )/SS + 은/JX
+주현/NNP + 이/JKS
+과자/NNG + 굽/VV + 는/ETM
+책임자/NNG + 로/JKB
+48/SN + 시간/NNG + 이상/NNG
+숙성/XR + 시키/XSV + 어야/EC
+저/NP + 의/JKG
+맛/NNG + 이/JKS
+나/VV + 는데/EC + 도/JX
+서너/MM + 시간/NNG + 만/NNB + 에/JKB
+제품/NNG + 을/JKO
+뽑/VV + 으려는/ETM
+보조원/NNG + (/SS + 탤런트/NNG
+김세준/NNP + ·/SP + 모델료/NNG
+5/SN + 천만/NR + 원/NNB + )/SS + 을/JKO
+혼내/VV + 는/ETM
+코믹/NNG + 하/XSA + ㄴ/ETM
+내용/NNG + 이/VCP + 다/EF + ./SF
+아직/MAG
+광고/NNG + 효과/NNG + 는/JX
+분석/NNG + 되/XSV + 지/EC
+않/VX + 지만/EC
+과자/NNG + 를/JKO
+사/VV + 아/EC + 주/VX + 는/ETM
+실/NNG + 구매/NNG + 층/XSN + 이/VCP + ㄴ/ETM
+주부/NNG
+등/NNB
+어른/NNG + 뿐/JX + 만/JX
+아니/VCN + 라/EC
+신/XPN + 세대/NNG + 에게/JKB + 도/JX
+코믹/NNG + 내용/NNG + 으로/JKB
+반응/NNG + 이/JKS
+좋/VA + 다는/ETM
+설명/NNG + 이/VCP + 다/EF + ./SF
+</SS + 김시래/NNP
+기자/NNG + >/SS
+전망/NNG + (/SS + 케이블/NNG + TV/SL
+1/SN + 년/NNB + 결산/NNG + :/SP
+하/NNG + )/SS
+96/SN + ./SP + 03/SN + ./SP + 04/SN
+◎/SW
+첩첩/MAG
+산중/NNG + 에/JKB
+한줄기/NNG
+빛/NNG
+//SP
+보급/NNG
+미흡/NNG
+·/SP
+위성/NNG + 방송/NNG
+등장/NNG + …/SE
+고전/NNG + 의/JKG
+연속/NNG
+//SP
+24/SN + 시간/NNG
+방영/NNG + ·/SP + 방송/NNG + 채널/NNG + 대/XPN + 개설/NNG + 은/JX
+'/SS + 살길/NNG + '/SS
+[/SS + 올해/NNG + 말/NNB
+시청/NNG + 가구/NNG + 수/NNG
+1/SN + 백/NR + 50/SN + 만/NR + ./SF
+프로그램/NNG
+공급/NNG + 업체/NNG + (/SS + PP/SL + )/SS
+4/SN + 개/NNB + 사/NNG + 와/JC
+종합/NNG + 유선/NNG + 방송국/NNG + (/SS + SO/SL + )/SS
+18/SN + 개/NNB + 사/NNG
+흑자/NNG
+전환/NNG + ]/SS + ./SF
+공보처/NNG + 가/JKS
+내다보/VV + 는/ETM
+96/SN + 년/NNB
+케이블/NNG + TV/SL
+업계/NNG + 의/JKG
+[/SS + 장미/NNG + 빛/NNG + 미래/NNG + ]/SS + 이/VCP + 다/EF + ./SF
+그러나/MAJ
+현업자/NNG + 들/XSN + 이/JKS
+전망/NNG + 하/XSV + 는/ETM
+미래/NNG + 는/JX
+이/NP + 와/JKB
+다르/VA + 다/EF + ./SF
+이/NP + 들/XSN + 은/JX
+올해/NNG + 도/JX
+[/SS + 고전/NNG + 의/JKG
+연속/NNG + ]/SS + 이/VCP + ㄹ/ETM
+것/NNB + 으로/JKB
+보/VV + 고/EC
+있/VX + 다/EF + ./SF
+SO/SL + 업자/NNG + 들/XSN + 은/JX
+유료/NNG + 시청/NNG + 가구/NNG + 수/NNG + 가/JKS
+2/SN + 만/NR + 이/JKC
+되/VV + 어야/EC
+수지/NNG + 를/JKO
+맞추/VV + ㄹ/ETM
+수/NNB
+있/VV + 다고/EC
+말/NNG + 하/XSV + ㄴ다/EF + ./SF
+현재/MAG
+유료/NNG + 가입/NNG
+가구/NNG + 수/NNG
+1/SN + 만/NR + 을/JKO
+넘/VV + 는/ETM
+SO/SL + 는/JX
+2/SN + 개/NNB + 뿐/JX + 이/VCP + ㄴ/ETM
+상황/NNG + 이/VCP + 다/EF + ./SF
+PP/SL + 들/XSN + 도/JX
+케이블/NNG + TV/SL + 만/JX + 으로/JKB
+흑자/NNG + 를/JKO
+보/VV + 겠/EP + 다는/ETM
+생각/NNG + 은/JX
+아예/MAG
+접/VV + 어/EC + 두/VX + 고/EC
+있/VX + 다/EF + ./SF
+케이블/NNG + TV/SL + 가/JKS
+성공/NNG + 적/XSN + 으로/JKB
+자리/NNG + 잡/VV + 는다/EC
+하/VV + 더라도/EC
+PP/SL + 들/XSN + 이/JKS
+흑자/NNG + 로/JKB
+돌아서/VV + 려면/EC
+7/SN + ∼/SO + 8/SN + 년/NNB + 은/JX
+필요/NNG + 하/XSA + 다/EF + ./SF
+게다가/MAG
+곧/MAG
+[/SS + 위성/NNG + 방송/NNG + ]/SS + 이/VCP + 라는/ETM
+강적/NNG + 의/JKG
+등장/NNG + 도/JX
+멀/VA + 지/EC
+않/VX + 았/EP + 다/EF + ./SF
+이/NP + 에/JKB
+따르/VV + 아/EC
+PP/SL + 들/XSN + 은/JX
+영화/NNG
+·/SP
+음반/NNG
+제작/NNG
+등/NNB
+이른바/MAG
+[/SS + 종합/NNG + 영상/NNG
+소프트웨어/NNG + 사업/NNG + ]/SS + 에/JKB
+나서/VV + 고/EC
+있/VX + 다/EF + ./SF
+여성/NNG + 채널/NNG
+GTV/SL + 는/JX
+이미/MAG
+올해/NNG
+박철수/NNP + 필름/NNG + 과/JC
+손잡/VV + 고/EC
+{/SS + 학생부군신위/NNP + }/SS + 를/JKO
+만들/VV + 었/EP + 으며/EC
+만화/NNG + 영화/NNG
+{/SS + 아마게돈/NNP + }/SS
+등/NNB + 의/JKG
+음반/NNG + 을/JKO
+출시/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+케이블/NNG + TV/SL
+업계/NNG + 에서/JKB + 는/JX
+98/SN + 년/NNB + 을/JKO
+[/SS + 일대/MM
+변혁/NNG + 의/JKG
+해/NNG + ]/SS + 로/JKB
+보/VV + 고/EC
+있/VX + 다/EF + ./SF
+현행법/NNG + 상/XSN
+98/SN + 년/NNB + 3/SN + 월/NNB + 까지/JX + 는/JX
+SO/SL + 소유권자/NNG + 가/JKS
+바뀌/VV + ㄹ/ETM
+수/NNB
+없/VA + 도록/EC
+되/VV + 어/EC + 있/VX + 다/EF + ./SF
+일단/MAG
+이/MM
+시한/NNG + 을/JKO
+넘어서/VV + 면/EC
+SO/SL + 들/XSN + 의/JKG
+[/SS + 대/XPN + 통합/NNG + ]/SS + 이/JKS
+예상/NNG + 되/XSV + ㄴ다/EF + ./SF
+여러/MM
+SO/SL + 들/XSN + 을/JKO
+통합/NNG + 하/XSV + ㄴ/ETM
+중계망/NNG + 을/JKO
+갖추/VV + 게/EC
+되/VV + 면/EC
+이/NP + 를/JKO
+이용/NNG + 하/XSV + ㄴ/ETM
+주문/NNG + 형/XSN
+비디오/NNG + 서비스/NNG
+등/NNB
+미래/NNG + 형/XSN
+멀티미디어/NNG + 사업/NNG + 이/JKS
+가능/NNG + 하/XSA + 아/EC + 지/VX + 고/EC
+그렇/VA + ㄹ/ETM
+경우/NNG
+지금/NNG + 과/JKB + 는/JX
+비교/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+없/VA + 는/ETM
+막대/XR + 하/XSA + ㄴ/ETM
+이익/NNG + 이/JKS
+보장/NNG + 되/XSV + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+이/NP + 같/VA + 은/ETM
+업계/NNG + 의/JKG
+변화/NNG
+이외/NNG + 에/JKB
+[/SS + 시청자/NNG + 에게/JKB
+직접/MAG
+다가오/VV + 는/ETM + ]/SS
+변화/NNG + 도/JX
+올해/NNG
+이루어지/VV + ㄴ다/EF + ./SF
+HBS/SL + 가/JKS
+곧/MAG
+종일/NNG + 방송/NNG + 에/JKB
+들어가/VV + ㄹ/ETM
+예정/NNG + 이/VCP + 며/EC
+다른/MM
+대부분/NNG + 의/JKG
+채널/NNG + 들/XSN + 도/JX
+올해/NNG + 중/NNB
+24/SN + 시간/NNG + 방송/NNG
+실시/NNG + 를/JKO
+적극/NNG
+검토/NNG + 중/NNB + 이/VCP + 다/EF + ./SF
+또/MAG
+9/SN + 월/NNB + 1/SN + 일/NNB + 부터/JX + 는/JX
+한국방송대/NNP + 채널/NNG + 이/JKS
+개설/NNG + 되/XSV + 어/EC
+20/SN + 만/NR + 명/NNB + 의/JKG
+학생/NNG + 들/XSN + 을/JKO
+새롭/VA + ㄴ/ETM
+시청자/NNG + 로/JKB
+끌어들이/VV + 게/EC
+되/VV + ㄴ다/EF + ./SF
+</SS + 권혁주/NNP
+기자/NNG + >/SS
+TV/SL + 쇼/NNG
+이벤트/NNG + 화/XSN + 로/JKB
+상한/NNG + 가/XSN
+//SP
+KBS/SL
+'/SS + 빅쇼/NNG + '/SS + 시청/NNG + 률/XSN
+20/SN + %/SW
+인기/NNG
+만끽/NNG
+96/SN + ./SP + 03/SN + ./SP + 04/SN
+◎/SW
+"/SS + 쇼/NNG + 는/JX
+노래/NNG + 가/JKC
+아니/VCN + ㄴ/ETM
+인물/NNG + "/SS + …/SE
+MBC/SL
+맞불/NNG
+60/SN + 년대/NNB
+미국/NNP + TV/SL + 의/JKG
+전설/NNG + 적/XSN
+쇼/NNG + 프로/NNG
+{/SS + 에드/NNP
+설리번/NNP
+쇼/NNG + }/SS + 가/JKS
+30/SN + 년/NNB + 이/JKS
+지나/VV + ㄴ/ETM
+지금/NNG + 까지/JX
+세계/NNG + 에/JKB
+기억/NNG + 되/XSV + 고/EC
+있/VX + 는/ETM
+것/NNB + 은/JX
+당시/NNG + 의/JKG
+높/VA + 은/ETM
+시청/NNG + 률/XSN
+때문/NNB + 이/JKC
+아니/VCN + 다/EF + ./SF
+비틀스/NNP + 이/VCP + 라는/ETM
+슈퍼스타/NNG + 를/JKO
+미국/NNP + 에/JKB
+소개/NNG + 하/XSV + ㄴ/ETM
+[/SS + 역사/NNG + ]/SS + 를/JKO
+갖/VV + 고/EC
+있/VX + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+이/MM
+쇼/NNG + 는/JX
+비틀스/NNP + 가/JKS
+거론/NNG + 되/XSV + 는/ETM
+자리/NNG + 에/JKB + ㄴ/JX
+언제나/MAG
+함께/MAG
+언급/NNG + 되/XSV + ㄴ다/EF + ./SF
+90/SN + 년대/NNB
+들/VV + 어/EC
+위축/NNG + 세/NNG + 가/JKS
+현격/NNG + 하/XSA + 았/EP + 던/ETM
+국내/NNG
+TV/SL + 쇼/NNG + 도/JX
+{/SS + 에드/NNP
+설리번/NNP
+쇼/NNG + }/SS + 처럼/JKB
+유망/NNG + 하/XSA + ㄴ/ETM
+신인/NNG + 을/JKO
+등단/NNG + 시키/XSV + 고/EC
+슈퍼스타/NNG + 의/JKG
+감추/VV + 어/EC + 지/VX + ㄴ/ETM
+내면/NNG + 을/JKO
+보이/VV + 어/EC + 주/VX + 는/ETM
+등/NNB
+인물/NNG + 중심/NNG + 의/JKG
+이벤트/NNG + 프로/NNG + 로/JKB
+변신/NNG + 을/JKO
+시도/NNG + 하/XSV + 면서/EC
+침체/NNG + 되/XSV + 었/EP + 던/ETM
+TV/SL + 쇼/NNG + 가/JKS
+활기/NNG + 를/JKO
+되찾/VV + 고/EC
+있/VX + 다/EF + ./SF
+KBS/SL + ­/SS + 1/SN + TV/SL
+{/SS + 빅쇼/NNG + }/SS + 가/JKS
+그/MM
+대표/NNG + 적/XSN
+사례/NNG + ./SF
+얼마/NNG + 전/NNG
+7/SN + 년/NNB + 간/NNG
+출연/NNG + 정지/NNG + 되/XSV + ㄴ/ETM
+이승철/NNP + 의/JKG
+[/SS + 해금/NNG + 공연/NNG + ]/SS + 을/JKO
+성사/NNG + 시키/XSV + 어/EC
+신해철/NNP
+등/NNB
+다른/MM
+약물/NNG + 복용/NNG
+가수/NNG + 들/XSN + 의/JKG
+출연/NNG + 에/JKB
+물꼬/NNG + 를/JKO
+트/VV + 어/EC + 주/VX + 더니/EC
+지나/VV + ㄴ/ETM
+2/SN + 일/NNB + 에/JKB + 는/JX
+잠정/NNG + 은퇴/NNG + 를/JKO
+선언/NNG + 하/XSV + ㄴ/ETM
+인기/NNG + 가수/NNG
+이승환/NNP + 의/JKG
+고별/NNG + 무대/NNG + 를/JKO
+방송/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+또/MAG
+오/VV + 는/ETM
+29/SN + 일/NNB + 에/JKB + ㄴ/JX
+해외/NNG + 에서/JKB + 만/JX
+유명/NNG + 하/XSA + ㄴ/ETM
+[/SS + 감추/VV + 어/EC + 지/VX + ㄴ/ETM
+성악/NNG + 스타/NNG + ]/SS
+바리톤/NNG
+김동규/NNP + 를/JKO
+국내/NNG + 에/JKB
+데뷔/NNG + 시키/XSV + ㄴ다/EF + ./SF
+또/MAG
+4/SN + 월/NNB + 에/JKB + 는/JX
+유럽/NNP + 에서/JKB
+해체/NNG + 되/XSV + ㄴ/ETM
+{/SS + 손/NNG + 에/JKB
+손잡/VV + 고/EC + }/SS + 의/JKG
+그룹/NNG
+[/SS + 코리아나/NNP + ]/SS
+재/XPN + 결합/NNG + 공연/NNG + 도/JX
+추진/NNG + 중/NNB + 이/VCP + 다/EF + ./SF
+이/MM + 밖/NNG + 에/JKB + 도/JX
+방송/NNG + 출연/NNG + 이/JKS
+드물/VA + 었/EP + 던/ETM
+나훈아/NNP + 를/JKO
+무대/NNG + 에/JKB
+올리/VV + 어/EC
+중년/NNG + 여성/NNG + 들/XSN + 을/JKO
+열광/NNG + 시키/XSV + 었/EP + 으며/EC
+정훈희/NNP + 편/NNB + 에서/JKB + 는/JX
+이봉조/NNP + 와/JKB + 의/JKG
+[/SS + 영상/NNG + 재회/NNG + ]/SS + 를/JKO
+통하/VV + 아/EC
+잊히/VV + 어/EC + 지/VX + 어/EC
+가/VX + 는/ETM
+명연주자/NNG + 를/JKO
+되살리/VV + 었/EP + 다/EF + ./SF
+{/SS + 빅쇼/NNG + }/SS + 는/JX
+이벤트/NNG + 의/JKG
+화제/NNG + 성/XSN + 에/JKB
+힘입/VV + 어/EC
+평균/NNG + 시청/NNG + 률/XSN
+20/SN + %/SW + 가/JKS
+넘/VV + 는/ETM
+인기/NNG + 와/JKB
+함께/MAG
+[/SS + 가요사/NNG + 적/XSN
+사건/NNG + ]/SS + 들/XSN + 의/JKG
+주/MM + 무대/NNG + 로/JKB
+공인/NNG + 받/VV + 는/ETM
+이미지/NNG
+효과/NNG + 를/JKO
+동시/NNG + 에/JKB
+거두/VV + 고/EC
+있/VX + 다/EF + ./SF
+{/SS + 이제/MAG
+쇼/NNG + 는/JX
+노래/NNG + 가/JKC
+아니/VCN + 라/EC
+인물/NNG + 이/VCP + ㅂ니다/EF + ./SF + }/SS
+기획자/NNG
+곽명세/NNP
+PD/SL + 는/JX
+{/SS + 과거/NNG + 처럼/JKB
+단순/NNG + 하/XSA + ㄴ/ETM
+[/SS + 노래/NNG + 백화점/NNG + ]/SS + 식/NNB
+쇼/NNG + 는/JX
+음악/NNG + 전문/NNG
+케이블/NNG + TV/SL + 까지/JX
+등장/NNG + 하/XSV + ㄴ/ETM
+요즘/NNG
+더/MAG
+이상/NNG
+시청자/NNG + 를/JKO
+끌/VV + ㄹ/ETM
+수/NNB
+없/VA + 다/EC + }/SS + 고/JKQ
+주장/NNG + 하/XSV + ㄴ다/EF + ./SF
+{/SS + 노래/NNG + 에/JKB
+의미/NNG + 를/JKO
+불어넣/VV + 고/EC
+가수/NNG + 의/JKG
+활동사/NNG + 를/JKO
+다큐멘터리/NNG + 처럼/JKB
+정리/NNG + 하/XSV + 는/ETM
+등/NNB
+복합/NNG + 화/XSN + ·/SP + 차별/NNG + 화/XSN + 되/XSV + ㄴ/ETM
+연출/NNG + 만/JX + 이/JKS
+쇼/NNG + 의/JKG
+살/VV + ㄹ/ETM
+길/NNG + }/SS + 이/VCP + 란/ETM
+얘기/NNG + 이/VCP + 다/EF + ./SF
+이벤트/NNG
+중심/NNG + 의/JKG
+{/SS + 빅쇼/NNG + }/SS + 와/JKB
+관객/NNG + ·/SP + 무대/NNG + 의/JKG
+앙상블/NNG + 이/JKS
+특징/NNG + 이/VCP + ㄴ/ETM
+{/SS + 열리/VV + ㄴ/ETM
+음악회/NNG + }/SS
+등/NNB
+KBS/SL + 대형/NNG + 쇼/NNG + 의/JKG
+성공/NNG + 은/JX
+쇼/NNG + 를/JKO
+사양/NNG + 프로/NNG + 로/JKB
+여기/VV + 어/EC
+숫자/NNG + 를/JKO
+줄이/VV + 어/EC + 가/VX + 던/ETM
+민방/NNG + 에/JKB + 도/JX
+크/VA + 게/EC
+영향/NNG + 을/JKO
+미치/VV + 고/EC
+있/VX + 다/EF + ./SF
+MBC/SL + 는/JX
+다음/NNG + 달/NNG
+4/SN + 일/NNB
+개편/NNG + 에서/JKB
+{/SS + 청소년/NNG
+음악회/NNG + }/SS
+{/SS + 주부/NNG + 가요/NNG + 열창/NNG + }/SS
+{/SS + TV/SL
+가요/NNG + 교실/NNG + }/SS
+등/NNB
+음악/NNG + 프로/NNG + 를/JKO
+대거/MAG
+신설/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+MBC/SL + 는/JX
+{/SS + 쇼/NNG + 가/JKS
+단순/NNG + 오락물/NNG + 에서/JKB
+벗어나/VV + 아/EC
+방송사/NNG + 의/JKG
+이미지/NNG + 를/JKO
+향상/NNG + 시키/XSV + 는/ETM
+교양물/NNG + 로/JKB + 까지/JX
+격상/NNG + 하/XSV + 고/EC
+있/VX + 다/EC + }/SS + 고/JKQ
+집중/NNG + 편성/NNG
+배경/NNG + 을/JKO
+밝히/VV + 어/EC
+KBS/SL + 의/JKG
+이벤트/NNG
+쇼/NNG + 전략/NNG + 에/JKB
+정면/NNG + 대응/NNG
+의사/NNG + 를/JKO
+밝히/VV + 었/EP + 다/EF + ./SF
+</SS + 강찬호/NNP
+기자/NNG + >/SS
+KBS/SL
+'/SS + 심야/NNG + 토론/NNG + '/SS + (/SS + TV/SL + 리뷰/NNG + )/SS
+96/SN + ./SP + 03/SN + ./SP + 05/SN
+◎/SW
+흥분/NNG + 하/XSV + 기/ETN
+쉽/VA + ㄴ/ETM
+주제/NNG
+차분/XR + 하/XSA + 게/EC
+토론/NNG
+최근/NNG
+일본/NNP + 이/JKS
+독도/NNP
+영유/NNG + 권/XSN + 을/JKO
+주장/NNG + 하/XSV + ㄴ/ETM
+뒤/NNG
+우리/NP + 는/JX
+이/NP + 에/JKB
+대하/VV + 아/EC
+극도/NNG + 로/JKB
+흥분/NNG + 하/XSV + ㄴ/ETM
+태도/NNG + 를/JKO
+보이/VV + 었/EP + 다/EF + ./SF
+국민/NNG + 들/XSN + 은/JX
+일장기/NNG + 를/JKO
+불태우/VV + 며/EC
+망언/NNG + 을/JKO
+규탄/NNG + 하/XSV + 았/EP + 고/EC
+정부/NNG + 는/JX
+독도/NNP
+근해/NNG + 에서/JKB
+대일/NNG + 시위/NNG
+성격/NNG + 이/JKS
+강하/VA + ㄴ/ETM
+군사/NNG + 훈련/NNG + 을/JKO
+벌이/VV + 기/ETN + 까지/JX
+하/VX + 았/EP + 다/EF + ./SF
+그러나/MAJ
+이/NP + 같/VA + 은/ETM
+행동/NNG + 이/JKS
+[/SS + 독도/NNP + 는/JX
+한국/NNP + 땅/NNG + ]/SS + 이/VCP + 라는/ETM
+일본/NNP + 의/JKG
+언약/NNG + 을/JKO
+받/VV + 아/EC + 내/VX + 지/EC + 는/JX
+못하/VX + 았/EP + 다/EF + ./SF
+2/SN + 일/NNB
+방송/NNG + 되/XSV + ㄴ/ETM
+KBS/SL
+{/SS + 심야/NNG + 토론/NNG + }/SS + 은/JX
+단지/MAG
+감정/NNG + 만/JX + 을/JKO
+극한/NNG + 으로/JKB
+나타내/VV + 는/ETM
+태도/NNG + 에/JKB
+대하/VV + 아/EC
+깊/VA + 은/ETM
+반성/NNG + 을/JKO
+일깨우/VV + 어/EC + 주/VX + 었/EP + 다/EF + ./SF
+[/SS + 대일/NNG
+감정/NNG + ]/SS + 이/VCP + 라는/ETM
+미묘/XR + 하/XSA + ㄴ/ETM
+사안/NNG + 으로/JKB
+자칫/MAG
+흥분/NNG + 하/XSV + 기/ETN
+쉽/VA + ㄴ/ETM
+주제/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+그러나/MAJ
+끝/NNG + 까지/JX
+차분/XR + 하/XSA + ㄴ/ETM
+토론/NNG + 이/JKS
+이어지/VV + 며/EC
+{/SS + 국력/NNG + 을/JKO
+키우/VV + 어/EC
+최소한/NNG
+일본/NNP + 과/JKB
+대등/NNG + 하/XSA + ㄴ/ETM
+위치/NNG + 에서/JKB + 는/JX
+것/NNB + 이/JKS
+진정/XR + 하/XSA + ㄴ/ETM
+극일/NNG + }/SS + 이/VCP + ㅁ/ETN + 을/JKO
+결론/NNG + 으로/JKB
+이끌/VV + 어/EC + 내/VX + 었/EP + 다/EF + ./SF
+이/NP + 를/JKO
+위하/VV + 아/EC
+일본/NNP + 에/JKB
+대하/VV + 아/EC
+[/SS + 뜨겁/VA + ㄴ/ETM
+가슴/NNG + ]/SS + 만/JX + 을/JKO
+갖/VV + 고/EC
+있/VX + 던/ETM
+태도/NNG + 에서/JKB
+벗어나/VV + 아/EC
+일본/NNP + 을/JKO
+이해/NNG + 하/XSV + 려는/ETM
+[/SS + 차갑/VA + ㄴ/ETM
+머리/NNG + ]/SS + 도/JX
+필요/NNG + 하/XSA + 다는/ETM
+사실/NNG + 을/JKO
+시의/NNG
+적절/XR + 하/XSA + 게/EC
+짚/VV + 어/EC + 내/VX + 었/EP + 다/EF + ./SF
+어찌/MAG
+보/VV + 면/EC
+구태여/MAG
+토론/NNG + 이/JKS
+필요/NNG + 없/VA + 는/ETM + ,/SP
+지극히/MAG
+원론/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+결론/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+그러나/MAJ
+토론/NNG + 과정/NNG + 에서/JKB
+다루/VV + 어/EC + 지/VX + ㄴ/ETM
+내용/NNG + 들/XSN + 은/JX
+항상/MAG
+[/SS + 흥분/NNG + ]/SS + 만/JX + 이/JKS
+앞서/VV + 는/ETM
+우리/NP + 의/JKG
+태도/NNG + 를/JKO
+돌아보/VV + 게/EC
+만들/VV + 었/EP + 다/EF + ./SF
+대표/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+예/NNG + 가/JKS
+92/SN + 년/NNB
+일본/NNP + 이/JKS
+공개/NNG + 적/XSN + 으로/JKB
+정신대/NNG
+만행/NNG + 을/JKO
+사과/NNG + 하/XSV + 게/EC + 되/VV + ㄴ/ETM
+배경/NNG + 설명/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+한/MM
+일본인/NNG
+교수/NNG + 가/JKS
+일반/NNG + 에/JKB + 도/JX
+공개/NNG + 되/XSV + ㄴ/ETM
+방위청/NNG + 자료/NNG + 에서/JKB
+정신대/NNG + 관련/NNG
+자료/NNG + 를/JKO
+찾아내/VV + 어/EC
+우리/NP + 의/JKG
+거세/VA + ㄴ/ETM
+항의/NNG + 에/JKB + 도/JX
+{/SS + 증명/NNG + 하/XSV + ㄹ/ETM
+자료/NNG + 가/JKS
+없/VA + 다/EC + }/SS + 며/EC
+버티/VV + 던/ETM
+그/NP + 들/XSN + 로/JKB
+하여금/MAG
+무릎/NNG + 을/JKO
+꿇/VV + 게/EC
+만들/VV + 었/EP + 다는/ETM
+것/NNB + ./SF
+[/SS + 당연/XR + 하/XSA + ㄴ/ETM
+사실/NNG + ]/SS + 이/VCP + 라는/ETM
+주장/NNG + 에/JKB + 만/JX
+그치/VV + 지/EC
+말/VX + 고/EC
+논리/NNG + 적/XSN + 이/VCP + 고/EC
+구체/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+증거/NNG + 를/JKO
+찾/VV + 아야/EC
+하/VX + ㄴ다는/ETM
+지적/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+토론자/NNG + 의/JKG
+자질/NNG + 과/JC
+진행자/NNG + 의/JKG
+솜씨/NNG + 가/JKS
+모두/MAG
+뛰어나/VA + 았/EP + 기/ETN
+때문/NNB + 이/VCP + ㄹ까/EF + ./SF
+토론/NNG + 의/JKG
+악습/NNG + 이/VCP + ㄴ/ETM
+[/SS + 말꼬리/NNG
+잡/VV + 기/ETN + ]/SS + 도/JX
+없/VA + 었/EP + 다/EF + ./SF
+단지/MAG
+일본/NNP + 의/JKG
+각종/NNG
+망언/NNG + 에/JKB
+대하/VV + 아/EC
+항상/MAG
+우리/NP
+정부/NNG + 가/JKS
+앞장서/VV + 어서/EC
+떠들/VV + 는/ETM
+이유/NNG + 를/JKO
+짚/VV + 어/EC + 내/VX + 지/EC
+못하/VX + ㄴ/ETM
+정도/NNG + 가/JKS
+[/SS + 옥/NNG + 에/JKB
+티/NNG + ]/SS + 이/VCP + 었/EP + 다/EF + ./SF
+</SS + 권혁주/NNP
+기자/NNG + >/SS
+일본/NNP + 에서/JKB
+한국어/NNP
+방송/NNG
+//SP
+24/SN + 시간/NNG
+전문/NNG
+위성/NNG + 채널/NNG
+7/SN + 월/NNB
+등장/NNG
+96/SN + ./SP + 03/SN + ./SP + 06/SN
+70/SN + 만/NR
+재일/NNG + 교포/NNG + 를/JKO
+주/MM + 시청자/NNG + 로/JKB
+하/VV + ㄴ/ETM
+24/SN + 시간/NNG
+한국어/NNP + 전문/NNG
+위성/NNG + 채널/NNG + 이/JKS
+오/VV + 는/ETM
+7/SN + 월/NNB
+일본/NNP + 에/JKB
+등장/NNG + 하/XSV + ㄹ/ETM
+전망/NNG + 이/VCP + 다/EF + ./SF
+이/NP + 는/JX
+5/SN + 일/NNB
+마감/NNG + 되/XSV + ㄴ/ETM
+일본/NNP
+우정성/NNG + 의/JKG
+통신/NNG + ·/SP + 방송/NNG + 위성/NNG
+JC/SL + 새트/NNG + 3/SN + 호/NNB + 의/JKG
+[/SS + 디지털/NNG + 위성/NNG + 방송/NNG
+인가/NNG + 신청/NNG + ]/SS + 에/JKB
+일본/NNP + 의/JKG
+동양위성테레비주식회사/NNP + (/SS + OSB/SL + ·/SP + 대표/NNG + 김종필/NNP + )/SS + 가/JKS
+[/SS + 한국/NNP + 채널/NNG + ]/SS
+인가/NNG + 신청서/NNG + 를/JKO
+제출/NNG + 하/XSV + ㅁ/ETN + 으로써/JKB
+구체/NNG + 화/XSN + 되/XSV + 었/EP + 다/EF + ./SF
+JC/SL + 새트/NNG + 3/SN + 호/NNB + 의/JKG
+50/SN + 여/XSN + 개/NNB
+채널/NNG + 권/XSN + 자/NNB
+선정/NNG + 발표/NNG + 는/JX
+29/SN + 일/NNB + 께/XSN
+있/VV + 을/ETM
+예정/NNG + 이/VCP + 나/EC
+[/SS + 한국/NNP + 채널/NNG + ]/SS
+인가/NNG
+가능/NNG + 성/XSN + 은/JX
+상당히/MAG
+높/VA + 은/ETM
+것/NNB + 으로/JKB
+알리/VV + 어/EC + 지/VX + 었/EP + 다/EF + ./SF
+이번/NNG
+[/SS + 한국/NNP + 채널/NNG + ]/SS + 이/JKS
+채널/NNG + 권/XSN + 을/JKO
+따/VV + 아/EC + 내/VX + 게/EC
+되/VV + 면/EC
+곧바로/MAG
+두/MM + 달/NNG + 간/NNG + 의/JKG
+기술/NNG + 시험/NNG + 을/JKO
+거치/VV + 어/EC
+7/SN + 월/NNB + 부터/JX
+방송/NNG + 을/JKO
+개시/NNG + 하/XSV + ㄴ다/EF + ./SF
+[/SS + 한국/NNP + 채널/NNG + ]/SS + 의/JKG
+위탁/NNG + 방송/NNG + 은/JX
+닛쇼이와이/NNP
+·/SP
+스미토모/NNP
+·/SP
+미쓰이/NNP
+·/SP
+이토추/NNP
+등/NNB
+일본/NNP + 의/JKG
+4/SN + 개/NNB + 종합/NNG + 상사/NNG + 와/JC
+JC/SL + 새트/NNG + 의/JKG
+일본/NNP
+새틀라이트시스템사/NNP
+등/NNB
+5/SN + 개/NNB
+기업체/NNG + 가/JKS
+공동/NNG + 출자/NNG + 하/XSV + 아/EC
+설립/NNG + 하/XSV + ㄴ/ETM
+DMC/SL + (/SS + Digital/SL
+Multi/SL
+Channel/SL + )/SS + 사/NNG + 가/JKS
+맡/VV + 게/EC
+되/VV + ㄴ다/EF + ./SF
+JC/SL + 새트/NNG + 3/SN + 호/NNB + 는/JX
+국내/NNG
+무궁화/NNG + 1/SN + 호/NNB
+위성/NNG + 과/JKB
+달리/MAG
+동아시아/NNP + 와/JC
+인도네시아/NNP
+·/SP
+인도/NNP
+·/SP
+호주/NNP
+등/NNB
+4/SN + 개/NNB + 지역/NNG + 을/JKO
+방송/NNG + 서비스/NNG + 권/XSN + 으로/JKB
+하/VV + 고/EC
+있/VX + 는/ETM
+지역/NNG + (/SS + 국제/NNG + )/SS + 위성/NNG + ./SF
+그러나/MAJ
+[/SS + 한국/NNP + 채널/NNG + ]/SS + 을/JKO
+포함/NNG + 하/XSV + 아/EC
+이번/NNG + 에/JKB
+인가/NNG + 되/XSV + ㄹ/ETM
+50/SN + 여/XSN + 개/NNB
+채널/NNG + 은/JX
+국내/NNG + 용/XSN
+빔/NNG + 을/JKO
+이용/NNG + ,/SP
+일본/NNP + 전역/NNG + 으로/JKB + 만/JX
+방송/NNG + 서비스/NNG + 권/XSN + 이/JKS
+제한/NNG + 되/XSV + ㄴ다/EF + ./SF
+[/SS + 한국/NNP + 채널/NNG + ]/SS + 은/JX
+자체/NNG + 제작물/NNG + 이/JKC
+아니/VCN + ㄴ/ETM
+KBS/SL + ·/SP + MBC/SL + ·/SP + SBS/SL + 와/IC
+연합/NNG + 케이블/NNG + TV/SL + (/SS + YTN/SL + )/SS
+등/NNB
+국내/NNG
+방송/NNG + 4/SN + 사/NNG + 의/JKG
+기존/NNG + 프로그램/NNG + 을/JKO
+수입/NNG + 하/XSV + 아/EC
+방송/NNG + 하/XSV + ㄴ다는/ETM
+계획/NNG + ./SF
+이/NP + 를/JKO
+위하/VV + 아/EC
+사업/NNG + 주체/NNG + 이/VCP + ㄴ/ETM
+OSB/SL + 사/NNG + 는/JX
+현재/MAG
+프로그램/NNG + 수입/NNG + 을/JKO
+위하/VV + 아/EC
+국내/NNG
+방송/NNG + 관계자/NNG + 들/XSN + 과/JKB
+활발/XR + 하/XSA + ㄴ/ETM
+접촉/NNG + 을/JKO
+진행/NNG + 중/NNB + 이/VCP + 다/EF + ./SF
+OSB/SL + 의/JKG
+김종필/NNP
+사장/NNG + 은/JX
+{/SS + [/SS + 한국/NNP + 채널/NNG + ]/SS + 이/JKS
+24/SN + 시간/NNG
+종일/NNG
+방송/NNG + 이/VCP + 라고/EC
+하/VV + 아도/EC
+한국/NNP
+방송사/NNG + 의/JKG
+프로그램/NNG
+물량/NNG + 으로/JKB
+충분/XR + 하/XSA + 다/EC + }/SS + 며/EC
+{/SS + 재일/NNG + 교포/NNG + 와/JKB
+주재원/NNG
+·/SP
+여행객/NNG
+·/SP
+일본인/NNG
+등/NNB + 을/JKO
+망라/NNG + 하/XSV + 아/EC
+1/SN + 백만/NR + 명/NNB
+이상/NNG + 을/JKO
+예상/NNG + 시청자/NNG + }/SS + 로/JKB
+내다보/VV + 았/EP + 다/EF + ./SF
+드라마/NNG
+·/SP
+다큐멘터리/NNG
+등/NNB + 은/JX
+일본어/NNP
+자막/NNG + 을/JKO
+깔/VV + 고/EC
+뉴스/NNG + 는/JX
+동시통역/NNG + 으로/JKB
+내보내/VV + ㄹ/ETM
+계획/NNG + 이/VCP + 다/EF + ./SF
+</SS + 정재왈/NNP
+기자/NNG + >/SS
+MC/SL + 기근/NNG + …/SE
+방송가/NNG
+'/SS + 속앓이/NNG + '/SS
+96/SN + ./SP + 03/SN + ./SP + 07/SN
+◎/SW
+프로/NNG + 는/JX
+늘/VV + 고/EC
+진행자/NNG
+모자라/VV + 아/EC + …/SE
+아나운서/NNG
+등/NNB
+기용/NNG
+방송가/NNG + 에/JKB
+[/SS + M/SL + C/SL
+기근/NNG + ]/SS
+현상/NNG + 이/JKS
+심화/NNG + 되/XSV + 고/EC
+있/VX + 다/EF + ./SF
+지나/VV + ㄴ/ETM
+4/SN + 일/NNB + 부터/JX
+시작/NNG + 되/XSV + ㄴ/ETM
+봄/NNG + 프로그램/NNG
+개편/NNG + 과/JC
+오전/NNG
+방송/NNG + 시간/NNG
+2/SN + 시간/NNG + 연장/NNG + 에/JKB
+따르/VV + 아/EC
+방송/NNG + 3/SN + 사/NNG + 가/JKS
+약속/NNG + 이나/JX
+하/VV + ㄴ/ETM + 듯/NNB
+토크/NNG + 쇼/NNG + 나/JC
+대담/NNG + 프로/NNG + 를/JKO
+대거/MAG
+편성/NNG + 하/XSV + 았/EP + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+가뜩이나/MAG
+[/SS + 잘/MAG
+나가/VV + 는/ETM + ]/SS
+진행자/NNG
+한/MM + 사람/NNG
+구하/VV + 기/ETN
+어렵/VA + 어/EC
+방송사/NNG + 간/NNB + 에/JKB
+스카우트/NNG + 경쟁/NNG + 이/JKS
+치열/NNG + 하/XSA + ㄴ/ETM
+가운데/NNG
+이루어지/VV + ㄴ/ETM
+대담/NNG + ·/SP + 쇼/NNG + ·/SP + 오락/NNG + 프로/NNG + 의/JKG
+증가/NNG + 가/JKS
+MC/SL + 난/NNG + 을/JKO
+부채/NNG + 질/XSN + 하/XSV + ㄴ/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+이/NP + 에/JKB
+따르/VV + 아/EC
+각/MM
+방송사/NNG + 는/JX
+유명/NNG + 연예인/NNG + MC/SL
+확보/NNG + 에/JKB
+열/NNG + 을/JKO
+올리/VV + 는가/EC
+하/VV + 면/EC
+아나운서/NNG + 를/JKO
+진행자/NNG + 로/JKB
+대거/MAG
+기용/NNG + 하/XSV + 는/ETM
+등/NNB
+대책/NNG + 마련/NNG + 에/JKB
+부심/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+봄/NNG + 개편/NNG + 에서/JKB
+KBS/SL + 는/JX
+기존/NNG + 의/JKG
+{/SS + 아침/NNG
+마당/NNG + }/SS
+외/NNB + 에/JKB
+오전/NNG
+시간대/NNG + 에/JKB
+{/SS + 생활/NNG + 백과/NNG + }/SS
+{/SS + 주부/NNG + 도/JX
+경쟁력/NNG + 이/VCP + 다/EC + }/SS
+{/SS + 독점/NNG
+여성/NNG + 시대/NNG + }/SS
+등/NNB + 을/JKO
+편성/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+대담/NNG + 프로/NNG + 이/VCP + 어서/EC
+진행자/NNG + 가/JKS
+그만큼/MAG
+늘어나/VV + 아야/EC
+하/VX + 았/EP + 다/EF + ./SF
+오전/NNG + 에/JKB + 만/JX
+4/SN + 개/NNB
+프로/NNG + 가/JKS
+신설/NNG + 되/XSV + ㄴ/ETM
+MBC/SL + 도/JX
+사정/NNG + 은/JX
+마찬가지/NNG + ./SF
+{/SS + 10/SN + 시/NNB
+임성훈/NNP + 이/VCP + ㅂ니다/EC + }/SS
+{/SS + MBC/SL + 여성/NNG + 아카데미/NNG + }/SS
+{/SS + 깜짝/MAG
+정보/NNG + 쇼/NNG + }/SS
+등/NNB
+비슷비슷/MAG + 하/XSA + ㄴ/ETM
+프로/NNG + 가/JKS
+집중/NNG
+편성/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+SBS/SL + 도/JX
+{/SS + 이경실/NNP + 의/JKG
+세상/NNG + 을/JKO
+만나/VV + 자/EC + }/SS
+{/SS + 신/XPN + 세대/NNG
+부모/NNG + 선언/NNG + }/SS
+{/SS + 주부/NNG + 도/JX
+프로/NNG + 시대/NNG + }/SS
+등/NNB
+6/SN + 개/NNB + 를/JKO
+늘리/VV + 었/EP + 다/EF + ./SF
+사람/NNG + 은/JX
+없/VA + 고/EC
+프로/NNG + 만/JX
+늘리/VV + 다/EC
+보/VX + 니/EC
+일부/NNG
+인기/NNG + MC/SL + 들/XSN + 의/JKG
+겹치/VV + 기/ETN
+출연/NNG + 이/JKS
+불가피/XR + 하/XSA + 아/EC + 지/VX + 었/EP + 다/EF + ./SF
+임성훈/NNP + 의/JKG
+경우/NNG
+MBC/SL + 의/JKG
+{/SS + 10/SN + 시/NNB
+임성훈/NNP + 이/VCP + ㅂ니다/EC + }/SS
+외/NNB + 에/JKB
+KBS/SL + -/SS + 2/SN + TV/SL + 의/JKG
+{/SS + 밤/NNG + 과/JC
+음악/NNG + 사이/NNG + }/SS
+등/NNB
+4/SN + 개/NNB
+프로/NNG + 의/JKG
+진행/NNG + 을/JKO
+맡/VV + 았/EP + 다/EF + ./SF
+개그우먼/NNG
+이경실/NNP + 도/JX
+케이블/NNG + TV/SL + 까지/JX
+포함/NNG + ,/SP
+모두/MAG
+3/SN + 개/NNB
+프로/NNG + 에/JKB
+뛰/VV + 고/EC
+있/VX + 다/EF + ./SF
+사정/NNG + 이/JKS
+안/MAG
+되/VV + 는/ETM
+진행자/NNG + 를/JKO
+선정/NNG + 하/XSV + 았/EP + 다가/EC
+막판/NNG + 에/JKB
+교체/NNG + 하/XSV + 는/ETM
+해프닝/NNG + 도/JX
+생기/VV + 었/EP + 다/EF + ./SF
+MBC/SL
+{/SS + 깜짝/MAG
+정보/NNG + 쇼/NNG + }/SS + 는/JX
+당초/NNG
+송승환/NNP + 을/JKO
+진행자/NNG + 로/JKB
+선정/NNG + 하/XSV + 았/EP + 다가/EC
+송승환/NNP + 의/JKG
+스케줄/NNG + 이/JKS
+안/MAG
+맞/VV + 자/EC
+부랴부랴/MAG
+김승현/NNP + 으로/JKB
+교체/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+MC/SL + 난/NNG + 의/JKG
+혜택/NNG + (/SS + ?/SF + )/SS + 을/JKO
+보/VV + ㄴ/ETM
+것/NNB + 은/JX
+아나운서/NNG + 들/XSN + ./SF
+KBS/SL + 는/JX
+이번/NNG
+기회/NNG + 에/JKB
+부족/NNG + 하/XSA + ㄴ/ETM
+진행자/NNG
+자리/NNG + 에/JKB
+아나운서/NNG + 들/XSN + 을/JKO
+대거/MAG
+투입/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+프로그램/NNG + 의/JKG
+질/NNG + 도/JX
+높이/VV + 고/EC
+사람/NNG + 부족/NNG + 점/NNG + 도/JX
+해소/NNG + 하/XSV + 겠/EP + 다는/ETM
+전략/NNG + 이/VCP + 다/EF + ./SF
+이/NP + 에/JKB
+따르/VV + 아/EC
+총/MM
+68/SN + 명/NNB + 의/JKG
+아나운서/NNG + 중/NNB
+그동안/NNG
+가동/NNG + 률/XSN + 이/JKS
+40/SN + %/SW + 미만/NNG + 이/VCP + 던/ETM
+것/NNB + 이/JKS
+최근/NNG + 에/JKB + 는/JX
+70/SN + %/SW + 까지/JX
+육박/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+아나운서/NNG + 의/JKG
+MC/SL
+진출/NNG
+러시/NNG + 에/JKB
+대하/VV + 아/EC
+방송사/NNG + 측/NNB + 은/JX
+공영/NNG + 성/XSN
+강화/NNG
+측면/NNG + 을/JKO
+강조/NNG + 하/XSV + 지만/EC
+그/NP + 보다/JKB + 는/JX
+궁여지책/NNG + 이/VCP + 란/ETM
+분석/NNG + 이/JKS
+더/MAG
+우세/NNG + 하/XSA + 다/EF + ./SF
+</SS + 장세정/NNP
+기자/NNG + >/SS
+탁월/XR + 하/XSA + ㄴ/ETM
+경영/NNG + 능력/NNG
+인정받/VV + 아/EC
+//SP
+KBS/SL
+홍두표/NNP
+사장/NNG
+연임/NNG
+배경/NNG
+96/SN + ./SP + 03/SN + ./SP + 07/SN
+◎/SW
+공영/NNG + 성/XSN
+확보/NNG + 가/JKS
+앞/NNG + 으로/JKB
+남/VV + 은/ETM
+과제/NNG
+공영/NNG + 방송/NNG
+KBS/SL + 사장/NNG + 에/JKB
+이사회/NNG + 측/NNB + 이/JKS
+현/MM
+홍두표/NNP + 사장/NNG + 의/JKG
+연임/NNG + 을/JKO
+결정/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 은/JX
+무엇/NP + 보다/JKB
+지나/VV + ㄴ/ETM
+3/SN + 년/NNB
+임기/NNG + 중/NNB
+홍/NNP + 사장/NNG + 이/JKS
+방송/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+장악력/NNG + 과/JC
+탁월/XR + 하/XSA + ㄴ/ETM
+경영/NNG + 능력/NNG + 을/JKO
+보이/VV + 어/EC + 주/VX + ㄴ/ETM
+때문/NNB + 으로/JKB
+풀이/NNG + 되/XSV + ㄴ다/EF + ./SF
+93/SN + 년/NNB
+3/SN + 월/NNB
+취임/NNG + 하/XSV + ㄴ/ETM
+홍/NNP + 사장/NNG + 은/JX
+만성/NNG + 적자/NNG + 에/JKB
+시달리/VV + 던/ETM
+KBS/SL + 의/JKG
+재정/NNG + 을/JKO
+2/SN + 년/NNB + 만/NNB + 에/JKB
+한/MM + 해/NNB
+순익/NNG
+1/SN + 천억/NR + 원/NNB + 이/JKS
+넘/VV + 는/ETM
+흑자/NNG + 구조/NNG + 로/JKB
+바꾸/VV + 어/EC + 놓/VX + 았/EP + 다/EF + ./SF
+또/MAG
+저조/NNG + 하/XSA + ㄴ/ETM
+시청/NNG + 률/XSN + 로/JKB
+국민/NNG + 의/JKG
+관심/NNG + 을/JKO
+끌/VV + 지/EC
+못하/VX + 던/ETM
+프로그램/NNG + 들/XSN + 을/JKO
+인기/NNG + 순위/NNG
+10/SN + 위/NNB + 권/XSN + 안/NNG + 에/JKB
+대거/MAG
+진입/NNG + 시키/XSV + 어/EC
+보/VX + ㄹ/ETM
+것/NNB
+많/VA + 은/ETM
+공영/NNG + 방송/NNG + 으로/JKB
+KBS/SL + 의/JKG
+이미지/NNG + 를/JKO
+바꾸/VV + 어/EC + 놓/VX + 았/EP + 다/EF + ./SF
+홍/NNP + 사장/NNG + 의/JKG
+연임/NNG + 은/JX
+73/SN + 년/NNB
+KBS/SL + 의/JKG
+공사/NNG + 출범/NNG
+후/NNG
+84/SN + 년/NNB
+이원홍/NNP + 사장/NNG + 에/JKB
+잇/VV + 어/EC
+두/MM + 번/NNB + 째/XSN + 이/VCP + 다/EF + ./SF
+홍/NNP + 사장/NNG + 의/JKG
+연임/NNG + 결정/NNG + 은/JX
+오/VV + 는/ETM
+7/SN + 월/NNB
+개시/NNG + 되/XSV + 는/ETM
+위성/NNG + 방송/NNG + 과/JC
+내년/NNG + 으로/JKB
+예정/NNG + 되/XSV + ㄴ/ETM
+종일/NNG + 방송/NNG
+등/NNB
+방송/NNG + 구조/NNG + 개편/NNG + 을/JKO
+앞두/VV + 고/EC
+공영/NNG + 방송/NNG + 을/JKO
+이끌/VV + 어/EC + 가/VX + ㄹ/ETM
+추진력/NNG + 과/JC
+결단력/NNG + 을/JKO
+두루/MAG
+갖추/VV + ㄴ/ETM
+인물/NNG + 이/JKS
+필요/NNG + 하/XSA + 다는/ETM
+점/NNB + 을/JKO
+이사회/NNG + 측/NNB + 이/JKS
+고려/NNG + 하/XSV + ㄴ/ETM
+것/NNB + ./SF
+한마디/NNG + 로/JKB
+그간/NNG
+경영/NNG + 에/JKB
+관하/VV + ㄴ/ETM
+한/NNG
+탁월/XR + 하/XSA + ㄴ/ETM
+능력/NNG + 으로/JKB
+자신/NNG + 의/JKG
+입지/NNG + 를/JKO
+굳히/VV + ㄴ/ETM
+홍/NNP + 사장/NNG + 외/NNB + 에/JKB
+매출액/NNG
+1/SN + 조/NR + 원/NNB + 시대/NNG + 를/JKO
+맞/VV + 은/ETM
+거대/NNG + 조직원/NNG + 시대/NNG
+KBS/SL + 를/JKO
+이끌/VV + 어/EC + 가/VX + 기에/EC
+적합/NNG + 하/XSA + ㄴ/ETM
+인물/NNG + 을/JKO
+찾/VV + 기/ETN + 가/JKS
+어렵/VA + 었/EP + 을/ETM
+것/NNB + 이/VCP + 란/ETM
+것/NNB + 이/JKS
+방송가/NNG + 의/JKG
+중론/NNG + 이/VCP + 다/EF + ./SF
+홍/NNP + 사장/NNG + 은/JX
+이/NP + 로써/JKB
+그간/NNG
+상대/NNG + 적/XSN + 으로/JKB
+등한/XR + 시/XSN + 되/XSV + 어/EC + 오/VX + ㄴ/ETM
+것/NNB + 으로/JKB
+평가/NNG + 되/XSV + ㄴ/ETM
+KBS/SL + 의/JKG
+공영/NNG + 성/XSN + 확보/NNG + 를/JKO
+남/VV + 은/ETM
+과제/NNG + 로/JKB
+안/VV + 게/EC
+되/VV + 었/EP + 다/EF + ./SF
+홍/NNP + 사장/NNG + 은/JX
+6/SN + 일/NNB
+정원/NNG
+12/SN + 명/NNB + 중/NNB
+1/SN + 명/NNB + 이/JKS
+외유/NNG + 로/JKB
+불참/NNG + 하/XSV + ㄴ/ETM
+채/NNB
+서울/NNP
+팔레스호텔/NNP + 에서/JKB
+열리/VV + ㄴ/ETM
+KBS/SL + 이사회/NNG
+임시/NNG + 회의/NNG + 에서/JKB
+재적/NNG
+과반수/NNG + 이/VCP + ㄴ/ETM
+7/SN + 표/NNG + 를/JKO
+얻/VV + 어/EC
+4/SN + 표/NNG + 를/JKO
+얻/VV + 은/ETM
+학계/NNG + 인사/NNG
+Y/SL + 씨/NNB + 를/JKO
+제치/VV + 고/EC
+연임/NNG + 제청자/NNG + 로/JKB
+확정/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+KBS/SL + 는/JX
+이사회/NNG + 의/JKG
+결정/NNG + 에/JKB
+따르/VV + 아/EC
+바로/MAG
+대통령/NNG + 에게/JKB
+홍/NNP + 사장/NNG + 의/JKG
+임명/NNG + 을/JKO
+제청/NNG + 하/XSV + ㄹ/ETM
+방침/NNG + 이/VCP + 며/EC
+홍/NNP + 사장/NNG + 은/JX
+별다르/VA + ㄴ/ETM
+사유/NNG + 가/JKS
+없/VA + 는/ETM
+한/NNG
+17/SN + 일/NNB + 부터/JX
+새/MM
+임기/NNG + 를/JKO
+시작/NNG + 하/XSV + 게/EC
+되/VV + ㄴ다/EF + ./SF
+</SS + 강찬호/NNP
+기자/NNG + >/SS
+한/NNP + ·/SP + 영/NNP
+합작/NNG + 영화/NNG
+만들/VV + ㄴ다/EC
+//SP
+동아수출공사/NNP + ·/SP + 그라나다/NNP
+{/SS + 더블/NNG + 크로스/NNG + }/SS
+계약/NNG
+96/SN + ./SP + 03/SN + ./SP + 07/SN
+◎/SW
+전설/NNG + 적/XSN
+이중/NNG + 첩보원/NNG
+조지/NNP
+블레이크/NNP
+영상/NNG + 화/XSN
+처음/NNG + 으로/JKB
+제작/NNG + 되/XSV + 는/ETM
+한/NNP + ·/SP + 영/NNP
+합작/NNG + 영화/NNG
+{/SS + 더블/NNG + 크로스/NNG + }/SS + 가/JKS
+6/SN + 일/NNB
+오전/NNG
+영국대사관/NNP + 에서/JKB
+정식/NNG + 으로/JKB
+합작/NNG + 계약/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이/MM
+자리/NNG + 에/JKB + 는/JX
+한국/NNP + 측/NNB
+제작사/NNG + 이/VCP + ㄴ/ETM
+동아수출공사/NNP
+이호성/NNP
+이사/NNG + ,/SP
+영국/NNP + 측/NNB
+제작자/NNG + 이/VCP + ㄴ/ETM
+그라나다/NNP
+방송사/NNG + 의/JKG
+프로듀서/NNG
+브라이언/NNP
+파크/NNG + ,/SP
+토머스/NNP
+해리스/NNP
+주한/NNG
+영국/NNP + 대사/NNG + ,/SP
+그리고/MAJ
+원작/NNG
+{/SS + 더블크로스/NNP + }/SS + (/SS + 나남출판사/NNP + )/SS + 의/JKG
+저자/NNG + 이/VCP + ㄴ/ETM
+영국대사관/NNP
+공보관/NNG
+박영숙/NNP + 씨/NNB + 가/JKS
+참석/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+{/SS + 더블/NNG + 크로스/NNG + }/SS + 는/JX
+전설/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+이중/NNG + 첩보원/NNG
+조지/NNP
+블레이크/NNP + 의/JKG
+실화/NNG + 를/JKO
+바탕/NNG + 으로/JKB
+하/VV + 았/EP + 다/EF + ./SF
+블레이크/NNP + 는/JX
+한국/NNP + 전쟁/NNG + 당시/NNG
+주한/NNG
+영국/NNP + 공사관/NNG
+부영사/NNG + 로/JKB
+있/VV + 다/EC
+포로/NNG + 로/JKB
+잡혀가/VV + ㄴ/ETM
+뒤/NNG
+전향/NNG + ,/SP
+이후/NNG
+10/SN + 여/XSN + 년/NNB + 을/JKO
+영국/NNP + 과/JC
+소련/NNP + 의/JKG
+이중/NNG + 스파이/NNG + 로/JKB
+활동/NNG + 하/XSV + 았/EP + 던/ETM
+인물/NNG + ./SF
+61/SN + 년/NNB
+체포/NNG + 되/XSV + 어/EC
+42/SN + 년/NNB + 형/NNG + 을/JKO
+선고/NNG + 받/VV + 고/EC
+복역/NNG + 하/XSV + 다/EC
+66/SN + 년/NNB
+탈출/NNG + 하/XSV + ㄴ/ETM
+뒤/NNG
+러시아/NNP + 로/JKB
+건너가/VV + 아/EC
+현재/NNG + 까지/JX
+생존/NNG + 중/NNB + 이/VCP + ㄴ/ETM
+것/NNB + 으로/JKB
+알리/VV + 어/EC + 지/VX + 었/EP + 다/EF + ./SF
+영화/NNG + 는/JX
+블레이크/NNP + (/SS + 극/NNG + 중/NNB + 명/NNG
+존/NNP
+베이커/NNP + )/SS
+주변/NNG + 에서/JKB
+숨/NNG + 막히/VV + 게/EC
+전개/NNG + 되/XSV + 는/ETM
+첩보전/NNG + 과/JC
+한국/NNP + 여인/NNG + 과/JKB + 의/JKG
+사랑/NNG + 을/JKO
+그리/VV + ㄴ다/EF + ./SF
+여기/NP + 에/JKB
+한국/NNP + 여인/NNG + 을/JKO
+두/VV + 고/EC
+베이커/NNP + 와/JKB
+삼각관계/NNG + 를/JKO
+맺/VV + 는/ETM
+인물/NNG
+지기현/NNP + 이/JKS
+등장/NNG + 하/XSV + ㄴ다/EF + ./SF
+지기현/NNP + 은/JX
+신문/NNG + 기자/NNG + 출신/NNG + 으로/JKB
+한국전/NNG + 에서/JKB
+신화/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+명성/NNG + 을/JKO
+날리/VV + ㄴ/ETM
+한국/NNP + 첩보원/NNG + 이/VCP + 다/EF + ./SF
+이/MM
+영화/NNG + 의/JKG
+합작/NNG + 형태/NNG + 는/JX
+예상/NNG
+총/MM + 제작비/NNG
+40/SN + 억/NR + 원/NNB + 의/JKG
+80/SN + %/SW + 를/JKO
+한국/NNP + 측/NNB + 이/JKS
+부담/NNG + 하/XSV + 고/EC
+제작/NNG + ·/SP + 배급/NNG + 은/JX
+영국/NNP + 측/NNB + 이/JKS
+맡/VV + 는다는/ETM
+조건/NNG + ./SF
+이익금/NNG + 은/JX
+한국/NNP + 내/NNB
+흥행/NNG + 수익/NNG + 은/JX
+전액/NNG
+동아수출공사/NNP + 가/JKS
+갖/VV + 고/EC
+해외/NNG + 배급/NNG + 수익/NNG + 은/JX
+절반/NNG + 씩/XSN
+나누/VV + 기/ETN + 로/JKB
+하/VV + 았/EP + 다/EF + ./SF
+제작/NNG + 기술/NNG + 과/JC
+해외/NNG + 배급/NNG
+능력/NNG + 이/JKS
+떨어지/VV + 는/ETM
+한국/NNP + 측/NNB + 이/JKS
+제작비/NNG + 로/JKB
+기술/NNG + 을/JKO + 사/VV + 는/ETM
+형태/NNG + 로/JKB
+보/VV + ㄹ/ETM
+수/NNB
+있/VV + 다/EF + ./SF
+제작/NNG + 실무/NNG + 를/JKO
+담당/NNG + 하/XSV + 는/ETM
+브라이언/NNP
+파크/NNP + 는/JX
+{/SS + 프라임/NNG
+서스펙트/NNG + }/SS + 이/VCP + 란/ETM
+수사물/NNG + 을/JKO
+제작/NNG + 하/XSV + 아/EC
+93/SN + ,/SP + 94/SN + 년/NNB
+연속/NNG
+에미상/NNG
+최고/NNG + 작품/NNG + 상/NNG + 을/JKO
+수상/XR + 하/XSA + ㄴ/ETM
+제작자/NNG + 이/VCP + 며/EC
+7/SN + 부/NNB + 작/NNG
+미니/NNG + 시리즈/NNG
+{/SS + 9/SN + 월/NNB + 의/JKG
+노래/NNG + }/SS + 를/JKO
+연출/NNG + 하/XSV + ㄴ/ETM
+감독/NNG + 이/VCP + 기/ETN + 도/JX + 하/VV + 다/EF + ./SF
+그/NP + 는/JX
+이날/NNG
+계약식/NNG + 과/JKB
+함께/MAG
+가지/VV + ㄴ/ETM
+기자/NNG + 회견/NNG + 에서/JKB
+{/SS + 한국/NNP + 전쟁/NNG + 에/JKB
+참가/NNG + 하/XSV + ㄴ/ETM
+국가/NNG + 가/JKS
+16/SN + 개국/NNB + 이나/JX
+되/VV + 어/EC
+해외/NNG + 배급/NNG + 에/JKB
+유리/NNG + 하/XSA + ㄴ/ETM
+점/NNG + 으로/JKB
+작용/NNG + 하/XSV + ㄹ/ETM
+것/NNB + }/SS + 이/VCP + 라며/EC
+{/SS + 영화/NNG + 는/JX
+세계/NNG
+시장/NNG + 을/JKO
+겨냥/NNG + 하/XSV + 아/EC
+영어/NNP + 로/JKB
+제작/NNG + 되/XSV + ㄴ다/EC + }/SS + 고/JKQ
+흥행/NNG + 성공/NNG + 을/JKO
+낙관/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+그/NP + 에/JKB
+따르/VV + 면/EC
+현재/MAG
+{/SS + 더블/NNG + 크로스/NNG + }/SS + 의/JKG
+감독/NNG + 으로/JKB + 는/JX
+{/SS + 넬/NNP + }/SS + 의/JKG
+마이클티드/NNP + ,/SP
+{/SS + 랭군/NNP + 을/JKO
+넘/VV + 어서/EC + }/SS + 의/JKG
+존/NNP
+부어맨/NNP + ,/SP
+{/SS + 뮤직박스/NNP + }/SS + 의/JKG
+코스타/NNP
+가브라스/NNP
+등/NNB + 이/JKS
+물망/NNG + 에/JKB
+오르/VV + 아/EC
+있/VX + 다/EF + ./SF
+또/MAG
+배우/VV + 는/ETM
+게리/NNP
+올드먼/NNP
+·/SP
+샘/NNP
+닐/NNP
+·/SP
+대얼/NNP
+데이/NNG
+루이스/NNP
+·/SP
+윌리엄/NNP
+데포/NNP
+·/SP
+도널드/NNP
+서덜랜드/NNP
+·/SP
+로버트/NNP
+듀발/NNP
+등/NNB
+주로/MAG
+영국/NNP + 출신/NNG + 들/XSN + 이/JKS
+거론/NNG + 되/XSV + 고/EC
+있/VX + 는/ETM
+상태/NNG + ./SF
+한국인/NNG
+배역/NNG + 은/JX
+영어/NNP + 를/JKO
+잘/MAG + 하/XSV + 는/ETM
+인물/NNG + 을/JKO
+중심/NNG + 으로/JKB
+물색/NNG + 중/NNB + 이/VCP + 다/EF + ./SF
+파크/NNP + 는/JX
+캐스팅/NNG + 에/JKB
+대하/VV + 아/EC
+{/SS + 교섭/NNG + 중/NNB + 이/VCP + ㄴ/ETM
+배우/NNG + 들/XSN + 은/JX
+대부분/NNG
+할리우드/NNP + 에/JKB
+진출/NNG + 하/XSV + 아/EC
+거액/NNG + 의/JKG
+출연료/NNG + 를/JKO
+받/VV + 고/EC
+있/VX + 지만/EC
+영국/NNP + 영화/NNG + 에/JKB + 는/JX
+낮/VA + 은/ETM
+출연료/NNG + 에/JKB + 도/JX
+응하/VV + 기/ETN
+때문/NNB + 에/JKB
+제작/NNG + 상/XSN
+이점/NNG + 이/JKS
+많/VA + 다/EC + }/SS + 고/JKQ
+설명/NNG + ./SF
+내년/NNG
+여름/NNG
+전/MM + 세계/NNG + 에/JKB
+동시/NNG
+개봉/NNG + 예정/NNG + 이/VCP + ㄴ/ETM
+{/SS + 더블/NNG + 크로스/NNG + }/SS + 는/JX
+올/MM
+여름/NNG + 부터/JX
+한국/NNP + ·/SP + 러시아/NNP + ·/SP + 영국/NNP + 을/JKO
+무대/NNG + 로/JKB
+촬영/NNG + 에/JKB
+들어가/VV + 며/EC
+압록강/NNP
+포로수용소/NNG
+장면/NNG + 촬영/NNG + 을/JKO
+위하/VV + 아/EC
+북한/NNP + 과/JKB + 도/JX
+교섭/NNG + 중/NNB + 이/VCP + 다/EF + ./SF
+</SS + 남재일/NNP
+기자/NNG + >/SS
+20/SN + 억/NR + 짜리/XSN
+국산/NNG
+만화/NNG + 영화/NNG
+만들/VV + ㄴ다/EC
+96/SN + ./SP + 03/SN + ./SP + 09/SN
+◎/SW
+케이블/NNG + TV/SL
+투니버스/NNP
+'/SS + 마술/NNG + 피리/NNG + '/SS
+제작/NNG
+//SP
+모차르트/NNP
+마지막/NNG
+오페라/NNG
+'/SS + 마적/NNP + '/SS
+각색/NNG
+방송/NNG
+사상/NNG + 최대/NNG
+제작비/NNG + 가/JKS
+투입/NNG + 되/XSV + ㄴ/ETM
+[/SS + 순수/NNG + 국산/NNG
+창작/NNG + 만화/NNG + 영화/NNG + ]/SS + 가/JKS
+케이블/NNG + TV/SL + 에서/JKB
+만들/VV + 어/EC + 지/VX + ㄴ다/EF + ./SF
+만화/NNG + 채널/NNG
+투니버스/NNP + (/SS + 채널/NNG + 38/SN + )/SS + 는/JX
+모차르트/NNP + 의/JKG
+마지막/NNG
+오페라/NNG
+{/SS + 마적/NNP + }/SS + 을/JKO
+각색/NNG + 하/XSV + ㄴ/ETM
+대작/NNG
+TV/SL + 시리즈/NNG + 만화/NNG
+{/SS + 마술/NNG + 피리/NNG + }/SS + (/SS + 가제/NNG + )/SS + 를/JKO
+내년/NNG + 9/SN + 월/NNB
+방송/NNG + 을/JKO
+목표/NNG + 로/JKB
+이달/NNG + 초/NNB + 부터/JX
+제작/NNG + 에/JKB
+들어가/VV + 았/EP + 다/EF + ./SF
+제작비/NNG
+20/SN + 억/NR + 원/NNB + ./SF
+지금/NNG + 까지/JX
+국내/NNG + 에서/JKB
+제작/NNG + 되/XSV + ㄴ/ETM
+방송/NNG
+만화/NNG + 영화/NNG + 의/JKG
+수준/NNG + 을/JKO
+훨씬/MAG
+웃돌/VV + 는/ETM
+금액/NNG + 이/VCP + 다/EF + ./SF
+30/SN + 분/NNB + 짜리/XSN
+13/SN + 편/NNB + 으로/JKB
+구성/NNG + 되/XSV + 어/EC
+있/VX + 어/EC
+편/NNB + 당/XSN
+제작비/NNG + (/SS + 1/SN + 억/NR + 5/SN + 천만/NR + 원/NNB + )/SS + 로/JKB
+보/VV + 면/EC
+여타/NNG
+작품/NNG + 에/JKB
+비하/VV + 아/EC
+4/SN + ∼/SO + 5/SN + 배/NNG + 는/JX
+거뜬히/MAG
+넘/VV + 는다/EF + ./SF
+현재/MAG
+방송/NNG + 중/NNB + 이/VCP + ㄴ/ETM
+KBS/SL + ­/SS + 2/SN + TV/SL + 의/JKG
+{/SS + 두치/NNP + 와/JC
+뿌꾸/NNP + }/SS + 나/JC
+SBS/SL + 의/JKG
+{/SS + 내일/NNG + 은/JX
+월드컵/NNG + }/SS + 이/JKS
+많/VA + 아야/EC
+4/SN + 억/NR + 원/NNB + 대/XSN
+미만/NNG + 의/JKG
+제작비/NNG + 가/JKS
+들어가/VV + ㄴ/ETM
+것/NNB + 에/JKB
+비하/VV + 면/EC
+엄청나/VA + ㄴ/ETM
+규모/NNG + 이/VCP + ㄴ/ETM
+셈/NNB + 이/VCP + 다/EF + ./SF
+투니버스/NNP + 는/JX
+막대/XR + 하/XSA + ㄴ/ETM
+재원/NNG + 확보/NNG + 를/JKO
+위하/VV + 아/EC
+지상파/NNG + 방송사/NNG + 와/JKB
+협의/NNG + 중/NNB + 이/VCP + 며/EC
+제/XPN + 3/SN + 의/JKG
+공동/NNG + 투자자/NNG + 와/JKB + 도/JX
+접촉/NNG + 중/NNB + 이/VCP + 다/EF + ./SF
+지상파/NNG
+방송사/NNG + 는/JX
+제작/NNG + 비중/NNG
+2/SN + 억/NR + ∼/SO + 3/SN + 억/NR + 원/NNB + 을/JKO
+지원/NNG + 하/XSV + 고/EC
+더빙/NNG + 을/JKO
+맡/VV + 는/ETM
+대신/NNG
+투니버스/NNP + 에/JKB
+앞서/VV + 어/EC
+방영/NNG + 하/XSV + 아도/EC
+좋/VA + 다는/ETM
+조건/NNG + 이/VCP + 다/EF + ./SF
+자체/NNG + 제작/NNG + 보다/JKB
+투자/NNG + 부담/NNG + 도/JX
+덜/VV + ㄹ/ETM
+수/NNB
+있/VV + 는데다/EC
+작품/NNG + 성/XSN + 과/JC
+흥행/NNG + 성/XSN + 이/JKS
+밝/VA + 고/EC
+[/SS + 우선/MAG
+방영/NNG + 권/XSN + ]/SS + 이/VCP + 란/ETM
+파격/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+조건/NNG + 에/JKB
+지상파/NNG + 방송사/NNG + 들/XSN + 이/JKS
+저마다/MAG
+군침/NNG + 을/JKO
+흘리/VV + 고/EC
+있/VX + 다/EF + ./SF
+투니버스/NNP + 의/JKG
+이번/NNG
+만화/NNG + 영화/NNG + 제작/NNG + 은/JX
+미국/NNP
+·/SP
+일본/NNP
+등/NNB + 의/JKG
+외국/NNG + 작품/NNG + 을/JKO
+단순/NNG
+더빙/NNG + 하/XSV + 아/EC
+내보내/VV + 던/ETM
+기존/NNG
+방송사/NNG + 들/XSN + 의/JKG
+만화/NNG + 방송/NNG
+관행/NNG + 에/JKB
+새바람/NNG + 을/JKO
+불러일으키/VV + ㄹ/ETM
+것/NNB + 으로/JKB
+보이/VV + 어/EC
+주목/NNG + 되/XSV + ㄴ다/EF + ./SF
+투니버스/NNP + 는/JX
+TV/SL + 시리즈/NNG + 용/XSN
+만화물/NNG
+제작/NNG + 에서/JKB
+한/MM
+걸음/NNG
+나아가/VV + 아/EC
+[/SS + 블록버스터/NNG + ]/SS + (/SS + 복합/NNG + 사업/NNG + )/SS + 도/JX
+추진/NNG + 중/NNB + 이/VCP + 다/EF + ./SF
+완구/NNG
+·/SP
+게임/NNG + 소프트/NNG
+·/SP
+팬시/NNG
+등/NNB
+캐릭터/NNG + 사업/NNG + 과/JC
+출판/NNG
+·/SP
+음반/NNG
+및/MAG
+비디오/NNG + 제작/NNG + 을/JKO
+병행/NNG + 하/XSV + ㄴ다는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+이번/NNG
+작품/NNG + 의/JKG
+공동/NNG + 기획/NNG + 과/JC
+프로덕션/NNG + 은/JX
+서울무비/NNP + 가/JKS
+맡/VV + 고/EC
+있/VX + 다/EF + ./SF
+서울무비/NNP + 는/JX
+미국/NNP
+워너브러더스사/NNP
+제작/NNG
+애니메이션/NNG
+물량/NNG + 의/JKG
+50/SN + %/SW + 를/JKO
+주문/NNG + 제작/NNG
+하/VV + 아/EC + 주/VX + 고/EC
+있/VX + 는/ETM
+만화/NNG + 영화/NNG + 전문/NNG + 업체/NNG + ./SF
+투니버스/NNP + 의/JKG
+이병규/NNP
+PD/SL + 는/JX
+{/SS + 기존/NNG
+SF/SL + 에다/JKB
+신화/NNG + 적/XSN + 이/VCP + 면서/EC
+초/XPN + 현실/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+팬터지/NNG + 를/JKO
+결합/NNG + 하/XSV + ㄴ/ETM
+[/SS + SF/SL + 팬터지/NNG + ]/SS + 이/VCP + 란/ETM
+실험/NNG + 성/XSN
+짙/VA + 은/ETM
+만화/NNG + 영화/NNG + 가/JKC
+되/VV + ㄹ/ETM
+것/NNB + }/SS + 이/VCP + 라며/EC
+그러나/MAJ
+{/SS + 마술/NNG + 피리/NNG + 를/JKO
+놓/VV + 고/EC
+벌이/VV + 는/ETM
+주인공/NNG
+타미노/NNP + 와/JC
+파미나/NNP + 의/JKG
+활약/NNG + 상/NNG + 을/JKO
+통하/VV + 아/EC
+만화/NNG + 의/JKG
+즐거움/NNG + 도/JX
+함께/MAG
+선사/NNG + 하/XSV + ㄹ/ETM
+계획/NNG + }/SS + 이/VCP + 라고/EC
+덧붙이/VV + 었/EP + 다/EF + ./SF
+[/SS + 마술/NNG + 피리/NNG + 를/JKO
+통하/VV + 아/EC
+이상/NNG + 사회/NNG + 를/JKO
+구현/NNG + 하/XSV + ㄴ다/EC + ]/SS + 는/ETM
+원작/NNG + 의/JKG
+주제/NNG + 를/JKO
+살리/VV + 어/EC
+환경/NNG + 의/JKG
+소중/XR + 하/XSA + ㅁ/ETN + 과/JC
+인류애/NNG + 를/JKO
+부각/NNG + 시키/XSV + 는/ETM
+것/NNB + 이/JKS
+작품/NNG + 의/JKG
+취지/NNG + 이/VCP + 라는/ETM
+설명/NNG + 이/VCP + 다/EF + ./SF
+줄거리/NNG + 는/JX
+핵전쟁/NNG + 으로/JKB
+21/SN + 세기/NNG
+문명/NNG + 이/JKS
+황폐/NNG + 화/XSN + 되/XSV + ㄴ/ETM
+뒤/NNG
+잔존/NNG + 하/XSV + ㄴ/ETM
+인류/NNG + 가/JKS
+반/XPN + 환경/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+아트/NNG + 만/JX
+종족/NNG + 과/JKB + 의/JKG
+대결/NNG + 에서/JKB
+승리/NNG + ,/SP
+22/SN + 세기/NNG
+문명/NNG + 을/JKO
+재건/NNG + 하/XSV + ㄴ다는/ETM
+내용/NNG + 이/VCP + 다/EF + ./SF
+</SS + 권혁주/NNP + ·/SP + 장세정/NNP
+기자/NNG + >/SS
+한국/NNP + 음반/NNG + 시장/NNG
+아직/MAG + 도/JX
+폐쇄/NNG + 적/XSN
+//SP
+빌보드지/NNP
+//SP
+급속/NNG
+성장/NNG + 하/XSV + 았/EP + 으나/EC
+정부/NNG + 규제/NNG + 여전/XR
+96/SN + ./SP + 03/SN + ./SP + 12/SN
+한국/NNP + 의/JKG
+음악/NNG + 산업/NNG + 은/JX
+경제력/NNG + 신장/NNG + 에/JKB
+힘입/VV + 어/EC
+최근/NNG
+몇/MM
+년/NNB + 간/NNG
+급격히/MAG
+성장/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+특히/MAG
+음반/NNG + 시장/NNG + 은/JX
+매출액/NNG
+기준/NNG + 으로/JKB
+세계/NNG
+10/SN + 위/NNB + 권/XSN + 에/JKB
+진입/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 으로/JKB
+공인/NNG + 받/VV + 고/EC
+있/VX + 고/EC
+외국/NNG
+메이저/NNG
+업체/NNG + 들/XSN + 의/JKG
+한국/NNP + 시장/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+관심/NNG + 과/JC
+투자/NNG + 도/JX
+높/VA + 아/EC + 지/VX + 었/EP + 다/EF + ./SF
+세계/NNG + 최고/NNG + 의/JKG
+권위/NNG + 를/JKO
+자랑/NNG + 하/XSV + 는/ETM
+대중음악/NNG + 전문/NNG + 잡지/NNG
+빌보드/NNG + 는/JX
+최근/NNG + 호/NNB + 에서/JKB
+6/SN + 쪽/NNG + 에/JKB
+걸치/VV + 어/EC
+아시아/NNP + ·/SP + 태평양/NNP
+음악/NNG + 시장/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+특집/NNG + 기사/NNG + 를/JKO
+게재/NNG + 하/XSV + 면서/EC
+한국/NNP + 음악/NNG + 산업/NNG + 의/JKG
+문제점/NNG + 을/JKO
+날카롭/VA + 게/EC
+지적/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이/MM
+기사/NNG + 는/JX
+케니/NNP
+지/NNG + 의/JKG
+음반/NNG
+{/SS + 미러클/NNP + }/SS + 과/JC
+{/SS + 브레슬리스/NNP + }/SS + 가/JKS
+각각/MAG
+1/SN + 백/NR + 30/SN + 만/NR + 장/NNB + 과/JC
+1/SN + 백/NR + 50/SN + 만/NR + 장/NNB + 이/JKS
+판매/NNG + 되/XSV + ㄴ/ETM
+통계/NNG + 를/JKO
+인용/NNG + 하/XSV + 면서/EC
+아시아/NNP + 에서/JKB
+한국/NNP + 시장/NNG + 이/JKS
+일본/NNP + 에/JKB
+잇/VV + 어/EC
+두/MM + 번/NNB + 째/XSN + 로/JKB
+크/VA + ㄴ/ETM
+시장/NNG + 이/VCP + 라고/EC
+평가/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+빌보드/NNG + 는/JX
+그러나/MAJ
+아직/MAG + 도/JX
+한국/NNP + 정부/NNG + 가/JKS
+음반/NNG + 시장/NNG
+및/MAG
+방송업/NNG + 계/XSN + 를/JKO
+지나치/VA + 게/EC
+통제/NNG + 하/XSV + 고/EC
+있/VX + 다며/EC
+매우/MAG
+비판/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+입장/NNG + 을/JKO
+보이/VV + 었/EP + 다/EF + ./SF
+KBS/SL
+등/NNB
+방송/NNG + 3/SN + 사/NNG
+음악/NNG + 프로그램/NNG + 의/JKG
+90/SN + %/SW + 이상/NNG + 이/JKS
+대중음악/NNG
+프로그램/NNG + 으로/JKB
+편성/NNG + 되/XSV + 어/EC
+있/VX + 지만/EC
+대부분/NNG
+국내/NNG + 가요/NNG + 만/JX + 을/JKO
+방송/NNG + 하/XSV + 고/EC
+있/VX + 고/EC
+서양/NNG + 음악/NNG + 에/JKB
+대하/VV + 아/EC
+폐쇄/NNG + 적/XSN + 이/VCP + 라고/EC
+보도/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이/NP + 는/JX
+연간/NNG
+음반/NNG + 판매/NNG + 액수/NNG + 가/JKS
+5/SN + 억/NR + 달러/NNB + (/SS + 약/MM + 4/SN + 천억/NR + 원/NNB + )/SS + 에/JKB
+이르/VV + ㄹ/ETM
+정도/NNG + 로/JKB
+커지/VV + ㄴ/ETM
+한국/NNP + 시장/NNG + 규모/NNG + 에/JKB
+걸맞/VA + 지/EC
+않/VX + 고/EC
+대중/NNG + 의/JKG
+요구/NNG + 에/JKB + 도/JX
+부응/NNG + 하/XSV + 지/EC
+못하/VX + 고/EC
+있/VX + 다는/ETM
+것/NNB + ./SF
+기본/NNG + 적/XSN + 으로/JKB
+한국/NNP + 정부/NNG
+과도/NNG + 가/JKS
+민족주의/NNG + 적/XSN
+입장/NNG + 에/JKB
+따르/VV + 아/EC
+서양/NNG + 음악/NNG + 의/JKG
+전파/NNG + 를/JKO
+막/VV + 고/EC
+있/VX + 는/ETM
+것/NNB + 으로/JKB
+빌보드/NNG + 는/JX
+분석/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+열리/VV + ㄴ/ETM
+음악회/NNG
+//SP
+세계/NNG + 를/JKO
+열어젖히/VV + ㄴ/ETM
+우리/NP
+대중가요/NNG + (/SS + TV/SL
+리뷰/NNG + )/SS
+96/SN + ./SP + 03/SN + ./SP + 12/SN
+◎/SW
+우리/NP
+가수/NNG + 들/XSN
+화려/XR + 하/XSA + ㄴ/ETM
+가창력/NNG
+청중/NNG
+감동/NNG + 시키/XSV + 어/EC
+음악/NNG + 의/JKG
+나라/NNG
+오스트리아/NNP
+빈/NNP + 의/JKG
+콘체르트/NNP
+하우스/NNP
+[/SS + 그로스/NNG
+잘/NNG + ]/SS + ./SF
+클래식/NNG + 만/JX + 을/JKO
+고집/NNG + 하/XSV + 아/EC + 오/VX + ㄴ/ETM
+이/MM
+공연장/NNG + 에서/JKB
+개관/NNG + 이래/NNB
+최초/NNG + 로/JKB
+대중가요/NNG + ,/SP
+그것/NP + 도/JX
+한국/NNP + 의/JKG
+대중가요/NNG + 가/JKS
+불리/VV + 어/EC + 지/VX + 었/EP + 다/EF + ./SF
+10/SN + 일/NNB
+저녁/NNG
+방송/NNG + 되/XSV + ㄴ/ETM
+KBS/SL + -/SS + 1/SN + TV/SL
+{/SS + 열리/VV + ㄴ/ETM
+음악회/NNG + }/SS + 는/JX
+클래식/NNG + 과/JC
+대중음악/NNG + 의/JKG
+벽/NNG + 뿐/JX
+아니/VCN + 라/EC
+동서양/NNG + 의/JKG
+벽/NNG + 도/JX
+허물/VV + ㄴ/ETM
+그야말로/MAG
+[/SS + 세계/NNG + 를/JKO
+향하/VV + 아/EC
+열리/VV + ㄴ/ETM + ]/SS
+음악회/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+오스트리아/NNP
+주재/NNG
+각국/NNG
+외교/NNG + 사절/NNG + ,/SP
+빈/NNP
+국회/NNG + 의장/NNG
+등/NNB
+저명인사/NNG + 들/XSN + 과/JKB
+유럽/NNP + 각지/NNG + 에서/JKB
+몰려들/VV + ㄴ/ETM
+교포/NNG + 들/XSN
+앞/NNG + 에/JKB
+펼쳐지/VV + ㄴ/ETM
+이날/NNG
+잔칫상/NNG + 에/JKB + 는/JX
+어떤/MM
+진수성찬/NNG + 보다/JKB
+푸짐/XR + 하/XSA + 게/EC + ,/SP
+또/MAG
+맛있/VA + 게/EC
+한국/NNP
+음악/NNG + 과/JC
+유럽/NNP
+음악/NNG + 이/JKS
+골고루/MAG
+차리/VV + 어/EC + 지/VX + 었/EP + 다/EF + ./SF
+유럽/NNP
+정통/NNG + 무대/NNG + 에서/JKB
+노래/NNG + 하/XSV + ㄴ다는/ETM
+흥분/NNG + 에/JKB
+김건모/NNP + 와/JC
+신효범/NNP + 이/JKS
+다소/MAG
+굳/VV + 어/EC
+보이/VV + 기/ETN + ㄴ/JX
+하/VX + 았/EP + 지만/EC
+예/NNG + 의/JKG
+화려/XR + 하/XSA + ㄴ/ETM
+가창력/NNG + 으로/JKB
+{/SS + 잘못/MAG + 되/XSV + ㄴ/ETM
+만남/NNG + }/SS + 과/JC
+{/SS + 나/NP + ㄴ/JX
+너/NP + ㄹ/JKO
+사랑/NNG + 하/XSV + 아/EC + }/SS + 를/JKO
+열창/NNG + ,/SP
+뜨겁/VA + ㄴ/ETM
+박수/NNG + 를/JKO
+받/VV + 았/EP + 다/EF + ./SF
+국악인/NNG
+김영임/NNP + 의/JKG
+{/SS + 한오백년/NNP + }/SS + ,/SP
+사물놀이/NNG
+두레패/NNG + 의/JKG
+신명/NNG + 나/VV + 는/ETM
+공연/NNG + 과/JC
+조영남/NNP + 의/JKG
+넉살/NNG + 좋/VA + 은/ETM
+진행/NNG + 에/JKB
+교민/NNG + 들/XSN + 은/JX
+물론/MAG
+유럽인/NNG + 들/XSN + 도/JX
+흥/NNG + 에/JKB
+겨워하/VV + 았/EP + 다/EF + ./SF
+{/SS + 세빌리아/NNP + 의/JKG
+이발사/NNG + }/SS + 중/NNB
+[/SS + 나/NP + 는/JX
+마을/NNG + 의/JKG
+제/XPN + 1/SN + 인/NNG + 자/NNG + ]/SS + 를/JKO
+부르/VV + ㄴ/ETM
+바리톤/NNG
+김동규/NNP + 의/JKG
+표정/NNG + 연기/NNG + ,/SP
+{/SS + 에델바이스/NNP + }/SS + 로/JKB
+청중/NNG + 을/JKO
+하나/NR + 로/JKB
+만들/VV + ㄴ/ETM
+바이올리니스트/NNG
+김지연/NNP + 의/JKG
+자신감/NNG + ,/SP
+그리고/MAJ
+1/SN + 천/NR + 8/SN + 백/NR + 여/XSN + 석/NNB + 을/JKO
+가득/MAG
+메우/VV + ㄴ/ETM
+청중/NNG + 으로부터/JKB
+열광/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+박수/NNG + 를/JKO
+이끌/VV + 어/EC + 내/VX + ㄴ/ETM
+조수미/NNP + 의/JKG
+당당/MAG + 하/XSA + ㅁ/ETN + 도/JX
+좋/VA + 았/EP + 다/EF + ./SF
+특히/MAG
+조수미/NNP + 와/JC
+김건모/NNP + ,/SP
+조영남/NNP + 과/JC
+루치오/NNP
+달라/NNP + 의/JKG
+듀엣/NNG + 은/JX
+플라시도/NNP
+도밍고/NNP + 와/JC
+존/NNP
+덴버/NNP + 의/JKG
+{/SS + 퍼햅스/NNG
+러브/NNG + }/SS + 를/JKO
+연상/NNG + 하/XSV + 게/EC
+하/VX + 았/EP + 다/EF + ./SF
+열리/VV + ㄴ/ETM
+음악회/NNG + 가/JKS
+말/NNG + 그대로/MAG
+열리/VV + 어/EC
+있/VX + 음/ETN + 을/JKO
+세계/NNG + 에/JKB
+과시/NNG + 하/XSV + 면서/EC
+세계/NNG + 에서/JKB
+가장/MAG
+수준/NNG + 높/VA + 다는/ETM
+빈/NNP + 의/JKG
+청중/NNG + 을/JKO
+감동/NNG + 시키/XSV + 는/ETM
+순간/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+유럽/NNP + 의/JKG
+본고장/NNG
+클래식/NNG
+무대/NNG + 에서/JKB
+울리/VV + 어/EC + 퍼지/VV + ㄴ/ETM
+한국/NNP + 의/JKG
+대중가요/NNG + ./SF
+이/MM
+방송/NNG + 을/JKO
+지켜보/VV + 며/EC
+짐짓/MAG
+흐뭇/XR + 하/XSA + 아/EC + 하/VX + 았/EP + 을/ETM
+시청자/NNG + 들/XSN + 은/JX
+예술/NNG + 의/JKG
+전당/NNG + 에서/JKB
+[/SS + 딴따라/NNG + ]/SS + 들/XSN + 의/JKG
+노래/NNG + 는/JX
+안/MAG + 되/XSV + 고/EC
+서울대/NNP
+교정/NNG + 에서/JKB + ㄴ/JX
+트로트/NNG + 가/JKS
+불리/VV + 어/EC + 지/VX + ㄹ/ETM
+수/NNB
+없/VA + 다는/ETM
+우리/NP + 의/JKG
+현실/NNG + 을/JKO
+어떻/VA + 게/EC
+받아들이/VV + 었/EP + 을까/EF + ./SF
+</SS + 정형모/NNP
+기자/NNG + >/SS
+일본/NNP
+TV/SL + 베끼/VV + 기/ETN
+점입가경/NNG
+//SP
+봄/NNG
+신설/NNG + 프로/NNG
+단순/NNG + 모방/NNG
+넘/VV + 어/EC
+그대로/MAG
+복사/NNG
+96/SN + ./SP + 03/SN + ./SP + 13/SN
+◎/SW
+기획력/NNG
+부재/NNG
+·/SP
+시청/NNG + 률/XSN
+지상주의/NNG
+드러내/VV + 어/EC
+봄철/NNG
+신설/NNG + 프로/NNG + 들/XSN + 의/JKG
+일본/NNP
+TV/SL + 베끼/VV + 기/ETN + 가/JKS
+점입가경/NNG + 이/VCP + 다/EF + ./SF
+소재/NNG + ·/SP + 포맷/NNG + 은/JX
+물론/MAG
+제목/NNG
+·/SP
+스튜디오/NNG
+구성/NNG + 까지/JX
+일본/NNP + 에서/JKB
+방송/NNG + 중/NNB + 이/VCP + ㄴ/ETM
+프로/NNG + 를/JKO
+그대로/MAG
+복사/NNG + 하/XSV + ㄴ/ETM
+작품/NNG + 이/JKS
+버젓이/MAG
+방송/NNG + 되/XSV + 는가/EC
+하/VV + 면/EC
+NHK/SL + 에서/JKB
+35/SN + 년/NNB + 째/XSN
+방송/NNG + 중/NNB + 이/VCP + ㄴ/ETM
+아침/NNG + 드라마/NNG + 를/JKO
+방송/NNG + 시간/NNG
+때/NNG + 까지/JX
+비슷/XR + 하/XSA + 게/EC
+본뜨/VV + ㄴ/ETM
+[/SS + 편성/NNG + 표절/NNG + ]/SS + 도/JX
+등장/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+아이디어/NNG + 를/JKO
+차용/NNG + 하/XSV + 는/ETM
+단순/NNG + 모방/NNG + 을/JKO
+넘어서/VV + ㄴ/ETM
+이/NP + 들/XSN
+[/SS + 카피/NNG + ]/SS + 프로/NNG + 는/JX
+방송사/NNG + 의/JKG
+기획력/NNG
+부재/NNG + 와/JKB
+{/SS + 베끼/VV + 더라도/EC
+많이/MAG + 만/JX
+보/VV + 면/EC
+되/VV + ㄴ다/EC + }/SS + 는/ETM
+시청/NNG + 률/XSN
+지상주의/NNG + 를/JKO
+드러내/VV + 고/EC
+있/VX + 어/EC
+97/SN + 년/NNB
+종일/NNG + 방송/NNG + 시대/NNG + 를/JKO
+눈앞/NNG + 에/JKB
+두/VV + ㄴ/ETM
+시청자/NNG + 들/XSN + 을/JKO
+실망/NNG + 시키/XSV + 고/EC
+있/VX + 다/EF + ./SF
+지난주/NNG
+국내/NNG + 에서/JKB
+첫/MM
+방송/NNG + 되/XSV + ㄴ/ETM
+{/SS + 정보/NNG + 특급/NNG
+금요/NNG + 베스트/NNG
+10/SN + }/SS + 과/JC
+{/SS + 도전/NNG + 지구/NNG + 탐험대/NNG + }/SS + ,/SP
+{/SS + TV/SL + 소설/NNG
+은하수/NNG + }/SS + 가/JKS
+표절/NNG + 의혹/NNG + 이/JKS
+짙/VA + 은/ETM
+문제/NNG + 의/JKG
+프로/NNG + 들/XSN + ./SF
+우선/MAG
+{/SS + 정보/NNG + 특급/NNG + …/SE + }/SS + 은/JX
+일본/NNP
+NTV/SL + 에서/JKB
+지난해/NNG
+11/SN + 월/NNB + 부터/JX
+방송/NNG + 중/NNB + 이/VCP + ㄴ/ETM
+{/SS + 빛나/VV + ㄴ다/EF + !/SF
+소문/NNG + 의/JKG
+텐/NNG
+베스트/NNG
+쇼/NNG + }/SS + 를/JKO
+거의/MAG
+그대로/MAG
+베끼/VV + ㄴ/ETM
+복제품/NNG + 으로/JKB
+지목/NNG + 되/XSV + 고/EC
+있/VX + 다/EF + ./SF
+본지/NNG + 가/JKS
+두/MM
+프로/NNG + 를/JKO
+비교/NNG + 하/XSV + ㄴ/ETM
+결과/NNG
+{/SS + 정보/NNG + 특급/NNG + …/SE + }/SS + 은/JX
+패널/NNG + 5/SN + 명/NNB + 이/JKS
+[/SS + 이미지/NNG
+광고/NNG + ]/SS + 에서/JKB
+힌트/NNG + 를/JKO
+얻/VV + 어/EC
+차례/NNG + 대로/JX
+금주/NNG + 의/JKG
+화제/NNG
+10/SN + 개/NNB + 를/JKO
+맞히/VV + ㄴ/ETM
+뒤/NNG
+내용/NNG + 을/JKO
+소개/NNG + 하/XSV + 는/ETM
+포맷/NNG + 이/JKS
+{/SS + 빛나/VV + ㄴ다/EC + …/SE + }/SS + 와/JKB
+매우/MAG
+유사/XR + 하/XSA + 았/EP + 다/EF + ./SF
+패널/NNG + 들/XSN + 이/JKS
+각자/NNG + 얼굴/NNG + 그림/NNG
+5/SN + 개/NNB + 로/JKB
+정보/NNG + 에/JKB
+대하/VV + ㄴ/ETM
+관심/NNG + 도/NNG + 를/JKO
+표시/NNG + 하/XSV + 는/ETM
+[/SS + 스마일/NNG + 지수/NNG + ]/SS
+코너/NNG + 도/JX
+패널/NNG + 들/XSN + 이/JKS
+별/NNG + 그림/NNG
+5/SN + 개/NNB + 로/JKB
+[/SS + 화제/NNG + 에/JKB
+가장/MAG
+어울리/VV + 는/ETM
+사람/NNG + ]/SS + 을/JKO
+고르/VV + 는/ETM
+{/SS + 빛나/VV + ㄴ다/EC + …/SE + }/SS + 와/JKB
+비슷/XR + 하/XSA + 았/EP + 다/EF + ./SF
+심지어/MAG
+스튜디오/NNG
+전면/NNG + 에/JKB
+설치/NNG + 하/XSV + ㄴ/ETM
+정보/NNG + 소개/NNG + 화면/NNG
+10/SN + 개/NNB + 의/JKG
+배열/NNG + 조차/JX
+3/SN + ­/SS + 3/SN + ­/SS + 3/SN + ­/SS + 1/SN + 로/JKB
+{/SS + 빛나/VV + ㄴ다/EC + …/SE + }/SS + 와/JKB
+똑같/VA + 아/EC
+{/SS + 세트/NNG + 까지/JX
+표절/NNG + 하/XSV + 았/EP + 다/EC + }/SS + 는/JX
+비판/NNG + 을/JKO
+받/VV + 고/EC + 있/VX + 다/EF + ./SF
+제작진/NNG + 은/JX
+{/SS + [/SS + 빛나/VV + ㄴ다/EC + …/SE + ]/SS
+등/NNB
+일본/NNP + 에서/JKB
+유행/NNG + 중/NNB + 이/VCP + ㄴ/ETM
+정보/NNG + 쇼/NNG + 의/JKG
+구성/NNG + 이/JKS
+좋/VA + 다고/EC
+생각/NNG + 하/XSV + 아/EC
+차용/NNG + 하/XSV + 았/EP + 다/EC + }/SS + 고/JKQ
+밝히/VV + 어/EC
+[/SS + 모방/NNG + ]/SS + 사실/NNG + 을/JKO
+시인/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이/MM
+프로/NNG + 는/JX
+방송/NNG + 시간/NNG + 연장/NNG + 에/JKB
+따르/VV + 아/EC
+한/MM + 달/NNG + 만/NNB + 에/JKB
+급히/MAG
+기획/NNG + 되/XSV + ㄴ/ETM
+점/NNB + 이/JKS
+표절/NNG
+등/NNB
+졸속/NNG + 제작/NNG + 의/JKG
+원인/NNG + 으로/JKB
+꼽히/VV + 고/EC
+있/VX + 다/EF + ./SF
+{/SS + 도전/NNG
+지구/NNG + 탐험대/NNG + }/SS + 도/JX
+연예인/NNG + 이/JKS
+세계/NNG + 의/JKG
+진기/XR + 하/XSA + ㄴ/ETM
+풍물/NNG + ·/SP + 오지/NNG + 를/JKO
+직접/NNG + 체험/NNG + 하/XSV + 는/ETM
+포맷/NNG + 이/JKS
+일본/NNP
+NTV/SL + 가/JKS
+94/SN + 년/NNB + 부터/JX
+방송/NNG + 중/NNB + 이/VCP + ㄴ/ETM
+{/SS + 감동/NNG
+익스프레스/NNG + }/SS + 와/JKB
+유사/XR + 하/XSA + 다/EF + ./SF
+10/SN + 일/NNB
+첫/MM
+방송/NNG + 분/XSN + 에서/JKB
+탤런트/NNG
+노현희/NNP + 의/JKG
+모스크바/NNP
+국립서커스학교/NNP
+줄타기/NNG
+체험기/NNG + 는/JX
+지난해/NNG
+2/SN + 월/NNB
+5/SN + 일/NNB
+{/SS + 감동/NNG
+익스프레스/NNG + }/SS + 가/JKS
+방송/NNG + 하/XSV + ㄴ/ETM
+일본/NNP
+여자/NNG + 탤런트/NNG
+다나카/NNP
+미나코/NNP + 의/JKG
+옛/MM
+동독/NNP + 지역/NNG
+서커스/NNG + 학교/NNG
+체험기/NNG + 와/JKB
+내용/NNG + 면/NNG + 에서/JKB
+매우/MAG
+비슷/XR + 하/XSA + 았/EP + 다/EF + ./SF
+이/NP + 에/JKB
+대하/VV + 아/EC
+제작진/NNG + 은/JX
+{/SS + 오래전/NNG + 부터/JX
+독자/NNG + 기획/NNG + 하/XSV + ㄴ/ETM
+프로/NNG + 로/JKB
+스튜디오/NNG
+장면/NNG
+등/NNB
+다른/MM
+부분/NNG + 도/JX
+많/VA + 다/EC + }/SS + 며/EC
+{/SS + 일본/NNP + 프로/NNG + 와/JKB
+유사/NNG + 하/XSA + ㄴ/ETM
+부분/NNG + 은/JX
+소득/NNG + 수준/NNG + 향상/NNG + 에/JKB
+따르/VV + ㄴ/ETM
+자연/NNG + 스럽/XSA + ㄴ/ETM
+현상/NNG + }/SS + 이라고/JKQ
+해명/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+월요일/NNG + 부터/JX
+토요일/NNG + 까지/JX
+매일/MAG
+오전/NNG
+20/SN + 분/NNB + 씩/XSN
+방영/NNG + 하/XSV + 는/ETM
+{/SS + TV/SL + 소설/NNG
+은하수/NNG + }/SS + 는/JX
+일본/NNP
+NHK/SL + 가/JKS
+35/SN + 년/NNB + 간/NNG
+월/NNG + ∼/SO + 토/NNG
+오전/NNG
+8/SN + 시/NNB + 15/SN + 분/NNB + 부터/JX
+20/SN + 분/NNB + 간/NNG
+방송/NNG + 하/XSV + 아/EC + 오/VX + ㄴ/ETM
+{/SS + 아침/NNG + 연속/NNG
+TV/SL + 소설/NNG + }/SS + 과/JKB
+제목/NNG + ·/SP + 시간대/NNG + ·/SP + 길이/NNG + 는/JX
+물론/MAG
+포맷/NNG + ·/SP + 내용/NNG + 에서/JKB
+매우/MAG
+유사/XR + 하/XSA + 다/EF + ./SF
+61/SN + 년/NNB + 4/SN + 월/NNB + 부터/JX
+한차례/NNG + 도/JX
+중단/NNG + 없이/MAG
+방송/NNG + 되/XSV + 어/EC
+[/SS + 일본인/NNG + 의/JKG
+하루/NNG + 리듬/NNG + 을/JKO
+좌우/NNG + 하/XSV + 는/ETM
+국민/NNG + 드라마/NNG + ]/SS + 로/JKB
+자리/NNG + 를/JKO
+굳히/VV + ㄴ/ETM
+{/SS + 아침/NNG + 연속/NNG
+TV/SL + 소설/NNG + }/SS + 은/JX
+언제나/MAG
+역경/NNG + 을/JKO
+헤치/VV + 는/ETM
+꿋꿋/XR + 하/XSA + ㄴ/ETM
+여성상/NNG + 을/JKO
+그리/VV + 어/EC
+[/SS + 일본/NNP + 여성/NNG + 의/JKG
+사회/NNG + 문화사/NNG + ]/SS + 이/VCP + 란/ETM
+별칭/NNG + 을/JKO
+갖/VV + 고/EC
+있/VX + 을/ETM
+정도/NNG + 이/VCP + 다/EF + ./SF
+</SS + 강찬호/NNP
+기자/NNG + >/SS
+경품/NNG + 으로/JKB
+시청자/NNG
+'/SS + 유혹/NNG + '/SS
+//SP
+부부/NNG + 동반/NNG
+해외여행/NNG + 서/JKB
+도서상품권/NNG + 까지/JX
+96/SN + ./SP + 03/SN + ./SP + 16/SN
+◎/SW
+TV/SL + 출연/NNG + 하/XSV + 고/EC
+상품/NNG + 도/JX
+받/VV + 고/EC
+일석이조/NNG
+방송사/NNG + 들/XSN + 이/JKS
+다양/NNG + 하/XSA + ㄴ/ETM
+경품/NNG + 으로/JKB
+시청자/NNG + 들/XSN + 을/JKO
+유혹/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+방송/NNG + 시간/NNG + 연장/NNG
+후/NNG
+각/MM
+방송사/NNG + 가/JKS
+시청자/NNG
+직접/MAG
+참여/NNG
+프로그램/NNG + 을/JKO
+대폭/MAG
+늘리/VV + 면서/EC
+경품/NNG + 제공/NNG + 도/JX
+더욱/MAG
+다양/NNG + 하/XSA + 아/EC + 지/VX + ㄴ/ETM
+것/NNB + ./SF
+경쟁/NNG + 이/JKS
+치열/NNG + 하/XSA + 아/EC + 지/VX + 자/EC
+시청자/NNG + 들/XSN + 의/JKG
+참여/NNG + 를/JKO
+적극/NNG + 유도/NNG + 하/XSV + 기/ETN
+위하/VV + 아서/EC + 이/VCP + 다/EF + ./SF
+크/VA + 게/EC + 는/JX
+부부/NNG + 동반/NNG
+해외여행/NNG + 에서/JKB
+작/VA + 게/EC + 는/JX
+도서상품권/NNG + 까지/JX
+이/NP + 들/XSN
+상품/NNG + 은/JX
+시청자/NNG + 들/XSN + 에게/JKB
+TV/SL + 출연/NNG + 에/JKB
+덧붙이/VV + 어/EC
+뜻밖/NNG + 의/JKG
+행운/NNG + 까지/JX
+얻/VV + 게/EC + 되/VV + 는/ETM
+일석이조/NNG + 의/JKG
+기회/NNG + 가/JKC
+되/VV + 는/ETM
+셈/NNB + 이/VCP + 다/EF + ./SF
+현재/MAG
+시청자/NNG + 들/XSN + 이/JKS
+TV/SL
+3/SN + 사/NNG + 에서/JKB
+상품/NNG + 을/JKO
+받/VV + 을/ETM
+수/NNB
+있/VV + 는/ETM
+프로/NNG + 는/JX
+총/MM + 28/SN + 개/NNB + ./SF
+KBS/SL + 가/JKS
+9/SN + 개/NNB + ,/SP
+MBC/SL
+9/SN + 개/NNB + ,/SP
+SBS/SL
+10/SN + 개/NNB + 이/VCP + 다/EF + ./SF
+시청자/NNG + 들/XSN + 이/JKS
+상품/NNG + 을/JKO
+받/VV + 을/ETM
+수/NNB
+있/VV + 는/ETM
+방법/NNG + 도/JX
+갖가지/NNG + 이/VCP + 다/EF + ./SF
+방청객/NNG
+·/SP
+출연자/NNG
+·/SP
+아이디어/NNG
+제공자/NNG
+·/SP
+퀴즈/NNG + 당첨자/NNG
+·/SP
+응모/NNG
+비디오/NNG + 채택자/NNG
+등/NNB
+다섯/NR + 가지/NNB + 이/VCP + 다/EF + ./SF
+방청/NNG + 하/XSV + 면서/EC
+행운/NNG + 을/JKO
+가져가/VV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+프로/NNG + 는/JX
+6/SN + 개/NNB + ./SF
+특히/MAG
+{/SS + 이문세/NNP + 쇼/NNG + }/SS + 에서/JKB
+[/SS + 행운/NNG + 의/JKG
+커플/NNG + ]/SS + 로/JKB
+선정/NNG + 되/XSV + 면/EC
+4/SN + 박/NNB + 5/SN + 일/NNB
+동남아시아/NNP
+여행권/NNG + 을/JKO
+가져가/VV + ㄹ/ETM
+수/NNB
+있/VV + 다/EF + ./SF
+직접/MAG
+출연/NNG + 하/XSV + 거나/EC
+전화/NNG + 로/JKB
+출연/NNG + 하/XSV + 아/EC
+상품/NNG + 을/JKO
+가져가/VV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+프로/NNG + 는/JX
+8/SN + 개/NNB
+프로/NNG + ./SF
+이/NP + 들/XSN + 중/NNB
+특히/MAG
+SBS/SL + 의/JKG
+{/SS + 전국/NNG + 주부/NNG + 대항/NNG + 퀴즈/NNG + }/SS + 는/JX
+상품/NNG + 의/JKG
+전시장/NNG + 이/VCP + 라고/EC
+하/VV + ㄹ/ETM + 만/NNB + 하/XSA + 다/EF + ./SF
+제공/NNG + 하/XSV + 는/ETM
+물품/NNG + 만/JX
+하/VV + 아도/EC
+침대/NNG + ·/SP + 전자레인지/NNG + 에서/JKB
+화장품/NNG + 까지/JX
+20/SN + 개/NNB
+품목/NNG + 에/JKB
+이르/VV + ㄴ다/EF + ./SF
+주부/NNG + 들/XSN + 의/JKG
+노래/NNG + 실력/NNG + 을/JKO
+겨루/VV + 는/ETM
+MBC/SL + 의/JKG
+{/SS + 주부/NNG + 가요/NNG + 열창/NNG + }/SS + 과/JC
+KBS/SL + 의/JKG
+{/SS + 도전/NNG + 주부/NNG + 가요/NNG + 스타/NNG + }/SS + 는/JX
+잘/MAG + 만/JX + 하/VV + 면/EC
+[/SS + 스타/NNG + 주부/NNG + ]/SS + 가/JKC
+되/VV + 는데다/EC
+해외여행/NNG + 의/JKG
+행운/NNG + 까지/JX
+거머쥐/VV + ㄹ/ETM
+수/NNB
+있/VV + 기/ETN
+때문/NNB + 에/JKB
+주부/NNG + 들/XSN + 의/JKG
+관심/NNG + 이/JKS
+특히/MAG
+몰리/VV + 는/ETM
+프로/NNG + 이/VCP + 다/EF + ./SF
+시청자/NNG + 들/XSN + 이/JKS
+제공/NNG + 하/XSV + 는/ETM
+아이디어/NNG + 에/JKB
+따르/VV + 아/EC
+상품/NNG + 을/JKO
+주/VV + 기/ETN + 도/JX
+하/VX + ㄴ다/EF + ./SF
+아이디어/NNG + 를/JKO
+공모/NNG + 하/XSV + 아/EC
+프로/NNG + 의/JKG
+질/NNG + 도/JX
+높이/VV + 고/EC
+시청자/NNG + 들/XSN + 의/JKG
+호응도/NNG + 도/JX
+높이/VV + 겠/EP + 다는/ETM
+전략/NNG + 이/VCP + 다/EF + ./SF
+SBS/SL + 의/JKG
+{/SS + 기쁘/VA + ㄴ/ETM
+우리/NP
+토요일/NNG + }/SS + 과/JC
+KBS/SL + 의/JKG
+{/SS + 퍼즐/NNG + 특급/NNG + 열차/NNG + }/SS + 는/JX
+채택/NNG + 되/XSV + ㄴ/ETM
+아이디어/NNG
+제공자/NNG + 에게/JKB
+각각/MAG
+하와이/NNP
+여행권/NNG + 과/JC
+25/SN + 인치/NNB
+컬러/NNG + TV/SL + 를/JKO
+주/VV + 고/EC
+있/VX + 다/EF + ./SF
+시청자/NNG + 들/XSN + 에게/JKB
+최/XPN + 고가/NNG + 의/JKG
+인기/NNG + 상품/NNG + 은/JX
+단연/MAG
+해외여행권/NNG + ./SF
+동남아시아/NNP
+·/SP
+미주/NNP
+·/SP
+유럽/NNP
+등/NNB
+이/NP + 들/XSN
+여행권/NNG + 은/JX
+적/VA + 게/EC + 는/JX
+50/SN + 만/NR + 원/NNB + 상당/NNG + ,/SP
+많/VA + 게/EC + 는/JX
+4/SN + 백만/NR + 원/NNB + 상당/NNG + 에/JKB
+이르/VV + ㄴ다/EF + ./SF
+기발/XR + 하/XSA + ㄴ/ETM
+아이디어/NNG + 나/JC
+뛰어나/VA + ㄴ/ETM
+노래/NNG + 실력/NNG + ,/SP
+훌륭/XR + 하/XSA + ㄴ/ETM
+글/NNG + 솜씨/NNG
+등/NNB + 이/JKS
+이런/MM
+행운/NNG + 을/JKO
+잡/VV + 기/ETN
+위하/VV + 아/EC
+필요/NNG + 하/XSA + 다/EF + ./SF
+KBS/SL + 의/JKG
+경우/NNG
+{/SS + 도전/NNG + 주부/NNG + 가요/NNG + 스타/NNG + }/SS
+{/SS + 풍물/NNG + 기행/NNG
+세계/NNG + 를/JKO
+가/VV + 다/EC + }/SS
+{/SS + 이문세/NNP + 쇼/NNG + }/SS + ,/SP
+MBC/SL + 는/JX
+{/SS + 주부/NNG + 가요/NNG + 열창/NNG + }/SS
+{/SS + TV/SL + 타/VV + 고/EC
+세계/NNG + 로/JKB + }/SS + ,/SP
+SBS/SL + 는/JX
+{/SS + 기쁘/VA + ㄴ/ETM
+우리/NP
+토요일/NNG + }/SS
+{/SS + 좋/VA + 은/ETM
+친구/NNG + 들/XSN + }/SS + 이/JKS
+해외여행/NNG + 의/JKG
+행운/NNG + 을/JKO
+제공/NNG + 하/XSV + ㄴ다/EF + ./SF
+최저/NNG + 가/XSN + 의/JKG
+상품/NNG + 은/JX
+도서상품권/NNG + ./SF
+5/SN + 천/NR + 원/NNB + 의/JKG
+도서상품권/NNG + 은/JX
+방청석/NNG + 에서/JKB
+받/VV + 을/ETM
+수/NNB
+있/VV + 는/ETM
+상품/NNG + 중/NNB + 에서/JKB
+확률/NNG + 이/JKS
+가장/MAG
+높/VA + 다/EF + ./SF
+SBS/SL + 는/JX
+총/MM
+1/SN + 백/NR + 20/SN + 장/NNB + 의/JKG
+도서상품권/NNG + 을/JKO
+방청객/NNG + 에게/JKB
+제공/NNG + 하/XSV + ㄴ다/EF + ./SF
+{/SS + 기쁘/VA + ㄴ/ETM
+우리/NP
+토요일/NNG + }/SS
+{/SS + 달리/VV + 어라/EC
+코바/NNP + }/SS
+{/SS + 이홍렬/NNP
+쇼/NNG + }/SS + 에서/JKB
+각각/MAG
+50/SN + 장/NNB + ,/SP
+20/SN + 장/NNB + ,/SP
+50/SN + 장/NNB + 을/JKO
+주/VV + 고/EC
+있/VX + 다/EF + ./SF
+문학/NNG + 의/JKG
+해/NNG + 에/JKB
+맞추/VV + 어/EC
+등장/NNG + 하/XSV + ㄴ/ETM
+도서상품권/NNG + 은/JX
+시청자/NNG + 나/JC
+방청객/NNG
+모두/NNG + 에게/JKB
+부담/NNG + 없이/MAG
+즐겁/VA + ㄴ/ETM
+상품/NNG + 으로/JKB
+인기/NNG + 를/JKO
+얻/VV + 고/EC
+있/VX + 다/EF + ./SF
+이/NP + 들/XSN
+경품/NNG + 은/JX
+대개/MAG
+협찬/NNG + 에/JKB
+의하/VV + 아/EC
+제공/NNG + 되/XSV + 는데/EC
+방송사/NNG + 와/JC
+기업/NNG + 을/JKO
+연결/NNG + 하/XSV + 아/EC + 주/VX + 는/ETM
+대행사/NNG + 들/XSN + 을/JKO
+통하/VV + 아/EC
+물품/NNG + 의/JKG
+양/NNG + 과/JC
+종류/NNG + 가/JKS
+결정/NNG + 되/XSV + 는/ETM
+것/NNB + 이/JKS
+대부분/NNG + 이/VCP + 다/EF + ./SF
+협찬품/NNG
+연결/NNG + 대행/NNG
+전문/NNG + 업체/NNG
+코래콤/NNP + (/SS + 대표/NNG
+장석/NNP + 은/JX + )/SS + 측/NNB + 은/JX
+{/SS + 소득/NNG + 수준/NNG + 이/JKS
+높/VA + 아/EC + 지/VX + ㄹ수록/EC
+경품/NNG + 도/JX
+더욱/MAG
+다양/NNG + 하/XSA + 고/EC
+고액/NNG + 화/XSN + 되/XSA + 는/ETM
+추세/NNG + }/SS + 라고/JKQ
+밝히/VV + 었/EP + 다/EF + ./SF
+</SS + 고수석/NNP + ·/SP + 염태정/NNP
+기자/NNG + >/SS
+◎/SW
+방송/NNG + 경품/NNG
+100/SN + %/SW
+활용/NNG
+시나리오/NNG
+방송/NNG + 을/JKO
+통하/VV + 아/EC
+결혼/NNG + 상대/NNG + 를/JKO
+구하/VV + ㄴ/ETM
+다음/NNG
+방송사/NNG + 에서/JKB
+제공/NNG + 하/XSV + 는/ETM
+갖가지/NNG
+상품/NNG + 을/JKO
+이용/NNG + 하/XSV + 아/EC
+살림/NNG + 도/JX
+장만/NNG + 하/XSV + 고/EC
+신혼여행/NNG + 도/JX
+가/VV + ㄴ다/EF + ./SF
+결혼기념일/NNG + 에/JKB + 는/JX
+방송사/NNG + 에서/JKB
+제공/NNG + 하/XSV + 는/ETM
+유럽/NNP + 여행/NNG + 도/JX
+떠나/VV + ㄴ다/EF + ./SF
+아기/NNG + 가/JKS
+태어나/VV + 면/EC
+옷가지/NNG + 에서부터/JKB
+침구/NNG + 류/XSN + 까지/JX
+[/SS + 방송/NNG + 표/NNG + ]/SS
+상품/NNG + 으로/JKB
+키우/VV + 고/EC
+아이/NNG + 가/JKS
+크/VV + 어서/EC
+자전거/NNG + 를/JKO
+타/VV + 고/EC
+싶/VX + 어/EC + 하/VX + 면/EC
+자전거/NNG + 를/JKO + ,/SP
+호출기/NNG + 를/JKO
+갖/VV + 고/EC
+싶/VX + 어/EC + 하/VX + 면/EC
+호출기/NNG + 를/JKO
+방송/NNG + 에/JKB
+출연/NNG + 하/XSV + 아/EC
+마련/NNG + 하/XSV + 아/EC
+주/VX + ㄴ다/EF + ./SF
+불/XPN + 가능/NNG + 하/XSA + ㄴ/ETM
+얘기/NNG + 가/JKC
+아니/VCN + 다/EF + ./SF
+우선/MAG
+MBC/SL
+{/SS + 사랑/NNG + 의/JKG
+스튜디오/NNG + }/SS + 에/JKB
+출연/NNG + 하/XSV + 아/EC
+[/SS + 짝/NNG + ]/SS + 을/JKO
+만나/VV + ㄴ다/EF + ./SF
+{/SS + 사랑/NNG + 의/JKG
+스튜디오/NNG + }/SS + 에서/JKB
+신혼여행/NNG
+경비/NNG + 를/JKO
+지원/NNG + 하/XSV + 아/EC + 주/VX + ㄹ/ETM
+수/NNB + 도/JX
+있/VV + 겠/EP + 지만/EC
+중매/NNG + 까지/JX
+서/VV + 어/EC
+주/VX + 었/EP + 는데/EC
+미안/NNG + 하/XSA + 아서/EC
+그렇/VA + ㄹ/ETM
+수/NNB
+없/VA + 다는/ETM
+생각/NNG + 이/JKS
+들/VV + 면/EC
+SBS/SL
+{/SS + 기쁘/VA + ㄴ/ETM
+우리/NP
+토요일/NNG + }/SS + 에/JKB
+참가/NNG + ,/SP
+시청자/NNG + 아이디어/NNG + 를/JKO
+내/VV + 어/EC
+하와이행/NNG
+여행권/NNG + 을/JKO
+얻/VV + 는다/EF + ./SF
+신혼여행/NNG + 을/JKO
+마치/VV + 면/EC
+SBS/SL
+{/SS + 전국/NNG + 주부/NNG + 대항/NNG + 퀴즈/NNG + }/SS + 에/JKB
+나가/VV + 아/EC
+화장품/NNG
+·/SP
+전자레인지/NNG
+·/SP
+카세트/NNG
+·/SP
+재봉틀/NNG
+·/SP
+침구/NNG + 류/XSN
+등/NNB + 을/JKO
+마련/NNG + 하/XSV + ㄴ다/EF + ./SF
+재봉틀/NNG + 이/JKS
+과연/MAG
+필요/NNG + 하/XSA + ㄹ까/EC + 하/VV + 는/ETM
+행복/NNG + 하/XSA + ㄴ/ETM
+고민/NNG + 도/JX
+해보/VV + ㄴ다/EF + ./SF
+텔레비전/NNG + 은/JX
+KBS/SL + 2/SN
+{/SS + 퍼즐/NNG + 특급/NNG + 열차/NNG + }/SS + 에서/JKB
+마련/NNG + 하/XSV + 고/EC
+내친김/NNG + 에/JKB
+SBS/SL
+{/SS + 코미디/NNG
+전망대/NNG + }/SS + 에/JKB
+아이디어/NNG + 를/JKO
+보내/VV + 어/EC
+VTR/SL + ·/SP + 오디오/NNG + 까지/JX
+장만/NNG + 하/XSV + ㄴ다/EF + ./SF
+결혼/NNG
+1/SN + 주년/NNB + ./SF
+첫/MM
+결혼기념일/NNG + 이/VCP + 니/EC
+신혼여행/NNG
+때/NNG
+못/MAG
+가/VV + 아/EC + 보/VX + ㄴ/ETM
+유럽/NNP + 에/JKB
+가/VV + 아서/EC
+멋지/VA + ㄴ/ETM
+시간/NNG + 을/JKO
+보내/VV + ㄹ/ETM
+차례/NNG + 이/VCP + 다/EF + ./SF
+열심히/MAG
+노래/NNG + 연습/NNG + 을/JKO
+하/VV + 아/EC
+MBC/SL
+{/SS + 주부/NNG + 가요/NNG + 열창/NNG + }/SS + 에/JKB
+나가/VV + 아/EC
+3/SN + 주/NNB
+연속/NNG + 우승/NNG + ,/SP
+드디어/MAG
+부부/NNG + 동반/NNG
+유럽/NNP + 11/SN + 일/NNB
+여행권/NNG + 을/JKO
+따/VV + 아/EC + 내/VX + ㄴ다/EF + ./SF
+유럽/NNP + 여행/NNG + 의/JKG
+이모저모/NNG + 는/JX
+KBS/SL + 2/SN
+{/SS + 퀴즈/NNG + 탐험/NNG + 신비/NNG + 의/JKG
+세계/NNG + }/SS + 에서/JKB
+받/VV + 은/ETM
+비디오/NNG
+카메라/NNG + 에/JKB
+담/VV + 는다/EF + ./SF
+아이/NNG + 를/JKO
+낳/VV + 고/EC
+아이/NNG + 가/JKS
+글/NNG + 을/JKO
+읽/VV + 을/ETM
+때/NNG + 가/JKC
+되/VV + 면/EC
+SBS/SL
+{/SS + 기쁘/VA + ㄴ/ETM
+우리/NP
+토요일/NNG + }/SS + 에서/JKB
+받/VV + 은/ETM
+도서상품권/NNG + 으로/JKB
+책/NNG + 을/JKO
+사/VV + 아/EC + 주/VX + 고/EC
+{/SS + 풍물/NNG + 기행/NNG
+세계/NNG + 를/JKO
+가/VV + 다/EC + }/SS + 에서/JKB
+받/VV + 은/ETM
+여행권/NNG + 으로/JKB
+기억/NNG + 에/JKB
+남/VV + 을/ETM
+여행/NNG + 도/JX
+보내/VV + 어/EC + 주/VX + ㄴ다/EF + ./SF
+</SS + 염태정/NNP
+기자/NNG + >/SS
+'/SS + 아이디어/NNG
+코미디/NNG + '/SS
+먹혀들/VV + ㄴ다/EC
+//SP
+부부/NNG
+성/NNG + 문제/NNG
+·/SP
+정치/NNG + 풍자/NNG
+등/NNB
+차별/NNG + 화/XSN + 에/JKB
+재미/NNG
+96/SN + ./SP + 03/SN + ./SP + 17/SN
+◎/SW
+저속/NNG + 하/XSA + ㄴ/ETM
+표현/NNG + ·/SP
+억지웃음/NNG + 강요/NNG
+여전/XR + 하/XSA + ㄴ/ETM
+숙제/NNG
+저속/NNG + 하/XSA + ㄴ/ETM
+언사/NNG + 와/JC
+아이디어/NNG
+부족/NNG + 으로/JKB
+시청자/NNG + 들/XSN + 의/JKG
+외면/NNG + 을/JKO
+받/VV + 으면서/EC
+장기간/NNG
+침체/NNG + 의/JKG
+늪/NNG + 에서/JKB
+허덕이/VV + 던/ETM
+코미디/NNG
+프로/NNG + 가/JKS
+회생/NNG
+조짐/NNG + 을/JKO
+보이/VV + 고/EC
+있/VX + 다/EF + ./SF
+방송/NNG + 3/SN + 사/NNG + 가/JKS
+봄/NNG + 개편/NNG + 과/JKB
+더불/VV + 어/EC
+기존/NNG + 프로/NNG + 의/JKG
+구성/NNG + 을/JKO
+대폭/MAG
+손질/NNG + 하/XSV + ㄴ데다/EC
+새롭/VA + ㄴ/ETM
+아이디어/NNG + 로/JKB
+산뜻/XR + 하/XSA + ㄴ/ETM
+새/MM
+출발/NNG + 을/JKO
+시도/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 이/JKS
+시청자/NNG + 들/XSN + 에게/JKB
+먹히/VV + 어/EC
+들어가/VV + 고/EC
+있/VX + 는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+편성/NNG + 시간/NNG + 과/JC
+시청/NNG + 계층/NNG + 의/JKG
+차별/NNG + 화/XSN
+전략/NNG + 으로/JKB
+재미/NNG + 를/JKO
+보/VV + 고/EC
+있/VX + 는/ETM
+코미디/NNG + 는/JX
+KBS/SL + -/SS + 2/SN + TV/SL + (/SS + 금요일/NNG
+밤/NNG + 9/SN + 시/NNB + 50/SN + 분/NNB + )/SS + 의/JKG
+{/SS + 코미디/NNG
+세상만사/NNG + }/SS + ./SF
+만능/NNG
+재주/NNG + 꾼/XSN
+서세원/NNP + 과/JC
+똑/MAG + 소리/NNG + 나/VV + 는/ETM
+개그우먼/NNG
+김미화/NNP + 가/JKS
+콤비/NNG + 를/JKO
+이루/VV + ㄴ/ETM
+이/MM
+프로/NNG + 는/JX
+최근/NNG
+상종가/NNG + 를/JKO
+달리/VV + 고/EC
+있/VX + 다/EF + ./SF
+이/MM
+프로/NNG + 의/JKG
+인기/NNG + 는/JX
+[/SS + 심야/NNG + 에/JKB
+성인/NNG + 부부/NNG + 들/XSN + 을/JKO
+상대/NNG + 로/JKB
+하/VV + ㄴ/ETM
+에로틱/NNG
+코미디/NNG + ]/SS
+전략/NNG + 이/JKS
+주효/NNG + 하/XSV + ㄴ/ETM
+때문/NNB + ./SF
+부부/NNG + 들/XSN + 만/JX + 의/JKG
+은밀/XR + 하/XSA + ㄴ/ETM
+공간/NNG + 이/VCP + ㄴ/ETM
+침대/NNG + 가/JKS
+배경/NNG + 이/VCP + ㄴ/ETM
+[/SS + 부부/NNG + 탐구/NNG + ]/SS
+코너/NNG + 는/JX
+아내/NNG
+김미화/NNP + 가/JKS
+잠들/VV + ㄴ/ETM
+남편/NNG
+몰래/MAG
+온갖/MM
+넋두리/NNG + 를/JKO
+늘어놓/VV + 는다/EF + ./SF
+부부간/NNG + 의/JKG
+성/NNG + 문제/NNG
+등/NNB
+일견/NNG
+낯/NNG + 뜨겁/VA + ㄴ/ETM
+얘기/NNG + 들/XSN + 을/JKO
+재치/NNG + 있/VV + 게/EC
+풀어내/VV + 어/EC
+인기/NNG + 를/JKO
+끌/VV + 고/EC
+있/VX + 다/EF + ./SF
+신설/NNG + 되/XSV + ㄴ/ETM
+SBS/SL + 의/JKG
+{/SS + 코미디/NNG
+펀치/NNG + 펀치/NNG + }/SS + 도/JX
+장안/NNG + 의/JKG
+화제/NNG + 이/VCP + 다/EF + ./SF
+MBC/SL + 정치/NNG + 드라마/NNG
+{/SS + 제/NNG
+4/SN + 공화국/NNG + }/SS + 과/JC
+SBS/SL + 의/JKG
+{/SS + 코리아/NNP
+게이트/NNG + }/SS + 에서/JKB
+전두환/NNP + ·/SP + 노태우/NNP + 역/NNG + 으로/JKB
+나오/VV + 았/EP + 던/ETM
+박용식/NNP
+·/SP
+정종준/NNP
+·/SP
+김기섭/NNP
+등/NNB
+탤런트/NNG + 들/XSN + 이/JKS
+대거/MAG
+고정/NNG + 출연/NNG + 하/XSV + 는/ETM
+[/SS + 배우/VV + 어서/EC
+남/NNG + 주/VV + 나/EC + ]/SS + 는/JX
+특히/MAG
+인기/NNG + 몰이/NNG + 에/JKB
+성공/NNG + 하/XSV + ㄴ/ETM
+케이스/NNG + ./SF
+사회/NNG + 저명인사/NNG + 들/XSN + 을/JKO
+위하/VV + ㄴ/ETM
+대학/NNG + 부설/NNG
+평생/NNG + 교육원/NNG + 이/JKS
+무대/NNG + 이/VCP + ㄴ/ETM
+이/MM
+프로/NNG + 는/JX
+장태완/NNP
+전/MM
+수경/NNG + 사령관/NNG + 역/NNG + 의/JKG
+김동현/NNP
+외/NNB + 에/JKB + 도/JX
+현대그룹/NNP
+정주영/NNP
+명예/NNG + 회장/NNG + 역/NNG + 의/JKG
+최병서/NNP + 와/JC
+국회의원/NNG
+정주일/NNP + 역/NNG + 의/JKG
+김종국/NNP
+등/NNB + 이/JKS
+정치/NNG + 풍자/NNG + 로/JKB
+폭소/NNG + 를/JKO
+자아내/VV + ㄴ다/EF + ./SF
+[/SS + 웃/VV + 으며/EC
+배우/VV + 는/ETM
+세계사/NNG + ]/SS + 를/JKO
+지향/NNG + 하/XSV + 는/ETM
+MBC/SL + 의/JKG
+{/SS + 코미디/NNG
+세계사/NNG + }/SS + 는/JX
+동서고금/NNG + 의/JKG
+역사/NNG + 만/JX + 을/JKO
+소재/NNG + 로/JKB
+하/VV + ㄴ/ETM
+독특/NNG + 하/XSA + ㄴ/ETM
+구성/NNG + 으로/JKB
+코미디/NNG
+프로/NNG
+재기/NNG + 에/JKB
+한몫/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+이/NP + 에/JKB
+대하/VV + 아/EC
+SBS/SL
+차성모/NNP
+예능/NNG + 팀장/NNG + 은/JX
+{/SS + 일반/NNG
+오락/NNG + 프로/NNG + 들/XSN + 과/JKB
+차별/NNG + 성/XSN + 이/JKS
+없/VA + 는/ETM
+코미디/NNG + 가/JKS
+퇴조/NNG + 하/XSV + 고/EC
+참신/XR + 하/XSA + ㄴ/ETM
+아이디어/NNG
+코미디/NNG + 들/XSN + 이/JKS
+다시/MAG
+뜨/VV + 는/ETM
+분위기/NNG + }/SS + 이/VCP + 라고/EC
+분석/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+그러나/MAJ
+코미디/NNG
+프로/NNG + 가/JKS
+시청자/NNG + 들/XSN + 의/JKG
+진정/XR + 하/XSA + ㄴ/ETM
+사랑/NNG + 을/JKO
+얻/VV + 기/ETN
+위하/VV + 아서/EC + 는/JX
+일부/NNG
+프로/NNG + 에/JKB
+여전히/MAG
+남/VV + 아/EC + 있/VX + 는/ETM
+지나치/VA + ㄴ/ETM
+욕설/NNG + 이나/JC
+저속/NNG + 하/XSA + ㄴ/ETM
+표현/NNG
+등/NNB
+억지웃음/NNG + 을/JKO
+강요/NNG + 하/XSV + 는/ETM
+구태/NNG + 를/JKO
+벗어나/VV + 아야/EC
+하/VX + ㄴ다는/ETM
+지적/NNG + 이/VCP + 다/EF + ./SF
+</SS + 장세정/NNP
+기자/NNG + >/SS
+드라마/NNG + 작가/NNG
+여성/NNG
+전성시대/NNG
+//SP
+TV/SL + 3/SN + 사/NNG
+주요/NNG + 프로그램/NNG
+대부분/NNG
+독점/NNG
+96/SN + ./SP + 03/SN + ./SP + 19/SN
+◎/SW
+시각/NNG
+편향/NNG + 성/XSN + 에/JKB
+내용/NNG + 깊이/NNG
+부족/NNG
+지적/NNG + 도/JX
+방송/NNG + 작가/NNG + 들/XSN + 의/JKG
+여/NNG + 초/NNG + 현상/NNG + 이/JKS
+갈수록/MAG
+심화/NNG + 되/XSV + ㅁ/ETN + 에/JKB
+따르/VV + 아/EC
+방송/NNG
+프로그램/NNG + 의/JKG
+시각/NNG + 이/JKS
+여성/NNG + 편향/NNG + 으로/JKB
+기울/VV + 거나/EC
+경험/NNG + 미숙/XR
+탓/NNG + 에/JKB
+내용/NNG + 면/NNG + 에서/JKB
+깊이/NNG + 가/JKS
+부족/NNG + 하/XSA + 다는/ETM
+등/NNB + 의/JKG
+지적/NNG + 이/JKS
+나오/VV + 고/EC
+있/VX + 다/EF + ./SF
+현재/MAG
+한국방송작가협회/NNP + 에/JKB
+등록/NNG + 되/XSV + ㄴ/ETM
+회원/NNG + 은/JX
+총/MM + 6/SN + 백/NR + 6/SN + 명/NNB + ./SF
+이/MM + 중/NNB
+여성/NNG + 은/JX
+약/MM + 3/SN + 백/NR + 50/SN + 명/NNB + 으로/JKB
+성비/NNG + 를/JKO
+따지/VV + 어/EC + 보/VX + 면/EC
+6/SN + 대/NNB + 4/SN + 로/JKB
+여성/NNG + 이/JKS
+많/VA + 다/EF + ./SF
+그러나/MAJ
+실제로/MAG
+현장/NNG + 에서/JKB
+뛰/VV + 고/EC
+있/VX + 거나/EC
+작가/NNG + 지망/NNG + 생/XSN + 들/XSN + 의/JKG
+경향/NNG + 을/JKO
+감안/NNG + 하/XSV + ㄹ/ETM
+때/NNG
+앞/NNG + 으로/JKB
+여/NNG + 초/NNG + 현상/NNG + 은/JX
+더욱/MAG
+가속/NNG + 화/XSN + 되/XSV + ㄹ/ETM
+전망/NNG + 이/VCP + 다/EF + ./SF
+각/MM
+방송사/NNG + 에서/JKB
+작가/NNG + 들/XSN + 의/JKG
+활동/NNG + 영역/NNG + 은/JX
+드라마/NNG + ,/SP
+오락/NNG
+·/SP
+코미디/NNG + ,/SP
+교양물/NNG + (/SS + 다큐멘터리/NNG + )/SS
+등/NNB
+거의/MAG
+전/MM
+분야/NNG + 에/JKB
+걸치/VV + 어/EC
+다양/NNG + 하/XSA + 다/EF + ./SF
+분야/NNG + 에/JKB
+따르/VV + 아/EC
+드라마/NNG + ·/SP + 다큐멘터리/NNG + ·/SP + 구성/NNG + 작가/NNG
+등/NNB + 으로/JKB
+불리/VV + 며/EC
+프로그램/NNG + 의/JKG
+방향/NNG + 과/JC
+시각/NNG + 을/JKO
+결정/NNG + 하/XSV + 는데/EC
+크/VA + ㄴ/ETM
+역할/NNG + 을/JKO
+하/VV + 고/EC
+있/VX + 다/EF + ./SF
+여성/NNG + 작가/NNG + 의/JKG
+편중/NNG + 이/JKS
+가장/MAG
+심각/XR + 하/XSA + ㄴ/ETM
+분야/NNG + 는/JX
+드라마/NNG + ./SF
+사극/NNG + 을/JKO
+제외/NNG + 하/XSV + 고/EC
+각/MM
+방송사/NNG + 의/JKG
+주요/NNG + 드라마/NNG + 들/XSN + 을/JKO
+거의/MAG
+여성/NNG + 작가/NNG + 가/JKS
+독점/NNG + 하/XSV + 고/EC
+있/VX + 는/ETM
+상태/NNG + 이/VCP + 다/EF + ./SF
+{/SS + 목욕탕/NNG + 집/NNG
+남자/NNG + 들/XSN + }/SS
+{/SS + 아파트/NNG + }/SS
+{/SS + 부자유친/NNG + }/SS
+등/NNB
+방송/NNG + 3/SN + 사/NNG + 의/JKG
+주말/NNG + 드라마/NNG + 를/JKO
+비롯/XR + ,/SP
+주/NNG + 중/NNB + ·/SP + 아침/NNG + 드라마/NNG
+대부분/NNG + 이/JKS
+여성/NNG + 작가/NNG + 의/JKG
+손/NNG + 에/JKB
+의존/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+최상식/NNP
+KBS/SL
+드라마/NNG + 제작국/NNG
+주간/NNG + 은/JX
+{/SS + 일상/NNG + 의/JKG
+묘사/NNG + 에/JKB
+치중/NNG + 하/XSV + 는/ETM
+TV/SL + 드라마/NNG + 의/JKG
+속성/NNG + 상/XSN
+여성/NNG + 이/JKS
+강점/NNG + 이/VCP + ㄹ/ETM
+수/NNB + 밖에/JX
+없/VA + 다/EC + }/SS + 면서/EC + 도/JX
+{/SS + 남성/NNG + 상/NNG + 의/JKG
+왜곡/NNG + ,/SP
+사회/NNG + 를/JKO
+보/VV + 는/ETM
+스케일/NNG + 의/JKG
+협소/XR + 하/XSA + ㅁ/ETN + ,/SP
+소재/NNG + 의/JKG
+빈곤/NNG
+등/NNB + 은/JX
+문제/NNG + }/SS + 이/VCP + 라고/EC
+지적/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+시각/NNG + 의/JKG
+편향/NNG + 성/XSN + 이/JKS
+두드러지/VA + ㄴ/ETM
+드라마/NNG + 에/JKB
+비하/VV + 아/EC
+교양물/NNG + 의/JKG
+경우/NNG
+여성/NNG + 작가/NNG + 의/JKG
+경험/NNG + 부족/NNG + 점/NNG + 이/JKS
+종종/MAG
+문제/NNG + 가/JKC
+되/VV + 고/EC
+있/VX + 다/EF + ./SF
+예컨대/MAG
+부부/NNG + 이야기/NNG + 를/JKO
+미혼/NNG + 여성/NNG + 이/JKS
+쓰/VV + ㄴ다거나/EC + ,/SP
+군대/NNG + 이야기/NNG + 를/JKO
+여성/NNG + 이/JKS
+집필/NNG + 하/XSV + 는/ETM
+경우/NNG + 가/JKS
+심심찮/VA + 게/EC
+발생/NNG + 하/XSV + 는/ETM
+것/NNB + ./SF
+그러나/MAJ
+이러/XR + 하/XSA + ㄴ/ETM
+방송/NNG + 작가/NNG + 의/JKG
+여성/NNG + 편향/NNG + 이/JKS
+구조/NNG + 적/XSN + 이/VCP + 라는/ETM + 데/NNB
+문제/NNG + 의/JKG
+심각/XR + 성/XSN + 이/JKS
+있/VV + 다/EF + ./SF
+공급/NNG + 면/NNG + 에서/JKB
+남성/NNG + 작가/NNG
+지망/NNG + 생/XSN + 들/XSN + 이/JKS
+절대/NNG + 적/XSN + 으로/JKB
+부족/NNG + 하/XSA + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+작가/NNG + 협회/NNG + 의/JKG
+김지숙/NNP + 씨/NNB + 는/JX
+{/SS + 일정/NNG + 하/XSA + ㄴ/ETM
+수입/NNG + 과/JC
+전문/NNG + 성/XSN + 을/JKO
+살리/VV + ㄴ다는/ETM
+측면/NNG + 에서/JKB
+여성/NNG + 작가/NNG
+지망자/NNG + 들/XSN + 이/JKS
+늘/VV + 고/EC
+있/VX + 다/EC + }/SS + 며/EC
+{/SS + 자유업/NNG + 이/VCP + 란/ETM
+성격/NNG + 상/XSN
+남성/NNG + 들/XSN + 에게/JKB + ㄴ/JX
+부담/NNG + 이/JKC
+되/VV + 는/ETM
+모양/NNG + }/SS + 이라고/JKQ
+남성/NNG + 기피/NNG
+현상/NNG + 을/JKO
+분석/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+3/SN + 년/NNB + 동안/NNG
+한국방송작가아카데미/NNP + 를/JKO
+운영/NNG + 하/XSV + 고/EC
+있/VX + 는/ETM
+PD/SL + 출신/NNG
+박경규/NNP
+원장/NNG + 은/JX
+{/SS + 보수/NNG + 도/JX
+괜찮/VA + 고/EC
+대우/NNG + 도/JX
+좋/VA + 아/EC + 지/VX + 어/EC
+앞/NNG + 으로/JKB
+남성/NNG + 들/XSN + 도/JX
+많/VA + 은/ETM
+관심/NNG + 을/JKO
+가지/VV + ㄹ/ETM
+만/NNB + 하/XSA + ㄴ/ETM
+직업/NNG + }/SS + 이/VCP + 라고/EC
+말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+</SS + 정재왈/NNP
+기자/NNG + >/SS
+'/SS + 금지/NNG + 되/XSV + ㄴ/ETM
+장난/NNG + '/SS
+불/NNP
+르네/NNP
+클레망/NNP
+감독/NNG
+타계/NNG
+96/SN + ./SP + 03/SN + ./SP + 20/SN
+영화/NNG
+{/SS + 금지/NNG + 되/XSV + ㄴ/ETM
+장난/NNG + }/SS
+{/SS + 태양/NNG + 은/JX
+가득히/MAG + }/SS
+등/NNB + 으로/JKB
+유명/NNG + 하/XSA + ㄴ/ETM
+프랑스/NNP + 의/JKG
+르네/NNP
+클레망/NNP
+감독/NNG + 이/JKS
+17/SN + 일/NNB
+타계/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+82/SN + 세/NNB + ./SF
+1913/SN + 년/NNB
+보르도/NNP + 에서/JKB
+출생/NNG + 하/XSV + ㄴ/ETM
+클레망/NNP
+감독/NNG + 은/JX
+영화/NNG + 속/NNG + 에서/JKB
+허구/NNG + 와/JC
+기록/NNG + 성/XSN + 을/JKO
+예술/NNG + 적/XSN + 으로/JKB
+접목/NNG + 시키/XSV + 는데/EC
+성공/NNG + ,/SP
+프랑스/NNP
+영화/NNG + 계/XSN + 에/JKB
+크/VA + ㄴ/ETM
+발자취/NNG + 를/JKO
+남기/VV + ㄴ/ETM
+인물/NNG + 중/NNB
+한/MM
+명/NNB + 으로/JKB
+기억/NNG + 되/XSV + ㄴ다/EF + ./SF
+그/NP + 가/JKS
+이/NP + 같/VA + 은/ETM
+기법/NNG + 을/JKO
+이용/NNG + 하/XSV + 아/EC
+2/SN + 차/NNB + 대전/NNG + 중/NNB + 의/JKG
+프랑스/NNP
+사회/NNG + 를/JKO
+그리/VV + ㄴ/ETM
+대표/NNG + 적/XSN
+영화/NNG + 로/JKB
+{/SS + 철로/NNG + 의/JKG
+전투/NNG + }/SS + (/SS + 45/SN + 년/NNB + )/SS + ,/SP
+{/SS + 금지/NNG + 되/XSV + ㄴ/ETM
+장난/NNG + }/SS + (/SS + 52/SN + 년/NNB + )/SS + ,/SP
+{/SS + 파리/NNP + 는/JX
+불타/VV + 고/EC
+있/VX + 는가/EC + }/SS + (/SS + 66/SN + 년/NNB + )/SS
+등/NNB + 이/JKS
+꼽히/VV + 고/EC
+있/VX + 다/EF + ./SF
+특히/MAG
+{/SS + 금지/NNG + 되/XSV + ㄴ/ETM
+장난/NNG + }/SS + 은/JX
+천진난만/NNG + 하/XSA + ㄴ/ETM
+두/MM
+남녀/NNG
+어린이/NNG + 의/JKG
+눈/NNG + 을/JKO
+통하/VV + 아/EC
+전쟁/NNG + 의/JKG
+언저리/NNG + 에/JKB
+있/VV + 던/ETM
+프랑스/NNP
+시골/NNG + 을/JKO
+섬세/XR + 하/XSA + 게/EC
+표현/NNG + 하/XSV + ㄴ/ETM
+수작/NNG + 으로/JKB
+대중/NNG + 적/XSN + 으로/JKB
+크/VA + ㄴ/ETM
+인기/NNG + 를/JKO
+끌/VV + 었/EP + 다/EF + ./SF
+이/MM
+작품/NNG + 은/JX
+52/SN + 년/NNB
+칸/NNP + 영화제/NNG + 와/JC
+베니스/NNP + 영화제/NNG + 에서/JKB
+수상/NNG + 하/XSV + 았/EP + 고/EC
+기타/NNG + 로/JKB
+연주/NNG + 되/XSV + ㄴ/ETM
+주제곡/NNG + 은/JX
+지금/NNG + 도/JX
+영화/NNG + 음악/NNG
+애호가/NNG + 들/XSN + 이/JKS
+가장/MAG
+선호/NNG + 하/XSV + 는/ETM
+곡/NNG + 으로/JKB
+남/VV + 아/EC + 있/VX + 다/EF + ./SF
+한편/NNG
+그/NP + 는/JX
+지나/VV + ㄴ/ETM
+3/SN + 일/NNB
+사망/NNG + 하/XSV + ㄴ/ETM
+여류/NNG
+소설가/NNG
+마르그리트/NNP
+뒤라스/NNP + 의/JKG
+작품/NNG
+{/SS + 태평양/NNP + 을/JKO
+향하/VV + ㄴ/ETM
+둑/NNG + }/SS + (/SS + Barrage/SL
+contre/SL
+le/SL
+Pacifique/SL + ,/SP
+58/SN + 년/NNB + )/SS + 을/JKO
+영화/NNG + 화/XSN + 하/XSV + 았/EP + 던/ETM
+탓/NNG + 에/JKB
+2/SN + 주/NNB + 를/JKO
+사이/NNG + 로/JKB
+원작자/NNG + 와/JC
+감독/NNG + 이/JKS
+잇따르/VV + 아/EC
+세상/NNG + 을/JKO
+등지/VV + 는/ETM
+기묘/XR + 하/XSA + ㄴ/ETM
+인연/NNG + 을/JKO
+만들/VV + 게/EC
+되/VV + 었/EP + 다/EF + ./SF
+</SS + 파리/NNP
+=/SW
+고대훈/NNP + 특파원/NNG + >/SS
+KBS/SL
+"/SS + 이것/NP + 이/JKS
+궁금/XR + 하/XSA + 다/EC + "/SS + (/SS + TV/SL + 리뷰/NNG + )/SS
+96/SN + ./SP + 03/SN + ./SP + 21/SN
+◎/SW
+시청자/NNG
+가렵/VA + ㄴ/ETM
+곳/NNG
+제때/NNG
+긁/VV + 어/EC + 주/VX + ㄴ/ETM
+효자손/NNG
+사람/NNG + 들/XSN + 이/JKS
+신문/NNG + 에서/JKB
+기사/NNG + 보다/JKB
+가십/NNG + 에/JKB
+더/MAG
+눈길/NNG + 을/JKO
+주/VV + 는/ETM
+이유/NNG + 는/JX
+그/MM
+뒷/NNG
+얘기/NNG + 가/JKS
+구미/NNG + 를/JKO
+당기/VV + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+딱딱/XR + 하/XSA + ㄴ/ETM
+스트레이트/NNG + 에서/JKB
+찾/VV + 을/ETM
+수/NNB
+없/VA + 는/ETM + ,/SP
+{/SS + 그런데/MAJ
+사실/NNG + 은/JX
+어쩌/VV + 었/EP + 더라/EC + }/SS + 는/ETM
+귀띔/NNG + 은/JX
+때로/MAG
+뉴스/NNG + 보다/JKB
+더/MAG
+흥미/NNG + 를/JKO
+끌/VV + 는/ETM + 법/NNB + 이/VCP + 다/EF + ./SF
+KBS/SL + ­/SS + 1/SN + TV/SL + 가/JKS
+지나/VV + ㄴ/ETM
+4/SN + 일/NNB
+개편/NNG + 이후/NNG
+새로/MAG
+편성/NNG + 하/XSV + ㄴ/ETM
+{/SS + 이것/NP + 이/JKS
+궁금/XR + 하/XSA + 다/EC + }/SS + (/SS + 진행/NNG
+김정탁/NNP
+성균관대/NNP
+교수/NNG + )/SS + 는/JX
+9/SN + 시/NNB
+뉴스/NNG + 에서/JKB
+정식/NNG + 으로/JKB
+다루/VV + 지/EC
+못하/VX + 는/ETM
+얘기/NNG + 들/XSN + 에/JKB
+초점/NNG + 을/JKO
+맞추/VV + ㄴ/ETM
+방송/NNG + 뉴스/NNG + 의/JKG
+[/SS + 가십난/NNG + ]/SS + 이/VCP + 다/EF + ./SF
+19/SN + 일/NNB
+방영/NNG + 분/XSN + 에서/JKB + 는/JX
+최근/NNG
+초미/NNG + 의/JKG
+관심사/NNG + 이/VCP + ㄴ/ETM
+전직/NNG
+대통령/NNG + 들/XSN
+재판/NNG + 과/JKB
+관련/NNG + ,/SP
+▶/SW
+고/MM
+강경/NNP + 대군/NNG
+아버지/NNG
+강민조/NNP + 씨/NNB
+폭행/NNG + 사건/NNG + 의/JKG
+진상/NNG
+▶/SW
+방청권/NNG
+프리미엄/NNG + 과/JKB
+전두환/NNP + 씨/NNB
+가족/NNG
+관련설/NNG
+▶/SW
+재판정/NNG
+언론/NNG + 공개/NNG
+하/VV + ㄹ/ETM
+수/NNB
+없/VA + 나/EC
+▶/SW
+시사/NNG + 만화가/NNG
+박재동/NNP
+화백/NNG + 이/JKS
+보/VV + ㄴ/ETM
+법정/NNG
+등/NNB
+평소/NNG
+시청자/NNG + 들/XSN + 이/JKS
+궁금/XR + 하/XSA + 아/EC
+하/VX + 았/EP + 을/ETM + 법/NNB + 하/XSA + ㄴ/ETM
+내용/NNG + 을/JKO
+담/VV + 았/EP + 다/EF + ./SF
+80/SN + 석/NNB + 에/JKB
+불과/MAG + 하/XSA + ㄴ/ETM
+일반/NNG
+방청권/NNG + 을/JKO
+얻/VV + 기/ETN
+위하/VV + 아/EC
+며칠/NNG + 밤/NNG + 을/JKO
+새/VV + 어/EC + 가/VX + 며/EC
+줄/NNG + 서/VV + 어/EC + 있/VX + 는/ETM
+사람/NNG + 들/XSN + 을/JKO
+추적/NNG + ,/SP
+프리미엄/NNG + 을/JKO
+노리/VV + ㄴ/ETM
+것/NNB + 이/VCP + 라는/ETM
+그/NP + 들/XSN + 의/JKG
+생생/XR + 하/XSA + ㄴ/ETM
+육성/NNG + 을/JKO
+전달/NNG + 하/XSV + 는데/EC
+성공/NNG + 하/XSV + 았/EP + 고/EC + ,/SP
+국민/NNG + 의/JKG
+알/VV + ㄹ/ETM
+권리/NNG + 와/JC
+피고인/NNG + 의/JKG
+기본/NNG + 권/XSN + 이/JKS
+상충/NNG + 되/XSV + 는/ETM
+현실/NNG + 을/JKO
+설명/NNG + 하/XSV + 면서/EC
+미국/NNP + 의/JKG
+심슨/NNP
+사건/NNG + 을/JKO
+대조/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 은/JX
+충분/XR + 하/XSA + ㄴ/ETM
+설득력/NNG + 을/JKO
+주/VV + 었/EP + 다/EF + ./SF
+특히/MAG
+박재동/NNP
+화백/NNG + 의/JKG
+재치/NNG + 넘치/VV + 는/ETM
+현장/NNG + 스케치/NNG + 를/JKO
+그/NP + 의/JKG
+설명/NNG + 과/JKB
+함께/MAG
+보/VV + 는/ETM
+것/NNB + 은/JX
+또/MAG + 다른/MM
+재미/NNG + 로/JKB
+대형/NNG
+사건/NNG
+때/NNG
+법정/NNG
+공개/NNG + 의/JKG
+당위/NNG + 성/XSN + 을/JKO
+간접/NNG + 적/XSN + 으로/JKB
+주장/NNG + 하/XSV + 는/ETM
+동시/NNG + 에/JKB
+프로그램/NNG + 에/JKB
+들이/VV + ㄴ/ETM
+공/NNG + 을/JKO
+엿보/VV + 게/EC
+하/VX + 았/EP + 다/EF + ./SF
+시청자/NNG + 들/XSN + 의/JKG
+가렵/VA + ㄴ/ETM
+곳/NNG + 을/JKO
+제때/NNG
+긁/VV + 어/EC + 주/VX + 는/ETM
+이런/MM
+프로그램/NNG + 들/XSN + 이/JKS
+말초/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+유혹/NNG + 에/JKB
+빠지/VV + 는/ETM
+것/NNB + 만/JX
+경계/NNG + 하/XSV + ㄴ다면/EC
+다양/NNG + 하/XSA + 고/EC
+흥미/NNG + 있/VV + 는/ETM
+정보/NNG + 에/JKB
+목마르/VA + 아/EC
+하/VX + 는/ETM
+시청자/NNG + 들/XSN + 에게/JKB
+얼마/NNG + 이/VCP + 든지/EC
+시원/XR + 하/XSA + ㄴ/ETM
+[/SS + 효자손/NNG + ]/SS + 이/JKC
+되/VV + ㄹ/ETM
+수/NNB
+있/VV + 다는/ETM
+것/NNB + 을/JKO
+보이/VV + 어/EC + 주/VX + ㄴ/ETM
+한판/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+</SS + 정형모/NNP
+기자/NNG + >/SS
+이주일/NNP + 씨/NNB
+연예/NNG + 계/XSN
+복귀/NNG + …/SE
+SBS/SL
+'/SS + 투나잇쇼/NNG + '/SS
+진행/NNG
+96/SN + ./SP + 03/SN + ./SP + 23/SN
+◎/SW
+"/SS + 인간미/NNG
+넘치/VV + 는/ETM
+토크/NNG + 쇼/NNG
+만들/VV + ㄹ/ETM
+것/NNB + "/SS
+//SP
+콩트/NNG
+·/SP
+춤/NNG
+·/SP
+음악/NNG
+등/NNB
+다채/XR + 롭/XSA + 게/EC
+꾸미/VV + 어/EC
+'/SS + 고/XPN + 품질/NNG
+쇼/NNG + '/SS
+자신/NNG
+지나/VV + ㄴ/ETM
+1/SN + 월/NNB + 말/NNB
+15/SN + 대/NNB
+총선/NNG
+불/XPN + 출마/NNG + 를/JKO
+공식/NNG + 선언/NNG + 하/XSV + ㄴ/ETM
+정주일/NNP + (/SS + 56/SN + )/SS + 의원/NNG + 이/JKS
+코미디언/NNG
+이주일/NNP + 로/JKB
+TV/SL + 에/JKB
+돌아오/VV + ㄴ다/EF + ./SF
+{/SS + 정치/NNG + 는/JX
+코미디/NNG + 이/VCP + 었/EP + 다/EC + }/SS + 는/JX
+말/NNG + 을/JKO
+남기/VV + 며/EC
+정계/NNG + 은퇴/NNG + 를/JKO
+천명/NNG + 하/XSV + ㄴ/ETM
+정/NNP + 의원/NNG + 이/JKS
+오/VV + 는/ETM
+4/SN + 월/NNB + 21/SN + 일/NNB
+SBS/SL
+세태/NNG + 풍자/NNG
+토크/NNG + 쇼/NNG
+{/SS + 이주일/NNP + 의/JKG
+투나잇쇼/NNG + }/SS + 로/JKB
+화려/XR + 하/XSA + 게/EC
+컴백/NNG + 하/XSV + 는/ETM
+것/NNB + ./SF
+정/NNP + 의원/NNG + 은/JX
+매주/MAG
+일요일/NNG
+밤/NNG
+9/SN + 시/NNB + 50/SN + 분/NNB + 부터/JX
+1/SN + 시간/NNG + 동안/NNG
+방송/NNG + 되/XSV + 는/ETM
+이/MM
+프로그램/NNG + 의/JKG
+MC/SL + 를/JKO
+맡/VV + 는다/EF + ./SF
+올해/NNG + 로/JKB
+연예/NNG + 계/XSN + 에/JKB
+정식/NNG
+데뷔/NNG + 하/XSV + ㄴ지/EC
+17/SN + 년/NNB + 째/XSN + 가/JKC
+되/VV + ㄴ/ETM
+정/NNP + 의원/NNG + 이/JKS
+토크/NNG + 쇼/NNG + 의/JKG
+단독/NNG
+진행자/NNG + 로/JKB
+나서/VV + 기/ETN + 는/JX
+이번/NNG + 이/JKS
+처음/NNG + ./SF
+정/NNP + 의원/NNG + 은/JX
+의정/NNG + 활동/NNG + 기간/NNG + 에/JKB + 도/JX
+{/SS + 현장/NNG + 쇼/NNG + ,/SP
+주부/NNG + 만세/NNG + }/SS
+{/SS + TV/SL + 청년/NNG + 내각/NNG + }/SS
+등/NNB + 에/JKB
+간간이/MAG
+출연/NNG + 하/XSV + 았/EP + 지만/EC
+어디/NP + 까지/JX + 나/JX
+[/SS + 의원/NNG + 님/XSN + ]/SS
+자격/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+정/NNP + 의원/NNG + 은/JX
+불/XPN + 출마/NNG
+선언/NNG + 직후/NNG
+KBS/SL + ­/SS + 2/SN + TV/SL
+{/SS + 밤/NNG + 과/JC
+음악/NNG + 사이/NNG + }/SS + 에/JKB
+나오/VV + 아/EC
+{/SS + 정치/NNG + 는/JX
+내/NP + 가/JKS
+있/VV + 을/ETM
+곳/NNG + 은/JX
+아니/VCN + 었/EP + 다/EC + }/SS + 면서/EC
+{/SS + 코미디언/NNG
+이주일/NNP + 로/JKB
+영원히/MAG
+남/VV + 겠/EP + 다/EC + }/SS + 고/JKQ
+팬/NNG + 들/XSN + 과/JKB
+약속/NNG + 하/XSV + ㄴ/ETM
+바/NNB
+있/VV + 어/EC
+그/NP + 의/JKG
+연예/NNG + 계/XSN + 복귀/NNG + 는/JX
+이미/MAG
+예정/NNG + 되/XSV + ㄴ/ETM
+일/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+21/SN + 일/NNB
+기자/NNG + 와/JKB
+만나/VV + ㄴ/ETM
+정/NNP + 의원/NNG + 은/JX
+{/SS + 지나/VV + ㄴ/ETM
+4/SN + 년/NNB + 간/NNG + 의/JKG
+의정/NNG + 활동/NNG + 을/JKO
+통하/VV + 아/EC
+보/VV + 고/EC
+듣/VV + 고/EC
+배우/VV + ㄴ/ETM
+것/NNB + 이/JKS
+참/MAG
+많/VA + 았/EP + 다/EC + }/SS + 며/EC
+{/SS + 이런/MM
+경험/NNG + 과/JC
+경륜/NNG + 을/JKO
+바탕/NNG + 으로/JKB
+신랄/XR + 하/XSA + 지만/EC
+애교/NNG
+풍기/VV + 고/EC
+위트/NNG + 와/JC
+해학/NNG + 이/JKS
+가득/MAG + 하/XSA + ㄴ/ETM
+인간미/NNG
+넘치/VV + 는/ETM
+토크/NNG + 쇼/NNG + 를/JKO
+만들/VV + 고/EC
+싶/VX + 다/EC + }/SS + 고/JKQ
+컴백/NNG + 소감/NNG + 을/JKO
+밝히/VV + 었/EP + 다/EF + ./SF
+{/SS + 이주일/NNP + 의/JKG
+투나잇쇼/NNG + }/SS + 는/JX
+콩트/NNG
+·/SP
+춤/NNG
+·/SP
+음악/NNG
+·/SP
+재담/NNG
+등/NNB
+코미디언/NNG
+이주일/NNP + 의/JKG
+모든/MM
+것/NNB + 을/JKO
+보이/VV + 어/EC + 주/VX + ㄹ/ETM
+수/NNB
+있/VV + 게/EC
+다채/XR + 롭/XSA + 게/EC
+꾸미/VV + 어/EC + 지/VX + ㄴ다/EF + ./SF
+시청자/NNG + 나/JC
+팬/NNG + 들/XSN + 이/JKS
+보내/VV + ㄴ/ETM
+편지/NNG + 를/JKO
+읽/VV + 고/EC
+물음/NNG + 에/JKB
+답/NNG + 하/XSV + 는/ETM
+[/SS + 우체통/NNG + ]/SS + ,/SP
+자신/NNG + 의/JKG
+이름/NNG + 을/JKO
+빗대/VV + 어/EC
+만들/VV + ㄴ/ETM
+세태/NNG + 풍자/NNG
+[/SS + 이주일/NNP + 의/JKG
+이슈/NNG + ]/SS + ,/SP
+갖가지/NNG
+돈/NNG + 에/JKB
+얽히/VV + ㄴ/ETM
+이야기/NNG + 를/JKO
+풀/VV + 어/EC + 보/VX + 는/ETM
+[/SS + 돈/NNG + 아/JKV
+돈/NNG + 아/JKV
+돈/NNG + 아/JKV + ]/SS + ,/SP
+라이벌/NNG
+두/MM
+명/NNB + 을/JKO
+초대/NNG + 하/XSV + 아/EC
+내밀/NNG + 하/XSA + ㄴ/ETM
+이야기/NNG + 를/JKO
+듣/VV + 어/EC + 보/VX + 는/ETM
+[/SS + 짝쇼/NNG + ]/SS
+등/NNB + 은/JX
+벌써/MAG + 부터/JX
+관심/NNG + 이/JKS
+가/VV + 는/ETM
+코너/NNG + 들/XSN + 이/VCP + 다/EF + ./SF
+담당/NNG
+배철호/NNP + PD/SL + 는/JX
+{/SS + 토크/NNG + 쇼/NNG + 는/JX
+MC/SL + 와/JC
+개성/NNG + 있/VV + 는/ETM
+게스트/NNG + 가/JKS
+프로그램/NNG + 의/JKG
+질/NNG + 을/JKO
+좌우/NNG + 하/XSV + ㄴ다/EC + }/SS + 며/EC
+[/SS + 고/XPN + 품질/NNG + ]/SS + 의/JKG
+토크/NNG + 쇼/NNG + 를/JKO
+자신/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+그/NP + 는/JX
+{/SS + 깊이/NNG + 있/VV + 는/ETM
+이야기/NNG + 도/JX
+편안/NNG + 하/XSA + 게/EC
+풀/VV + 어/EC + 가/VX + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+진행자/NNG + }/SS + 로/JKB
+정/NNP + 의원/NNG + 을/JKO
+평하/VV + 았/EP + 다/EF + ./SF
+첫/MM
+방영/NNG + 분/XSN + 은/JX
+프로/NNG + 축구/NNG
+일화구단/NNP + 의/JKG
+박종환/NNP + 감독/NNG + 과/JC
+가수/NNG
+조영남/NNP
+등/NNB
+평소/NNG
+정/NNP + 의원/NNG + 과/JKB
+친하/VA + 게/EC
+지내/VV + 는/ETM
+지인/NNG + 들/XSN + 과/JKB
+함께/MAG
+하/VV + 는/ETM
+[/SS + 이주일/NNP
+스페셜/NNG + ]/SS + 로/JKB
+만들/VV + 어/EC + 지/VX + ㄴ다/EF + ./SF
+4/SN + 월/NNB + 19/SN + 일/NNB
+하얏트호텔/NNP
+그랜드볼룸/NNG + 에서/JKB
+녹화/NNG + 하/XSV + ㄴ다/EF + ./SF
+</SS + 정재왈/NNP
+기자/NNG + >/SS
+특정/NNG
+후보/NNG
+방영/NNG
+프로/NNG
+//SP
+방송위/NNG + ,/SP
+무더기/NNG
+경고/NNG
+96/SN + ./SP + 03/SN + ./SP + 23/SN
+방송/NNG + 위원회/NNG + (/SS + 위원장/NNG
+김창열/NNP + )/SS + 는/JX
+지나/VV + ㄴ/ETM
+20/SN + 일/NNB
+제/XPN + 5/SN + 차/NNB
+선거/NNG + 방송/NNG + 심의/NNG + 특별/NNG + 위원회/NNG + (/SS + 위원장/NNG
+원우현/NNP + )/SS + 를/JKO
+열/VV + 고/EC
+입후보/NNG
+예정자/NNG + 의/JKG
+방송/NNG + 출연/NNG
+제한/NNG + 규정/NNG + 을/JKO
+위반/NNG + 하/XSV + 거나/EC
+특정/NNG
+후보/NNG + 에게/JKB
+유리/NNG
+또는/MAG
+불리/NNG + 하/XSA + ㄴ/ETM
+내용/NNG + 을/JKO
+방송/NNG + 하/XSV + ㄴ/ETM
+프로그램/NNG + 들/XSN + 에/JKB
+대하/VV + 아/EC
+[/SS + 경고/NNG + ]/SS + 9/SN + 건/NNB + ,/SP
+[/SS + 주의/NNG + ]/SS + 5/SN + 건/NNB
+등/NNB
+총/MM
+14/SN + 건/NNB + 의/JKG
+제재/NNG + 를/JKO
+결정/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이/NP + 에/JKB
+따르/VV + 아/EC
+15/SN + 대/NNB
+총선/NNG + 과/JKB
+관련/NNG + 하/XSV + ㄴ/ETM
+여론/NNG + 조사/NNG
+결과/NNG + 를/JKO
+인용/NNG + 보도/NNG + 하/XSV + 면서/EC
+조사/NNG + 방법/NNG
+·/SP
+조사/NNG + 기간/NNG
+·/SP
+오차/NNG + 한계/NNG
+등/NNB + 을/JKO
+밝히/VV + 지/EC
+않/VX + 은/ETM
+KBS/SL
+제/XPN + 1/SN + 라디오/NNG + 의/JKG
+{/SS + KBS/SL
+뉴스/NNG
+9/SN + }/SS + 와/JC
+{/SS + 뉴스/NNG + 와/JC
+화제/NNG + }/SS + ,/SP
+불교방송/NNP + (/SS + BBS/SL + )/SS + 의/JKG
+{/SS + 정오/NNG + 종합/NNG + 뉴스/NNG + }/SS
+{/SS + 뉴스/NNG + }/SS
+{/SS + 저녁/NNG + 종합/NNG + 뉴스/NNG + }/SS + 가/JKS
+각각/MAG
+경고/NNG + 조치/NNG + 를/JKO
+받/VV + 았/EP + 다/EF + ./SF
+또/MAG
+영화/NNG
+{/SS + 빨갛/VA + ㄴ/ETM
+마후라/NNG + }/SS + 를/JKO
+소개/NNG + 하/XSV + 며/EC
+신영균/NNP + (/SS + 신한국당/NNP
+전국구/NNG + )/SS + 씨/NNB + 의/JKG
+얼굴/NNG + 을/JKO
+노출/NNG + 시키/XSV + ㄴ/ETM
+KBS/SL + ­/SS + 2/SN + TV/SL
+{/SS + 연예가/NNG
+중계/NNG + }/SS + ,/SP
+최영한/NNP + (/SS + 예명/NNG
+최불암/NNP + ·/SP + 신한국당/NNP
+영등포/NNP + 을/NNG + )/SS + 씨/NNB + 의/JKG
+음성/NNG + 으로/JKB
+녹음/NNG + 되/XSV + ㄴ/ETM
+절약/NNG
+캠페인/NNG + 을/JKO
+방송/NNG + 하/XSV + ㄴ/ETM
+MBC/SL
+라디오/NNG
+{/SS + SB/SL + ­/SS + 캠페인/NNG + }/SS
+등/NNB + 이/JKS
+경고/NNG + 를/JKO
+받/VV + 았/EP + 다/EF + ./SF
+시청자/NNG
+분노/NNG + 하/XSV + 게/EC + 하/VX + ㄴ/ETM
+'/SS + 잠시/NNG + 후/NNG + '/SS
+//SP
+한/NNP + ·/SP + 중/NNP
+올림픽/NNG + 축구/NNG + 예선전/NNG
+위성/NNG + 중계/NNG
+96/SN + ./SP + 03/SN + ./SP + 23/SN
+◎/SW
+상투/NNG + 적/XSN
+자막/NNG + 으로/JKB
+30/SN + 분/NNB + 이나/JX
+기다리/VV + 게/EC
+하/VX + 아/EC
+//SP
+속사정/NNG
+안/MAG
+밝히/VV + ㄴ/ETM
+방송사/NNG
+안이/XR + 하/XSA + ㄴ/ETM
+태도/NNG
+문제/NNG
+21/SN + 일/NNB
+밤/NNG
+한국/NNP + 대/NNB
+중국/NNP + 의/JKG
+축구/NNG + 경기/NNG + 중계/NNG + 를/JKO
+지켜보/VV + ㄴ/ETM
+시청자/NNG + 들/XSN + 은/JX
+답답/XR + 하/XSA + ㅁ/ETN + 과/JC
+분노/NNG + 를/JKO
+느끼/VV + 어야/EC
+하/VX + 았/EP + 다/EF + ./SF
+[/SS + 답답/XR + 하/XSA + ㅁ/ETN + ]/SS + 은/JX
+한국/NNP + 선수/NNG + 들/XSN + 이/JKS
+뛰/VV + 는/ETM
+모습/NNG + 을/JKO
+보/VV + ㄹ/ETM
+수/NNB
+없/VA + 었/EP + 기/ETN
+때문/NNB + 이/VCP + 고/EC + ,/SP
+[/SS + 분노/NNG + ]/SS + 는/JX
+솔직히/MAG
+속사정/NNG + 을/JKO
+털어놓/VV + 지/EC
+않/VX + 고/EC
+[/SS + 현지/NNG + 위성/NNG + 차질/NNG + ]/SS + 이/VCP + 란/ETM
+상투/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+자막/NNG + 으로/JKB
+시청자/NNG + 들/XSN + 을/JKO
+기만/NNG + 하/XSV + ㄴ/ETM
+중계/NNG + 방송사/NNG + 들/XSN + 의/JKG
+안이/XR + 하/XSA + ㄴ/ETM
+태도/NNG
+때문/NNB + 이/VCP + 었/EP + 다/EF + ./SF
+이날/NNG
+중계방송/NNG + 의/JKG
+차질/NNG + 은/JX
+우선/MAG
+현지/NNG + 의/JKG
+폭우/NNG + 탓/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+선수단/NNG + 과/JC
+심판진/NNG + 이/JKS
+늦/VA + 게/EC
+도착/NNG + 하/XSV + 아/EC
+우리/NP + 시간/NNG
+밤/NNG + 9/SN + 시/NNB + 로/JKB
+예정/NNG + 되/XSV + 었/EP + 던/ETM
+경기/NNG + 가/JKS
+밤/NNG + 10/SN + 시/NNB + 로/JKB
+1/SN + 시간/NNG
+늦추/VV + 어/EC + 지/VX + 었/EP + 다/EF + ./SF
+방송사/NNG + 가/JKS
+잡/VV + 아/EC + 놓/VX + 은/ETM
+위성/NNG + 중계/NNG + 는/JX
+밤/NNG + 11/SN + 시/NNB + 까지/JX
+2/SN + 시간/NNG + ./SF
+예정/NNG + 대로/JX + 이/VCP + 라면/EC
+연장전/NNG
+없/VA + 는/ETM
+경기/NNG + 이/VCP + 라/EC
+로스/NNG + 타임/NNG + 을/JKO
+감안/NNG + 하/XSV + ㄴ다/EC
+하/VV + 아도/EC
+충분/XR + 하/XSA + ㄴ/ETM
+시간/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+중계/NNG + 시간/NNG
+차질/NNG + 이/JKS
+예상/NNG + 되/XSV + 자/EC
+방송사/NNG + 들/XSN + 은/JX
+급히/MAG
+위성/NNG + 사용/NNG
+연장/NNG + 을/JKO
+신청/NNG + 하/XSV + 았/EP + 고/EC
+비/VV + ㄴ/ETM + 위성/NNG + 을/JKO
+찾/VV + 아/EC
+16/SN + 분/NNB + 을/JKO
+더/MAG
+중계/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 었/EP + 다/EF + ./SF
+여기/NP + 까지/JX + 는/JX
+기민/XR + 하/XSA + ㄴ/ETM
+대응/NNG + 이/VCP + 었/EP + 고/EC
+충분히/MAG
+납득/NNG + 하/XSV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+사정/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+밤/NNG + 11/SN + 시/NNB + 15/SN + 분/NNB + ,/SP
+후반전/NNG
+18/SN + 분/NNB + 쯤/NNG
+위성/NNG + 예약/NNG + 시간/NNG + 이/JKS
+끝나/VV + 았/EP + 고/EC
+더/MAG
+이상/NNG
+현지/NNG + 생/XPN + 중계/NNG + 는/JX
+이루어지/VV + 지/EC
+않/VX + 았/EP + 다/EF + ./SF
+KBS/SL + 와/JC
+SBS/SL + 측/NNB + 은/JX
+급히/MAG
+자막/NNG + 을/JKO
+내보내/VV + 었/EP + 다/EF + ./SF
+[/SS + 현재/MAG
+위성/NNG + 관계/NNG + 로/JKB
+중계방송/NNG + 에/JKB
+차질/NNG + 을/JKO
+빚/VV + 고/EC
+있/VX + 습니다/EF + ./SF
+잠시/MAG
+뒤/NNG
+위성/NNG + 을/JKO
+정상/NNG + 화/XSN + 하/XSV + ㄹ/ETM
+때/NNG + 까지/JX
+시청자/NNG
+여러분/NP + 의/JKG
+양해/NNG + 바라/VV + ㅂ니다/EC + ]/SS + (/SS + KBS/SL + 1/SN
+밤/NNG + 11/SN + 시/NNB + 16/SN + 분/NNB + )/SS + ,/SP
+[/SS + 위성/NNG + 사정/NNG + 이/JKS
+좋/VA + 아/EC + 지/VX + 는/ETM + 대로/NNB
+정상/NNG + 으로/JKB
+방송/NNG + 이/JKC
+되/VV + 도록/EC
+하/VV + 겠/EP + 습니다/EC + ]/SS + (/SS + SBS/SL
+밤/NNG + 11/SN + 시/NNB + 17/SN + 분/NNB + )/SS + ./SF
+그러나/MAJ
+이후/NNG
+33/SN + 분/NNB + 간/NNB
+중계/NNG + 는/JX
+이루어지/VV + 지/EC
+않/VX + 았/EP + 다/EF + ./SF
+후반전/NNG
+종료/NNG
+2/SN + ∼/SO + 3/SN + 분/NNB + 전/NNG + 에/JKB + 야/JX
+화면/NNG + 이/JKS
+정상/NNG + 화/XSN + 되/XSV + 었/EP + 다/EF + ./SF
+[/SS + 잠시/MAG
+후/NNG + ]/SS + 이/VCP + 라는/ETM
+자막/NNG + 을/JKO
+믿/VV + 고/EC
+마냥/MAG
+기다리/VV + 었/EP + 던/ETM
+시청자/NNG + 들/XSN + 은/JX
+분노/NNG + 하/XSV + ㄹ/ETM
+수/NNB + 밖에/JX
+없/VA + 었/EP + 다/EF + ./SF
+SBS/SL + 의/JKG
+경우/NNG
+현지/NNG
+캐스터/NNG
+손석기/NNP + 씨/NNB + 가/JKS
+위성/NNG + 예약/NNG + 시간/NNG + 이/JKS
+넘/VV + 어/EC
+더/MAG
+이상/NNG
+생/XPN + 중계/NNG + 가/JKS
+불/XPN + 가능/NNG + 하/XSA + 다는/ETM
+말/NNG + 을/JKO
+하/VV + 고/EC + 있/VX + 을/ETM
+때/NNG + 도/JX
+자막/NNG + 은/JX
+곧/MAG
+정상/NNG + 방송/NNG + 이/JKS
+이루어지/VV + ㄹ/ETM
+것/NNB + 처럼/JKB
+처리/NNG + 되/XSV + 었/EP + 고/EC
+KBS/SL + 는/JX
+그나마/MAG
+이/NP + 같/VA + 은/ETM
+속사정/NNG + 을/JKO
+일언반구/NNG + 도/JX
+얘기/NNG + 하/XSV + 지/EC
+않/VX + 았/EP + 다/EF + ./SF
+게다가/MAG
+KBS/SL + 측/NNB + 은/JX
+전반전/NNG
+장면/NNG + 을/JKO
+다시/MAG
+내보내/VV + 면서/EC
+중계/NNG + 를/JKO
+계속/NNG + 하/XSV + 아/EC
+현지/NNG
+캐스터/NNG + 의/JKG
+상황/NNG + 설명/NNG + 과/JC
+그림/NNG + 이/JKS
+전혀/MAG
+맞/VV + 지/EC
+않/VX + 아/EC
+시청자/NNG + 들/XSN + 의/JKG
+혼란/NNG + 을/JKO
+초래/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+또/MAG
+화면/NNG + 이/JKS
+나가/VV + 지/EC
+않/VX + 을/ETM
+경우/NNG + 보다/JKB
+상세/XR + 하/XSA + ㄴ/ETM
+경기/NNG + 상황/NNG
+중계/NNG + 가/JKS
+필요/NNG + 하/XSA + ㄴ데/EC + 도/JX
+여전히/MAG
+[/SS + 잡/VV + 았/EP + 습니다/EF + ./SF
+슛/NNG + ./SF
+빗나가/VV + 았/EP + 습니다/EC + ]/SS + 는/JX
+식/NNB + 으로/JKB
+화면/NNG + 이/JKS
+나가/VV + ㄹ/ETM
+때/NNG + 의/JKG
+중계/NNG + 와/JC
+달라지/VV + ㄴ/ETM
+것/NNB + 이/JKS
+없/VA + 어/EC
+가뜩이나/MAG
+경기/NNG + 장면/NNG + 을/JKO
+보/VV + ㄹ/ETM
+수/NNB
+없/VA + 어/EC
+답답/XR + 하/XSA + 아/EC + 하/VX + 던/ETM
+시청자/NNG + 들/XSN + 의/JKG
+짜증/NNG + 을/JKO
+부추기/VV + 고/EC
+말/VX + 았/EP + 다/EF + ./SF
+중계/NNG + 차질/NNG + 을/JKO
+빚/VV + 은/ETM
+이유/NNG + 를/JKO
+솔직히/MAG
+설명/NNG + 하/XSV + 고/EC
+더/MAG
+이상/NNG
+중계/NNG + 가/JKS
+불/XPN + 가능/NNG + 하/XSA + 다는/ETM
+사실/NNG + 을/JKO
+털어놓/VV + 았/EP + 다면/EC
+대부분/NNG + 의/JKG
+시청자/NNG + 들/XSN + 이/JKS
+이/NP + 를/JKO
+납득/NNG + 하/XSV + 았/EP + 을/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+그러/VV + 었/EP + 다면/EC
+급히/MAG
+위성/NNG + 을/JKO
+찾/VV + 아/EC
+후반/NNG
+마지막/NNG
+2/SN + ∼/SO + 3/SN + 분/NNB + 이/VCP + 라도/EC
+내보내/VV + ㄹ/ETM
+수/NNB
+있/VV + 었/EP + 던/ETM
+방송사/NNG + 측/NNB + 의/JKG
+기민/XR + 하/XSA + ㄴ/ETM
+노력/NNG + 도/JX
+돋보이/VV + 었/EP + 을/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+</SS + 이정재/NNP
+기자/NNG + >/SS
+케이블/NNG + TV/SL + 도/JX
+인터네트/NNG
+'/SS + 붐/NNG + '/SS
+96/SN + ./SP + 03/SN + ./SP + 26/SN
+◎/SW
+'/SS + 인터네트/NNG
+배우/VV + 기/ETN + '/SS
+사회/NNG + 적/XSN
+분위기/NNG
+맞물리/VV + 어/EC
+//SP
+시청자/NNG
+호응/NNG + …/SE
+채널/NNG
+이미지/NNG
+높이/VV + 는데/EC
+한몫/NNG
+중앙일보사/NNP + 의/JKG
+학교/NNG + 정보/NNG + 화/XSN + (/SS + IIE/SL + )/SS + 운동/NNG + 이/JKS
+사회/NNG + 적/XSN
+반향/NNG + 을/JKO
+불러일으키/VV + 고/EC
+있/VX + 는/ETM
+가운데/NNG
+케이블/NNG + TV/SL + 에/JKB + 도/JX
+인터네트/NNG
+붐/NNG + 이/JKS
+거세/VA + 게/EC
+일/VV + 고/EC
+있/VX + 다/EF + ./SF
+최근/NNG
+전/MM + 사회/NNG + 적/XSN + 으로/JKB
+불/VV + 고/EC
+있/VX + 는/ETM
+인터네트/NNG
+배우/VV + 기/ETN
+열풍/NNG + 과/JKB
+맞물리/VV + 어/EC
+편성/NNG + 되/XSV + ㄴ/ETM
+인터네트/NNG
+관련/NNG
+프로그램/NNG + 들/XSN + 이/JKS
+시청자/NNG + 들/XSN + 의/JKG
+높/VA + 은/ETM
+호응/NNG + 을/JKO
+받/VV + 고/EC
+있/VX + 는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+케이블/NNG + TV/SL + 들/XSN + 의/JKG
+이/NP + 같/VA + 은/ETM
+움직임/NNG + 은/JX
+인터네트/NNG
+관련/NNG
+프로그램/NNG + 이/JKS
+전무/NNG + 하/XSA + ㄴ/ETM
+기존/NNG
+지상파/NNG
+방송/NNG + 들/XSN + 과/JKB
+대조/NNG + 되/XSV + 면서/EC
+채널/NNG
+이미지/NNG + 를/JKO
+높이/VV + 는/ETM
+데/NNB + 도/JX
+일조/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+인터네트/NNG + 를/JKO
+가장/MAG
+먼저/MAG
+다루/VV + 기/ETN
+시작/NNG + 하/XSV + ㄴ/ETM
+케이블/NNG + TV/SL + 는/JX
+다솜방송/NNP + (/SS + 채널/NNG + 26/SN + )/SS + ./SF
+봄/NNG
+개편/NNG + 에서/JKB
+신설/NNG + 되/XSV + 어/EC
+월요일/NNG
+오전/NNG
+8/SN + 시/NNB + 30/SN + 분/NNB
+등/NNB
+주/NNG + 4/SN + 회/NNB
+방송/NNG + 중/NNB + 이/VCP + ㄴ/ETM
+{/SS + 인터네트/NNG
+영어/NNP + }/SS + 는/JX
+지나/VV + ㄴ/ETM
+1/SN + 일/NNB
+첫/MM
+방송/NNG
+이후/NNG
+컴퓨터/NNG
+매니어/NNG + 들/XSN + 로부터/JKB
+선풍/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+인기/NNG + 를/JKO
+끌/VV + 고/EC
+있/VX + 다/EF + ./SF
+이/MM
+프로/NNG + 의/JKG
+가장/MAG
+크/VA + ㄴ/ETM
+특징/NNG + 은/JX
+인터네트/NNG + 와/JC
+영어/NNP + 이/VCP + 라는/ETM
+두/MM
+마리/NNB
+토끼/NNG + 를/JKO
+한꺼번에/MAG
+잡/VV + 을/ETM
+수/NNB
+있/VV + 다는/ETM
+점/NNB + ./SF
+인터네트/NNG
+관련/NNG
+서적/NNG + 을/JKO
+혼자/NNG
+공부/NNG + 하/XSV + 다/EC
+실패/NNG + 하/XSV + ㄴ/ETM
+사람/NNG + 들/XSN + 이나/JC
+영어/NNP + 학원/NNG + 강의/NNG + 에/JKB
+실망/NNG + 하/XSV + ㄴ/ETM
+시청자/NNG + 들/XSN + 이/JKS
+브라운관/NNG
+앞/NNG + 에/JKB
+몰리/VV + 고/EC
+있/VX + 는/ETM
+것/NNB + 이/VCP + 다/EF + ./SF
+컴맹/NNG + 에서/JKB + 도/JX
+탈출/NNG + 하/XSV + 고/EC
+이왕이면/MAG
+영어/NNP + 실력/NNG + 도/JX
+키우/VV + 려는/ETM
+신/XPN + 세대/NNG
+시청자/NNG + 들/XSN + 의/JKG
+합리/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+취향/NNG + 과/JC
+편성/NNG
+내용/NNG + 이/JKS
+잘/MAG
+맞물리/VV + 었/EP + 다는/ETM
+평/NNG + 이/VCP + 다/EF + ./SF
+외신/NNG + 전문/NNG + 기자/NNG + 이/VCP + ㄴ/ETM
+MC/SL + 박광희/NNP + 씨/NNB + 의/JKG
+친절/NNG + 하/XSA + ㄴ/ETM
+소개/NNG + 로/JKB
+[/SS + 웹/NNG + (/SS + WEB/SL + )/SS + 잉글리시/NNG + ]/SS
+[/SS + 인터네트/NNG
+채팅/NNG + ]/SS
+[/SS + E/SL + ­/SS + MAIL/SL
+영작/NNG + 연습/NNG + ]/SS
+등/NNB + 을/JKO
+배우/VV + ㄴ다/EF + ./SF
+25/SN + 일/NNB + 부터/JX
+일요일/NNG + 을/JKO
+제외/NNG + 하/XSV + ㄴ/ETM
+매일/MAG
+저녁/NNG
+7/SN + 시/NNB + 부터/JX
+30/SN + 분/NNB + 간/NNG
+방송/NNG + 되/XSV + 는/ETM
+DSN/SL + (/SS + 채널/NNG + 23/SN + )/SS + 의/JKG
+{/SS + 쇼/NNG + !/SF
+인터네트/NNG
+특강/NNG + }/SS + 도/JX
+매니어/NNG + 들/XSN + 의/JKG
+관심/NNG + 을/JKO
+끌/VV + 는/ETM
+내용/NNG + 이/VCP + 다/EF + ./SF
+이/MM
+프로/NNG + 는/JX
+초/NNG + ·/SP + 중/NNG + ·/SP + 고/NNG + ·/SP + 대학/NNG + 생/XSN + 은/JX
+물론/MAG
+주부/NNG + 와/JC
+노인/NNG
+등/NNB
+대상/NNG + 층/XSN + 이/JKS
+포괄/NNG + 적/XSN + 이/VCP + 어서/EC
+누구/NP + 나/JX
+쉽/VA + 게/EC
+접근/NNG + 이/JKS
+가능/NNG + 하/XSA + 다/EF + ./SF
+[/SS + 출발/NNG + 인터네트/NNG + ]/SS
+[/SS + 아하/IC + !/SF
+인터네트/NNG + ]/SS
+[/SS + 인터네트/NNG
+영어/NNP + 한마디/NNG + ]/SS
+[/SS + 인터네트/NNG
+세상/NNG + 구경/NNG + ]/SS
+등/NNB
+코너/NNG + 명/NNG + 이/JKS
+말/NNG + 하/XSV + 아/EC + 주/VX + 듯/EC
+단계/NNG + 별/XSN + 로/JKB
+차근차근/MAG
+배우/VV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+것/NNB + 이/JKS
+장점/NNG + ./SF
+인터네트/NNG
+관련/NNG + 상식/NNG + 을/JKO
+비롯/XR + ,/SP
+인터네트/NNG
+정보/NNG + 검색/NNG
+활용법/NNG
+·/SP
+홈페이지/NNG
+작성법/NNG
+·/SP
+인터네트/NNG
+영어/NNP + 회화/NNG
+등/NNB
+인터네트/NNG + 에/JKB
+관하/VV + ㄴ/ETM
+모든/MM
+것/NNB + 이/JKS
+망라/NNG + 되/XSV + 어/EC
+있/VX + 다/EF + ./SF
+음악/NNG
+전문/NNG + 채널/NNG
+KMTV/SL + (/SS + 채널/NNG + 43/SN + )/SS + 는/JX
+팝/NNG + 과/JC
+인터네트/NNG + 의/JKG
+결합/NNG + 을/JKO
+시도/NNG + 하/XSV + ㄴ/ETM
+{/SS + 팝스/NNG
+인터네트/NNG + }/SS + 를/JKO
+매주/MAG
+일요일/NNG
+저녁/NNG
+6/SN + 시/NNB + 부터/JX
+두/MM
+시간/NNG + 동안/NNG
+내보내/VV + 고/EC
+있/VX + 다/EF + ./SF
+미녀/NNG
+VJ/SL
+고주희/NNP + 는/JX
+인터네트/NNG + 에/JKB
+올라오/VV + ㄴ/ETM
+전/MM + 세계/NNG + 팝/NNG
+매니어/NNG + 들/XSN + 의/JKG
+최신/NNG
+선호도/NNG + 를/JKO
+취합/NNG + 하/XSV + ㄴ/ETM
+{/SS + Hits/SL
+World/SL + }/SS
+차트/NNG + 를/JKO
+소개/NNG + 하/XSV + 아/EC + 주/VX + ㄴ다/EF + ./SF
+변화/NNG + 에/JKB
+둔감/NNG + 하/XSA + ㄴ/ETM
+지상파/NNG
+방송사/NNG + 들/XSN + 과/JKB
+달리/MAG
+한발/MAG
+앞서/MAG
+인터네트/NNG + 를/JKO
+방송/NNG + 과/JKB
+결합/NNG + 시키/XSV + ㄴ/ETM
+케이블/NNG + TV/SL + 들/XSN + 의/JKG
+신선/XR + 하/XSA + ㄴ/ETM
+움직임/NNG + 은/JX
+한동안/NNG
+방송/NNG + 계/XSN + 에/JKB
+상당/NNG + 하/XSA + ㄴ/ETM
+파장/NNG + 을/JKO
+몰/VV + 고/EC
+오/VX + ㄹ/ETM
+것/NNB + 이/VCP + 라는/ETM
+것/NNB + 이/JKS
+전문가/NNG + 들/XSN + 의/JKG
+분석/NNG + 이/VCP + 다/EF + ./SF
+</SS + 장세정/NNP
+기자/NNG + >/SS
+1/SN + 백/NR + 일/NNB
+뒤/NNG + 이/VCP + 면/EC
+국내/NNG
+채널/NNG
+등장/NNG
+//SP
+KBS/SL
+위성/NNG
+시험/NNG + 방송/NNG
+언제/MAG
+시작/NNG + 하/XSV + 나/EC
+96/SN + ./SP + 03/SN + ./SP + 26/SN
+◎/SW
+디지털/NNG + 방식/NNG
+채택/NNG
+7/SN + 월/NNB + 1/SN + 일/NNB
+개시/NNG
+2/SN + 개/NNB
+채널/NNG
+선뵈/VV + 어/EC
+NHK/SL + 나/JC
+스타/NNG + TV/SL
+등/NNB
+외국/NNG + 채널/NNG + 만/JX
+나오/VV + 던/ETM
+위성/NNG + 방송/NNG + 에/JKB
+1/SN + 백/NR + 일/NNB
+뒤/NNG + 이/VCP + 면/EC
+국내/NNG + 채널/NNG + 이/JKS
+등장/NNG + 하/XSV + ㄴ다/EF + ./SF
+오/VV + 는/ETM
+7/SN + 월/NNB + 1/SN + 일/NNB
+개시/NNG + 되/XSV + 는/ETM
+KBS/SL + 의/JKG
+위성/NNG
+시험/NNG + 방송/NNG + 은/JX
+일반/NNG + TV/SL
+수상기/NNG + 에/JKB
+수신기/NNG + 를/JKO
+달/VV + 아야/EC
+보/VV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+SHF/SL + (/SS + Super/SL
+High/SL
+Frequency/SL + :/SP
+슈퍼/NNG + 초/XPN + 단파/NNG + )/SS + 방식/NNG + 으로/JKB
+지나/VV + ㄴ/ETM
+18/SN + 일/NNB
+서비스/NNG + 를/JKO
+시작/NNG + 하/XSV + ㄴ/ETM
+무궁화위성/NNP
+1/SN + 호/NNB + 를/JKO
+통하/VV + 아/EC
+2/SN + 개/NNB
+채널/NNG + 로/JKB
+시청자/NNG + 에게/JKB
+선보이/VV + ㄴ다/EF + ./SF
+NHK/SL + 등/NNB
+기존/NNG
+위성/NNG + 방송/NNG + 이/JKS
+아날로그/NNG + 방식/NNG + 을/JKO
+택하/VV + 고/EC
+있/VX + 는/ETM
+반면/NNG
+KBS/SL + 의/JKG
+위성/NNG + 시험/NNG + 방송/NNG + 은/JX
+한/MM + 차원/NNG
+높/VA + 은/ETM
+디지털/NNG
+방식/NNG + ./SF
+화질/NNG + ·/SP + 음성/NNG + 이/JKS
+훨씬/MAG
+뛰어나/VA + ㄴ데다/EC
+영화/NNG + 와/JKB
+같/VA + 은/ETM
+와이드/NNG + 화면/NNG + 도/JX
+즐기/VV + ㄹ/ETM
+수/NNB
+있/VV + 는/ETM
+반면/NNG
+대/NNB + 당/XSN + 가격/NNG
+70/SN + 만/NR + 원/NNB + 쯤/NNG + 이/VCP + ㄴ/ETM
+전용/NNG + 수신기/NNG + 를/JKO
+추가/NNG + 로/JKB
+달/VV + 아야/EC
+수신/NNG + 이/JKS
+가능/NNG + 하/XSA + ㄴ/ETM
+것/NNB + 이/JKS
+문제/NNG + 이/VCP + 다/EF + ./SF
+D/SL + ­/SS + 1/SN + 백/NR + 일/NNB + 을/JKO
+맞/VV + 은/ETM
+KBS/SL + 는/JX
+1/SN + TV/SL
+·/SP
+2/SN + TV/SL
+등/NNB
+지상파/NNG
+2/SN + 개/NNB
+채널/NNG + 과/JC
+내용/NNG + ·/SP + 편성/NNG + 면/NNG + 에서/JKB
+확실히/MAG
+구별/NNG + 되/XSV + 는/ETM
+또/MAG + 다른/MM
+2/SN + 개/NNB
+채널/NNG + 을/JKO
+선보이/VV + ㄴ다는/ETM
+전략/NNG
+아래/NNG
+프로그램/NNG
+개발/NNG + 에/JKB
+부심/NNG + 하/XSV + 고/EC
+있/VX + 다/EF + ./SF
+보도/NNG + 채널/NNG + 이/VCP + ㄴ/ETM
+1/SN + 채널/NNG + 은/JX
+뉴스/NNG + ·/SP + 경제/NNG + ·/SP + 과학/NNG + 기술/NNG + 프로/NNG
+중심/NNG + 으로/JKB
+매일/MAG
+20/SN + 시간/NNG + ,/SP
+2/SN + 채널/NNG + 은/JX
+스포츠/NNG + ·/SP + 고급/NNG
+문화/NNG + 프로/NNG + 로/JKB
+평일/NNG
+16/SN + 시간/NNG + ,/SP
+주말/NNG
+20/SN + 시간/NNG + 씩/XSN
+방송/NNG + 하/XSV + ㄴ다는/ETM
+원칙/NNG + 아래/NNG
+지상파/NNG + 에서/JKB
+제대로/MAG
+못/MAG + 다루/VV + ㄴ/ETM
+월드/NNG
+뉴스/NNG + 나/JC
+앞뒤/NNG + 가/JKS
+끊기/VV + 기/ETN
+일쑤/NNG + 이/VCP + ㄴ/ETM
+스포츠/NNG + 중계/NNG + 를/JKO
+전/MM + 과정/NNG + (/SS + Full/SL
+T/SL + Ex/SL + t/SL + )/SS
+방송/NNG + 하/XSV + ㄴ다는/ETM
+방침/NNG + ./SF
+이/NP + 를/JKO
+위하/VV + 아/EC
+담당/NNG + 부서/NNG + 이/VCP + ㄴ/ETM
+뉴미디어국/NNG + 은/JX
+최근/NNG
+제작/NNG + 부서/NNG + 로부터/JKB
+PD/SL
+22/SN + 명/NNB + 을/JKO
+증원/NNG + 받/VV + 아/EC
+자체/NNG + 프로/NNG
+개발/NNG + 에/JKB
+착수/NNG + 하/XSV + 았/EP + 으며/EC
+2/SN + 백억/NR + 원/NNB + 을/JKO
+들이/VV + 어/EC
+85/SN + 평/NNB + 규모/NNG + 의/JKG
+디지털/NNG
+전용/NNG
+스튜디오/NNG + 를/JKO
+마련/NNG + ,/SP
+6/SN + 월/NNB + 부터/JX
+가동/NNG + 하/XSV + ㄴ다/EF + ./SF
+그러나/MAJ
+문제/NNG + 는/JX
+시험/NNG + 방송/NNG
+기간/NNG + 중/NNB + 에/JKB + ㄴ/JX
+대부분/NNG
+프로그램/NNG + 이/JKS
+기존/NNG
+KBS/SL + 프로/NNG + 의/JKG
+재/XPN + 방송/NNG + 으로/JKB
+메우/VV + 어/EC + 지/VX + ㄹ/ETM
+것/NNB + 이/VCP + 란/ETM
+점/NNB + ./SF
+월드/NNG
+뉴스/NNG + 를/JKO
+제외/NNG + 하/XSV + ㄴ/ETM
+90/SN + %/SW + 이상/NNG + 의/JKG
+프로/NNG + 가/JKS
+기존/NNG + 프로/NNG + 의/JKG
+재/XPN + 편집물/NNG + 이/JKC
+되/VV + ㄹ/ETM
+것/NNB + 으로/JKB
+보이/VV + ㄴ다/EF + ./SF
+이/NP + 는/JX
+시험/NNG + 방송/NNG
+초기/NNG + 에/JKB
+수십만/NR + 원/NNB + 대/XSN + 의/JKG
+비싸/VA + ㄴ/ETM
+수신기/NNG + 를/JKO
+구입/NNG + 하/XSV + ㄹ/ETM
+시청자/NNG + 가/JKS
+많/VA + 지/EC
+않/VX + 을/ETM
+것/NNB + 으로/JKB
+판단/NNG + 하/XSV + ㄴ/ETM
+방송사/NNG + 측/NNB + 이/JKS
+돈/NNG + 이/JKS
+많이/MAG
+들/VV + 는/ETM
+새/MM
+프로/NNG
+개발/NNG + 을/JKO
+꺼리/VV + 기/ETN
+때문/NNB + ./SF
+초기/NNG
+시청/NNG + 인구/NNG + 를/JKO
+10/SN + 만/NR + 가구/NNG + 로/JKB
+전망/NNG + 하/XSV + 고/EC
+있/VX + 는/ETM
+KBS/SL + 측/NNB + 은/JX
+수신/NNG + 가구/NNG + 가/JKS
+1/SN + 백만/NR + 까지/JX
+늘어나/VV + 면/EC
+본방송/NNG + 을/JKO
+시작/NNG + 하/XSV + ㄴ다는/ETM
+방침/NNG + 이/VCP + 다/EF + ./SF
+그러나/MAJ
+재/XPN + 방송/NNG + 이/JKS
+대부분/NNG + 이/VCP + ㄴ/ETM
+위성/NNG + 방송/NNG + 에/JKB
+시청자/NNG + 가/JKS
+금방/MAG
+늘/VV + 기/ETN + 는/JX
+어렵/VA + ㄴ/ETM
+것/NNB + 이/JKS
+뻔/NNB + 하/XSA + ㄴ/ETM
+상황/NNG + 이/VCP + 고/EC
+보/VV + 면/EC
+방송사/NNG + 측/NNB + 이/JKS
+먼저/MAG
+적극/NNG + 적/XSN + 으로/JKB
+새/MM
+프로/NNG
+개발/NNG + 에/JKB
+나서/VV + 어야/EC
+하/VX + ㄴ다고/EC
+전문가/NNG + 들/XSN + 은/JX
+지적/NNG + 하/XSV + ㄴ다/EF + ./SF
+전북대/NNP
+신방과/NNG
+김승수/NNP
+교수/NNG + 는/JX
+{/SS + 원래/NNG
+위성/NNG + 방송/NNG + 은/JX
+문화/NNG + 수출/NNG + 이/JKS
+주요/NNG + 목적/NNG + 이/VCP + ㄴ데/EC
+KBS/SL
+시험/NNG + 방송/NNG + 은/JX
+국내/NNG
+시청자/NNG + 만/JX
+대상/NNG + 으로/JKB
+대부분/NNG
+재/XPN + 방송/NNG + 프로/NNG + 를/JKO
+내보내/VV + ㄴ다는/ETM
+점/NNB + 이/JKS
+문제/NNG + }/SS + 이/VCP + 라며/EC
+{/SS + 시험/NNG + 방송/NNG
+기간/NNG + 이/VCP + 라도/EC
+새/MM
+프로/NNG + 를/JKO
+최대한/NNG
+많이/MAG
+제작/NNG + 하/XSV + 아/EC
+시청자/NNG + 를/JKO
+조기/NNG
+확보/NNG + 하/XSV + 아야/EC
+곧/MAG
+닥치/VV + ㄹ/ETM
+국제/NNG + 적/XSN
+위성/NNG + 방송/NNG + 경쟁/NNG + 에서/JKB
+살/VV + 아/EC
+남/VV + 을/ETM
+것/NNB + }/SS + 이/VCP + 라고/EC
+말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+</SS + 강찬호/NNP
+기자/NNG + >/SS
+'/SS + 브레이브/NNG
+하트/NNG + '/SS
+5/SN + 개/NNB + 부문/NNG
+수상/NNG
+//SP
+68/SN + 회/NNB
+아카데미/NNG
+영화상/NNG
+96/SN + ./SP + 03/SN + ./SP + 27/SN
+◎/SW
+니컬러스/NNP
+케이지/NNP + ·/SP + 수전/NNP
+서랜던/NNP
+남/NNG + ·/SP + 녀/NNG + 주연/NNG + 상/NNG
+//SP
+'/SS + 브레이브하트/NNP + '/SS
+30/SN + 일/NNB + 부터/JX
+서울/NNP
+3/SN + 곳/NNG + 서/JKB
+재/XPN + 개봉/NNG
+올해/NNG
+아카데미/NNG + 영화상/NNG + 의/JKG
+작품/NNG + ·/SP + 감독/NNG + 상/NNG + 은/JX
+할리우드/NNP
+메이저/NNG + 영화사/NNG + 의/JKG
+주류/NNG + 작품/NNG + 이/JKS
+차지/NNG + 하/XSV + 았/EP + 지만/EC
+연기/NNG + 부문/NNG + 은/JX
+저/XPN + 예산/NNG
+독립/NNG + 영화/NNG + 들/XSN + 이/JKS
+휩쓸/VV + 었/EP + 다/EF + ./SF
+26/SN + 일/NNB
+오전/NNG + (/SS + 한국/NNP + 시간/NNG + )/SS
+미국/NNP
+로스앤젤레스/NNP + 의/JKG
+도로시/NNP
+챈들러/NNP
+파빌리언뮤직센터/NNP + 에서/JKB
+열리/VV + ㄴ/ETM
+제/XPN + 68/SN + 회/NNB
+아카데미/NNG + 영화상/NNG
+시상식/NNG + 에서/JKB
+멜/NNP
+깁슨/NNP + 이/JKS
+제작/NNG + ·/SP + 감독/NNG + ·/SP + 주연/NNG + 하/XSV + ㄴ/ETM
+대하/NNG + 서사/NNG + 극/NNG
+{/SS + 브레이브/NNG
+하트/NNG + }/SS + 는/JX
+작품/NNG + ·/SP + 감독/NNG + 상/NNG + 을/JKO
+포함/NNG + ,/SP
+5/SN + 개/NNB + 부문/NNG + 을/JKO
+수상/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+아카데미/NNG + 위원회/NNG + 는/JX
+작품/NNG + ·/SP + 감독/NNG + 상/NNG + 으로/JKB
+스케일/NNG + 이/JKS
+크/VA + 고/EC
+오락/NNG + 성/XSN + 이/JKS
+풍부/XR + 하/XSA + ㄴ/ETM
+{/SS + 브레이브/NNG
+하트/NNG + }/SS + 를/JKO
+선택/NNG + 하/XSV + 았/EP + 지만/EC
+연기/NNG + 부문/NNG + 에서/JKB + ㄴ/JX
+요즘/NNG
+할리우드/NNP + 의/JKG
+흐름/NNG + 을/JKO
+뒤바꾸/VV + 어/EC
+놓/VX + 고/EC
+있/VX + 는/ETM
+비/XPN + 주류/NNG
+독립/NNG + 영화/NNG + 들/XSN + 을/JKO
+무시/NNG + 하/XSV + 지/EC
+못하/VX + 았/EP + 다/EF + ./SF
+남우/NNG + 주연/NNG + 상/NNG + 은/JX
+{/SS + 라스베이거스/NNP + 를/JKO
+떠나/VV + 며/EC + }/SS + 에서/JKB
+알콜/NNG + 중독자/NNG + 역/NNG + 을/JKO
+실감/NNG + 나/VV + 게/EC
+해내/VV + ㄴ/ETM
+니컬러스/NNP
+케이지/NNP + ,/SP
+여우/NNG + 주연/NNG + 상/NNG + 은/JX
+{/SS + 사형수/NNG + 의/JKG
+발걸음/NNG + }/SS + 에서/JKB
+수녀/NNG + 역/NNG + 을/JKO
+열연/NNG + 하/XSV + ㄴ/ETM
+수전/NNP
+서랜던/NNP + 이/JKS
+수상/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+또/MAG
+남우/NNG + 조연/NNG + 상/NNG + 은/JX
+범죄/NNG
+스릴러/NNG
+{/SS + 유주얼/NNG
+서스펙트/NNG + }/SS + 에서/JKB
+지능/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+범인/NNG + 으로/JKB
+나오/VV + ㄴ/ETM
+[/SS + 악역/NNG + ]/SS
+전문/NNG + 배우/NNG
+케빈/NNP
+스페이시/NNP + 에게/JKB
+돌아가/VV + 았/EP + 으며/EC
+여우/NNG + 조연/NNG + 상/NNG + 은/JX
+우디/NNP
+앨런/NNP + 이/JKS
+각본/NNG + 을/JKO
+쓰/VV + 고/EC
+감독/NNG + 하/XSV + ㄴ/ETM
+영화/NNG
+{/SS + 마이티/NNG
+아프로디테/NNP + }/SS + 에/JKB
+출연/NNG + 하/XSV + ㄴ/ETM
+미라/NNP
+소르비노/NNP + 가/JKS
+차지/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+모두/MAG
+개성/NNG + 있/VV + 는/ETM
+작품/NNG + 의/JKG
+연기파/NNG
+배우/NNG + 들/XSN + 이/VCP + 다/EF + ./SF
+{/SS + 유주얼/NNG
+서스펙트/NNG + }/SS + 는/JX
+또/MAG
+시나리오/NNG + 를/JKO
+쓰/VV + ㄴ/ETM
+크리스토퍼/NNP
+매쿼리/NNP + 가/JKS
+각본/NNG + 상/NNG + 을/JKO
+수상/NNG + 하/XSV + 는/ETM
+저력/NNG + 을/JKO
+보이/VV + 었/EP + 다/EF + ./SF
+영국/NNP
+여배우/NNG
+에마/NNP
+톰슨/NNP + 은/JX
+제인/NNP
+오스틴/NNP + 의/JKG
+고전/NNG + 소설/NNG + 을/JKO
+영화/NNG + 화/XSN + 하/XSV + ㄴ/ETM
+{/SS + 센스/NNG + ,/SP
+센서빌리티/NNG + }/SS + 로/JKB
+각색/NNG + 상/NNG + 을/JKO
+수상/NNG + ,/SP
+올해/NNG
+골든/NNG
+글로브/NNG
+·/SP
+아카데미/NNG
+각색/NNG + 상/NNG + 을/JKO
+휩쓸/VV + 었/EP + 다/EF + ./SF
+외국어/NNG + 영화상/NNG + 은/JX
+독일/NNP
+출신/NNG + 의/JKG
+여성/NNG + 감독/NNG + 이/JKS
+연출/NNG + 하/XSV + ㄴ/ETM
+네덜란드/NNP + 영화/NNG
+{/SS + 안토니아/NNP + 의/JKG
+대사/NNG + }/SS + 가/JKS
+수상/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+이/MM
+작품/NNG + 은/JX
+특이/NNG + 하/XSA + ㄴ/ETM
+삶/NNG + 을/JKO
+살아가/VV + 는/ETM
+5/SN + 명/NNB + 의/JKG
+여성/NNG
+이야기/NNG + 를/JKO
+담/VV + 고/EC
+있/VX + 으며/EC
+시카고/NNP + 영화제/NNG + 에서/JKB
+각본/NNG + 상/NNG + 을/JKO
+수상/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+올해/NNG + 는/JX
+시상/NNG + 식전/NNG + 에/JKB
+최종/NNG
+승자/NNG + 를/JKO
+점치/VV + 기/ETN + 가/JKS
+불/XPN + 가능/NNG + 하/XSA + ㄹ/ETM
+만큼/NNB
+다양/NNG + 하/XSA + ㄴ/ETM
+영화/NNG + 들/XSN + 이/JKS
+후보/NNG + 에/JKB
+지명/NNG + 되/XSV + 었/EP + 고/EC
+수상/NNG + 도/JX
+분산/NNG + 되/XSV + ㄴ/ETM
+경향/NNG + 을/JKO
+보이/VV + 었/EP + 다/EF + ./SF
+한편/NNG
+지난해/NNG
+여름/NNG
+{/SS + 브레이브/NNG
+하트/NNG + }/SS + 를/JKO
+국내/NNG + 개봉/NNG + 하/XSV + 았/EP + 던/ETM
+폭스코리아/NNP + 는/JX
+아카데미상/NNG
+수상/NNG + 을/JKO
+계기/NNG + 로/JKB
+오/VV + 는/ETM
+30/SN + 일/NNB + 부터/JX
+서울/NNP
+·/SP
+녹색/NNG
+·/SP
+시네마천국/NNP
+등/NNB
+서울/NNP + 시내/NNG
+3/SN + 개/NNB + 극장/NNG + 에서/JKB
+재/XPN + 개봉/NNG + 하/XSV + 기/ETN + 로/JKB
+하/VV + 았/EP + 다/EF + ./SF
+◇/SW
+수상작/NNG + ·/SP + 수상자/NNG + 들/XSN
+▶/SW
+작품/NNG + 상/NNG
+=/SW
+{/SS + 브레이브/NNG
+하트/NNG + }/SS
+▶/SW
+감독/NNG + 상/NNG
+=/SW
+멜/NNP
+깁슨/NNP
+▶/SW
+남우/NNG + 주연/NNG + 상/NNG
+=/SW
+니컬러스/NNP
+케이지/NNP
+▶/SW
+여우/NNG + 주연/NNG + 상/NNG
+=/SW
+수전/NNP
+서랜던/NNP
+▶/SW
+남우/NNG + 조연/NNG + 상/NNG
+=/SW
+케빈/NNP
+스페이시/NNP
+▶/SW
+여우/NNG + 조연/NNG + 상/NNG
+=/SW
+미라/NNP
+소르비노/NNP
+▶/SW
+각본/NNG + 상/NNG
+=/SW
+크리스토퍼/NNP
+매쿼리/NNP
+▶/SW
+각색/NNG + 상/NNG
+=/SW
+에마톰슨/NNP
+▶/SW
+촬영/NNG + 상/NNG
+=/SW
+{/SS + 브레이브/NNG
+하트/NNG + }/SS
+▶/SW
+편집/NNG + 상/NNG
+=/SW
+{/SS + 아폴로/NNP
+13/SN + }/SS
+▶/SW
+미술/NNG + 감독/NNG + 상/NNG
+=/SW
+유지노/NNP
+자네티/NNP
+(/SS + 레스토레이션/NNP + )/SS
+▶/SW
+의상/NNG + 상/NNG
+=/SW
+제임스/NNP
+애치슨/NNP
+(/SS + 레스토레이션/NNP + )/SS
+▶/SW
+분장/NNG + 상/NNG
+=/SW
+피터/NNP
+프램튼/NNP
+·/SP
+폴/NNP
+패티슨/NNP
+·/SP
+로이스/NNP
+버웰/NNP
+(/SS + 브레이브/NNG
+하트/NNG + )/SS
+▶/SW
+시각/NNG + 효과/NNG + 상/NNG
+=/SW
+{/SS + 꼬마/NNG + 돼지/NNG
+베이브/NNP + }/SS
+▶/SW
+음향/NNG + 상/NNG
+=/SW
+{/SS + 아폴로/NNP
+13/SN + }/SS
+▶/SW
+음향/NNG + 효과/NNG + 편집/NNG + 상/NNG
+=/SW
+{/SS + 브레이브/NNG
+하트/NNG + }/SS
+▶/SW
+작곡/NNG + 상/NNG
+=/SW
+{/SS + 포카혼타스/NNP + }/SS
+(/SS + 뮤지컬/NNG + ·/SP + 코미디/NNG + 부문/NNG + )/SS
+{/SS + 일/NNP
+포스티노/NNP + }/SS
+(/SS + 드라마/NNG + 부문/NNG + )/SS
+▶/SW
+주제가/NNG + 상/NNG
+=/SW
+{/SS + 컬러스/NNG
+오브/NNG
+더/MAG + 윈드/NNG + }/SS
+(/SS + 포카혼타스/NNP + )/SS
+▶/SW
+단편/NNG + 다큐멘터리/NNG + 상/NNG
+=/SW
+{/SS + 생존자/NNG + 의/JKG
+추억/NNG + }/SS
+▶/SW
+장편/NNG + 다큐멘터리/NNG + 상/NNG
+=/SW
+{/SS + 안나/NNP
+프랑크/NNP + 를/JKO
+기억/NNG + 하/XSV + 며/EC + }/SS
+▶/SW
+단편/NNG + 영화상/NNG
+=/SW
+{/SS + 사랑/NNG + 에/JKB
+빠지/VV + ㄴ/ETM
+리버맨/NNP + }/SS
+▶/SW
+단편/NNG + 만화/NNG + 상/NNG
+=/SW
+닉/NNP
+파크/NNP + (/SS + 날카롭/VA + ㄴ/ETM
+면돗날/NNG + )/SS
+▶/SW
+외국어/NNG + 영화상/NNG
+=/SW
+{/SS + 안토니아/NNP + 의/JKG
+대사/NNG + }/SS
+▶/SW
+명예/NNG + 상/NNG
+=/SW
+척/NNP
+존스/NNP + (/SS + {/SS + 톰/NNP + 과/JC
+제리/NNP + }/SS
+애니메이터/NNG + )/SS
+·/SP
+존라세터/NNP + (/SS + {/SS + 토이/NNG
+스토리/NNG + }/SS
+애니메이터/NNG + )/SS
+▶/SW
+평생/NNG + 공로상/NNG
+=/SW
+커크/NNP
+더글러스/NNP
+</SS + 이남/NNP + 기자/NNG + >/SS
+"/SS + 연예인/NNG
+보/VV + 러/EC
+오/VV + 았/EP + 나/EC + …/SE
+후보/NNG
+보/VV + 러/EC
+오/VV + 았/EP + 지/EC + "/SS
+//SP
+총선/NNG
+유세장/NNG
+연예인/NNG + 에/JKB
+시민/NNG
+96/SN + ./SP + 03/SN + ./SP + 29/SN
+시민/NNG + 들/XSN
+반응/NNG
+덤덤/XR
+//SP
+노래/NNG + 공연/NNG
+금지/NNG + 되/XSV + ㄴ/ETM
+데/NNB + 다/JX
+후보/NNG
+연설/NNG + 에/JKB
+더/MAG
+관심/NNG
+본격/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+선거/NNG + 유세전/NNG + 이/JKS
+시작/NNG + 되/XSV + 면서/EC
+각/MM
+당/NNG
+유세장/NNG + 에/JKB
+연예인/NNG + 들/XSN + 이/JKS
+자주/MAG
+모습/NNG + 을/JKO
+보이/VV + 고/EC
+있/VX + 다/EF + ./SF
+하지만/MAJ
+시민/NNG + 들/XSN + 의/JKG
+반응/NNG + 은/JX
+아직/MAG
+덤덤/XR + 하/XSA + ㄴ/ETM
+편/NNB + ./SF
+현행/NNG
+선거법/NNG + 상/XSN
+노래/NNG + 공연/NNG
+등/NNB + 이/JKS
+금지/NNG + 되/XSV + 어/EC
+있/VX + 는/ETM
+데/NNB + 다/JX
+이제/MAG
+인기/NNG
+연예인/NNG + 의/JKG
+화려/XR + 하/XSA + ㄴ/ETM
+말/NNG + 이나/JC
+노래/NNG + 보다/JKB + 는/JX
+후보/NNG + 들/XSN + 의/JKG
+[/SS + 생각/NNG + ]/SS + 을/JKO
+듣/VV + 어/EC + 보/VX + 려는/ETM
+시민/NNG + 들/XSN + 이/JKS
+늘/VV + 고/EC
+있/VX + 기/ETN
+때문/NNB + 이/VCP + 다/EF + ./SF
+27/SN + 일/NNB
+오전/NNG
+10/SN + 시/NNB
+서울/NNP
+종묘공원/NNP + ./SF
+신한국당/NNP + 의/JKG
+수도/NNG + 권/XSN + 세몰이/NNG + 를/JKO
+위하/VV + ㄴ/ETM
+첫/MM
+정당/NNG + 연설회/NNG + 가/JKS
+시작/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+확성기/NNG + 는/JX
+이명박/NNP
+후보/NNG + 의/JKG
+로고/NNG + 송/NNG + 을/JKO
+열심히/MAG
+부르/VV + 어/EC + 대/VX + ㄴ다/EF + ./SF
+행사장/NNG
+입구/NNG + 에/JKB + 는/JX
+[/SS + 이해창/NNP + ·/SP + 박찬종/NNP + ·/SP + 임채무/NNP + ·/SP + 최병서/NNP + ·/SP + 이경규/NNP + ·/SP + 정수라/NNP + ·/SP + 민해경/NNP + ·/SP + 김해숙/NNP + 이/JKS
+이명박/NNP + 과/JKB
+함께/MAG
+하/VV + ㅂ니다/EC + ]/SS + 이/VCP + 라는/ETM
+현수막/NNG + 이/JKS
+걸리/VV + 어/EC + 있/VX + 다/EF + ./SF
+식전/NNG + 행사/NNG
+진행/NNG + 을/JKO
+맡/VV + 은/ETM
+이경규/NNP + 는/JX
+{/SS + 이/NNP + 후보/NNG + 를/JKO
+몰래/MAG + 카메라/NNG + 로/JKB
+찍/VV + 어/EC
+여러분/NP + 에게/JKB
+공개/NNG + 하/XSV + 겠/EP + 다/EC + }/SS + 고/JKQ
+말/NNG + 하/XSV + ㄴ/ETM
+뒤/NNG
+{/SS + 30/SN + 년/NNB
+후/NNG + 에/JKB + 는/JX
+종로구/NNP + 에/JKB
+통/NNG + ·/SP + 반장/NNG + 으로/JKB
+출마/NNG + 하/XSV + 겠/EP + 다/EC + }/SS + 며/EC
+시민/NNG + 들/XSN + 의/JKG
+웃음/NNG + 을/JKO
+이끌/VV + 어/EC + 내/VX + 었/EP + 다/EF + ./SF
+이경규/NNP + 의/JKG
+소개/NNG + 로/JKB
+올라오/VV + ㄴ/ETM
+민해경/NNP + 과/JC
+정수라/NNP + 는/JX
+노래/NNG + 대신/NNG
+이/NNP + 후보/NNG + 를/JKO
+지지/NNG + 하/XSV + ㄴ다는/ETM
+말/NNG + 만/JX
+짤막/XR + 하/XSA + 게/EC
+남기/VV + 었/EP + 다/EF + ./SF
+또/MAG
+임채무/NNP + 와/JC
+황기순/NNP
+·/SP
+김해숙/NNP
+등/NNB + 도/JX
+한/MM
+표/NNG + 를/JKO
+부탁/NNG + 하/XSV + ㄴ다는/ETM
+발언/NNG + 만/JX
+하/VV + 고/EC
+마이크/NNG + 를/JKO
+놓/VV + 았/EP + 다/EF + ./SF
+14/SN + 대/NNB
+대선/NNG
+당시/NNG
+[/SS + 라이브/NNG
+공연/NNG + ]/SS + 을/JKO
+방불/XR + 하/XSA + 게/EC
+하/VX + 았/EP + 던/ETM
+식전/NNG + 행사/NNG + 는/JX
+연예인/NNG
+7/SN + 명/NNB + 의/JKG
+간단/XR + 하/XSA + ㄴ/ETM
+인사말/NNG + 로/JKB
+20/SN + 분/NNB + 도/JX
+안/MAG + 되/XSV + 어/EC
+끝나/VV + 았/EP + 다/EF + ./SF
+시민/NNG + 들/XSN + 도/JX
+연예인/NNG + 들/XSN + 에/JKB
+대하/VV + ㄴ/ETM
+별다르/VA + ㄴ/ETM
+흥미/NNG + 를/JKO
+보이/VV + 지/EC
+않/VX + 았/EP + 다/EF + ./SF
+종로/NNP + 에서/JKB
+20/SN + 년/NNB
+넘/VV + 게/EC
+살/VV + 았/EP + 다는/ETM
+주민/NNG
+정찬영/NNP + (/SS + 51/SN + ·/SP + 사업/NNG + )/SS + 씨/NNB + 는/JX
+{/SS + 매일/MAG
+TV/SL + 에서/JKB
+보/VV + 는/ETM
+연예인/NNG + 보다/JKB
+후보/NNG + 의/JKG
+연설/NNG + 을/JKO
+직접/MAG
+듣/VV + 어/EC + 보/VX + 고/EC
+싶/VX + 어/EC
+나오/VV + 았/EP + 다/EC + }/SS + 고/JKQ
+말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+현재/MAG
+연예인/NNG + 들/XSN + 의/JKG
+찬조/NNG + 출연/NNG + 에/JKB
+가장/MAG
+적극/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+곳/NNG + 은/JX
+신한국당/NNP + ./SF
+이미/MAG
+지난해/NNG
+12/SN + 월/NNB
+탤런트/NNG
+·/SP
+개그맨/NNG
+·/SP
+가수/NNG
+등/NNB
+2/SN + 백/NR + 여/XSN + 명/NNB + 으로/JKB
+[/SS + 연예인/NNG
+봉사/NNG + 위원회/NNG + ]/SS + (/SS + 회장/NNG
+석현/NNP + ·/SP + 51/SN + )/SS + 를/JKO
+구성/NNG + 하/XSV + 고/EC
+유세장/NNG + 에서/JKB + 의/JKG
+식전/NNG + 행사/NNG + 를/JKO
+맡기/VV + 었/EP + 다/EF + ./SF
+가수/NNG
+태진아/NNP
+·/SP
+남궁옥분/NNP
+·/SP
+편승엽/NNP
+·/SP
+김지애/NNP
+등/NNB + 과/JC
+개그맨/NNG
+최병서/NNP
+·/SP
+남보원/NNP
+·/SP
+한무/NNP
+·/SP
+황기순/NNP
+·/SP
+김영하/NNP
+등/NNB + ,/SP
+그리고/MAJ
+탤런트/NNG
+나한일/NNP
+·/SP
+김자옥/NNP
+·/SP
+권은아/NNP
+등/NNB + 이/JKS
+자원/NNG + 봉사/NNG
+형식/NNG + 으로/JKB
+후보/NNG
+지지/NNG + 연설/NNG
+등/NNB + 을/JKO
+하/VV + ㄹ/ETM
+예정/NNG + ./SF
+이/NP + 에/JKB
+비하/VV + 아/EC
+국민회의/NNP + 나/JC
+민주당/NNP
+·/SP
+자민련/NNP
+등/NNB + 은/JX
+연예인/NNG
+동원/NNG + 에/JKB
+아직/MAG
+조심/NNG + 스럽/XSA + ㄴ/ETM
+상황/NNG + 이/VCP + 다/EF + ./SF
+국민회의/NNP
+박홍엽/NNP
+부대변인/NNG + 은/JX
+{/SS + 요즘/NNG + 처럼/JKB
+국민/NNG + 의식/NNG + 이/JKS
+높/VA + 아/EC + 지/VX + ㄴ/ETM
+때/NNG
+연예인/NNG
+동원/NNG + 은/JX
+오히려/MAG
+해/NNG + 가/JKC
+되/VV + ㄹ/ETM
+수/NNB
+있/VV + 다/EF + ./SF
+공식/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+연예인/NNG
+동원/NNG
+계획/NNG + 은/JX
+없/VA + 다/EC + }/SS + 고/JKQ
+말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+하지만/MAJ
+최희준/NNP + ·/SP + 정한용/NNP + (/SS + 이상/NNG
+국민회의/NNP + )/SS
+·/SP
+김을동/NNP + ·/SP + 김희라/NNP + (/SS + 이상/NNG
+자민련/NNP + )/SS
+등/NNB
+출마/NNG + 하/XSV + 는/ETM
+인사/NNG + 들/XSN + 과/JC
+친분/NNG
+있/VV + 는/ETM
+연예인/NNG + 들/XSN + 이/JKS
+개별/NNG + 적/XSN + 으로/JKB
+벌이/VV + 는/ETM
+지지/NNG + 에/JKB + 는/JX
+다소/MAG
+관심/NNG + 을/JKO
+보이/VV + 고/EC
+있/VX + 는/ETM
+눈치/NNG + 이/VCP + 다/EF + ./SF
+</SS + 고수석/NNP
+기자/NNG + >/SS
+선거/NNG + 관련/NNG
+불/XPN + 공정/NNG
+방송/NNG
+여전/XR + 하/XSA + 다/EC
+96/SN + ./SP + 03/SN + ./SP + 29/SN
+◎/SW
+방송위/NNG + ,/SP
+'/SS + 뉴스투데이/NNP + '/SS
+등/NNB
+9/SN + 개/NNB
+프로그램/NNG
+제재/NNG
+【/SS + 서울/NNP
+=/SW
+연합/NNG + 】/SS
+방송/NNG + 위원회/NNG + (/SS + 위원장/NNG
+김창열/NNP + )/SS + 산하/NNG
+선거/NNG + 방송/NNG + 심의/NNG + 특별/NNG + 위원회/NNG + (/SS + 위원장/NNG
+원우현/NNP + )/SS + 는/JX
+잇따르/VV + ㄴ/ETM
+제재/NNG + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+선거/NNG
+관련/NNG
+불/XPN + 공정/NNG + 방송/NNG + 이/JKS
+개선/NNG + 되/XSV + 지/EC
+않/VX + 음/ETN + 에/JKB
+따르/VV + 아/EC
+28/SN + 일/NNB
+또다시/MAG
+9/SN + 개/NNB
+프로그램/NNG + 에/JKB
+대하/VV + 아/EC
+제재/NNG + 를/JKO
+내리/VV + 었/EP + 다/EF + ./SF
+위원회/NNG + 는/JX
+이날/NNG
+제/XPN + 6/SN + 차/NNB + 회의/NNG + 를/JKO
+열/VV + 고/EC
+전주/NNP
+MBC/SL + -/SS + TV/SL + 의/JKG
+{/SS + 뉴스투데이/NNP + }/SS + 와/JC
+전주/NNP
+MBC/SL + 라디오/NNG + 의/JKG
+{/SS + 가요/NNG + 산책/NNG + }/SS
+등/NNB
+2/SN + 개/NNB
+프로그램/NNG + 에/JKB
+대하/VV + 아/EC
+경고/NNG + 조치/NNG + 를/JKO
+내리/VV + 었/EP + 다/EF + ./SF
+{/SS + 뉴스투데이/NNP + }/SS + 는/JX
+[/SS + MBC/SL + 안내/NNG + ]/SS + 이/VCP + 라는/ETM
+자막/NNG + 을/JKO
+통하/VV + 아/EC
+입후보/NNG
+예정자/NNG + 이/VCP + ㄴ/ETM + 장성원/NNP + (/SS + 국민회의/NNP + ·/SP + 김제/NNP + )/SS + ,/SP
+손풍삼/NNP + (/SS + 신한국당/NNP + ·/SP + 전주/NNP + -/SS + 완산/NNP + )/SS + ,/SP
+정균환/NNP + (/SS + 국민회의/NNP + ·/SP + 고창/NNP + )/SS + 씨/NNB + 의/JKG
+동정/NNG + 과/JC
+출판/NNG + 기념회/NNG
+행사/NNG + 내용/NNG + 을/JKO
+방송/NNG + 하/XSV + 아/EC
+실질/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+출연/NNG + 효과/NNG + 를/JKO
+주/VV + ㄴ/ETM
+점/NNB + 이/JKS
+제재/NNG + 이유/NNG + 가/JKC
+되/VV + 었/EP + 다/EF + ./SF
+또/MAG
+{/SS + 가요/NNG + 산책/NNG + }/SS + 은/JX
+입후보/NNG
+예정자/NNG + 이/VCP + ㄴ/ETM
+서유석/NNP + 씨/NNB + 의/JKG
+노래/NNG + 를/JKO
+방송/NNG + 하/XSV + 았/EP + 다는/ETM
+이유/NNG + 로/JKB
+이미/MAG
+한차례/NNG
+[/SS + 주의/NNG + ]/SS + 를/JKO
+받/VV + 았/EP + 음/ETN + 에/JKB + 도/JX
+불구/XR + 하/XSV + 고/EC
+또/MAG
+다시/MAG
+입후보/NNG + 예정자/NNG + 이/VCP + ㄴ/ETM
+최희준/NNP + (/SS + 국민회의/NNP + ·/SP + 안양동/NNP + 안갑/NNG + )/SS + 씨/NNB + 의/JKG
+노래/NNG
+[/SS + 하숙/NNG + 생/XSN + ]/SS + 을/JKO
+방송/NNG + 하/XSV + 아/EC
+제재/NNG + 를/JKO
+받/VV + 았/EP + 다/EF + ./SF
+KBS/SL + 1/SN
+'/SS + 은하수/NNG + '/SS
+//SP
+'/SS + 불륜/NNG + '/SS
+'/SS + 이혼/NNG + '/SS + 벗어나/VV + ㄴ/ETM
+신선/XR + 하/XSA + ㄴ/ETM
+변화/NNG + (/SS + TV/SL + 리뷰/NNG + )/SS
+96/SN + ./SP + 03/SN + ./SP + 31/SN
+고정관념/NNG + 에서/JKB
+벗어나/VV + 아야/EC
+새롭/VA + ㄴ/ETM
+세계/NNG + 가/JKS
+보이/VV + ㄴ다/EF + ./SF
+요즘/NNG
+주부/NNG + 시청자/NNG + 들/XSN + 로부터/JKB
+잔잔/XR + 하/XSA + ㄴ/ETM
+인기/NNG + 를/JKO
+얻/VV + 고/EC
+있/VX + 는/ETM
+KBS/SL + ­/SS + 1/SN + TV/SL + 아침/NNG + 드라마/NNG
+{/SS + 은하수/NNG + }/SS + 는/JX
+이런/MM
+신/XPN + 사고/NNG + 가/JKS
+일구/VV + 어/EC + 내/VX + ㄴ/ETM
+화제작/NNG + 이/VCP + 다/EF + ./SF
+남편/NNG + 과/JC
+아이/NNG + 들/XSN + 을/JKO
+내보내/VV + 고/EC
+주부/NNG + 들/XSN + 이/JKS
+한창/MAG
+집안일/NNG + 을/JKO
+시작/NNG + 하/XSV + ㄹ/ETM
+오전/NNG
+8/SN + 시/NNB + 20/SN + 분/NNB + ./SF
+동요/NNG
+{/SS + 반달/NNP + }/SS + 에/JKB
+실리/VV + 어/EC
+슬며시/MAG
+안방극장/NNG + 에/JKB
+찾아들/VV + 는/ETM
+{/SS + 은하수/NNG + }/SS + 는/JX
+잔뜩/MAG
+주부/NNG + 들/XSN + 의/JKG
+눈물샘/NNG + 을/JKO
+자극/NNG + 하/XSV + 면서/EC
+어렵/VA + 었/EP + 던/ETM
+지난날/NNG + 의/JKG
+향수/NNG + 를/JKO
+떠올리/VV + 게/EC
+하/VX + ㄴ다/EF + ./SF
+이/MM
+드라마/NNG + 가/JKS
+새삼/MAG
+여성/NNG + 시청자/NNG + 들/XSN + 을/JKO
+사로잡/VV + 게/EC + 되/VV + ㄴ/ETM
+데/NNB + 는/JX
+몇/MM
+가지/NNB
+이유/NNG + 가/JKS
+있/VV + 다/EF + ./SF
+소재/NNG + 의/JKG
+신선/XR + 하/XSA + ㅁ/ETN + 과/JC
+건강/NNG + 성/XSN + 이/JKS
+첫째/NR
+이유/NNG + 이/VCP + 라면/EC
+출연진/NNG + 의/JKG
+고급/NNG + 화/XSN + 와/JC
+밀도/NNG + 있/VV + 는/ETM
+내용/NNG + ,/SP
+시청/NNG + 타깃/NNG + 이/JKS
+뚜렷/XR + 하/XSA + ㄴ/ETM
+점/NNB
+등/NNB + 이/JKS
+그/MM
+다음/NNG + 이/VCP + 다/EF + ./SF
+좋/VA + 은/ETM
+드라마/NNG + 의/JKG
+조건/NNG + 을/JKO
+고루/MAG
+갖추/VV + ㄴ/ETM
+셈/NNB + 이/VCP + 다/EF + ./SF
+{/SS + 은하수/NNG + }/SS + 의/JKG
+내용/NNG
+자체/NNG + 는/JX
+유별나/VA + ㄴ/ETM
+것/NNB + 이/JKC
+아니/VCN + 다/EF + ./SF
+엄마/NNG + 를/JKO
+잃/VV + 고/EC
+크/VA + ㄴ/ETM
+집/NNG + 에서/JKB
+더부살이/NNG + 하/XSV + 는/ETM
+어리/VA + ㄴ/ETM
+3/SN + 남매/NNG + 의/JKG
+눈물/NNG + 어리/VV + ㄴ/ETM
+성장사/NNG + 가/JKS
+크/VA + ㄴ/ETM
+줄거리/NNG + ./SF
+시대/NNG + 배경/NNG + 은/JX
+60/SN + ∼/SO + 70/SN + 년대/NNB + 이/VCP + 며/EC
+특히/MAG
+크/VA + ㄴ/ETM
+누나/NNG + (/SS + 영희/NNP + )/SS + 의/JKG
+희생/NNG + 에/JKB
+초점/NNG + 이/JKS
+닿/VV + 아/EC + 있/VX + 다/EF + ./SF
+독창/NNG + 성/XSN + 이/VCP + 란/ETM
+측면/NNG + 에서/JKB + 는/JX
+우리/NP + 에게/JKB + 도/JX
+잘/MAG
+알리/VV + 어/EC + 지/VX + ㄴ/ETM
+일본/NNP + 의/JKG
+{/SS + 오싱/NNP + }/SS + 을/JKO
+모방/NNG + 하/XSV + 았/EP + 다는/ETM
+오해/NNG + 의/JKG
+소지/NNG + 도/JX
+없/VA + 지/EC
+않/VX + 다/EF + ./SF
+그러나/MAJ
+{/SS + 은하수/NNG + }/SS + 는/JX
+[/SS + 아침/NNG + 드라마/NNG + ]/SS + 하/XSV + 면/EC
+떠오르/VV + 는/ETM
+불륜/NNG + 과/JC
+이혼/NNG + 을/JKO
+소재/NNG + 로/JKB
+하/VV + ㄴ/ETM
+상투/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+패턴/NNG + 에서/JKB
+크/VA + 게/EC
+벗어나/VV + 아/EC
+[/SS + 비/XPN + 윤리/NNG + 적/XSN + ]/SS + 이/VCP + 라는/ETM
+일반/NNG + 적/XSN
+비난/NNG + 에서/JKB
+비교/NNG + 적/XSN
+자유/NNG + 롭/XSA + 다/EF + ./SF
+이/MM
+점/NNB + 이/JKS
+크/VA + ㄴ/ETM
+변화/NNG + 이/VCP + 자/EC
+신선/XR + 하/XSA + ㅁ/ETN + 이/VCP + 다/EF + ./SF
+소재/NNG + 와/JC
+내용/NNG + 을/JKO
+보완/NNG + 하/XSV + 아/EC + 주/VX + ㄹ/ETM
+출연자/NNG + 의/JKG
+고급/NNG + 화/XSN
+또한/MAG
+성공/NNG
+이유/NNG + 이/VCP + 다/EF + ./SF
+으레/MAG
+아침/NNG + 드라마/NNG + 는/JX
+[/SS + 비/XPN + 인기/NNG + 종목/NNG + ]/SS + 이/VCP + ㄴ/ETM
+탓/NNG + 에/JKB
+톱스타/NNG + 급/NNG
+연기자/NNG + 들/XSN + 이/JKS
+출연/NNG + 을/JKO
+꺼리/VV + 는/ETM
+것/NNB + 이/JKS
+사실/NNG + ./SF
+하지만/MAJ
+{/SS + 은하수/NNG + }/SS + 에/JKB + 는/JX
+서인석/NNP
+·/SP
+김영란/NNP
+·/SP
+임채무/NNP
+·/SP
+윤미라/NNP
+등/NNB
+듬직/XR + 하/XSA + ㄴ/ETM
+연기자/NNG + 들/XSN + 이/JKS
+무게/NNG + 중심/NNG + 이/JKC
+되/VV + 어/EC
+안정/NNG + 되/XSV + ㄴ/ETM
+리듬감/NNG + 을/JKO
+살리/VV + 어/EC + 주/VX + 고/EC
+있/VX + 다/EF + ./SF
+야무지/VA + ㄴ/ETM
+연기/NNG + 를/JKO
+펼치/VV + 는/ETM
+어리/VA + ㄴ/ETM
+3/SN + 남매/NNG + (/SS + 유세민/NNP
+·/SP
+신진희/NNP
+·/SP
+안치성/NNP + )/SS + 도/JX
+성인/NNG + 이/JKC
+되/VV + 면/EC
+유호정/NNP
+·/SP
+윤손하/NNP
+·/SP
+이민우/NNP
+등/NNB
+만만/XR + 하/XSA + 지/EC
+않/VX + 은/ETM
+연기력/NNG + 의/JKG
+젊/VA + 은/ETM
+배우/NNG + 로/JKB
+세대/NNG + 가/JKS
+넘어가/VV + ㄴ다/EF + ./SF
+동생/NNG + 과/JC
+가족/NNG + 을/JKO
+위하/VV + 아/EC
+희생/NNG + 을/JKO
+감내/NNG + 하/XSV + ㄴ/ETM
+70/SN + 년대/NNB
+전후/NNG
+우리/NP + 들/XSN + 의/JKG
+누나/NNG + ./SF
+이제/MAG
+그때/NNG
+그/MM
+주인공/NNG + 들/XSN + 은/JX
+인생/NNG + 을/JKO
+알/VV + ㄹ/ETM + 만/NNB + 하/XSA + ㄴ/ETM
+30/SN + ∼/SO + 40/SN + 대/NNB
+주부/NNG + 가/JKC
+되/VV + 어/EC
+{/SS + 은하수/NNG + }/SS + 로/JKB
+향수/NNG + 를/JKO
+달래/VV + 고/EC
+있/VX + 다/EF + ./SF
+제대로/MAG
+시청자/NNG + 층/XSN + 을/JKO
+간파/NNG + 하/XSV + ㄴ/ETM
+것/NNB + 이/JKS
+{/SS + 은하수/NNG + }/SS + 의/JKG
+빼놓/VV + 을/ETM
+수/NNB
+없/VA + 는/ETM
+인기/NNG + 비결/NNG + 이/VCP + 다/EF + ./SF
+</SS + 정재왈/NNP
+기자/NNG + >/SS
