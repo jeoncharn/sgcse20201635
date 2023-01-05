@@ -2,11 +2,11 @@
 Sogang university computer science and engineering 활동 정리
 
 
-#2020-2(2nd semester)
+##2020-2(2nd semester)
 c프로그래밍 : 관련 pdf file, 과제, 프로젝트
 
 
-#2021-1(3rd semester)
+##2021-1(3rd semester)
 어셈블리 : 침고 자료 및 코드 추가
 - visual studio environment(Irvine 활용)
 - 각 .asm 과제
@@ -28,12 +28,12 @@ c프로그래밍 : 관련 pdf file, 과제, 프로젝트
 - 프로젝트 : openframeworks를 활용한 구현
 
 
-#2021-2(4th semester)
+##2021-2(4th semester)
 컴실2 : 각 주차 예비, 결과보고서
 - verilog 바탕 실습으로 예비, 결과보고서 존재
 
 
-#2022-1(5th semester)
+##2022-1(5th semester)
 기초빅데이터프로그래밍 : 각 실습 과제와 프로젝트
 - 실습 과제 : python 을 활용한 코딩
 - 프로젝트 : 축구 선수 데이터 크롤링 및 ladar chart를 활용한 분석
@@ -62,7 +62,7 @@ c프로그래밍 : 관련 pdf file, 과제, 프로젝트
 - 각 HW1~6 제출한 문제 풀이 첨부
 
 
-#2022-2(6th semester)
+##2022-2(6th semester)
 고급소프트웨어실습 : 각 실습, 과제
 - python, cpp을 바탕으로 한 알고리즘 문제 풀이
 - gym을 이용한 자율 주행 구현
